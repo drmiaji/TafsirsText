@@ -1,0 +1,837 @@
+﻿{
+    "chapter":  42,
+    "verses":  {
+                   "1":  {
+                             "verses":  {
+                                            "42:1":  {
+                                                         "id":  4273
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقد تقدم الكلام على الحروف المقطعة وقد روى ابن جرير ههنا أثرا غريبا عجيبا منكرا فقال أخبرنا أحمد بن زهير حدثنا عبدالوهاب بن نجدة الحوطي حدثنا أبو المغيرة عبدالقدوس بن الحجاج عن أرطاة بن المنذر قال: جاء رجل إلى ابن عباس رضي الله عنهما قال له وعنده حذيفة بن اليمان رضي الله تعالى عنه أخبرني عن تفسير قول الله تعالى \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e قال فأطرق ثم أعرض عنه ثم كرر مقالته فأعـرض عنه فلم يجبه بشيء وكره مقالته ثم كررها الثالثة فلم يحر إليه شيئا فقال له حذيفة رضي الله عنه أنا أنبئك بها قد عرفت لم كرهها نزلت في رجل من أهل بيته يقال له عبدالإله وعبدالله ينزل على نهر من أنهار المشرق تبنى عليه مدينتان يشق النهر بينهما شقا فإذا أذن الله تبارك وتعالى في زوال ملكهم وانقطاع دولتهم ومدتهم بعث الله عز وجل على إحداهما نارا ليلا فتصبح سوداء مظلمة وقد احترقت كأنها لم تكن مكانها وتصبح صاحبتها متعجبة كيف أفلتت؟ فما هو إلا بياض يومها ذلك حتى يجتمع فيها كل جبار عنيد منهم ثم يخسف الله بها وبهم جميعا فذلك قوله تعالى \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e يعني عزيمة من الله تعالى وفتنة وقضاء حم عين يعني عدلا منه سين يعني سيكون ق يعني واقع بهاتين المدينتين وأغرب منه ما رواه الحافظ أبو يعلى الموصلي في الجزء الثاني من مسند ابن عباس رضي الله عنه عن أبي ذر رضي الله عنه عن النبي صلى الله عليه وسلم في ذلك ولكن إسناده ضعيف جدا ومنقطع فإنه قال حدثنا أبو طالب عبدالجبار بن عاصم حدثنا أبو عبدالله الحسن بن يحيى الخشني الدمشقي عن أبي معاوية قال: صعد عمر بن الخطاب رضي الله عنه المنبر فقال: أيها الناس هل سمع منكـم أحد رسول الله صلى الله عليه وسلم يفسر \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e فوثب ابن عباس رضي الله عنه فقال أنا قال حم اسم من أسماء الله تعالى قال فعين؟ قال عاين المولون عذاب يوم بدر قال فسين؟ قال سيعلم الذين ظلموا أي منقلب ينقلبون قال فقاف؟ فسكت فقام أبو ذر ففسر كما قال ابن عباس رضي الله عنهما وقال قاف قارعة من السماء تغشى الناس.\u003c/p\u003e"
+                         },
+                   "2":  {
+                             "verses":  {
+                                            "42:2":  {
+                                                         "id":  4274
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقد تقدم الكلام على الحروف المقطعة وقد روى ابن جرير ههنا أثرا غريبا عجيبا منكرا فقال أخبرنا أحمد بن زهير حدثنا عبدالوهاب بن نجدة الحوطي حدثنا أبو المغيرة عبدالقدوس بن الحجاج عن أرطاة بن المنذر قال: جاء رجل إلى ابن عباس رضي الله عنهما قال له وعنده حذيفة بن اليمان رضي الله تعالى عنه أخبرني عن تفسير قول الله تعالى \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e قال فأطرق ثم أعرض عنه ثم كرر مقالته فأعـرض عنه فلم يجبه بشيء وكره مقالته ثم كررها الثالثة فلم يحر إليه شيئا فقال له حذيفة رضي الله عنه أنا أنبئك بها قد عرفت لم كرهها نزلت في رجل من أهل بيته يقال له عبدالإله وعبدالله ينزل على نهر من أنهار المشرق تبنى عليه مدينتان يشق النهر بينهما شقا فإذا أذن الله تبارك وتعالى في زوال ملكهم وانقطاع دولتهم ومدتهم بعث الله عز وجل على إحداهما نارا ليلا فتصبح سوداء مظلمة وقد احترقت كأنها لم تكن مكانها وتصبح صاحبتها متعجبة كيف أفلتت؟ فما هو إلا بياض يومها ذلك حتى يجتمع فيها كل جبار عنيد منهم ثم يخسف الله بها وبهم جميعا فذلك قوله تعالى \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e يعني عزيمة من الله تعالى وفتنة وقضاء حم عين يعني عدلا منه سين يعني سيكون ق يعني واقع بهاتين المدينتين وأغرب منه ما رواه الحافظ أبو يعلى الموصلي في الجزء الثاني من مسند ابن عباس رضي الله عنه عن أبي ذر رضي الله عنه عن النبي صلى الله عليه وسلم في ذلك ولكن إسناده ضعيف جدا ومنقطع فإنه قال حدثنا أبو طالب عبدالجبار بن عاصم حدثنا أبو عبدالله الحسن بن يحيى الخشني الدمشقي عن أبي معاوية قال: صعد عمر بن الخطاب رضي الله عنه المنبر فقال: أيها الناس هل سمع منكـم أحد رسول الله صلى الله عليه وسلم يفسر \u003cspan class=\"red\"\u003e\"حم عسق\"\u003c/span\u003e فوثب ابن عباس رضي الله عنه فقال أنا قال حم اسم من أسماء الله تعالى قال فعين؟ قال عاين المولون عذاب يوم بدر قال فسين؟ قال سيعلم الذين ظلموا أي منقلب ينقلبون قال فقاف؟ فسكت فقام أبو ذر ففسر كما قال ابن عباس رضي الله عنهما وقال قاف قارعة من السماء تغشى الناس.\u003c/p\u003e"
+                         },
+                   "3":  {
+                             "verses":  {
+                                            "42:3":  {
+                                                         "id":  4275
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كذلك يوحي إليك وإلى الذين من قبلك الله العزيز الحكيم )\u003c/span\u003e أي : كما أنزل إليك هذا القرآن ، كذلك أنزل الكتب والصحف على الأنبياء قبلك .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( الله العزيز )\u003c/span\u003e أي : في انتقامه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( الحكيم )\u003c/span\u003e في أقواله وأفعاله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال : الإمام مالك - رحمه الله - عن هشام بن عروة عن أبيه ،\u003cspan class=\"blue\"\u003e عن عائشة :\u003c/span\u003e أن الحارث بن هشام سأل رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e يا رسول الله ، كيف يأتيك الوحي ؟ فقال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أحيانا يأتيني مثل صلصلة الجرس ، وهو أشده علي فيفصم عني قد وعيت ما قال . وأحيانا يأتيني الملك رجلا فيكلمني ، فأعي ما يقول \"\u003c/span\u003e قالت عائشة فلقد رأيته ينزل عليه الوحي في اليوم الشديد البرد ، فيفصم عنه ، وإن جبينه ليتفصد عرقا .\u003c/p\u003e\u003cp\u003eأخرجاه في الصحيحين ، ولفظه للبخاري .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد رواه الطبراني عن عبد الله ابن الإمام أحمد ، عن أبيه ، عن عامر بن صالح ، عن هشام بن عروة ، عن أبيه ، عن عائشة ، عن الحارث بن هشام ; أنه سأل رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e كيف ينزل عليك الوحي ؟\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" مثل صلصلة الجرس فيفصم عني وقد وعيت ما قاله \"\u003c/span\u003e قال : \u003cspan class=\"red\"\u003e\" وهو أشده علي \"\u003c/span\u003e قال : \u003cspan class=\"red\"\u003e\" وأحيانا يأتيني الملك فيتمثل لي فيكلمني فأعي ما يقول \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : الإمام أحمد : حدثنا قتيبة ، حدثنا ابن لهيعة ، عن يزيد بن أبي حبيب ، عن عمرو بن الوليد ، عن عبد الله بن عمرو ، رضي الله عنهما ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e سألت رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e فقلت :\u003c/span\u003e يا رسول الله ، هل تحس بالوحي ؟ فقال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أسمع صلاصل ثم أسكت عند ذلك ، فما من مرة يوحى إلي إلا ظننت أن نفسي تقبض \"\u003c/span\u003e تفرد به أحمد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ذكرنا كيفية إتيان الوحي إلى رسول الله - صلى الله عليه وسلم - في أول شرح البخاري ، بما أغنى عن إعادته هاهنا ، ولله الحمد والمنة .\u003c/p\u003e"
+                         },
+                   "4":  {
+                             "verses":  {
+                                            "42:4":  {
+                                                         "id":  4276
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( له ما في السموات وما في الأرض )\u003c/span\u003e أي : الجميع عبيد له وملك له ، تحت قهره وتصريفه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو العلي العظيم )\u003c/span\u003e كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( الكبير المتعال )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرعد : 9 ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو العلي الكبير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 23 ]\u003c/span\u003e والآيات في هذا كثيرة .\u003c/p\u003e"
+                         },
+                   "5":  {
+                             "verses":  {
+                                            "42:5":  {
+                                                         "id":  4277
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( تكاد السموات يتفطرن من فوقهن )\u003c/span\u003e قال ابن عباس ، وانلضحاك ، وقتادة ، والسدي ،\u003cspan class=\"blue\"\u003e وكعب الأحبار :\u003c/span\u003e أي فرقا ، من العظمة \u003cspan class=\"arabic qpc-hafs\"\u003e( والملائكة يسبحون بحمد ربهم ويستغفرو لمن في الأرض )\u003c/span\u003e كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يحملون العرش ومن حوله يسبحون بحمد ربهم ويؤمنون به ويستغفرون للذين آمنوا ربنا وسعت كل شيء رحمة وعلما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ غافر : 7 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003e.\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألا إن الله هو الغفور الرحيم )\u003c/span\u003e إعلام بذلك وتنويه به .\u003c/p\u003e"
+                         },
+                   "6":  {
+                             "verses":  {
+                                            "42:6":  {
+                                                         "id":  4278
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين اتخذوا من دونه أولياء )\u003c/span\u003e يعني : المشركين ، \u003cspan class=\"arabic qpc-hafs\"\u003e( الله حفيظ عليهم )\u003c/span\u003e أي : شهيد على أعمالهم ، يحصيها ويعدها عدا ، وسيجزيهم بها أوفر الجزاء . \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أنت عليهم بوكيل )\u003c/span\u003e أي : إنما أنت نذير والله على كل شيء وكيل .\u003c/p\u003e"
+                         },
+                   "7":  {
+                             "verses":  {
+                                            "42:7":  {
+                                                         "id":  4279
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : وكما أوحينا إلى الأنبياء قبلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( أوحينا إليك قرآنا عربيا )\u003c/span\u003e أي : واضحا جليا بينا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لتنذر أم القرى )\u003c/span\u003e وهي مكة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن حولها )\u003c/span\u003e أي : من سائر البلاد شرقا وغربا ، وسميت مكة \u003cspan class=\"red\"\u003e\" أم القرى \"\u003c/span\u003e ; لأنها أشرف من سائر البلاد ، لأدلة كثيرة مذكورة في مواضعها .\u003cspan class=\"blue\"\u003e ومن أوجز ذلك وأدله ما قال الإمام أحمد :\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eحدثنا أبو اليمان ، حدثنا شعيب ، عن الزهري ،\u003cspan class=\"blue\"\u003e أخبرنا أبو سلمة بن عبد الرحمن أن عبد الله بن عدي بن الحمراء الزهري أخبره :\u003c/span\u003e أنه سمع رسول الله - صلى الله عليه وسلم - يقول - وهو واقف بالحزورة في سوق مكة -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والله ، إنك لخير أرض الله وأحب أرض الله إلى الله ، ولولا أني أخرجت منك ما خرجت \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا رواية الترمذي ، والنسائي ، وابن ماجه ، من حديث الزهري ،\u003cspan class=\"blue\"\u003e به وقال الترمذي :\u003c/span\u003e حسن صحيح .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتنذر يوم الجمع )\u003c/span\u003e ، وهو يوم القيامة ، يجمع الله الأولين والآخرين في صعيد واحد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لا ريب فيه )\u003c/span\u003e أي : لا شك في وقوعه ، وأنه كائن لا محالة .\u003cspan class=\"blue\"\u003e وقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فريق في الجنة وفريق في السعير )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( يوم يجمعكم ليوم الجمع ذلك يوم التغابن )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ التغابن : 9 ]\u003c/span\u003e أي : يغبن أهل الجنة أهل النار ،\u003cspan class=\"blue\"\u003e وكقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك يوم مجموع له الناس وذلك يوم مشهود وما نؤخره إلا لأجل معدود يوم يأت لا تكلم نفس إلا بإذنه فمنهم شقي وسعيد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 103 - 105 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال الإمام أحمد : حدثنا هاشم بن القاسم ، حدثنا ليث ، حدثني أبو قبيل المعافري ، عن شفي الأصبحي ، عن عبد الله بن عمرو - رضي الله عنهما -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e خرج علينا رسول الله - صلى الله عليه وسلم - وفي يده كتابان ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أتدرون ما هذان الكتابان ؟ \"\u003c/span\u003e قال : قلنا : لا إلا أن تخبرنا يا رسول الله قال للذي في يده اليمنى : \u003cspan class=\"red\"\u003e\" هذا كتاب من رب العالمين ، بأسماء أهل الجنة وأسماء آبائهم وقبائلهم ، ثم أجمل على آخرهم - لا يزاد فيهم ولا ينقص منهم أبدا \"\u003c/span\u003e ثم قال للذي في يساره : \u003cspan class=\"red\"\u003e\" هذا كتاب أهل النار بأسمائهم وأسماء آبائهم وقبائلهم ، ثم أجمل على آخرهم - لا يزاد فيهم ولا ينقص منهم أبدا \"\u003c/span\u003e فقال أصحاب رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e فلأي شيء إذا نعمل إن كان هذا أمرا قد فرغ منه ؟ فقال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" سددوا وقاربوا ، فإن صاحب الجنة يختم له بعمل الجنة ، وإن عمل أي عمل ، وإن صاحب النار يختم له بعمل النار ، وإن عمل أي عمل \"\u003c/span\u003e ثم قال بيده فقبضها ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" فرغ ربكم عز وجل من العباد \"\u003c/span\u003e ثم قال باليمنى فنبذ بها فقال : \u003cspan class=\"red\"\u003e\" فريق في الجنة \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ونبذ باليسرى فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" فريق في السعير \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا رواه الترمذي والنسائي جميعا ، عن قتيبة عن الليث بن سعد وبكر بن مضر ، كلاهما عن أبي قبيل ، عن شفي بن ماتع الأصبحي ، عن عبد الله بن عمرو ، به .\u003c/p\u003e\u003cp\u003eوقال الترمذي : حسن صحيح غريب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوساقه البغوي في تفسيره من طريق بشر بن بكر ، عن سعيد بن عثمان ، عن أبي الزاهرية ، عن عبد الله بن عمرو ، عن النبي - صلى الله عليه وسلم - فذكره بنحوه .\u003cspan class=\"blue\"\u003e وعنده زيادات منها :\u003c/span\u003e ثم قال : \u003cspan class=\"red\"\u003e\" فريق في الجنة وفريق في السعير ، عدل من الله عز وجل \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eورواه ابن أبي حاتم عن أبيه ، عن عبد الله بن صالح - كاتب الليث - عن الليث ، به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eورواه ابن جرير عن يونس ، عن ابن وهب ، عن عمرو بن الحارث ، عن أبي قبيل ، عن شفي ، عن رجل من الصحابة ، فذكره .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم روي عن يونس ، عن ابن وهب ، عن عمرو بن الحارث وحيوة بن شريح ،\u003cspan class=\"blue\"\u003e عن يحيى بن أبي أسيد ; أن أبا فراس حدثه :\u003c/span\u003e أنه سمع عبد الله بن عمرو يقول : إن الله لما خلق آدم نفضه نفض المزود ، وأخرج منه كل ذريته ، فخرج أمثال النغف ، فقبضهم قبضتين ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e شقي وسعيد ، ثم ألقاهما ،\u003cspan class=\"blue\"\u003e ثم قبضهما فقال :\u003c/span\u003e ( فريق في الجنة ، وفريق في السعير .\u003c/p\u003e\u003cp\u003eوهذا الموقوف أشبه بالصواب ، والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد ،\u003cspan class=\"blue\"\u003e رحمه الله :\u003c/span\u003e حدثنا عبد الصمد ، حدثنا حماد - يعني ابن سلمة - أخبرنا الجريري ، عن أبي نضرة ، أن رجلا من أصحاب النبي - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e يقال له :\u003c/span\u003e أبو عبد الله - دخل عليه أصحابه يعودونه وهو يبكي ،\u003cspan class=\"blue\"\u003e فقالوا له :\u003c/span\u003e ما يبكيك ؟ ألم يقل لك رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" خذ من شاربك ثم أقره حتى تلقاني \"\u003c/span\u003e قال : بلى ، ولكن سمعت رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن الله قبض بيمينه قبضة ، وأخرى باليد الأخرى ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e هذه لهذه ، وهذه لهذه ولا أبالي \"\u003c/span\u003e فلا أدري في أي القبضتين أنا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوأحاديث القدر في الصحاح والسنن والمسانيد كثيرة جدا ، منها حديث علي ، وابن مسعود ، وعائشة ، وجماعة جمة .\u003c/p\u003e"
+                         },
+                   "8":  {
+                             "verses":  {
+                                            "42:8":  {
+                                                         "id":  4280
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو شاء الله لجعلهم أمة واحدة )\u003c/span\u003e أي : إما على الهداية أو على الضلالة ، ولكنه تعالى فاوت بينهم ، فهدى من يشاء إلى الحق ، وأضل من يشاء عنه ،\u003cspan class=\"blue\"\u003e وله الحكمة والحجة البالغة ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن يدخل من يشاء في رحمته والظالمون ما لهم من ولي ولا نصير )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : ابن جرير : حدثني يونس ، أخبرنا ابن وهب ، أخبرني عمرو بن الحارث ، عن أبي سويد ،\u003cspan class=\"blue\"\u003e حدثه عن ابن حجيرة :\u003c/span\u003e أنه بلغه أن موسى ، عليه السلام ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e : يا رب خلقك الذين خلقتهم ، جعلت منهم فريقا في الجنة وفريقا في النار ، لو ما أدخلتهم كلهم الجنة ؟\u003cspan class=\"blue\"\u003e ! فقال :\u003c/span\u003e يا موسى ، ارفع ذرعك . فرفع ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قد رفعت .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ارفع . فرفع ، فلم يترك شيئا ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e يا رب قد رفعت ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ارفع .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قد رفعت ، إلا ما لا خير فيه .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e كذلك أدخل خلقي كلهم الجنة ، إلا ما لا خير فيه .\u003c/p\u003e"
+                         },
+                   "9":  {
+                             "verses":  {
+                                            "42:9":  {
+                                                         "id":  4281
+                                                     }
+                                        },
+                             "resource_id":  14,
+                             "resource_name":  "ابن كثير",
+                             "language_id":  9,
+                             "slug":  "ar-tafsir-ibn-kathir",
+                             "translated_name":  {
+                                                     "name":  "Tafsir Ibn Kathir",
+                                                     "language_name":  "english"
+                                                 },
+                             "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى منكرا على المشركين في اتخاذهم آلهة من دون الله ، ومخبرا أنه هو الولي الحق الذي لا تنبغي العبادة إلا له وحده ، فإنه القادر على إحياء الموتى وهو على كل شيء قدير .\u003c/p\u003e"
+                         },
+                   "10":  {
+                              "verses":  {
+                                             "42:10":  {
+                                                           "id":  4282
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما اختلفتم فيه من شيء فحكمه إلى الله )\u003c/span\u003e أي : مهما اختلفتم فيه من الأمور وهذا عام في جميع الأشياء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فحكمه إلى الله )\u003c/span\u003e أي : هو الحاكم فيه بكتابه ، وسنة نبيه - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن تنازعتم في شيء فردوه إلى الله والرسول )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 59 ]\u003c/span\u003e . .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ذلكم الله ربي )\u003c/span\u003e أي : الحاكم في كل شيء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( عليه توكلت وإليه أنيب )\u003c/span\u003e أي : أرجع في جميع الأمور .\u003c/p\u003e"
+                          },
+                   "11":  {
+                              "verses":  {
+                                             "42:11":  {
+                                                           "id":  4283
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فاطر السموات والأرض )\u003c/span\u003e أي : خالقهما وما بينهما ، \u003cspan class=\"arabic qpc-hafs\"\u003e( جعل لكم من أنفسكم أزواجا )\u003c/span\u003e أي : من جنسكم وشكلكم ، منة عليكم وتفضلا جعل من جنسكم ذكرا وأنثى ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن الأنعام أزواجا )\u003c/span\u003e أي : وخلق لكم من الأنعام ثمانية أزواج .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يذرؤكم فيه )\u003c/span\u003e أي : يخلقكم فيه ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e في ذلك الخلق على هذه الصفة لا يزال يذرؤكم فيه ذكورا وإناثا ، خلقا من بعد خلق ، وجيلا بعد جيل ، ونسلا بعد نسل ، من الناس والأنعام .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البغوي رحمه الله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يذرؤكم فيه )\u003c/span\u003e أي : في الرحم .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e في البطن .\u003cspan class=\"blue\"\u003e وقيل :\u003c/span\u003e في هذا الوجه من الخلقة .\u003c/p\u003e\u003cp\u003eقال مجاهد : ونسلا بعد نسل من الناس والأنعام .\u003c/p\u003e\u003cp\u003eوقيل : \u003cspan class=\"red\"\u003e\" في \"\u003c/span\u003e بمعنى \u003cspan class=\"red\"\u003e\" الباء \"\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e يذرؤكم به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( ليس كمثله شيء )\u003c/span\u003e أي : ليس كخالق الأزواج كلها شيء ; لأنه الفرد الصمد الذي لا نظير له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو السميع البصير )\u003c/span\u003e\u003c/p\u003e"
+                          },
+                   "12":  {
+                              "verses":  {
+                                             "42:12":  {
+                                                           "id":  4284
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( له مقاليد السموات والأرض )\u003c/span\u003e تقدم تفسيره في \u003cspan class=\"red\"\u003e\" سورة الزمر \"\u003c/span\u003e ، وحاصل ذلك أنه المتصرف الحاكم فيهما ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يبسط الرزق لمن يشاء ويقدر )\u003c/span\u003e أي : يوسع على من يشاء ، ويضيق على من يشاء ، وله الحكمة والعدل التام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه بكل شيء عليم )\u003c/span\u003e\u003c/p\u003e"
+                          },
+                   "13":  {
+                              "verses":  {
+                                             "42:13":  {
+                                                           "id":  4285
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى لهذه الأمة : \u003cspan class=\"arabic qpc-hafs\"\u003e( شرع لكم من الدين ما وصى به نوحا والذي أوحينا إليك )\u003c/span\u003e ، فذكر أول الرسل بعد آدم وهو نوح ، عليه السلام وآخرهم وهو محمد - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e ثم ذكر من بين ذلك من أولي العزم وهم :\u003c/span\u003e إبراهيم وموسى وعيسى ابن مريم ، عليهم السلام . وهذه الآية انتظمت ذكر الخمسة كما اشتملت آية \u003cspan class=\"red\"\u003e\" الأحزاب \"\u003c/span\u003e عليهم في قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذ أخذنا من النبيين ميثاقهم ومنك ومن نوح وإبراهيم وموسى وعيسى ابن مريم )\u003c/span\u003e الآية \u003cspan class=\"reference brown\"\u003e[ الأحزاب : 7 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e والدين الذي جاءت به الرسل كلهم هو :\u003c/span\u003e عبادة الله وحده لا شريك له ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أرسلنا من قبلك من رسول إلا نوحي إليه أنه لا إله إلا أنا فاعبدون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنبياء : 25 ]\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وفي الحديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" نحن معشر الأنبياء أولاد علات ديننا واحد \"\u003c/span\u003e أي : القدر المشترك بينهم هو عبادة الله وحده لا شريك له ، وإن اختلفت شرائعهم ومناهجهم ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لكل جعلنا منكم شرعة ومنهاجا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 48 ]\u003c/span\u003e ; ولهذا قال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( أن أقيموا الدين ولا تتفرقوا فيه )\u003c/span\u003e أي : وصى الله \u003cspan class=\"reference brown\"\u003e[ سبحانه و ]\u003c/span\u003e تعالى جميع الأنبياء ، عليهم السلام ، بالائتلاف والجماعة ، ونهاهم عن الافتراق والاختلاف .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( كبر على المشركين ما تدعوهم إليه )\u003c/span\u003e أي : شق عليهم وأنكروا ما تدعوهم إليه يا محمد من التوحيد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله يجتبي إليه من يشاء ويهدي إليه من ينيب )\u003c/span\u003e أي : هو الذي يقدر الهداية لمن يستحقها ،\u003cspan class=\"blue\"\u003e ويكتب الضلالة على من آثرها على طريق الرشد ; ولهذا قال :\u003c/span\u003e\u003c/p\u003e"
+                          },
+                   "14":  {
+                              "verses":  {
+                                             "42:14":  {
+                                                           "id":  4286
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وما تفرقوا إلا من بعد ما جاءهم العلم )\u003c/span\u003e أي : إنما كان مخالفتهم للحق بعد بلوغه إليهم ، وقيام الحجة عليهم ، وما حملهم على ذلك إلا البغي والعناد والمشاقة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال \u003cspan class=\"reference brown\"\u003e[ الله ]\u003c/span\u003e تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولولا كلمة سبقت من ربك إلى أجل مسمى )\u003c/span\u003e أي : لولا الكلمة السابقة من الله بإنظار العباد بإقامة حسابهم إلى يوم المعاد ، لعجل لهم العقوبة في الدنيا سريعا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن الذين أورثوا الكتاب من بعدهم )\u003c/span\u003e يعني : الجيل المتأخر بعد القرن الأول المكذب للحق \u003cspan class=\"arabic qpc-hafs\"\u003e( لفي شك منه مريب )\u003c/span\u003e أي : ليسوا على يقين من أمرهم ، وإنما هم مقلدون لآبائهم وأسلافهم ، بلا دليل ولا برهان ، وهم في حيرة من أمرهم ، وشك مريب ، وشقاق بعيد .\u003c/p\u003e"
+                          },
+                   "15":  {
+                              "verses":  {
+                                             "42:15":  {
+                                                           "id":  4287
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eشتملت هذه الآية الكريمة على عشر كلمات مستقلات ، كل منها منفصلة عن التي قبلها ، \u003cspan class=\"reference brown\"\u003e[ لها ]\u003c/span\u003e حكم برأسه -\u003cspan class=\"blue\"\u003e قالوا :\u003c/span\u003e ولا نظير لها سوى آية الكرسي ، فإنها أيضا عشرة فصول كهذه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( فلذلك فادع )\u003c/span\u003e أي : فللذي أوحينا إليك من الدين الذي وصينا به جميع المرسلين قبلك أصحاب الشرائع الكبار المتبعة كأولي العزم وغيرهم ، فادع الناس إليه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( واستقم كما أمرت )\u003c/span\u003e أي : واستقم أنت ومن اتبعك على عبادة الله ، كما أمركم الله عز وجل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولا تتبع أهواءهم )\u003c/span\u003e يعني : المشركين فيما اختلقوه ، وكذبوه وافتروه من عبادة الأوثان .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وقل آمنت بما أنزل الله من كتاب )\u003c/span\u003e أي : صدقت بجميع الكتب المنزلة من السماء على الأنبياء لا نفرق بين أحد منهم .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وأمرت لأعدل بينكم )\u003c/span\u003e أي : في الحكم كما أمرني الله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله ربنا وربكم )\u003c/span\u003e أي : هو المعبود ، لا إله غيره ، فنحن نقر بذلك اختيارا ، وأنتم وإن لم تفعلوه اختيارا ، فله يسجد من في العالمين طوعا واختيارا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لنا أعمالنا ولكم أعمالكم )\u003c/span\u003e أي : نحن برآء منكم ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كذبوك فقل لي عملي ولكم عملكم أنتم بريئون مما أعمل وأنا بريء مما تعملون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يونس : 41 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( لا حجة بيننا وبينكم )\u003c/span\u003e قال مجاهد : أي لا خصومة .\u003cspan class=\"blue\"\u003e قال السدي :\u003c/span\u003e وذلك قبل نزول آية السيف . وهذا متجه لأن هذه الآية مكية ، وآية السيف بعد الهجرة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله يجمع بيننا )\u003c/span\u003e أي : يوم القيامة ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل يجمع بيننا ربنا ثم يفتح بيننا بالحق وهو الفتاح العليم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 26 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإليه المصير )\u003c/span\u003e أي : المرجع والمآب يوم الحساب .\u003c/p\u003e"
+                          },
+                   "16":  {
+                              "verses":  {
+                                             "42:16":  {
+                                                           "id":  4288
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى - متوعدا الذين يصدون عن سبيل الله من آمن به -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين يحاجون في الله من بعد ما استجيب له )\u003c/span\u003e أي : يجادلون المؤمنين المستجيبين لله ولرسوله ، ليصدوهم عما سلكوه من طريق الهدى ، \u003cspan class=\"arabic qpc-hafs\"\u003e( حجتهم داحضة عند ربهم )\u003c/span\u003e أي : باطلة عند الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعليهم غضب )\u003c/span\u003e أي : منه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولهم عذاب شديد )\u003c/span\u003e أي : يوم القيامة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن عباس ،\u003cspan class=\"blue\"\u003e ومجاهد :\u003c/span\u003e جادلوا المؤمنين بعد ما استجابوا لله ولرسوله ؛ ليصدوهم عن الهدى ، وطمعوا أن تعود الجاهلية .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة : هم اليهود والنصارى ،\u003cspan class=\"blue\"\u003e قالوا لهم :\u003c/span\u003e ديننا خير من دينكم ، ونبينا قبل نبيكم ، ونحن خير منكم ، وأولى بالله منكم . وقد كذبوا في ذلك .\u003c/p\u003e"
+                          },
+                   "17":  {
+                              "verses":  {
+                                             "42:17":  {
+                                                           "id":  4289
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( الله الذي أنزل الكتاب بالحق )\u003c/span\u003e يعني : الكتب المنزلة من عنده على أنبيائه \u003cspan class=\"arabic qpc-hafs\"\u003e( والميزان )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وهو :\u003c/span\u003e العدل والإنصاف ، قاله مجاهد ، وقتادة .\u003cspan class=\"blue\"\u003e وهذه كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لقد أرسلنا رسلنا بالبينات وأنزلنا معهم الكتاب والميزان ليقوم الناس بالقسط )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحديد : 25 ]\u003c/span\u003e وقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والسماء رفعها ووضع الميزان . ألا تطغوا في الميزان . وأقيموا الوزن بالقسط ولا تخسروا الميزان )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرحمن : 7 - 9 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما يدريك لعل الساعة قريب )\u003c/span\u003e فيه ترغيب فيها ، وترهيب منها ، وتزهيد في الدنيا .\u003c/p\u003e"
+                          },
+                   "18":  {
+                              "verses":  {
+                                             "42:18":  {
+                                                           "id":  4290
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يستعجل بها الذين لا يؤمنون بها )\u003c/span\u003e أي : يقولون : \u003cspan class=\"arabic qpc-hafs\"\u003e( متى هذا الوعد إن كنتم صادقين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ سبأ : 29 ]\u003c/span\u003e ، وإنما يقولون ذلك تكذيبا واستبعادا ، وكفرا وعنادا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين آمنوا مشفقون منها )\u003c/span\u003e أي : خائفون وجلون من وقوعها \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعلمون أنها الحق )\u003c/span\u003e أي : كائنة لا محالة ، فهم مستعدون لها عاملون من أجلها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد روي من طرق تبلغ درجة التواتر ، في الصحاح والحسان ، والسنن والمسانيد ، وفي بعض ألفاظه ; أن رجلا سأل رسول الله - صلى الله عليه وسلم - بصوت جهوري ،\u003cspan class=\"blue\"\u003e وهو في بعض أسفاره فناداه فقال :\u003c/span\u003e يا محمد . فقال له النبي - صلى الله عليه وسلم - نحوا من صوته \u003cspan class=\"red\"\u003e\" هاؤم \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e متى الساعة ؟ فقال له رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ويحك ، إنها كائنة ، فما أعددت لها ؟ \"\u003c/span\u003e فقال : حب الله ورسوله .\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \" أنت مع من أحببت .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eفقوله في الحديث : \u003cspan class=\"red\"\u003e\" المرء مع من أحب \"\u003c/span\u003e ، هذا متواتر لا محالة ، والغرض أنه لم يجبه عن وقت الساعة ، بل أمره بالاستعداد لها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ألا إن الذين يمارون في الساعة )\u003c/span\u003e أي : يحاجون في وجودها ويدفعون وقوعها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( لفي ضلال بعيد )\u003c/span\u003e أي : في جهل بين ; لأن الذي خلق السموات والأرض قادر على إحياء الموتى بطريق الأولى والأحرى ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي يبدأ الخلق ثم يعيده وهو أهون عليه )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 27 ]\u003c/span\u003e .\u003c/p\u003e"
+                          },
+                   "19":  {
+                              "verses":  {
+                                             "42:19":  {
+                                                           "id":  4291
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن لطفه بخلقه في رزقه إياهم عن آخرهم ، لا ينسى أحدا منهم ، سواء في رزقه البر والفاجر ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما من دابة في الأرض إلا على الله رزقها ويعلم مستقرها ومستودعها كل في كتاب مبين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ هود : 6 ]\u003c/span\u003e ولها نظائر كثيرة .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يرزق من يشاء )\u003c/span\u003e أي : يوسع على من يشاء ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو القوي العزيز )\u003c/span\u003e أي : لا يعجزه شيء .\u003c/p\u003e"
+                          },
+                   "20":  {
+                              "verses":  {
+                                             "42:20":  {
+                                                           "id":  4292
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( من كان يريد حرث الآخرة )\u003c/span\u003e أي : عمل الآخرة \u003cspan class=\"arabic qpc-hafs\"\u003e( نزد له في حرثه )\u003c/span\u003e أي : نقويه ونعينه على ما هو بصدده ، ونكثر نماءه ، ونجزيه بالحسنة عشر أمثالها إلى سبعمائة ضعف ، إلى ما يشاء الله \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن كان يريد حرث الدنيا نؤته منها وما له في الآخرة من نصيب )\u003c/span\u003e أي : ومن كان إنما سعيه ليحصل له شيء من الدنيا ، وليس له إلى الآخرة همة ألبتة بالكلية ، حرمه الله الآخرة والدنيا إن شاء أعطاه منها ، وإن لم يشأ لم يحصل له لا هذه ولا هذه ، وفاز هذا الساعي بهذه النية بالصفقة الخاسرة في الدنيا والآخرة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالدليل على هذا أن هذه الآية هاهنا مقيدة بالآية التي في \u003cspan class=\"red\"\u003e\" سبحان \"\u003c/span\u003e وهي قوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( من كان يريد العاجلة عجلنا له فيها ما نشاء لمن نريد ثم جعلنا له جهنم يصلاها مذموما مدحورا ومن أراد الآخرة وسعى لها سعيها وهو مؤمن فأولئك كان سعيهم مشكورا كلا نمد هؤلاء وهؤلاء من عطاء ربك وما كان عطاء ربك محظورا انظر كيف فضلنا بعضهم على بعض وللآخرة أكبر درجات وأكبر تفضيلا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 18 - 21 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الثوري ، عن مغيرة ، عن أبي العالية ، عن أبي بن كعب \u003cspan class=\"reference brown\"\u003e[ رضي الله عنه ]\u003c/span\u003e قال : قال : رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" بشر هذه الأمة بالسناء والرفعة ، والنصر والتمكين في الأرض ، فمن عمل منهم عمل الآخرة للدنيا ، لم يكن له في الآخرة من نصيب \"\u003c/span\u003e .\u003c/p\u003e"
+                          },
+                   "21":  {
+                              "verses":  {
+                                             "42:21":  {
+                                                           "id":  4293
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم لهم شركاء شرعوا لهم من الدين ما لم يأذن به الله )\u003c/span\u003e أي : هم لا يتبعون ما شرع الله لك من الدين القويم ، بل يتبعون ما شرع لهم شياطينهم من الجن والإنس ، من تحريم ما حرموا عليهم ، من البحيرة والسائبة والوصيلة والحام ، وتحليل الميتة والدم والقمار ، إلى نحو ذلك من الضلالات والجهالة الباطلة ، التي كانوا قد اخترعوها في جاهليتهم ، من التحليل والتحريم ، والعبادات الباطلة ، والأقوال الفاسدة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ثبت في الصحيح أن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" رأيت عمرو بن لحي بن قمعة يجر قصبه في النار \"\u003c/span\u003e لأنه أول من سيب السوائب . وكان هذا الرجل أحد ملوك خزاعة ، وهو أول من فعل هذه الأشياء ، وهو الذي حمل قريشا على عبادة الأصنام ،\u003cspan class=\"blue\"\u003e لعنه الله وقبحه ; ولهذا قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولولا كلمة الفصل لقضي بينهم )\u003c/span\u003e أي : لعوجلوا بالعقوبة ، لولا ما تقدم من الإنظار إلى يوم المعاد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن الظالمين لهم عذاب أليم )\u003c/span\u003e أي : شديد موجع في جهنم وبئس المصير .\u003c/p\u003e"
+                          },
+                   "22":  {
+                              "verses":  {
+                                             "42:22":  {
+                                                           "id":  4294
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ترى الظالمين مشفقين مما كسبوا )\u003c/span\u003e أي : في عرصات القيامة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو واقع بهم )\u003c/span\u003e أي : الذي يخافون منه واقع بهم لا محالة ، هذا حالهم يوم معادهم ، وهم في هذا الخوف والوجل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين آمنوا وعملوا الصالحات في روضات الجنات لهم ما يشاءون عند ربهم )\u003c/span\u003e فأين هذا من هذا : أين من هو في العرصات في الذل والهوان والخوف المحقق عليه بظلمه ، ممن هو في روضات الجنات ، فيما يشاء من مآكل ومشارب وملابس ومساكن ومناظر ومناكح وملاذ ، فيما لا عين رأت ولا أذن سمعت ، ولا خطر على قلب بشر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال : الحسن بن عرفة : حدثنا عمر بن عبد الرحمن الأبار ، حدثنا محمد بن سعد الأنصاري عن أبي طيبة ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e إن الشرب من أهل الجنة لتظلهم السحابة فتقول : ما أمطركم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فما يدعو داع من القوم بشيء إلا أمطرتهم ،\u003cspan class=\"blue\"\u003e حتى إن القائل منهم ليقول :\u003c/span\u003e أمطرينا كواعب أترابا .\u003c/p\u003e\u003cp\u003eرواه ابن جرير ، عن الحسن بن عرفة ، به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eولهذا قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك هو الفضل الكبير )\u003c/span\u003e أي : الفوز العظيم ، والنعمة التامة السابغة الشاملة العامة .\u003c/p\u003e"
+                          },
+                   "23":  {
+                              "verses":  {
+                                             "42:23":  {
+                                                           "id":  4295
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى لما ذكر روضات الجنة ،\u003cspan class=\"blue\"\u003e لعباده الذين آمنوا وعملوا الصالحات :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ذلك الذي يبشر الله عباده الذين آمنوا وعملوا الصالحات )\u003c/span\u003e أي : هذا حاصل لهم كائن لا محالة ، ببشارة الله لهم به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لا أسألكم عليه أجرا إلا المودة في القربى )\u003c/span\u003e أي : قل يا محمد لهؤلاء المشركين من كفار قريش : لا أسألكم على هذا البلاغ والنصح لكم ما لا تعطونيه ، وإنما أطلب منكم أن تكفوا شركم عني وتذروني أبلغ رسالات ربي ، إن لم تنصروني فلا تؤذوني بما بيني وبينكم من القرابة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال البخاري : حدثنا محمد بن بشار ، حدثنا محمد بن جعفر ، حدثنا شعبة ،\u003cspan class=\"blue\"\u003e عن عبد الملك بن ميسرة قال :\u003c/span\u003e سمعت طاوسا عن ابن عباس : أنه سئل عن قوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا المودة في القربى )\u003c/span\u003e فقال سعيد بن جبير : قربى آل محمد .\u003cspan class=\"blue\"\u003e فقال ابن عباس :\u003c/span\u003e عجلت إن النبي - صلى الله عليه وسلم - لم يكن بطن من قريش إلا كان له فيهم قرابة ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e إلا أن تصلوا ما بيني وبينكم من القرابة . انفرد به البخاري .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eورواه الإمام أحمد ، عن يحيى القطان ، عن شعبة به . وهكذا روى عامر الشعبي ، والضحاك ، وعلي بن أبي طلحة ، والعوفي ، ويوسف بن مهران وغير واحد ، عن ابن عباس ، مثله . وبه قال مجاهد ، وعكرمة ، وقتادة ، والسدي ، وأبو مالك ، وعبد الرحمن بن زيد بن أسلم ، وغيرهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الحافظ أبو القاسم الطبراني حدثنا هاشم بن يزيد الطبراني وجعفر القلانسي قالا حدثنا آدم بن أبي إياس ، حدثنا شريك ، عن خصيف ، عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e قال لهم رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لا أسألكم عليه أجرا إلا أن تودوني في نفسي لقرابتي منكم ، وتحفظوا القرابة التي بيني وبينكم \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوروى الإمام أحمد ،\u003cspan class=\"blue\"\u003e عن حسن بن موسى :\u003c/span\u003e حدثنا قزعة يعني ابن سويد - وابن أبي حاتم - عن أبيه ، عن مسلم بن إبراهيم ، عن قزعة بن سويد - عن ابن أبي نجيح ، عن مجاهد ، عن ابن عباس ; أن النبي - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لا أسألكم على ما آتيتكم من البينات والهدى أجرا ، إلا أن توادوا الله ، وأن تقربوا إليه بطاعته \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوهكذا روى قتادة عن الحسن البصري ، مثله .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا كأنه تفسير بقول ثان ،\u003cspan class=\"blue\"\u003e كأنه يقول :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إلا المودة في القربى )\u003c/span\u003e أي : إلا أن تعملوا بالطاعة التي تقربكم عند الله زلفى .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقول ثالث : وهو ما حكاه البخاري وغيره ، رواية عن سعيد بن جبير ،\u003cspan class=\"blue\"\u003e ما معناه أنه قال :\u003c/span\u003e معنى ذلك أن تودوني في قرابتي ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e تحسنوا إليهم وتبروهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال السدي ،\u003cspan class=\"blue\"\u003e عن أبي الديلم قال :\u003c/span\u003e لما جيء بعلي بن الحسين أسيرا ، فأقيم على درج دمشق ،\u003cspan class=\"blue\"\u003e قام رجل من أهل الشام فقال :\u003c/span\u003e الحمد لله الذي قتلكم واستأصلكم ، وقطع قرني الفتنة .\u003cspan class=\"blue\"\u003e فقال له علي بن الحسين :\u003c/span\u003e أقرأت القرآن ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e نعم .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e أقرأت آل حم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قرأت القرآن ، ولم أقرأ آل حم .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ما قرأت : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لا أسألكم عليه أجرا إلا المودة في القربى )\u003c/span\u003e ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e وإنكم أنتم هم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e نعم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال : أبو إسحاق السبيعي : سألت عمرو بن شعيب عن قوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لا أسألكم عليه أجرا إلا المودة في القربى )\u003c/span\u003e فقال : قربى النبي - صلى الله عليه وسلم - . رواهما ابن جرير .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال ابن جرير : حدثنا أبو كريب ، حدثنا مالك بن إسماعيل ، حدثنا عبد السلام ، حدثني يزيد بن أبي زياد ، عن مقسم ،\u003cspan class=\"blue\"\u003e عن ابن عباس قال :\u003c/span\u003e قالت الأنصار : فعلنا وفعلنا ، وكأنهم فخروا فقال ابن عباس -\u003cspan class=\"blue\"\u003e أو :\u003c/span\u003e العباس ، شك عبد السلام -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e لنا الفضل عليكم . فبلغ ذلك رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e فأتاهم في مجالسهم فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يا معشر الأنصار ، ألم تكونوا أذلة فأعزكم الله بي ؟ \"\u003c/span\u003e قالوا : بلى ، يا رسول الله .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ألم تكونوا ضلالا فهداكم الله بي ؟ \u003cspan class=\"red\"\u003e\" قالوا : بلى يا رسول الله قال : \"\u003c/span\u003e أفلا تجيبوني ؟ \u003cspan class=\"red\"\u003e\" قالوا : ما نقول يا رسول الله ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \"\u003c/span\u003e ألا تقولون : ألم يخرجك قومك فآويناك ؟ أولم يكذبوك فصدقناك ؟ أولم يخذلوك فنصرناك \" ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فما زال يقول حتى جثوا على الركب ،\u003cspan class=\"blue\"\u003e وقالوا :\u003c/span\u003e أموالنا وما في أيدينا لله ولرسوله .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فنزلت : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لا أسألكم عليه أجرا إلا المودة في القربى )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهكذا رواه ابن أبي حاتم ، عن علي بن الحسين ، عن عبد المؤمن بن علي ، عن عبد السلام ، عن يزيد بن أبي زياد - وهو ضعيف - بإسناده مثله ، أو قريبا منه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي الصحيحين - في قسم غنائم حنين - قريب من هذا السياق ، ولكن ليس فيه ذكر نزول هذه الآية . وذكر نزولها في المدينة فيه نظر ; لأن السورة مكية ، وليس يظهر بين هذه الآية الكريمة وبين السياق مناسبة ، والله أعلم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا علي بن الحسين ، حدثنا رجل سماه ، حدثنا حسين الأشقر ، عن قيس ، عن الأعمش ،\u003cspan class=\"blue\"\u003e عن سعيد بن جبير عن ابن عباس قال :\u003c/span\u003e لما نزلت هذه الآية : \u003cspan class=\"arabic qpc-hafs\"\u003e( قل لا أسألكم عليه أجرا إلا المودة في القربى )\u003c/span\u003e قالوا : يا رسول الله ، من هؤلاء الذين أمر الله بمودتهم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" فاطمة وولدها ، عليهم السلام \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا إسناد ضعيف ، فيه مبهم لا يعرف ، عن شيخ شيعي متخرق ، وهو حسين الأشقر ، ولا يقبل خبره في هذا المحل . وذكر نزول هذه الآية في المدينة بعيد ; فإنها مكية ولم يكن إذ ذاك لفاطمة أولاد بالكلية ، فإنها لم تتزوج بعلي إلا بعد بدر من السنة الثانية من الهجرة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوالحق تفسيرها بما فسرها به الإمام حبر الأمة ، وترجمان القرآن ، عبد الله بن عباس ، كما رواه عنه البخاري \u003cspan class=\"reference brown\"\u003e[ رحمه الله ]\u003c/span\u003e ولا تنكر الوصاة بأهل البيت ، والأمر بالإحسان إليهم ، واحترامهم وإكرامهم ، فإنهم من ذرية طاهرة ، من أشرف بيت وجد على وجه الأرض ، فخرا وحسبا ونسبا ، ولا سيما إذا كانوا متبعين للسنة النبوية الصحيحة الواضحة الجلية ، كما كان عليه سلفهم ، كالعباس وبنيه ، وعلي وأهل بيته وذريته ، رضي الله عنهم أجمعين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"reference brown\"\u003e[ وقد ثبت ]\u003c/span\u003e في الصحيح : أن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال في خطبته بغدير خم :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إني تارك فيكم الثقلين : كتاب الله وعترتي ، وإنهما لم يفترقا حتى يردا علي الحوض \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا يزيد بن هارون ، أخبرنا إسماعيل بن أبي خالد ، عن يزيد بن أبي زياد ، عن عبد الله بن الحارث ،\u003cspan class=\"blue\"\u003e عن العباس بن عبد المطلب قال :\u003c/span\u003e قلت : يا رسول الله ، إن قريشا إذا لقي بعضهم بعضا لقوهم ببشر حسن ، وإذا لقونا لقونا بوجوه لا نعرفها ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فغضب النبي - صلى الله عليه وسلم - غضبا شديدا ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والذي نفسي بيده ، لا يدخل قلب الرجل الإيمان حتى يحبكم لله ولرسوله \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال أحمد حدثنا جرير ، عن يزيد بن أبي زياد ، عن عبد الله بن الحارث ،\u003cspan class=\"blue\"\u003e عن عبد المطلب بن ربيعة قال :\u003c/span\u003e دخل العباس على رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e إنا لنخرج فنرى قريشا تحدث ، فإذا رأونا سكتوا . فغضب رسول الله - صلى الله عليه وسلم - ودر عرق بين عينه ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والله لا يدخل قلب امرئ إيمان حتى يحبكم لله ولقرابتي \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البخاري : حدثنا عبد الله بن عبد الوهاب ، حدثنا خالد ، حدثنا شعبة ،\u003cspan class=\"blue\"\u003e عن واقد قال :\u003c/span\u003e سمعت أبي يحدث عن ابن عمر ، عن أبي بكر الصديق ، رضي الله عنه ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ارقبوا محمدا - صلى الله عليه وسلم - في أهل بيته .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي الصحيح أن الصديق قال لعلي ،\u003cspan class=\"blue\"\u003e رضي الله عنهما :\u003c/span\u003e والله لقرابة رسول الله - صلى الله عليه وسلم - أحب إلي أن أصل من قرابتي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال عمر بن الخطاب للعباس ،\u003cspan class=\"blue\"\u003e رضي الله عنهما :\u003c/span\u003e والله لإسلامك يوم أسلمت كان أحب إلي من إسلام الخطاب لو أسلم ; لأن إسلامك كان أحب إلى رسول الله من إسلام الخطاب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eفحال الشيخين ، رضي الله عنهما ، هو الواجب على كل أحد أن يكون كذلك ; ولهذا كانا أفضل المؤمنين بعد النبيين والمرسلين ، رضي الله عنهما ، وعن سائر الصحابة أجمعين .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد ،\u003cspan class=\"blue\"\u003e رحمه الله :\u003c/span\u003e حدثنا إسماعيل بن إبراهيم ، عن أبي حيان التيمي ،\u003cspan class=\"blue\"\u003e حدثني يزيد بن حيان قال :\u003c/span\u003e انطلقت أنا وحسين بن ميسرة ، وعمر بن مسلم إلى زيد بن أرقم ،\u003cspan class=\"blue\"\u003e فلما جلسنا إليه قال له حصين :\u003c/span\u003e لقد لقيت يا زيد خيرا كثيرا ، رأيت رسول الله - صلى الله عليه وسلم - وسمعت حديثه وغزوت معه ، وصليت معه . لقد رأيت يازيد خيرا كثيرا . حدثنا يا زيد ما سمعت من رسول الله - صلى الله عليه وسلم - .\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e يا ابن أخي ، والله كبرت سني ، وقدم عهدي ، ونسيت بعض الذي كنت أعي من رسول الله - صلى الله عليه وسلم - فما حدثتكم فاقبلوه ، وما لا فلا تكلفونيه .\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e قام رسول الله - صلى الله عليه وسلم - يوما خطيبا فينا ، بماء يدعى خما - بين مكة والمدينة - فحمد الله وأثنى عليه ، وذكر ووعظ ،\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أما بعد ، ألا أيها الناس ، إنما أنا بشر يوشك أن يأتيني رسول ربي فأجيب ، وإني تارك فيكم الثقلين ،\u003cspan class=\"blue\"\u003e أولهما :\u003c/span\u003e كتاب الله ، فيه الهدى والنور ، فخذوا بكتاب الله واستمسكوا به \"\u003c/span\u003e فحث على كتاب الله ورغب فيه ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" وأهل بيتي أذكركم الله في أهل بيتي أذكركم الله في أهل بيتي \"\u003c/span\u003e فقال له حصين : ومن أهل بيته يا زيد ؟ أليس نساؤه من أهل بيته ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e إن نساءه من أهل بيته ،\u003cspan class=\"blue\"\u003e ولكن أهل بيته من حرم الصدقة بعده قال :\u003c/span\u003e ومن هم ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e هم آل علي ، وآل عقيل ، وآل جعفر ، وآل العباس ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e أكل هؤلاء حرم الصدقة ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e نعم .\u003c/p\u003e\u003cp\u003eوهكذا رواه مسلم \u003cspan class=\"reference brown\"\u003e[ في الفضائل ]\u003c/span\u003e والنسائي من طرق عن يزيد بن حيان به .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أبو عيسى الترمذي حدثنا علي بن المنذر الكوفي ، حدثنا محمد بن فضيل ، حدثنا الأعمش ، عن عطية ، عن أبي سعيد - والأعمش ، عن حبيب بن أبي ثابت ، عن زيد بن أرقم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم - \u003cspan class=\"red\"\u003e\" إني تارك فيكم ما إن تمسكتم به لن تضلوا بعدي ،\u003cspan class=\"blue\"\u003e أحدهما أعظم من الآخر :\u003c/span\u003e كتاب الله حبل ممدود من السماء إلى الأرض ،\u003cspan class=\"blue\"\u003e والآخر عترتي :\u003c/span\u003e أهل بيتي ، ولن يتفرقا حتى يردا علي الحوض ، فانظروا كيف تخلفوني فيهما \"\u003c/span\u003e\u003c/p\u003e\u003cp\u003eتفرد بروايته الترمذي ثم قال : هذا حديث حسن غريب .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الترمذي أيضا حدثنا نصر بن عبد الرحمن الكوفي ، حدثنا زيد بن الحسن ، عن جعفر بن محمد ، عن أبيه ،\u003cspan class=\"blue\"\u003e عن جابر بن عبد الله قال :\u003c/span\u003e رأيت رسول الله - صلى الله عليه وسلم - في حجته يوم عرفة ، وهو على ناقته القصواء يخطب ،\u003cspan class=\"blue\"\u003e فسمعته يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يا أيها الناس ،\u003cspan class=\"blue\"\u003e إني تركت فيكم ما إن أخذتم به لن تضلوا :\u003c/span\u003e كتاب الله ، وعترتي أهل بيتي \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eتفرد به الترمذي أيضا ،\u003cspan class=\"blue\"\u003e وقال :\u003c/span\u003e حسن غريب . وفي الباب عن أبي ذر ، وأبي سعيد ، وزيد بن أرقم ، وحذيفة بن أسيد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال الترمذي : حدثنا أبو داود سليمان بن الأشعث ، حدثنا يحيى بن معين ، حدثنا هشام بن يوسف ، عن عبد الله بن سليمان النوفلي ، عن محمد بن علي بن عبد الله بن عباس ، عن أبيه ،\u003cspan class=\"blue\"\u003e عن جده عبد الله بن عباس قال :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أحبوا الله لما يغذوكم من نعمه ، وأحبوني بحب الله ، وأحبوا أهل بيتي بحبي \"\u003c/span\u003e\u003c/p\u003e\u003cp\u003eثم قال حسن غريب إنما نعرفه من هذا الوجه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد أوردنا أحاديث أخر عند قوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما يريد الله ليذهب عنكم الرجس أهل البيت ويطهركم تطهيرا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأحزاب : 33 ]\u003c/span\u003e ، بما أغنى عن إعادتها هاهنا ، ولله الحمد والمنة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الحافظ أبو يعلى : حدثنا سويد بن سعيد ، حدثنا مفضل بن عبد الله ، عن أبي إسحاق ،\u003cspan class=\"blue\"\u003e عن حنش قال :\u003c/span\u003e سمعت أبا ذر وهو آخذ بحلقة الباب يقول : يا أيها الناس ، من عرفني فقد عرفني ، ومن أنكرني فأنا أبو ذر ، سمعت رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إنما مثل أهل بيتي فيكم مثل سفينة نوح ، من دخلها نجا ، ومن تخلف عنها هلك \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eهذا بهذا الإسناد ضعيف .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يقترف حسنة نزد له فيها حسنا )\u003c/span\u003e أي : ومن يعمل حسنة \u003cspan class=\"arabic qpc-hafs\"\u003e( نزد له فيها حسنا )\u003c/span\u003e أي : أجرا وثوابا ، كقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله لا يظلم مثقال ذرة وإن تك حسنة يضاعفها ويؤت من لدنه أجرا عظيما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 40 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقال بعض السلف : \u003cspan class=\"reference brown\"\u003e[ إن ]\u003c/span\u003e من ثواب الحسنة الحسنة بعدها ، ومن جزاء السيئة \u003cspan class=\"arabic qpc-hafs\"\u003e( السيئة )\u003c/span\u003e بعدها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الله غفور شكور )\u003c/span\u003e أي : يغفر الكثير من السيئات ، ويكثر القليل من الحسنات ، فيستر ويغفر ، ويضاعف فيشكر .\u003c/p\u003e"
+                          },
+                   "24":  {
+                              "verses":  {
+                                             "42:24":  {
+                                                           "id":  4296
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أم يقولون افترى على الله كذبا فإن يشأ الله يختم على قلبك )\u003c/span\u003e أي : لو افتريت عليه كذبا كما يزعم هؤلاء الجاهلون \u003cspan class=\"arabic qpc-hafs\"\u003e( يختم على قلبك )\u003c/span\u003e أي : لطبع على قلبك وسلبك ما كان آتاك من القرآن ،\u003cspan class=\"blue\"\u003e كقوله تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو تقول علينا بعض الأقاويل لأخذنا منه باليمين ثم لقطعنا منه الوتين فما منكم من أحد عنه حاجزين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الحاقة : 44 - 47 ]\u003c/span\u003e أي : لانتقمنا منه أشد الانتقام ، وما قدر أحد من الناس أن يحجز عنه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويمح الله الباطل )\u003c/span\u003e ليس معطوفا على قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( يختم )\u003c/span\u003e فيكون مجزوما ، بل هو مرفوع على الابتداء ، قاله ابن جرير ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e وحذفت من كتابته \u003cspan class=\"red\"\u003e\" الواو \"\u003c/span\u003e في رسم المصحف الإمام ،\u003cspan class=\"blue\"\u003e كما حذفت في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( سندع الزبانية )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ العلق : 18 ]\u003c/span\u003e وقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويدع الإنسان بالشر دعاءه بالخير )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الإسراء : 11 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويحق الحق بكلماته )\u003c/span\u003e معطوف على \u003cspan class=\"arabic qpc-hafs\"\u003e( ويمح الله الباطل ويحق الحق )\u003c/span\u003e أي : يحققه ويثبته ويبينه ويوضحه بكلماته ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e بحججه وبراهينه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه عليم بذات الصدور )\u003c/span\u003e أي : بما تكنه الضمائر ، وتنطوي عليه السرائر .\u003c/p\u003e"
+                          },
+                   "25":  {
+                              "verses":  {
+                                             "42:25":  {
+                                                           "id":  4297
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى ممتنا على عباده بقبول توبتهم إليه إذا تابوا ورجعوا إليه : أنه من كرمه وحلمه أنه يعفو ويصفح ويستر ويغفر ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يعمل سوءا أو يظلم نفسه ثم يستغفر الله يجد الله غفورا رحيما )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النساء : 110 ]\u003c/span\u003e وقد ثبت في صحيح مسلم ، رحمه الله ،\u003cspan class=\"blue\"\u003e حيث قال :\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eحدثنا محمد بن الصباح وزهير بن حرب قال حدثنا عمر بن يونس ، حدثنا عكرمة بن عمار ، حدثنا إسحاق بن أبي طلحة ، حدثني أنس بن مالك - وهو عمه -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لله أشد فرحا بتوبة عبده حين يتوب إليه ، من أحدكم كان راحلته بأرض فلاة فانفلتت منه ، وعليها طعامه وشرابه ، فأيس منها ، فأتى شجرة فاضطجع في ظلها ، قد أيس من راحلته ، فبينما هو كذلك إذا هو بها قائمة عنده ،\u003cspan class=\"blue\"\u003e فأخذ بخطامها ثم قال من شدة الفرح :\u003c/span\u003e اللهم أنت عبدي وأنا ربك - أخطأ من شدة الفرح \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقد ثبت أيضا في الصحيح من رواية عبد الله بن مسعود نحوه .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال عبد الرزاق ، عن معمر ،\u003cspan class=\"blue\"\u003e عن الزهري في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي يقبل التوبة عن عباده )\u003c/span\u003e : إن أبا هريرة قال : قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لله أشد فرحا بتوبة عبده من أحدكم يجد ضالته في المكان الذي يخاف أن يقتله العطش فيه \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال همام بن الحارث : سئل ابن مسعود عن الرجل يفجر بالمرأة ثم يتزوجها ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e لا بأس به ،\u003cspan class=\"blue\"\u003e وقرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي يقبل التوبة عن عباده )\u003c/span\u003e الآية رواه ابن جرير ، وابن أبي حاتم من حديث شريك القاضي ، عن إبراهيم بن مهاجر ، عن إبراهيم النخعي ، عن همام فذكره .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعفو عن السيئات )\u003c/span\u003e أي : يقبل التوبة في المستقبل ويعفو عن السيئات في الماضي ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعلم ما تفعلون )\u003c/span\u003e أي : هو عالم بجميع ما فعلتم وصنعتم وقلتم ، ومع هذا يتوب على من تاب إليه .\u003c/p\u003e"
+                          },
+                   "26":  {
+                              "verses":  {
+                                             "42:26":  {
+                                                           "id":  4298
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويستجيب الذين آمنوا وعملوا الصالحات )\u003c/span\u003e قال السدي : يعني يستجيب لهم .\u003cspan class=\"blue\"\u003e وكذا قال ابن جرير :\u003c/span\u003e معناه يستجيب الدعاء لهم \u003cspan class=\"reference brown\"\u003e[ لأنفسهم ]\u003c/span\u003e ولأصحابهم وإخوانهم . وحكاه عن بعض النحاة ،\u003cspan class=\"blue\"\u003e وأنه جعلها كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فاستجاب لهم ربهم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 195 ]\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم روى هو وابن أبي حاتم ، من حديث الأعمش ، عن شقيق بن سلمة ،\u003cspan class=\"blue\"\u003e عن سلمة بن سبرة قال :\u003c/span\u003e خطبنا معاذ بالشام فقال : أنتم المؤمنون ، وأنتم أهل الجنة . والله إني أرجو أن يدخل الله من تسبون من فارس والروم الجنة ، وذلك بأن أحدكم إذا عمل له - يعني أحدهم -\u003cspan class=\"blue\"\u003e عملا قال :\u003c/span\u003e أحسنت رحمك الله ، أحسنت بارك الله فيك ،\u003cspan class=\"blue\"\u003e ثم قرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ويستجيب الذين آمنوا وعملوا الصالحات ويزيدهم من فضله )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوحكى ابن جرير عن بعض أهل العربية أنه جعل \u003cspan class=\"reference brown\"\u003e[ مثل ]\u003c/span\u003e قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويستجيب الذين آمنوا )\u003c/span\u003e كقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين يستمعون القول )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزمر : 18 ]\u003c/span\u003e أي : هم الذين يستجيبون للحق ويتبعونه ،\u003cspan class=\"blue\"\u003e كقوله تبارك وتعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما يستجيب الذين يسمعون والموتى يبعثهم الله )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 36 ]\u003c/span\u003e والمعنى الأول أظهر ; لقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويزيدهم من فضله )\u003c/span\u003e أي : يستجيب دعاءهم ويزيدهم فوق ذلك ; ولهذا قال ابن أبي حاتم :\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eحدثنا علي بن الحسين ، حدثنا محمد بن المصفى ، حدثنا بقية ، حدثنا إسماعيل بن عبد الله الكندي ، حدثنا الأعمش ،\u003cspan class=\"blue\"\u003e عن شقيق عن عبد الله قال :\u003c/span\u003e قال : رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ويزيدهم من فضله )\u003c/span\u003e قال : \u003cspan class=\"red\"\u003e\" الشفاعة لمن وجبت له النار ، ممن صنع إليهم معروفا في الدنيا \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة عن إبراهيم النخعي اللخمي في قوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويستجيب الذين آمنوا وعملوا الصالحات )\u003c/span\u003e قال : يشفعون في إخوانهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ويزيدهم من فضله )\u003c/span\u003e قال : يشفعون في إخوان إخوانهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والكافرون لهم عذاب شديد )\u003c/span\u003e لما ذكر المؤمنين وما لهم من الثواب الجزيل ، ذكر الكافرين وما لهم عنده يوم القيامة من العذاب الشديد الموجع المؤلم يوم معادهم وحسابهم .\u003c/p\u003e"
+                          },
+                   "27":  {
+                              "verses":  {
+                                             "42:27":  {
+                                                           "id":  4299
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو بسط الله الرزق لعباده لبغوا في الأرض )\u003c/span\u003e أي : لو أعطاهم فوق حاجتهم من الرزق ، لحملهم ذلك على البغي والطغيان من بعضهم على بعض ، أشرا وبطرا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال قتادة : كان يقال : خير العيش ما لا يلهيك ولا يطغيك .\u003cspan class=\"blue\"\u003e وذكر قتادة حديث :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إنما أخاف عليكم ما يخرج الله من زهرة الحياة الدنيا \"\u003c/span\u003e وسؤال السائل : أيأتي الخير بالشر ؟ الحديث .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن ينزل بقدر ما يشاء إنه بعباده خبير بصير )\u003c/span\u003e أي : ولكن يرزقهم من الرزق ما يختاره مما فيه صلاحهم ، وهو أعلم بذلك فيغني من يستحق الغنى ، ويفقر من يستحق الفقر .\u003cspan class=\"blue\"\u003e كما جاء في الحديث المروي :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن من عبادي لمن لا يصلحه إلا الغنى ، ولو أفقرته لأفسدت عليه دينه ، وإن من عبادي لمن لا يصلحه إلا الفقر ، ولو أغنيته لأفسدت عليه دينه \"\u003c/span\u003e\u003c/p\u003e"
+                          },
+                   "28":  {
+                              "verses":  {
+                                             "42:28":  {
+                                                           "id":  4300
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي ينزل الغيث من بعد ما قنطوا )\u003c/span\u003e أي : من بعد إياس الناس من نزول المطر ، ينزله عليهم في وقت حاجتهم وفقرهم إليه ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن كانوا من قبل أن ينزل عليهم من قبله لمبلسين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الروم : 49 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وينشر رحمته )\u003c/span\u003e أي : يعم بها الوجود على أهل ذلك القطر وتلك الناحية .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال قتادة : ذكر لنا أن رجلا قال لعمر بن الخطاب : يا أمير المؤمنين ، قحط المطر وقنط الناس ؟ فقال عمر ،\u003cspan class=\"blue\"\u003e رضي الله عنه :\u003c/span\u003e مطرتم ،\u003cspan class=\"blue\"\u003e ثم قرأ :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الذي ينزل الغيث من بعد ما قنطوا وينشر رحمته )\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وهو الولي الحميد )\u003c/span\u003e أي : هو المتصرف لخلقه بما ينفعهم في دنياهم وأخراهم ، وهو المحمود العاقبة في جميع ما يقدره ويفعله .\u003c/p\u003e"
+                          },
+                   "29":  {
+                              "verses":  {
+                                             "42:29":  {
+                                                           "id":  4301
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن آياته )\u003c/span\u003e الدالة على عظمته وقدرته العظيمة وسلطانه القاهر \u003cspan class=\"arabic qpc-hafs\"\u003e( خلق السموات والأرض وما بث فيهما )\u003c/span\u003e أي : ذرأ فيهما ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e في السموات والأرض ، \u003cspan class=\"arabic qpc-hafs\"\u003e( من دابة )\u003c/span\u003e وهذا يشمل الملائكة والجن والإنس وسائر الحيوانات ، على اختلاف أشكالهم وألوانهم ولغاتهم ، وطباعهم وأجناسهم ، وأنواعهم ، وقد فرقهم في أرجاء أقطار الأرض والسموات ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وهو )\u003c/span\u003e مع هذا كله \u003cspan class=\"arabic qpc-hafs\"\u003e( على جمعهم إذا يشاء قدير )\u003c/span\u003e أي : يوم القيامة يجمع الأولين والآخرين وسائر الخلائق في صعيد واحد ، يسمعهم الداعي ، وينفذهم البصر ، فيحكم فيهم بحكمه العدل الحق .\u003c/p\u003e"
+                          },
+                   "30":  {
+                              "verses":  {
+                                             "42:30":  {
+                                                           "id":  4302
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم )\u003c/span\u003e أي : مهما أصابكم أيها الناس من المصائب فإنما هو عن سيئات تقدمت لكم \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعفو عن كثير )\u003c/span\u003e أي : من السيئات ، فلا يجازيكم عليها بل يعفو عنها ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو يؤاخذ الله الناس بما كسبوا ما ترك على ظهرها من دابة )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فاطر : 45 ]\u003c/span\u003e وفي الحديث الصحيح : \u003cspan class=\"red\"\u003e\" والذي نفسي بيده ، ما يصيب المؤمن من نصب ولا وصب ولا هم ولا حزن ، إلا كفر الله عنه بها من خطاياه ، حتى الشوكة يشاكها \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن جرير : حدثنا يعقوب بن إبراهيم ، حدثنا ابن علية ،\u003cspan class=\"blue\"\u003e حدثنا أيوب قال :\u003c/span\u003e قرأت في كتاب أبي قلابة قال : نزلت : \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن يعمل مثقال ذرة خيرا يره ومن يعمل مثقال ذرة شرا يره )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الزلزلة : 7 ، 8 ]\u003c/span\u003e وأبو بكر يأكل ،\u003cspan class=\"blue\"\u003e فأمسك وقال :\u003c/span\u003e يا رسول الله ، إني لراء ما عملت من خير وشر ؟\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" أرأيت ما رأيت مما تكره ، فهو من مثاقيل ذر الشر ، وتدخر مثاقيل الخير حتى تعطاه يوم القيامة \"\u003c/span\u003e قال : قال أبو إدريس : فإني أرى مصداقها في كتاب الله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eثم رواه من وجه آخر ، عن أبي قلابة ، عن أنس ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e والأول أصح .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا محمد بن عيسى بن الطباع ، حدثنا مروان بن معاوية الفزاري ، حدثنا الأزهر بن راشد الكاهلي ، عن الخضر بن القواس البجلي ، عن أبي سخيلة عن علي ،\u003cspan class=\"blue\"\u003e رضي الله عنه قال :\u003c/span\u003e ألا أخبركم بأفضل آية في كتاب الله عز وجل ، وحدثنا به رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e .\u003cspan class=\"blue\"\u003e وسأفسرها لك يا علي :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ما أصابكم من مرض أو عقوبة أو بلاء في الدنيا ، فبما كسبت أيديكم والله تعالى أحلم من أن يثني عليه العقوبة في الآخرة ، وما عفا الله عنه في الدنيا فالله تعالى أكرم من أن يعود بعد عفوه \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكذا رواه الإمام أحمد ، عن مروان بن معاوية وعبدة ،\u003cspan class=\"blue\"\u003e عن أبي سخيلة قال :\u003c/span\u003e قال علي . . . فذكر نحوه مرفوعا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم روى ابن أبي حاتم \u003cspan class=\"reference brown\"\u003e[ نحوه ]\u003c/span\u003e من وجه آخر موقوفا فقال : حدثنا أبي ، حدثنا منصور بن أبي مزاحم ، حدثنا أبو سعيد بن أبي الوضاح ، عن أبي الحسن ،\u003cspan class=\"blue\"\u003e عن أبي جحيفة قال :\u003c/span\u003e دخلت على علي بن أبي طالب ، رضي الله عنه ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e ألا أحدثكم بحديث ينبغي لكل مؤمن أن يعيه ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فسألناه فتلا هذه الآية : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e قال : ما عاقب الله به في الدنيا فالله أحلم من أن يثني عليه العقوبة يوم القيامة ، وما عفا الله عنه في الدنيا فالله أكرم من أن يعود في عفوه يوم القيامة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا يعلى بن عبيد ، حدثنا طلحة - يعني ابن يحيى - عن أبي بردة ، عن معاوية - هو ابن أبي سفيان ، رضي الله عنهما ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e سمعت رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e يقول :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ما من شيء يصيب المؤمن في جسده يؤذيه إلا كفر الله عنه به من سيئاته \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أحمد أيضا : حدثنا حسين ، عن زائدة ، عن ليث ، عن مجاهد ،\u003cspan class=\"blue\"\u003e عن عائشة قالت :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إذا كثرت ذنوب العبد ، ولم يكن له ما يكفرها ، ابتلاه الله بالحزن ليكفرها \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا عمرو بن عبد الله الأودي ، حدثنا أبو أسامة ، عن إسماعيل بن مسلم ، عن الحسن - هو البصري -\u003cspan class=\"blue\"\u003e قال في قوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e قال : لما نزلت قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" والذي نفس محمد بيده ، ما من خدش عود ، ولا اختلاج عرق ، ولا عثرة قدم ، إلا بذنب وما يعفو الله عنه أكثر \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال أيضا : حدثنا أبي ، حدثنا عمر بن علي ، حدثنا هشيم ، عن منصور ، عن الحسن ، عن عمران بن حصين ، رضي الله عنه ،\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e دخل عليه بعض أصحابه وقد كان ابتلي في جسده ، فقال له بعضهم إنا لنبتئس لك لما نرى فيك .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فلا تبتئس بما ترى ، فإن ما ترى بذنب ، وما يعفو الله عنه أكثر ،\u003cspan class=\"blue\"\u003e ثم تلا هذه الآية :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"reference brown\"\u003e[ قال : ]\u003c/span\u003e وحدثنا أبي : حدثنا يحيى بن عبد الحميد الحماني ،\u003cspan class=\"blue\"\u003e حدثنا جرير عن أبي البلاد قال :\u003c/span\u003e قلت للعلاء بن بدر : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم )\u003c/span\u003e ، وقد ذهب بصري وأنا غلام ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e فبذنوب والديك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوحدثنا أبي : حدثنا علي بن محمد الطنافسي ، حدثنا وكيع ، عن عبد العزيز بن أبي رواد ،\u003cspan class=\"blue\"\u003e عن الضحاك قال :\u003c/span\u003e ما نعلم أحدا حفظ القرآن ثم نسيه إلا بذنب ،\u003cspan class=\"blue\"\u003e ثم قرأ الضحاك :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وما أصابكم من مصيبة فبما كسبت أيديكم ويعفو عن كثير )\u003c/span\u003e .\u003cspan class=\"blue\"\u003e ثم يقول الضحاك :\u003c/span\u003e وأي مصيبة أعظم من نسيان القرآن .\u003c/p\u003e"
+                          },
+                   "32":  {
+                              "verses":  {
+                                             "42:32":  {
+                                                           "id":  4304
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى : ومن آياته الدالة على قدرته وسلطانه ، تسخيره البحر لتجري فيه الفلك بأمره ، وهي الجواري في البحر كالأعلام ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e كالجبال ، قاله مجاهد ، والحسن ، والسدي ، والضحاك ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e هي في البحر كالجبال في البر ، .\u003c/p\u003e"
+                          },
+                   "33":  {
+                              "verses":  {
+                                             "42:33":  {
+                                                           "id":  4305
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( إن يشأ يسكن الريح )\u003c/span\u003e أي : التي تسير بالسفن ، لو شاء لسكنها حتى لا تتحرك السفن ، بل تظل راكدة لا تجيء ولا تذهب ، بل واقفة على ظهره ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e على وجه الماء \u003cspan class=\"arabic qpc-hafs\"\u003e( إن في ذلك لآيات لكل صبار )\u003c/span\u003e أي : في الشدائد \u003cspan class=\"arabic qpc-hafs\"\u003e( شكور )\u003c/span\u003e أي : إن في تسخيره البحر وإجرائه الهوى بقدر ما يحتاجون إليه لسيرهم ، لدلالات على نعمه تعالى على خلقه \u003cspan class=\"arabic qpc-hafs\"\u003e( لكل صبار )\u003c/span\u003e أي : في الشدائد ، \u003cspan class=\"arabic qpc-hafs\"\u003e( شكور )\u003c/span\u003e في الرخاء .\u003c/p\u003e"
+                          },
+                   "34":  {
+                              "verses":  {
+                                             "42:34":  {
+                                                           "id":  4306
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يوبقهن بما كسبوا )\u003c/span\u003e أي : ولو شاء لأهلك السفن وغرقها بذنوب أهلها الذين هم راكبون عليها \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعف عن كثير )\u003c/span\u003e أي : من ذنوبهم . ولو أخذهم بجميع ذنوبهم لأهلك كل من ركب البحر .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال بعض علماء التفسير : معنى قوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يوبقهن بما كسبوا )\u003c/span\u003e أي : لو شاء لأرسل الريح قوية عاتية ، فأخذت السفن وأحالتها عن سيرها المستقيم ، فصرفتها ذات اليمين أو ذات الشمال ، آبقة لا تسير على طريق ، ولا إلى جهة مقصد .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا القول هو يتضمن هلاكها ، وهو مناسب للأول ، وهو أنه تعالى لو شاء لسكن الريح فوقفت ، أو لقواه فشردت وأبقت وهلكت . ولكن من لطفه ورحمته أنه يرسله بحسب الحاجة ، كما يرسل المطر بقدر الكفاية ، ولو أنزله كثيرا جدا لهدم البنيان ، أو قليلا لما أنبت الزرع والثمار ، حتى إنه يرسل إلى مثل بلاد مصر سيحا من أرض أخرى غيرها ; لأنهم لا يحتاجون إلى مطر ، ولو أنزل عليهم لهدم بنيانهم ، وأسقط جدرانهم .\u003c/p\u003e"
+                          },
+                   "35":  {
+                              "verses":  {
+                                             "42:35":  {
+                                                           "id":  4307
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ويعلم الذين يجادلون في آياتنا ما لهم من محيص )\u003c/span\u003e أي : لا محيد لهم عن بأسنا ونقمتنا ، فإنهم مقهورون بقدرتنا .\u003c/p\u003e"
+                          },
+                   "36":  {
+                              "verses":  {
+                                             "42:36":  {
+                                                           "id":  4308
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى محقرا بشأن الحياة الدنيا وزينتها ، وما فيها من الزهرة والنعيم الفاني ،\u003cspan class=\"blue\"\u003e بقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فما أوتيتم من شيء فمتاع الحياة الدنيا )\u003c/span\u003e أي : مهما حصلتم وجمعتم فلا تغتروا به ، فإنما هو متاع الحياة الدنيا ، وهي دار دنيئة فانية زائلة لا محالة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وما عند الله خير وأبقى )\u003c/span\u003e أي : وثواب الله خير من الدنيا ، وهو باق سرمدي ،\u003cspan class=\"blue\"\u003e فلا تقدموا الفاني على الباقي ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( للذين آمنوا )\u003c/span\u003e أي : للذين صبروا على ترك الملاذ في الدنيا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وعلى ربهم يتوكلون )\u003c/span\u003e أي : ليعينهم على الصبر في أداء الواجبات وترك المحرمات .\u003c/p\u003e"
+                          },
+                   "37":  {
+                              "verses":  {
+                                             "42:37":  {
+                                                           "id":  4309
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين يجتنبون كبائر الإثم والفواحش )\u003c/span\u003e وقد قدمنا الكلام على الإثم والفواحش في \u003cspan class=\"red\"\u003e\" سورة الأعراف \"\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وإذا ما غضبوا هم يغفرون )\u003c/span\u003e أي : سجيتهم \u003cspan class=\"reference brown\"\u003e[ وخلقهم وطبعهم ]\u003c/span\u003e تقتضي الصفح والعفو عن الناس ، ليس سجيتهم الانتقام من الناس .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقد ثبت في الصحيح أن رسول الله - صلى الله عليه وسلم - ما انتقم لنفسه قط ،\u003cspan class=\"blue\"\u003e إلا أن تنتهك حرمات الله وفي حديث آخر :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" كان يقول لأحدنا عند المعتبة : ما له ؟ تربت جبينه \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا ابن أبي عمر ، حدثنا سفيان ، عن زائدة ، عن منصور ،\u003cspan class=\"blue\"\u003e عن إبراهيم قال :\u003c/span\u003e كان المؤمنون يكرهون أن يستذلوا ، وكانوا إذا قدروا عفوا .\u003c/p\u003e"
+                          },
+                   "38":  {
+                              "verses":  {
+                                             "42:38":  {
+                                                           "id":  4310
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين استجابوا لربهم )\u003c/span\u003e أي : اتبعوا رسله وأطاعوا أمره ، واجتنبوا زجره ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأقاموا الصلاة )\u003c/span\u003e وهي أعظم العبادات لله عز وجل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وأمرهم شورى بينهم )\u003c/span\u003e أي : لا يبرمون أمرا حتى يتشاوروا فيه ، ليتساعدوا بآرائهم في مثل الحروب وما جرى مجراها ،\u003cspan class=\"blue\"\u003e كما قال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وشاورهم في الأمر فإذا عزمت فتوكل على الله )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ آل عمران : 159 ]\u003c/span\u003e ولهذا كان عليه \u003cspan class=\"reference brown\"\u003e[ الصلاة ]\u003c/span\u003e والسلام ، يشاورهم في الحروب ونحوها ، ليطيب بذلك قلوبهم . وهكذا لما حضرت عمر بن الخطاب \u003cspan class=\"reference brown\"\u003e[ رضي الله عنه ]\u003c/span\u003e الوفاة حين طعن ، جعل الأمر بعده شورى في ستة نفر ،\u003cspan class=\"blue\"\u003e وهم :\u003c/span\u003e عثمان ، وعلي ، وطلحة ، والزبير ، وسعد ، وعبد الرحمن بن عوف ، رضي الله عنهم أجمعين ، فاجتمع رأي الصحابة كلهم على تقديم عثمان عليهم ، رضي الله عنهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومما رزقناهم ينفقون )\u003c/span\u003e وذلك بالإحسان إلى خلق الله ، الأقرب إليهم منهم فالأقرب .\u003c/p\u003e"
+                          },
+                   "39":  {
+                              "verses":  {
+                                             "42:39":  {
+                                                           "id":  4311
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( والذين إذا أصابهم البغي هم ينتصرون )\u003c/span\u003e أي : فيهم قوة الانتصار ممن ظلمهم واعتدى عليهم ، ليسوا بعاجزين ولا أذلة ، بل يقدرون على الانتقام ممن بغى عليهم ، وإن كانوا مع هذا إذا قدروا عفوا ، كما قال يوسف ، عليه السلام ،\u003cspan class=\"blue\"\u003e لإخوته :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( لا تثريب عليكم اليوم يغفر الله لكم \u003cspan class=\"reference brown\"\u003e[ وهو أرحم الراحمين ]\u003c/span\u003e )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ يوسف : 92 ]\u003c/span\u003e ، مع قدرته على مؤاخذتهم ومقابلتهم على صنيعهم إليه ، وكما عفا رسول الله - صلى الله عليه وسلم - عن أولئك النفر الثمانين الذين قصدوه عام الحديبية ، ونزلوا من جبل التنعيم ، فلما قدر عليهم من عليهم مع قدرته على الانتقام ، وكذلك عفوه عن غورث بن الحارث ، الذي أراد الفتك به \u003cspan class=\"reference brown\"\u003e[ عليه السلام ]\u003c/span\u003e حين اخترط سيفه وهو نائم ، فاستيقظ ، عليه السلام ، وهو في يده صلتا ، فانتهره فوضعه من يده ، وأخذ رسول الله - صلى الله عليه وسلم - السيف من يده ، ودعا أصحابه ، ثم أعلمهم بما كان من أمره وأمر هذا الرجل ، وعفا عنه . وكذلك عفا عن لبيد بن الأعصم ، الذي سحره ، عليه السلام ، ومع هذا لم يعرض له ، ولا عاتبه ، مع قدرته عليه . وكذلك عفوه ، عليه السلام ، عن المرأة اليهودية - وهي زينب أخت مرحب اليهودي الخيبري الذي قتله محمود بن مسلمة - التي سمت الذراع يوم خيبر ، فأخبره الذراع بذلك ،\u003cspan class=\"blue\"\u003e فدعاها فاعترفت فقال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ما حملك على ذلك \"\u003c/span\u003e قالت : أردت إن كنت نبيا لم يضرك ، وإن لم تكن نبيا استرحنا منك ، فأطلقها ، عليه الصلاة والسلام ، ولكن لما مات منه بشر بن البراء قتلها به ، والأحاديث والآثار في هذا كثيرة جدا ، والحمد لله .\u003c/p\u003e"
+                          },
+                   "40":  {
+                              "verses":  {
+                                             "42:40":  {
+                                                           "id":  4312
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وجزاء سيئة سيئة مثلها )\u003c/span\u003e كقوله تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن اعتدى عليكم فاعتدوا عليه بمثل ما اعتدى عليكم )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 194 ]\u003c/span\u003e وكقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن عاقبتم فعاقبوا بمثل ما عوقبتم به ولئن صبرتم لهو خير للصابرين )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ النحل : 129 ]\u003c/span\u003e فشرع العدل وهو القصاص ، وندب إلى الفضل وهو العفو ، كقوله \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( والجروح قصاص فمن تصدق به فهو كفارة له )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ المائدة : 45 ]\u003c/span\u003e ; ولهذا قال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن عفا وأصلح فأجره على الله )\u003c/span\u003e أي : لا يضيع ذلك عند الله كما صح في الحديث : \u003cspan class=\"red\"\u003e\" وما زاد الله عبدا بعفو إلا عزا \"\u003c/span\u003e وقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه لا يحب الظالمين )\u003c/span\u003e أي : المعتدين ، وهو المبتدئ بالسيئة .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e[ وقال بعضهم : لما كانت الأقسام ثلاثة : ظالم لنفسه ، ومقتصد ، وسابق بالخيرات ،\u003cspan class=\"blue\"\u003e ذكر الأقسام الثلاثة في هذه الآية فذكر المقتصد وهو الذي يفيض بقدر حقه لقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( وجزاء سيئة سيئة مثلها )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e ثم ذكر السابق بقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فمن عفا وأصلح فأجره على الله )\u003c/span\u003e ثم ذكر الظالم بقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه لا يحب الظالمين )\u003c/span\u003e فأمر بالعدل ، وندب إلى الفضل ، ونهى من الظلم ] .\u003c/p\u003e"
+                          },
+                   "41":  {
+                              "verses":  {
+                                             "42:41":  {
+                                                           "id":  4313
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولمن انتصر بعد ظلمه فأولئك ما عليهم من سبيل )\u003c/span\u003e أي : ليس عليهم جناح في الانتصار ممن ظلمهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال ابن جرير حدثنا محمد بن عبد الله بن بزيع حدثنا معاذ بن معاذ ،\u003cspan class=\"blue\"\u003e حدثنا ابن عون قال :\u003c/span\u003e كنت أسأل عن الانتصار : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولمن انتصر بعد ظلمه فأولئك ما عليهم من سبيل )\u003c/span\u003e فحدثني علي بن زيد بن جدعان عن أم محمد - امرأة أبيه -\u003cspan class=\"blue\"\u003e قال ابن عون :\u003c/span\u003e زعموا أنها كانت تدخل على أم المؤمنين عائشة -\u003cspan class=\"blue\"\u003e قالت :\u003c/span\u003e قالت أم المؤمنين : دخل علينا رسول الله - صلى الله عليه وسلم - وعندنا زينب بنت جحش ، فجعل يصنع بيده شيئا فلم يفطن لها ، فقلت بيده حتى فطنته لها ، فأمسك . وأقبلت زينب تقحم لعائشة ، فنهاها ، فأبت أن تنتهي .\u003cspan class=\"blue\"\u003e فقال لعائشة :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" سبيها \"\u003c/span\u003e فسبتها فغلبتها ،\u003cspan class=\"blue\"\u003e وانطلقت زينب فأتت عليا فقالت :\u003c/span\u003e إن عائشة تقع بكم ، وتفعل بكم . فجاءت فاطمة فقال لها \u003cspan class=\"red\"\u003e\" إنها حبة أبيك ورب الكعبة \"\u003c/span\u003e فانصرفت ،\u003cspan class=\"blue\"\u003e وقالت لعلي :\u003c/span\u003e إني قلت له كذا وكذا ، فقال لي كذا وكذا .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e وجاء علي إلى النبي - صلى الله عليه وسلم - فكلمه في ذلك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eهكذا ورد هذا السياق ، وعلي بن زيد بن جدعان يأتي في رواياته بالمنكرات غالبا ، وهذا فيه نكارة ، والحديث الصحيح خلاف هذا السياق ، كما رواه النسائي وابن ماجه من حديث خالد بن سلمة الفأفاء ، عن عبد الله البهي ،\u003cspan class=\"blue\"\u003e عن عروة قال :\u003c/span\u003e قالت عائشة ،\u003cspan class=\"blue\"\u003e رضي الله عنها :\u003c/span\u003e ما علمت حتى دخلت علي زينب بغير إذن وهي غضبى ، ثم قالت لرسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e حسبك إذا قلبت لك ابنة أبي بكر ذريعتيها ثم أقبلت علي فأعرضت عنها ، حتى قال النبي - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" دونك فانتصري \"\u003c/span\u003e فأقبلت عليها حتى رأيتها وقد يبس ريقها في فمها ، ما ترد علي شيئا . فرأيت النبي - صلى الله عليه وسلم - يتهلل وجهه . وهذا لفظ النسائي .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال البزار : حدثنا يوسف بن موسى ، حدثنا أبو غسان ، حدثنا أبو الأحوص عن أبي حمزة ، عن إبراهيم ، عن الأسود ، عن عائشة ، رضي الله عنها ،\u003cspan class=\"blue\"\u003e قالت :\u003c/span\u003e قال رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" من دعا على من ظلمه فقد انتصر \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eورواه الترمذي من حديث أبي الأحوص ، عن أبي حمزة - واسمه ميمون -\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" لا نعرفه إلا من حديثه ، وقد تكلم فيه من قبل حفظه \"\u003c/span\u003e .\u003c/p\u003e"
+                          },
+                   "42":  {
+                              "verses":  {
+                                             "42:42":  {
+                                                           "id":  4314
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما السبيل )\u003c/span\u003e أي : إنما الحرج والعنت \u003cspan class=\"arabic qpc-hafs\"\u003e( على الذين يظلمون الناس ويبغون في الأرض بغير الحق )\u003c/span\u003e أي : يبدؤون الناس بالظلم .\u003cspan class=\"blue\"\u003e كما جاء في الحديث الصحيح :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" المستبان ما قالا فعلى البادئ ما لم يعتد المظلوم \"\u003c/span\u003e .\u003c/p\u003e\u003cp\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أولئك لهم عذاب أليم )\u003c/span\u003e أي : شديد موجع .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال أبو بكر بن أبي شيبة : حدثنا الحسن بن موسى ، حدثنا سعيد بن زيد - أخو حماد بن زيد - حدثنا عثمان الشحام ،\u003cspan class=\"blue\"\u003e حدثنا محمد بن واسع قال :\u003c/span\u003e قدمت مكة فإذا على الخندق منظرة ، فأخذت فانطلق بي إلى مروان بن المهلب ، وهو أمير على البصرة ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e حاجتك يا أبا عبد الله . قلت حاجتي إن استطعت أن تكون كما قال أخو بني عدي .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ومن أخو بني عدي ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e العلاء بن زياد ، استعمل صديقا له مرة على عمل ،\u003cspan class=\"blue\"\u003e فكتب إليه :\u003c/span\u003e أما بعد فإن استطعت ألا تبيت إلا وظهرك خفيف ، وبطنك خميص ، وكفك نقية من دماء المسلمين وأموالهم ، فإنك إذا فعلت ذلك لم يكن عليك سبيل ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنما السبيل على الذين يظلمون الناس ويبغون في الأرض بغير الحق أولئك لهم عذاب أليم )\u003c/span\u003e فقال صدق والله ونصح ثم قال : ما حاجتك يا أبا عبد الله ؟\u003cspan class=\"blue\"\u003e قلت :\u003c/span\u003e حاجتي أن تلحقني بأهلي .\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e نعم رواه ابن أبي حاتم .\u003c/p\u003e"
+                          },
+                   "43":  {
+                              "verses":  {
+                                             "42:43":  {
+                                                           "id":  4315
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eثم إنه تعالى لما ذم الظلم وأهله وشرع القصاص ،\u003cspan class=\"blue\"\u003e قال نادبا إلى العفو والصفح :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولمن صبر وغفر )\u003c/span\u003e أي : صبر على الأذى وستر السيئة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إن ذلك لمن عزم الأمور )\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eقال سعيد بن جبير : \u003cspan class=\"reference brown\"\u003e[ يعني ]\u003c/span\u003e لمن حق الأمور التي أمر الله بها ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e لمن الأمور المشكورة والأفعال الحميدة التي عليها ثواب جزيل وثناء جميل .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال ابن أبي حاتم : حدثنا أبي ، حدثنا عمران بن موسى الطرسوسي ، حدثنا عبد الصمد بن يزيد - خادم الفضيل بن عياض -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e سمعت الفضيل بن عياض يقول إذا أتاك رجل يشكو إليك رجلا فقل : \u003cspan class=\"red\"\u003e\" يا أخي ، اعف عنه \"\u003c/span\u003e . فإن العفو أقرب للتقوى ،\u003cspan class=\"blue\"\u003e فإن قال :\u003c/span\u003e لا يحتمل قلبي العفو ، ولكن أنتصر كما أمرني الله عز وجل . فقل له إن كنت تحسن أن تنتصر وإلا فارجع إلى باب العفو ، فإنه باب واسع ، فإنه من عفا وأصلح فأجره على الله ، وصاحب العفو ينام على فراشه بالليل ، وصاحب الانتصار يقلب الأمور .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقال الإمام أحمد : حدثنا يحيى - يعني ابن سعيد القطان - عن ابن عجلان ، حدثنا سعيد بن أبي سعيد ، عن أبي هريرة ، رضي الله عنه أن رجلا شتم أبا بكر والنبي - صلى الله عليه وسلم - جالس ، فجعل النبي - صلى الله عليه وسلم - يعجب ويتبسم ، فلما أكثر رد عليه بعض قوله ، فغضب النبي - صلى الله عليه وسلم - وقام ،\u003cspan class=\"blue\"\u003e فلحقه أبو بكر فقال :\u003c/span\u003e يا رسول الله إنه كان يشتمني وأنت جالس ،\u003cspan class=\"blue\"\u003e فلما رددت عليه بعض قوله غضبت وقمت ! قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إنه كان معك ملك يرد عنك ، فلما رددت عليه بعض قوله حضر الشيطان ، فلم أكن لأقعد مع الشيطان \"\u003c/span\u003e .\u003cspan class=\"blue\"\u003e ثم قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" يا أبا بكر ، ثلاث كلهن حق ، ما من عبد ظلم بمظلمة فيغضي عنها لله ، إلا أعز الله بها نصره ، وما فتح رجل باب عطية يريد بها صلة ، إلا زاده الله بها كثرة ، وما فتح رجل باب مسألة يريد بها كثرة ، إلا زاده الله بها قلة \"\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوكذا رواه أبو داود ، عن عبد الأعلى بن حماد ، عن سفيان بن عيينة -\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e ورواه صفوان بن عيسى ، كلاهما عن محمد بن عجلان ورواه من طريق الليث ، عن سعيد المقبري ، عن بشير بن المحرر ، عن سعيد بن المسيب مرسلا .\u003c/p\u003e\u003cp\u003eوهذا الحديث في غاية الحسن في المعنى ، وهو سبب سبه للصديق .\u003c/p\u003e"
+                          },
+                   "44":  {
+                              "verses":  {
+                                             "42:44":  {
+                                                           "id":  4316
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيقول تعالى مخبرا عن نفسه الكريمة : إنه ما شاء كان ولا راد له ، وما لم يشأ لم يكن فلا موجد له وأنه من هداه فلا مضل له ، ومن يضلل فلا هادي له ،\u003cspan class=\"blue\"\u003e كما قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يضلل فلن تجد له وليا مرشدا )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الكهف : 17 ]\u003c/span\u003e\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال مخبرا عن الظالمين ، وهم المشركون بالله \u003cspan class=\"arabic qpc-hafs\"\u003e( لما رأوا العذاب )\u003c/span\u003e أي : يوم القيامة يتمنون الرجعة إلى الدنيا ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يقولون هل إلى مرد من سبيل )\u003c/span\u003e ، كما قال \u003cspan class=\"reference brown\"\u003e[ تعالى ]\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولو ترى إذ وقفوا على النار فقالوا يا ليتنا نرد ولا نكذب بآيات ربنا ونكون من المؤمنين بل بدا لهم ما كانوا يخفون من قبل ولو ردوا لعادوا لما نهوا عنه وإنهم لكاذبون )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الأنعام : 27 ، 28 ]\u003c/span\u003e .\u003c/p\u003e"
+                          },
+                   "45":  {
+                              "verses":  {
+                                             "42:45":  {
+                                                           "id":  4317
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وتراهم يعرضون عليها )\u003c/span\u003e أي : على النار \u003cspan class=\"arabic qpc-hafs\"\u003e( خاشعين من الذل )\u003c/span\u003e أي : الذي قد اعتراهم بما أسلفوا من عصيان الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ينظرون من طرف خفي )\u003c/span\u003e قال مجاهد : يعني ذليلا ، أي ينظرون إليها مسارقة خوفا منها ، والذي يحذرون منه واقع بهم لا محالة ، وما هو أعظم مما في نفوسهم ، أجارنا الله من ذلك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( وقال الذين آمنوا )\u003c/span\u003e أي : يقولون يوم القيامة : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن الخاسرين )\u003c/span\u003e أي : الخسار الأكبر \u003cspan class=\"arabic qpc-hafs\"\u003e( الذين خسروا أنفسهم وأهليهم يوم القيامة )\u003c/span\u003e أي : ذهب بهم إلى النار فعدموا لذتهم في دار الأبد ، وخسروا أنفسهم ، وفرق بينهم وبين أصحابهم وأحبابهم وأهاليهم وقراباتهم ، فخسروهم ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ألا إن الظالمين في عذاب مقيم )\u003c/span\u003e أي : دائم سرمدي أبدي ، لا خروج لهم منها ولا محيد لهم عنها .\u003c/p\u003e"
+                          },
+                   "46":  {
+                              "verses":  {
+                                             "42:46":  {
+                                                           "id":  4318
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وما كان لهم من أولياء ينصرونهم من دون الله )\u003c/span\u003e أي : ينقذونهم مما هم فيه من العذاب والنكال ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ومن يضلل الله فما له من سبيل )\u003c/span\u003e أي : ليس له خلاص .\u003c/p\u003e"
+                          },
+                   "47":  {
+                              "verses":  {
+                                             "42:47":  {
+                                                           "id":  4319
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eلما ذكر تعالى ما يكون في يوم القيامة من الأهوال والأمور العظام الهائلة حذر منه وأمر بالاستعداد له ،\u003cspan class=\"blue\"\u003e فقال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( استجيبوا لربكم من قبل أن يأتي يوم لا مرد له من الله )\u003c/span\u003e أي : إذا أمر بكونه فإنه كلمح البصر يكون ، وليس له دافع ولا مانع .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( ما لكم من ملجإ يومئذ وما لكم من نكير )\u003c/span\u003e أي : ليس لكم حصن تتحصنون فيه ، ولا مكان يستركم وتتنكرون فيه ، فتغيبون عن بصره ، تبارك وتعالى ، بل هو محيط بكم بعلمه وبصره وقدرته ، فلا ملجأ منه إلا إليه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( يقول الإنسان يومئذ أين المفر . كلا لا وزر إلى ربك يومئذ المستقر )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ القيامة : 10 - 12 ]\u003c/span\u003e .\u003c/p\u003e"
+                          },
+                   "48":  {
+                              "verses":  {
+                                             "42:48":  {
+                                                           "id":  4320
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن أعرضوا )\u003c/span\u003e يعني : المشركين \u003cspan class=\"arabic qpc-hafs\"\u003e( فما أرسلناك عليهم حفيظا )\u003c/span\u003e أي : لست عليهم بمصيطر .\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ليس عليك هداهم ولكن الله يهدي من يشاء )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ البقرة : 272 ]\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e وقال تعالى :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( فإنما عليك البلاغ وعلينا الحساب )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ الرعد : 40 ]\u003c/span\u003e وقال هاهنا : \u003cspan class=\"arabic qpc-hafs\"\u003e( إن عليك إلا البلاغ )\u003c/span\u003e أي : إنما كلفناك أن تبلغهم رسالة الله إليهم .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eثم قال تعالى : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنا إذا أذقنا الإنسان منا رحمة فرح بها )\u003c/span\u003e أي : إذا أصابه رخاء ونعمة فرح بذلك ، \u003cspan class=\"arabic qpc-hafs\"\u003e( وإن تصبهم )\u003c/span\u003e يعني الناس \u003cspan class=\"arabic qpc-hafs\"\u003e( سيئة )\u003c/span\u003e أي : جدب ونقمة وبلاء وشدة ، \u003cspan class=\"arabic qpc-hafs\"\u003e( فإن الإنسان كفور )\u003c/span\u003e أي : يجحد ما تقدم من النعمة ولا يعرف إلا الساعة الراهنة ، فإن أصابته نعمة أشر وبطر ، وإن أصابته محنة يئس وقنط ، كما قال رسول الله - صلى الله عليه وسلم - \u003cspan class=\"reference brown\"\u003e[ للنساء ]\u003c/span\u003e يا معشر النساء ، تصدقن فإني رأيتكن أكثر أهل النار \u003cspan class=\"red\"\u003e\" فقالت امرأة : ولم يا رسول الله ؟\u003cspan class=\"blue\"\u003e قال :\u003c/span\u003e \"\u003c/span\u003e لأنكن تكثرن الشكاية ، وتكفرن العشير ،\u003cspan class=\"blue\"\u003e لو أحسنت إلى إحداهن الدهر ثم تركت يوما قالت :\u003c/span\u003e ما رأيت منك خيرا قط \u003cspan class=\"red\"\u003e\" وهذا حال أكثر الناس إلا من هداه الله وألهمه رشده ، وكان من الذين آمنوا وعملوا الصالحات ، فالمؤمن كما قال رسول الله - صلى الله عليه وسلم - \"\u003c/span\u003e إن أصابته سراء شكر فكان خيرا له ، وإن أصابته ضراء صبر فكان خيرا له ، وليس ذلك لأحد إلا للمؤمن \" .\u003c/p\u003e"
+                          },
+                   "49":  {
+                              "verses":  {
+                                             "42:49":  {
+                                                           "id":  4321
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eيخبر تعالى أنه خالق السموات والأرض ومالكهما والمتصرف فيهما ، وأنه ما شاء كان ، وما لم يشأ لم يكن ، وأنه يعطي من يشاء ، ويمنع من يشاء ، ولا مانع لما أعطى ، ولا معطي لما منع ، وأنه يخلق ما يشاء ، و \u003cspan class=\"arabic qpc-hafs\"\u003e( يهب لمن يشاء إناثا )\u003c/span\u003e أي : يرزقه البنات فقط -\u003cspan class=\"blue\"\u003e قال البغوي :\u003c/span\u003e ومنهم لوط ، عليه السلام \u003cspan class=\"arabic qpc-hafs\"\u003e( ويهب لمن يشاء الذكور )\u003c/span\u003e أي : يرزقه البنين فقط .\u003cspan class=\"blue\"\u003e قال البغوي :\u003c/span\u003e كإبراهيم الخليل ، عليه السلام - لم يولد له أنثى ، .\u003c/p\u003e"
+                          },
+                   "50":  {
+                              "verses":  {
+                                             "42:50":  {
+                                                           "id":  4322
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( أو يزوجهم ذكرانا وإناثا )\u003c/span\u003e أي : ويعطي من يشاء من الناس الزوجين الذكر والأنثى ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e من هذا وهذا .\u003cspan class=\"blue\"\u003e قال البغوي :\u003c/span\u003e كمحمد ، عليه الصلاة والسلام \u003cspan class=\"arabic qpc-hafs\"\u003e( ويجعل من يشاء عقيما )\u003c/span\u003e أي : لا يولد له .\u003cspan class=\"blue\"\u003e قال البغوي :\u003c/span\u003e كيحيى وعيسى ، عليهما السلام ، فجعل الناس أربعة أقسام ، منهم من يعطيه البنات ، ومنهم من يعطيه البنين ، ومنهم من يعطيه من النوعين ذكورا وإناثا ، ومنهم من يمنعه هذا وهذا ، فيجعله عقيما لا نسل له ولا يولد له ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه عليم )\u003c/span\u003e أي : بمن يستحق كل قسم من هذه الأقسام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( قدير )\u003c/span\u003e أي : على من يشاء ، من تفاوت الناس في ذلك .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوهذا المقام شبيه بقوله تعالى عن عيسى : \u003cspan class=\"arabic qpc-hafs\"\u003e( ولنجعله آية للناس )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ مريم : 21 ]\u003c/span\u003e أي : دلالة لهم على قدرته ، تعالى وتقدس ، حيث خلق الخلق على أربعة أقسام ، فآدم ، عليه السلام ، مخلوق من تراب لا من ذكر ولا أنثى ، وحواء عليها السلام ، \u003cspan class=\"reference brown\"\u003e[ مخلوقة ]\u003c/span\u003e من ذكر بلا أنثى ، وسائر الخلق سوى عيسى \u003cspan class=\"reference brown\"\u003e[ عليه السلام ]\u003c/span\u003e من ذكر وأنثى ، وعيسى ، عليه السلام ، من أنثى بلا ذكر فتمت الدلالة بخلق عيسى ابن مريم ،\u003cspan class=\"blue\"\u003e عليهما السلام ; ولهذا قال :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( ولنجعله آية للناس )\u003c/span\u003e ، فهذا المقام في الآباء ، والمقام الأول في الأبناء ، وكل منهما أربعة أقسام ، فسبحان العليم القدير .\u003c/p\u003e"
+                          },
+                   "51":  {
+                              "verses":  {
+                                             "42:51":  {
+                                                           "id":  4323
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eهذه مقامات الوحي بالنسبة إلى جناب الله ، عز وجل ، وهو أنه تعالى تارة يقذف في روع النبي - صلى الله عليه وسلم - شيئا لا يتمارى فيه أنه من الله عز وجل ، كما جاء في صحيح ابن حبان ، عن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e أنه قال :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" إن روح القدس نفث في روعي : أن نفسا لن تموت حتى تستكمل رزقها وأجلها ، فاتقوا الله وأجملوا في الطلب \"\u003c/span\u003e .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو من وراء حجاب )\u003c/span\u003e كما كلم موسى ، عليه السلام ، فإنه سأل الرؤية بعد التكليم ، فحجب عنها .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوفي الصحيح أن رسول الله - صلى الله عليه وسلم -\u003cspan class=\"blue\"\u003e قال لجابر بن عبد الله :\u003c/span\u003e \u003cspan class=\"red\"\u003e\" ما كلم الله أحدا إلا من وراء حجاب ، وإنه كلم أباك كفاحا \"\u003c/span\u003e الحديث ، وكان \u003cspan class=\"reference brown\"\u003e[ أبوه ]\u003c/span\u003e قد قتل يوم أحد ، ولكن هذا في عالم البرزخ ، والآية إنما هي في الدار الدنيا .\u003c/p\u003e\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( أو يرسل رسولا فيوحي بإذنه ما يشاء )\u003c/span\u003e كما ينزل جبريل \u003cspan class=\"reference brown\"\u003e[ عليه السلام ]\u003c/span\u003e وغيره من الملائكة على الأنبياء ، عليهم السلام ، \u003cspan class=\"arabic qpc-hafs\"\u003e( إنه علي حكيم )\u003c/span\u003e ، فهو علي عليم خبير حكيم .\u003c/p\u003e"
+                          },
+                   "52":  {
+                              "verses":  {
+                                             "42:52":  {
+                                                           "id":  4324
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003eوقوله \u003cspan class=\"arabic qpc-hafs\"\u003e( وكذلك أوحينا إليك روحا من أمرنا )\u003c/span\u003e يعني القرآن ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ما كنت تدري ما الكتاب ولا الإيمان )\u003c/span\u003e أي : على التفصيل الذي شرع لك في القرآن ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ولكن جعلناه )\u003c/span\u003e أي القرآن \u003cspan class=\"arabic qpc-hafs\"\u003e( نورا نهدي به من نشاء من عبادنا )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e كقوله :\u003c/span\u003e \u003cspan class=\"arabic qpc-hafs\"\u003e( قل هو للذين آمنوا هدى وشفاء والذين لا يؤمنون في آذانهم وقر وهو عليهم عمى أولئك ينادون من مكان بعيد )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ فصلت : 44 ]\u003c/span\u003e .\u003c/p\u003e\u003cp\u003eوقوله : \u003cspan class=\"arabic qpc-hafs\"\u003e( وإنك )\u003c/span\u003e \u003cspan class=\"reference brown\"\u003e[ أي ]\u003c/span\u003e يا محمد \u003cspan class=\"arabic qpc-hafs\"\u003e( لتهدي إلى صراط مستقيم )\u003c/span\u003e ، وهو الخلق القويم .\u003cspan class=\"blue\"\u003e ثم فسره بقوله :\u003c/span\u003e\u003c/p\u003e"
+                          },
+                   "53":  {
+                              "verses":  {
+                                             "42:53":  {
+                                                           "id":  4325
+                                                       }
+                                         },
+                              "resource_id":  14,
+                              "resource_name":  "ابن كثير",
+                              "language_id":  9,
+                              "slug":  "ar-tafsir-ibn-kathir",
+                              "translated_name":  {
+                                                      "name":  "Tafsir Ibn Kathir",
+                                                      "language_name":  "english"
+                                                  },
+                              "text":  "\u003cp lang=\"ar\" class=\"ar \"\u003e\u003cspan class=\"arabic qpc-hafs\"\u003e( صراط الله \u003cspan class=\"reference brown\"\u003e[ الذي ]\u003c/span\u003e )\u003c/span\u003e أي : شرعه الذي أمر به الله ، \u003cspan class=\"arabic qpc-hafs\"\u003e( الذي له ما في السموات وما في الأرض )\u003c/span\u003e أي : ربهما ومالكهما ، والمتصرف فيهما ، الحاكم الذي لا معقب لحكمه ، \u003cspan class=\"arabic qpc-hafs\"\u003e( ألا إلى الله تصير الأمور )\u003c/span\u003e ،\u003cspan class=\"blue\"\u003e أي :\u003c/span\u003e ترجع الأمور ، فيفصلها ويحكم فيها .\u003c/p\u003e\u003cp\u003eآخر تفسير سورة \u003cspan class=\"red\"\u003e\" \u003cspan class=\"reference brown\"\u003e[ حم ]\u003c/span\u003e الشورى \"\u003c/span\u003e والحمد لله رب العالمين .\u003c/p\u003e"
+                          }
+               }
+}
