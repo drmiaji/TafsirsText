@@ -2,14 +2,6 @@
   "tafsirs": {
     "ar": [
       {
-        "key": "ar_tafsir-ibn-kathir",
-        "name": "ابن كثير",
-        "author": "حافظ ابن كثير",
-        "langCode": "ar",
-        "langName": "العربية",
-        "slug": "ar-tafsir-ibn-kathir"
-      },
-      {
         "key": "ar-tafseer-al-qurtubi",
         "name": "ar-tafseer-al-qurtubi",
         "author": "",
@@ -122,6 +114,14 @@
         "slug": "ar_tafsir-al-razi"
       },
       {
+        "key": "ar_tafsir-ibn-kathir",
+        "name": "ابن كثير",
+        "author": "حافظ ابن كثير",
+        "langCode": "ar",
+        "langName": "العربية",
+        "slug": "ar-tafsir-ibn-kathir"
+      },
+      {
         "key": "ar_tafsir-jalalayn",
         "name": "ar_tafsir-jalalayn",
         "author": "",
@@ -154,15 +154,77 @@
         "slug": "ar_wordmeanings"
       }
     ],
-    "en": [
+    "as": [
       {
-        "key": "en_tafsir-ibn-kathir",
-        "name": "Tafsir Ibn Kathir",
-        "author": "Hafiz Ibn Kathir",
-        "langCode": "en",
-        "langName": "English",
-        "slug": "en-tafisr-ibn-kathir"
+        "key": "as_mokhtasar",
+        "name": "Tafsir As Mokhtasar",
+        "author": "",
+        "langCode": "as",
+        "langName": "অসমীয়া",
+        "slug": "as_mokhtasar"
+      }
+    ],
+    "bn": [
+      {
+        "key": "bn-mokhtasar",
+        "name": "bn-mokhtasar",
+        "author": "",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn-mokhtasar"
       },
+      {
+        "key": "bn-tafsir-ahsanul-bayaan",
+        "name": "bn-tafsir-ahsanul-bayaan",
+        "author": "",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn-tafsir-ahsanul-bayaan"
+      },
+      {
+        "key": "bn_mokhtasar",
+        "name": "Tafsir Bn Mokhtasar",
+        "author": "",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn_mokhtasar"
+      },
+      {
+        "key": "bn_tafsirbayaan",
+        "name": "Tafsir Bn Tafsirbayaan",
+        "author": "",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn_tafsirbayaan"
+      },
+      {
+        "key": "bn_tafsir-ibn-kathir",
+        "name": "তাফসির ইবনে কাসীর",
+        "author": "হাফিজ ইবনে কাসীর",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn-tafseer-ibn-e-kaseer"
+      },
+      {
+        "key": "bn_tafsir_kathir",
+        "name": "Tafsir Bn Kathir",
+        "author": "",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn_tafsir_kathir"
+      }
+    ],
+    "de": [
+      {
+        "key": "de_mokhtasar",
+        "name": "Tafsir De Mokhtasar",
+        "author": "",
+        "langCode": "de",
+        "langName": "Deutsch",
+        "slug": "de_mokhtasar"
+      }
+    ],
+    "en": [
       {
         "key": "en_jalalayn",
         "name": "Tafsir En Jalalayn",
@@ -170,25 +232,165 @@
         "langCode": "en",
         "langName": "English",
         "slug": "en_jalalayn"
+      },
+      {
+        "key": "en_tafsir-ibn-kathir",
+        "name": "Tafsir Ibn Kathir",
+        "author": "Hafiz Ibn Kathir",
+        "langCode": "en",
+        "langName": "English",
+        "slug": "en-tafisr-ibn-kathir"
+      }
+    ],
+    "fa": [
+      {
+        "key": "fa_saadi",
+        "name": "Tafsir Fa Saadi",
+        "author": "",
+        "langCode": "fa",
+        "langName": "فارسی",
+        "slug": "fa_saadi"
+      }
+    ],
+    "fr": [
+      {
+        "key": "fr_ibnkathir",
+        "name": "Tafsir Fr Ibnkathir",
+        "author": "",
+        "langCode": "fr",
+        "langName": "Français",
+        "slug": "fr_ibnkathir"
+      }
+    ],
+    "id": [
+      {
+        "key": "id_saadi",
+        "name": "Tafsir Id Saadi",
+        "author": "",
+        "langCode": "id",
+        "langName": "Indonesia",
+        "slug": "id_saadi"
+      },
+      {
+        "key": "in_tafsiribnkathir",
+        "name": "Tafsir In Tafsiribnkathir",
+        "author": "",
+        "langCode": "id",
+        "langName": "Indonesia",
+        "slug": "in_tafsiribnkathir"
+      }
+    ],
+    "km": [
+      {
+        "key": "km_mokhtasar",
+        "name": "Tafsir Km Mokhtasar",
+        "author": "",
+        "langCode": "km",
+        "langName": "ភាសាខ្មែរ",
+        "slug": "km_mokhtasar"
+      }
+    ],
+    "ku": [
+      {
+        "key": "ku-tafsir-rebar",
+        "name": "تەفسیری ڕێبەر",
+        "author": "محمد سەڵاحەدین عەبدولکەریم",
+        "langCode": "ku",
+        "langName": "کوردی",
+        "slug": "kurd-tafsir-rebar"
+      },
+      {
+        "key": "ku_rebar",
+        "name": "Tafsir Ku Rebar",
+        "author": "",
+        "langCode": "ku",
+        "langName": "کوردی",
+        "slug": "ku_rebar"
+      }
+    ],
+    "ml": [
+      {
+        "key": "ml_amani",
+        "name": "Tafsir Ml Amani",
+        "author": "",
+        "langCode": "ml",
+        "langName": "മലയാളം",
+        "slug": "ml_amani"
+      }
+    ],
+    "ru": [
+      {
+        "key": "ru_ibnkathir",
+        "name": "Tafsir Ru Ibnkathir",
+        "author": "",
+        "langCode": "ru",
+        "langName": "русский",
+        "slug": "ru_ibnkathir"
+      },
+      {
+        "key": "ru_sa3dy",
+        "name": "Tafsir Ru Sa3Dy",
+        "author": "",
+        "langCode": "ru",
+        "langName": "русский",
+        "slug": "ru_sa3dy"
+      },
+      {
+        "key": "ru_tafsir-al-sadi",
+        "name": "Al-Sa'di",
+        "author": "Al-Sa'di",
+        "langCode": "ru",
+        "langName": "русский",
+        "slug": "ru-tafseer-al-saddi"
+      }
+    ],
+    "sq": [
+      {
+        "key": "sq_ibnkathir",
+        "name": "Tafsir Sq Ibnkathir",
+        "author": "",
+        "langCode": "sq",
+        "langName": "Shqip",
+        "slug": "sq_ibnkathir"
+      },
+      {
+        "key": "sq_saadi",
+        "name": "Tafsir Sq Saadi",
+        "author": "",
+        "langCode": "sq",
+        "langName": "Shqip",
+        "slug": "sq_saadi"
+      }
+    ],
+    "tl": [
+      {
+        "key": "tl_mokhtasar",
+        "name": "Tafsir Tl Mokhtasar",
+        "author": "",
+        "langCode": "tl",
+        "langName": "Filipino",
+        "slug": "tl_mokhtasar"
+      }
+    ],
+    "tr": [
+      {
+        "key": "tr_mokhtasar",
+        "name": "Tafsir Tr Mokhtasar",
+        "author": "",
+        "langCode": "tr",
+        "langName": "Türkçe",
+        "slug": "tr_mokhtasar"
+      },
+      {
+        "key": "tr_saadi",
+        "name": "Tafsir Tr Saadi",
+        "author": "",
+        "langCode": "tr",
+        "langName": "Türkçe",
+        "slug": "tr_saadi"
       }
     ],
     "ur": [
-      {
-        "key": "ur_tafsir-ibn-kathir",
-        "name": "تفسیر ابن کثیر",
-        "author": "حافظ ابن کثیر",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "tafseer-ibn-e-kaseer-urdu"
-      },
-      {
-        "key": "ur_tafsir-bayan-ul-quran",
-        "name": "تفسیر بیان القرآن",
-        "author": "اسرار احمد",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "tafsir-bayan-ul-quran"
-      },
       {
         "key": "ur_ahsanulbayan",
         "name": "Tafsir Ur Ahsanulbayan",
@@ -230,6 +432,22 @@
         "slug": "ur_tafseer assadi"
       },
       {
+        "key": "ur_tafsir-bayan-ul-quran",
+        "name": "تفسیر بیان القرآن",
+        "author": "اسرار احمد",
+        "langCode": "ur",
+        "langName": "اردو",
+        "slug": "tafsir-bayan-ul-quran"
+      },
+      {
+        "key": "ur_tafsir-ibn-kathir",
+        "name": "تفسیر ابن کثیر",
+        "author": "حافظ ابن کثیر",
+        "langCode": "ur",
+        "langName": "اردو",
+        "slug": "tafseer-ibn-e-kaseer-urdu"
+      },
+      {
         "key": "ur_tafsiribnkathir",
         "name": "Tafsir Ur Tafsiribnkathir",
         "author": "",
@@ -246,243 +464,13 @@
         "slug": "ur_taiseerurrahman"
       }
     ],
-    "bn": [
-      {
-        "key": "bn_tafsir-ibn-kathir",
-        "name": "তাফসির ইবনে কাসীর",
-        "author": "হাফিজ ইবনে কাসীর",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn-tafseer-ibn-e-kaseer"
-      },
-      {
-        "key": "bn-mokhtasar",
-        "name": "bn-mokhtasar",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn-mokhtasar"
-      },
-      {
-        "key": "bn-tafsir-ahsanul-bayaan",
-        "name": "bn-tafsir-ahsanul-bayaan",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn-tafsir-ahsanul-bayaan"
-      },
-      {
-        "key": "bn_mokhtasar",
-        "name": "Tafsir Bn Mokhtasar",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn_mokhtasar"
-      },
-      {
-        "key": "bn_tafsirbayaan",
-        "name": "Tafsir Bn Tafsirbayaan",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn_tafsirbayaan"
-      },
-      {
-        "key": "bn_tafsir_kathir",
-        "name": "Tafsir Bn Kathir",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn_tafsir_kathir"
-      }
-    ],
-    "ku": [
-      {
-        "key": "ku-tafsir-rebar",
-        "name": "تەفسیری ڕێبەر",
-        "author": "محمد سەڵاحەدین عەبدولکەریم",
-        "langCode": "ku",
-        "langName": "کوردی",
-        "slug": "kurd-tafsir-rebar"
-      },
-      {
-        "key": "ku_rebar",
-        "name": "Tafsir Ku Rebar",
-        "author": "",
-        "langCode": "ku",
-        "langName": "کوردی",
-        "slug": "ku_rebar"
-      }
-    ],
-    "ru": [
-      {
-        "key": "ru_tafsir-al-sadi",
-        "name": "Al-Sa'di",
-        "author": "Al-Sa'di",
-        "langCode": "ru",
-        "langName": "русский",
-        "slug": "ru-tafseer-al-saddi"
-      },
-      {
-        "key": "ru_ibnkathir",
-        "name": "Tafsir Ru Ibnkathir",
-        "author": "",
-        "langCode": "ru",
-        "langName": "русский",
-        "slug": "ru_ibnkathir"
-      },
-      {
-        "key": "ru_sa3dy",
-        "name": "Tafsir Ru Sa3Dy",
-        "author": "",
-        "langCode": "ru",
-        "langName": "русский",
-        "slug": "ru_sa3dy"
-      }
-    ],
-    "as": [
-      {
-        "key": "as_mokhtasar",
-        "name": "Tafsir As Mokhtasar",
-        "author": "",
-        "langCode": "as",
-        "langName": "as",
-        "slug": "as_mokhtasar"
-      }
-    ],
-    "de": [
-      {
-        "key": "de_mokhtasar",
-        "name": "Tafsir De Mokhtasar",
-        "author": "",
-        "langCode": "de",
-        "langName": "Deutsch",
-        "slug": "de_mokhtasar"
-      }
-    ],
-    "fa": [
-      {
-        "key": "fa_saadi",
-        "name": "Tafsir Fa Saadi",
-        "author": "",
-        "langCode": "fa",
-        "langName": "فارسی",
-        "slug": "fa_saadi"
-      }
-    ],
-    "fr": [
-      {
-        "key": "fr_ibnkathir",
-        "name": "Tafsir Fr Ibnkathir",
-        "author": "",
-        "langCode": "fr",
-        "langName": "Français",
-        "slug": "fr_ibnkathir"
-      }
-    ],
-    "id": [
-      {
-        "key": "id_saadi",
-        "name": "Tafsir Id Saadi",
-        "author": "",
-        "langCode": "id",
-        "langName": "Indonesia",
-        "slug": "id_saadi"
-      }
-    ],
-    "in": [
-      {
-        "key": "in_tafsiribnkathir",
-        "name": "Tafsir In Tafsiribnkathir",
-        "author": "",
-        "langCode": "in",
-        "langName": "in",
-        "slug": "in_tafsiribnkathir"
-      }
-    ],
-    "unknown": [
-      {
-        "key": "kathir",
-        "name": "Tafsir Kathir",
-        "author": "",
-        "langCode": "unknown",
-        "langName": "unknown",
-        "slug": "kathir"
-      }
-    ],
-    "km": [
-      {
-        "key": "km_mokhtasar",
-        "name": "Tafsir Km Mokhtasar",
-        "author": "",
-        "langCode": "km",
-        "langName": "km",
-        "slug": "km_mokhtasar"
-      }
-    ],
-    "ml": [
-      {
-        "key": "ml_amani",
-        "name": "Tafsir Ml Amani",
-        "author": "",
-        "langCode": "ml",
-        "langName": "മലയാളം",
-        "slug": "ml_amani"
-      }
-    ],
-    "sq": [
-      {
-        "key": "sq_ibnkathir",
-        "name": "Tafsir Sq Ibnkathir",
-        "author": "",
-        "langCode": "sq",
-        "langName": "Shqip",
-        "slug": "sq_ibnkathir"
-      },
-      {
-        "key": "sq_saadi",
-        "name": "Tafsir Sq Saadi",
-        "author": "",
-        "langCode": "sq",
-        "langName": "Shqip",
-        "slug": "sq_saadi"
-      }
-    ],
-    "tl": [
-      {
-        "key": "tl_mokhtasar",
-        "name": "Tafsir Tl Mokhtasar",
-        "author": "",
-        "langCode": "tl",
-        "langName": "tl",
-        "slug": "tl_mokhtasar"
-      }
-    ],
-    "tr": [
-      {
-        "key": "tr_mokhtasar",
-        "name": "Tafsir Tr Mokhtasar",
-        "author": "",
-        "langCode": "tr",
-        "langName": "Türkçe",
-        "slug": "tr_mokhtasar"
-      },
-      {
-        "key": "tr_saadi",
-        "name": "Tafsir Tr Saadi",
-        "author": "",
-        "langCode": "tr",
-        "langName": "Türkçe",
-        "slug": "tr_saadi"
-      }
-    ],
     "vi": [
       {
         "key": "vi_mokhtasar",
         "name": "Tafsir Vi Mokhtasar",
         "author": "",
         "langCode": "vi",
-        "langName": "vi",
+        "langName": "Tiếng Việt",
         "slug": "vi_mokhtasar"
       }
     ],
