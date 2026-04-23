@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿الْكَوْثَرَ﴾ الخَيْرَ الكَثِيرَ، وَمِنْهَ نَهْرُ الكَوْثَرِ فِي الجَنَّةِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَانْحَرْ﴾ اذْبَحْ ذَبِيحَتَكَ لِلّهِ وَحْدَهُ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿شَانِئَكَ﴾ مُبْغِضَكَ.</h2>\n<p>﴿الأَبْتَرُ﴾ المُنْقَطِعُ أَثَرُهُ، المَقْطُوعُ مِنْ كُلِّ خَيْرٍ.</p>"
+        }
+    }
+}

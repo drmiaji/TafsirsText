@@ -1,0 +1,3637 @@
+{
+    "chapter": 26,
+    "verses": {
+        "1": {
+            "verses": {
+                "26:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>{塔，辛，米姆目。}此类经文已在《黄牛》章首解释过。</p>"
+        },
+        "2": {
+            "verses": {
+                "26:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这些是能分辨真理与谬误的《古兰经》文。</p>"
+        },
+        "3": {
+            "verses": {
+                "26:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！也许你为了千方百计地引导他们而痛不欲生。</p>"
+        },
+        "4": {
+            "verses": {
+                "26:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果我意欲，我将从天上为他们降下一种迹象，他们就为它而俯首帖耳。但是，我不意欲这样，是为了考验他们，看他们是否信仰幽玄。</p>"
+        },
+        "5": {
+            "verses": {
+                "26:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这些以物配主者，每当从至仁主降示确定真主的独一和先知为圣真实的证据时，他们既不听也不信。</p>"
+        },
+        "6": {
+            "verses": {
+                "26:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们已否认了使者给他们带来的真理，他们曾经嘲笑的刑罚将降临他们，他们将遭到惩罚。</p>"
+        },
+        "7": {
+            "verses": {
+                "26:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这些坚持否认的人，难道没有观看大地吗？我怎样使大地上生长出了美丽的、有用的植物？</p>"
+        },
+        "8": {
+            "verses": {
+                "26:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使大地长满各种植物清楚地证明造物主有能力复活，但他们大多不信。</p>"
+        },
+        "9": {
+            "verses": {
+                "26:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，谁也不能战胜祂，祂是慈爱仆人的。</p>"
+        },
+        "10": {
+            "verses": {
+                "26:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你当铭记，当你的主召唤穆萨，命令他去劝化否认真主、奴役穆萨的民众的不义者。</p>"
+        },
+        "11": {
+            "verses": {
+                "26:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们是法老的民众。他命令他们敬畏真主，服从真主的命令，远离真主的禁令。</p>"
+        },
+        "12": {
+            "verses": {
+                "26:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨说：“我担心他们否认我。”</p>"
+        },
+        "13": {
+            "verses": {
+                "26:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我会因此而胸闷口吃，求你派遣我的兄弟哈伦做我的助手。</p>"
+        },
+        "14": {
+            "verses": {
+                "26:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>由于我杀了一个科普特人，他们加罪与我，我担心他们会杀了我。</p>"
+        },
+        "15": {
+            "verses": {
+                "26:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主对穆萨说：“绝不会的。他们绝不能杀了你。你和你的兄弟带着我的迹象去吧。我与你们同在，我要支持和援助你们，我在听你们的辩论，一切都在我的掌控之中。</p>"
+        },
+        "16": {
+            "verses": {
+                "26:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你俩到法老那里，对他说：‘我们是万物之主派给你的使者。</p>"
+        },
+        "17": {
+            "verses": {
+                "26:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>请你释放以色列的后裔，让他们与我们同去。’”</p>"
+        },
+        "18": {
+            "verses": {
+                "26:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老对穆萨说：“难道我没有从小抚养你，你在我们家中度过了很多年吗？你为什么要自称使者呢？</p>"
+        },
+        "19": {
+            "verses": {
+                "26:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，你为了帮助自己的同族人而杀了一个科普特人，你犯下了大罪，你是忘恩负义的人。”</p>"
+        },
+        "20": {
+            "verses": {
+                "26:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨对法老说：“我杀了那个人，当时我是无知者，还没有奉到启示。</p>"
+        },
+        "21": {
+            "verses": {
+                "26:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我怕你们杀了我，就逃到了麦德彦，我的主赏赐我知识，使我成为派向人们的使者。</p>"
+        },
+        "22": {
+            "verses": {
+                "26:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你责备我忘恩，你所谓的恩是奴役以色列人，这不能阻止我劝化你。”</p>"
+        },
+        "23": {
+            "verses": {
+                "26:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老说：“你自称是祂的使者，你的主是什么？”</p>"
+        },
+        "24": {
+            "verses": {
+                "26:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨说：“祂是天地万物的主，如果你们确信祂是主宰，那你们当崇拜祂。”</p>"
+        },
+        "25": {
+            "verses": {
+                "26:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老对身边的大臣说：“难道你们没听见穆萨的回答吗？他所说的尽是谎言。”</p>"
+        },
+        "26": {
+            "verses": {
+                "26:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨对他们说：“真主是你们的主，也是你们先辈的主。”</p>"
+        },
+        "27": {
+            "verses": {
+                "26:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老说：“自称是你们的使者的人是一个疯子，他不明白自己所说的话，他说的话不可理喻。”</p>"
+        },
+        "28": {
+            "verses": {
+                "26:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨说：“我号召你们信仰的主是东方、西方及介于东西之间的主，如果你们能理解的话。”</p>"
+        },
+        "29": {
+            "verses": {
+                "26:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老争不过穆萨时说：“如果你崇拜除我之外的神灵，我必使你成为囚犯。”</p>"
+        },
+        "30": {
+            "verses": {
+                "26:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨对法老说：“如果我给你昭示一个来自真主的明证，难道你还要囚禁我吗？”</p>"
+        },
+        "31": {
+            "verses": {
+                "26:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他说：“你把你所说的明证拿出来吧，如果你是诚实的。”</p>"
+        },
+        "32": {
+            "verses": {
+                "26:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨就将自己的手杖抛在地上，突然手杖变成了一条蟒蛇。</p>"
+        },
+        "33": {
+            "verses": {
+                "26:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他把手放进衣袋，然后抽出来，那只手变成了发光的，但不是由于疾病，在场的人都能看到。</p>"
+        },
+        "34": {
+            "verses": {
+                "26:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老对身边的大臣说：“这个人是一个高明的术士。</p>"
+        },
+        "35": {
+            "verses": {
+                "26:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他要借魔术把你们逐出国境，你们觉得应该怎样对待他？”</p>"
+        },
+        "36": {
+            "verses": {
+                "26:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们说：“你宽限他和他的哥哥，不要急于惩罚他俩，请你在埃及的各城中招募魔术师。</p>"
+        },
+        "37": {
+            "verses": {
+                "26:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们会把所有高明的术士召集到你跟前。”</p>"
+        },
+        "38": {
+            "verses": {
+                "26:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老就召集术士们在指定的时间和地点进行比试。</p>"
+        },
+        "39": {
+            "verses": {
+                "26:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>有人说：“你们集合起来是为了看是穆萨胜利还是术士们胜利吗？</p>"
+        },
+        "40": {
+            "verses": {
+                "26:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果术士们战胜穆萨，我们或许会追随他们的宗教。”</p>"
+        },
+        "41": {
+            "verses": {
+                "26:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当术士们来到法老跟前，以便战胜穆萨时得到奖赏，他们对他说：“如果我们战胜了穆萨，有什么物质的或精神的奖励吗？”</p>"
+        },
+        "42": {
+            "verses": {
+                "26:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老对他们说：“是的，你们会有奖励，如果你们得胜，必蒙宠幸，我将赐予你们崇高的地位。”</p>"
+        },
+        "43": {
+            "verses": {
+                "26:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨坚信真主的援助，并向他们说明他带来的不是魔术：“你们先把你们的东西拿出来吧。”</p>"
+        },
+        "44": {
+            "verses": {
+                "26:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们就扔出了他们的手杖和绳子，并说：“以法老的权力发誓，我们必然得胜，穆萨必然失败。”</p>"
+        },
+        "45": {
+            "verses": {
+                "26:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨扔出了自己的手杖，突然那手杖变成了一条蟒蛇，吞掉了他们所变出的东西。</p>"
+        },
+        "46": {
+            "verses": {
+                "26:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当术士们看到穆萨的手杖吞掉了他们所变出的东西时，纷纷拜倒在地。</p>"
+        },
+        "47": {
+            "verses": {
+                "26:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们说：“我们归信创造万物的主。</p>"
+        },
+        "48": {
+            "verses": {
+                "26:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨和哈伦的主。”</p>"
+        },
+        "49": {
+            "verses": {
+                "26:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老责备他们说：“难道你们未经我允许就要归信穆萨吗？穆萨确是给你们传授魔术的头目，你们密谋将埃及人逐出国境。你们将来就知道我怎么惩罚你们。我一定要交替地砍去你们的手脚，并把你们统统钉死在椰枣树干上，不留下任何一个人。”</p>"
+        },
+        "50": {
+            "verses": {
+                "26:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>术士们对法老说：“你所威胁的刑罚没有什么，你的惩罚是短暂的，我们要回归于我们的主，祂将使我们享受祂永恒的慈恩。</p>"
+        },
+        "51": {
+            "verses": {
+                "26:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我们希望真主饶恕我们原先所犯的罪恶，因为我们是首先归顺穆萨的人。”</p>"
+        },
+        "52": {
+            "verses": {
+                "26:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我启示穆萨，你在夜间率领以色列人出走，法老和他的军队确实要追赶你们。</p>"
+        },
+        "53": {
+            "verses": {
+                "26:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当法老得知他们要离开埃及时，便派遣招募者去各城，召集了一支大军，以便追杀他们。</p>"
+        },
+        "54": {
+            "verses": {
+                "26:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老鄙视地说：“这些人是一小撮人。</p>"
+        },
+        "55": {
+            "verses": {
+                "26:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们做了让我们恼怒的事情。</p>"
+        },
+        "56": {
+            "verses": {
+                "26:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我们确是谨慎的团体。”</p>"
+        },
+        "57": {
+            "verses": {
+                "26:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我就使他们离开了有许多园圃和泉源的埃及。</p>"
+        },
+        "58": {
+            "verses": {
+                "26:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>财宝和优美的住宅。</p>"
+        },
+        "59": {
+            "verses": {
+                "26:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>正如我使法老及其百姓离开那些恩典一样，在他们之后，我使沙姆地区的以色列后裔继承了同样的恩典。</p>"
+        },
+        "60": {
+            "verses": {
+                "26:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>法老和他的军队在日出时赶上了他们。</p>"
+        },
+        "61": {
+            "verses": {
+                "26:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当法老及其大军与穆萨及其族人相遇时，穆萨的追随者说：“法老的大军将追上我们，我们无法对抗他们。”</p>"
+        },
+        "62": {
+            "verses": {
+                "26:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>穆萨对族人说：“事情并非你们所想象那样。我的主与我同在，祂将支持我，并指引我的得救之路。”</p>"
+        },
+        "63": {
+            "verses": {
+                "26:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我启示穆萨，你当用手杖击水。于是，他用手杖击了水，海水就裂开，变成十二条道路，正好是以色列的十二个部族的数目。每一部分都像大山一样牢固。</p>"
+        },
+        "64": {
+            "verses": {
+                "26:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我使法老及其军队逼近穆萨及其族人，他们以为海中的路可以通过。</p>"
+        },
+        "65": {
+            "verses": {
+                "26:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我拯救了穆萨及其追随者，他们无一人死亡。</p>"
+        },
+        "66": {
+            "verses": {
+                "26:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后，我将法老及其军队淹死在海里。</p>"
+        },
+        "67": {
+            "verses": {
+                "26:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>拯救穆萨和毁灭法老中有一种迹象，证明穆萨的诚实，追随法老的大多数人不是信道者。</p>"
+        },
+        "68": {
+            "verses": {
+                "26:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，他惩治敌人，怜悯其中的忏悔者。</p>"
+        },
+        "69": {
+            "verses": {
+                "26:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你当对他们宣读易卜拉欣的故事。</p>"
+        },
+        "70": {
+            "verses": {
+                "26:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，他对他的父亲阿宰尔及其族人说：“你们舍真主而崇拜的是什么？”</p>"
+        },
+        "71": {
+            "verses": {
+                "26:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人对他说：“我们崇拜偶像，我们是一直崇拜他们的。”</p>"
+        },
+        "72": {
+            "verses": {
+                "26:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>易卜拉欣对他们说：“当你们祈祷你们的偶像时，他们能听到你们的祈祷吗？”</p>"
+        },
+        "73": {
+            "verses": {
+                "26:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>或者能为你们招福避祸吗？”</p>"
+        },
+        "74": {
+            "verses": {
+                "26:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们说：“他们听不到我们的祈祷，也不能为我们招福避祸。但我们发现我们的祖先就是这样做的，我们要模仿他们。”</p>"
+        },
+        "75": {
+            "verses": {
+                "26:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>易卜拉欣说：“你们告诉我吧，你们崇拜的是什么？</p>"
+        },
+        "76": {
+            "verses": {
+                "26:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们最古的祖先崇拜的是什么？</p>"
+        },
+        "77": {
+            "verses": {
+                "26:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们都是我的敌人，因为他们是迷误的，除了创造万物的主。</p>"
+        },
+        "78": {
+            "verses": {
+                "26:78": {
+                    "id": 78
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>祂创造了我，并指引我今后两世的幸福。</p>"
+        },
+        "79": {
+            "verses": {
+                "26:79": {
+                    "id": 79
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当我饥饿时，唯有祂供给我吃的。当我口渴时，唯有祂供给我喝的。</p>"
+        },
+        "80": {
+            "verses": {
+                "26:80": {
+                    "id": 80
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当我生病时，唯有祂使我痊愈，除祂外，谁也无法使我痊愈。</p>"
+        },
+        "81": {
+            "verses": {
+                "26:81": {
+                    "id": 81
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当我的寿限终结时，唯有祂使我死亡，并在我死后复活我。</p>"
+        },
+        "82": {
+            "verses": {
+                "26:82": {
+                    "id": 82
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我希望祂在报应日饶恕我的过错。”</p>"
+        },
+        "83": {
+            "verses": {
+                "26:83": {
+                    "id": 83
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>易卜拉欣祈祷真主说：“主啊，求你赐予我理解宗教的智慧，使我进入清廉先知的行列，让我与他们一同进入乐园。</p>"
+        },
+        "84": {
+            "verses": {
+                "26:84": {
+                    "id": 84
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>求你使我在后人中留下美名。</p>"
+        },
+        "85": {
+            "verses": {
+                "26:85": {
+                    "id": 85
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使我成为继承乐园的仆人，使我居住其中。</p>"
+        },
+        "86": {
+            "verses": {
+                "26:86": {
+                    "id": 86
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>求你饶恕我的父亲，他因以物配主而迷误。（这是在易卜拉欣得知他的父亲是火狱的居民之前，当他知道后便与他划清界线，不再为他祈祷。）</p>"
+        },
+        "87": {
+            "verses": {
+                "26:87": {
+                    "id": 87
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在人们被复活并接受清算的日子，求你不要以刑罚凌辱我。”</p>"
+        },
+        "88": {
+            "verses": {
+                "26:88": {
+                    "id": 88
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那一天，人们在今世聚敛的财富和子女没有任何裨益。</p>"
+        },
+        "89": {
+            "verses": {
+                "26:89": {
+                    "id": 89
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>除非是带着健全的心来见主者。健全的心指没有以物配主、阳奉阴违和骄傲自大的人。对人有益的是曾经为主道而施舍的钱财以及为之祈祷的子女。</p>"
+        },
+        "90": {
+            "verses": {
+                "26:90": {
+                    "id": 90
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>天堂就在敬畏真主者的附近。敬畏者指服从真主命令，远离真主禁令的人。</p>"
+        },
+        "91": {
+            "verses": {
+                "26:91": {
+                    "id": 91
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>火狱将展现在那些迷失真理的人面前。</p>"
+        },
+        "92": {
+            "verses": {
+                "26:92": {
+                    "id": 92
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>有人谴责他们说：“你们曾经崇拜的神灵在哪里？</p>"
+        },
+        "93": {
+            "verses": {
+                "26:93": {
+                    "id": 93
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们舍真主而崇拜他们。他们能援助你们，替你们阻止真主的刑罚吗？还是他们能自助呢？</p>"
+        },
+        "94": {
+            "verses": {
+                "26:94": {
+                    "id": 94
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们与那些被误导者都将被投入火狱。</p>"
+        },
+        "95": {
+            "verses": {
+                "26:95": {
+                    "id": 95
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以及易卜劣厮的军队，他们中的任何人都难以逃脱。”</p>"
+        },
+        "96": {
+            "verses": {
+                "26:96": {
+                    "id": 96
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那些曾经崇拜其它偶像的以物配主者，他们除真主以外，崇拜其它偶像，他们与那些曾经以物配主者争辩说：</p>"
+        },
+        "97": {
+            "verses": {
+                "26:97": {
+                    "id": 97
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>“指主发誓，我们确是在明显的迷误中。</p>"
+        },
+        "98": {
+            "verses": {
+                "26:98": {
+                    "id": 98
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，我们使你们与创造万物的主同受崇拜。</p>"
+        },
+        "99": {
+            "verses": {
+                "26:99": {
+                    "id": 99
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>只有那些犯罪的人使我们迷失正道。</p>"
+        },
+        "100": {
+            "verses": {
+                "26:100": {
+                    "id": 100
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在真主那里，没有说情者为我们说情，以便把我们从真主的惩罚中拯救出来。</p>"
+        },
+        "101": {
+            "verses": {
+                "26:101": {
+                    "id": 101
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我们也没有忠实的朋友，保护我们和为我们说情。</p>"
+        },
+        "102": {
+            "verses": {
+                "26:102": {
+                    "id": 102
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>假如我们返回尘世，我们会成为信主的人。”</p>"
+        },
+        "103": {
+            "verses": {
+                "26:103": {
+                    "id": 103
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>易卜拉欣的故事和否认者的结局，对思考者有一种教训，但世人大多数是不信仰的。</p>"
+        },
+        "104": {
+            "verses": {
+                "26:104": {
+                    "id": 104
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂会惩罚他的敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "105": {
+            "verses": {
+                "26:105": {
+                    "id": 105
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>努哈的族人否认了使者。</p>"
+        },
+        "106": {
+            "verses": {
+                "26:106": {
+                    "id": 106
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，努哈对他们说：“你们崇拜别的神灵，怎么不敬畏真主呢？</p>"
+        },
+        "107": {
+            "verses": {
+                "26:107": {
+                    "id": 107
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我是真主派遣给你们的使者，我是忠实的。对于真主的启示，我既不增加，也不减少。</p>"
+        },
+        "108": {
+            "verses": {
+                "26:108": {
+                    "id": 108
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们当敬畏真主，服从祂的命令，远离祂的禁令。你们当服从我的命令，远离我的禁令。</p>"
+        },
+        "109": {
+            "verses": {
+                "26:109": {
+                    "id": 109
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不为传达使命而向你们要报酬，我的报酬只由全世界的主负担。</p>"
+        },
+        "110": {
+            "verses": {
+                "26:110": {
+                    "id": 110
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故你们当因敬畏真主，服从真主的命令，远离真主的禁令，而服从我。”</p>"
+        },
+        "111": {
+            "verses": {
+                "26:111": {
+                    "id": 111
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人对他说：“努哈啊，追随你的人都是些卑贱的人，我们怎能信仰你，追随你呢？你的追随者中没有贵族啊！”</p>"
+        },
+        "112": {
+            "verses": {
+                "26:112": {
+                    "id": 112
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>努哈对他们说：“我不知道这些信士做了什么事，我不是他们的监护者，我也无法统计他们的工作。</p>"
+        },
+        "113": {
+            "verses": {
+                "26:113": {
+                    "id": 113
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们的清算只在于真主，而不在于我。真主知道他们的公开的和秘密的情况。如果你们知道，就不会这样说了。</p>"
+        },
+        "114": {
+            "verses": {
+                "26:114": {
+                    "id": 114
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不会响应你们的要求，为了让你们信仰而驱逐信士。</p>"
+        },
+        "115": {
+            "verses": {
+                "26:115": {
+                    "id": 115
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我只是一个明显的警告者，你们要警惕真主的刑罚。”</p>"
+        },
+        "116": {
+            "verses": {
+                "26:116": {
+                    "id": 116
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人对他说：“如果你不停止宣传，一定会遭到我们的辱骂和乱石打死。”</p>"
+        },
+        "117": {
+            "verses": {
+                "26:117": {
+                    "id": 117
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>努哈祈祷真主：“主啊！我的族人否认我，不相信我带来的启示。</p>"
+        },
+        "118": {
+            "verses": {
+                "26:118": {
+                    "id": 118
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>求你在我和他们之间判决吧，求你因他们执迷不悟而毁灭他们吧，求你拯救我和追随我的信士吧。”</p>"
+        },
+        "119": {
+            "verses": {
+                "26:119": {
+                    "id": 119
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我应答了他的祈祷，拯救了与他同船的信士和动物。</p>"
+        },
+        "120": {
+            "verses": {
+                "26:120": {
+                    "id": 120
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后，我淹死了其余的人，他们就是努哈的族人。</p>"
+        },
+        "121": {
+            "verses": {
+                "26:121": {
+                    "id": 121
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这里提到的努哈及其族人的故事，努哈以及与他一起的信士被拯救，以物配主者及其族人被毁灭的故事，对于能思维者确有教训，他们大多不归信。</p>"
+        },
+        "122": {
+            "verses": {
+                "26:122": {
+                    "id": 122
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂有能力惩罚敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "123": {
+            "verses": {
+                "26:123": {
+                    "id": 123
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>阿德人否认了他们的使者呼德。</p>"
+        },
+        "124": {
+            "verses": {
+                "26:124": {
+                    "id": 124
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你当铭记，当时，呼德对他的族人说：“你们怎不敬畏真主，放弃崇拜偶像呢？</p>"
+        },
+        "125": {
+            "verses": {
+                "26:125": {
+                    "id": 125
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我是真主派遣给你们的使者，我是忠实可靠的。对于真主命令我传达的，我既不增加，也不减少。</p>"
+        },
+        "126": {
+            "verses": {
+                "26:126": {
+                    "id": 126
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故你们当因敬畏真主，服从祂的命令，远离祂的禁令，而当服从我。</p>"
+        },
+        "127": {
+            "verses": {
+                "26:127": {
+                    "id": 127
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不会为传达使命而向你们索要报酬，我的报酬只由创造万物的主负责。</p>"
+        },
+        "128": {
+            "verses": {
+                "26:128": {
+                    "id": 128
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道你们要在所有高地上建筑纪念物吗？这对你们今后两世没有任何裨益。</p>"
+        },
+        "129": {
+            "verses": {
+                "26:129": {
+                    "id": 129
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们修建堡垒和宫殿，好像你们要永居今世一样。</p>"
+        },
+        "130": {
+            "verses": {
+                "26:130": {
+                    "id": 130
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当你们惩治他人时，你们残酷无情。</p>"
+        },
+        "131": {
+            "verses": {
+                "26:131": {
+                    "id": 131
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们当敬畏真主，服从祂的命令，远离祂的禁令，你们当服从我。</p>"
+        },
+        "132": {
+            "verses": {
+                "26:132": {
+                    "id": 132
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们当畏惧真主的恼怒，祂把你们知道的恩典赏赐你们。</p>"
+        },
+        "133": {
+            "verses": {
+                "26:133": {
+                    "id": 133
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>祂赐予你们许多子女和牲畜。</p>"
+        },
+        "134": {
+            "verses": {
+                "26:134": {
+                    "id": 134
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>赐予你们园圃和泉源。</p>"
+        },
+        "135": {
+            "verses": {
+                "26:135": {
+                    "id": 135
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我的族人啊，我担心你们在复活日遭受刑罚。”</p>"
+        },
+        "136": {
+            "verses": {
+                "26:136": {
+                    "id": 136
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人说：“无论你劝告我们与否，对我们是一样的，我们绝不相信你，也不会放弃我们原来的信仰。</p>"
+        },
+        "137": {
+            "verses": {
+                "26:137": {
+                    "id": 137
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这只是前人的宗教、习俗和伦理。</p>"
+        },
+        "138": {
+            "verses": {
+                "26:138": {
+                    "id": 138
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我们不会受到惩罚。”</p>"
+        },
+        "139": {
+            "verses": {
+                "26:139": {
+                    "id": 139
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们坚持否认他们的先知，故我以飓风毁灭了他们。此中对能思维者有一种教训，但他们的大多数不归信。</p>"
+        },
+        "140": {
+            "verses": {
+                "26:140": {
+                    "id": 140
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂能惩罚敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "141": {
+            "verses": {
+                "26:141": {
+                    "id": 141
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>赛莫德人否认了他们的使者萨利赫。</p>"
+        },
+        "142": {
+            "verses": {
+                "26:142": {
+                    "id": 142
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，他对他们说：“你们怎么不敬畏真主，放弃偶像崇拜呢？</p>"
+        },
+        "143": {
+            "verses": {
+                "26:143": {
+                    "id": 143
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我是真主派遣给你们的使者，我是忠实的传达者，对于真主的启示，我既不增加，也不减少。</p>"
+        },
+        "144": {
+            "verses": {
+                "26:144": {
+                    "id": 144
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故你们当因敬畏真主，服从祂的命令，远离祂的禁令，而当服从我。</p>"
+        },
+        "145": {
+            "verses": {
+                "26:145": {
+                    "id": 145
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不为传达使命而向你们索要报酬，我的报酬只由创造万物的主负责。</p>"
+        },
+        "146": {
+            "verses": {
+                "26:146": {
+                    "id": 146
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道你们可以安然享受这些恩典吗？</p>"
+        },
+        "147": {
+            "verses": {
+                "26:147": {
+                    "id": 147
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这里有园圃和源泉。</p>"
+        },
+        "148": {
+            "verses": {
+                "26:148": {
+                    "id": 148
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>庄稼和果实成熟的椰枣树。</p>"
+        },
+        "149": {
+            "verses": {
+                "26:149": {
+                    "id": 149
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们凿山为家，你们擅长此道。</p>"
+        },
+        "150": {
+            "verses": {
+                "26:150": {
+                    "id": 150
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们当敬畏真主，服从祂的命令，远离祂的禁令，你们当服从我。</p>"
+        },
+        "151": {
+            "verses": {
+                "26:151": {
+                    "id": 151
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们不要服从那些过分者和犯罪者。</p>"
+        },
+        "152": {
+            "verses": {
+                "26:152": {
+                    "id": 152
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们在大地上为非作歹，而不服从真主，完善自我。”</p>"
+        },
+        "153": {
+            "verses": {
+                "26:153": {
+                    "id": 153
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人对他说：“”你是一个受了蛊惑的人，你失去了理智。</p>"
+        },
+        "154": {
+            "verses": {
+                "26:154": {
+                    "id": 154
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你只是像我们一样的凡人，你并不比我们优越，你怎么会是使者呢。如果你说的使者是真实的话，请你拿出一个迹象来证明你是使者吧。</p>"
+        },
+        "155": {
+            "verses": {
+                "26:155": {
+                    "id": 155
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主赐予他一种迹象，真主让一头母驼从岩石中出来。萨利赫对他们说：“这是一只真正的母驼，它有饮水的日子，你们也有饮水的日子，你们不要侵占它饮水的日子。</p>"
+        },
+        "156": {
+            "verses": {
+                "26:156": {
+                    "id": 156
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>否则，你们会遭到真主的惩罚。在灾难降临你们的那个重大日子，他将毁灭你们。</p>"
+        },
+        "157": {
+            "verses": {
+                "26:157": {
+                    "id": 157
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们商议宰杀它，他们中最薄福的人宰杀了它。他们为自己的行为感到后悔，因为他们这样做的恶劣结果。然而，刑罚降临时的后悔无济于事。</p>"
+        },
+        "158": {
+            "verses": {
+                "26:158": {
+                    "id": 158
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>被警告的刑罚降临了他们，那就是地震和呐喊。此中对能思维的民众有一种教训，但他们大多不归信。</p>"
+        },
+        "159": {
+            "verses": {
+                "26:159": {
+                    "id": 159
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂有能力惩罚敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "160": {
+            "verses": {
+                "26:160": {
+                    "id": 160
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>鲁特的族人否认了他们的使者。</p>"
+        },
+        "161": {
+            "verses": {
+                "26:161": {
+                    "id": 161
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，他们的兄弟鲁特对他们说：“你们怎么不敬畏真主呢？你们怎么不放弃以物配主呢？</p>"
+        },
+        "162": {
+            "verses": {
+                "26:162": {
+                    "id": 162
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我是真主派遣给你们的使者，我是忠实的传达者，我既不增加，也不减少。</p>"
+        },
+        "163": {
+            "verses": {
+                "26:163": {
+                    "id": 163
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故你们当因敬畏真主，服从祂的命令，远离祂的禁令，而当服从我。</p>"
+        },
+        "164": {
+            "verses": {
+                "26:164": {
+                    "id": 164
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不为传达启示而向你们索取报酬，我的报酬只由万物的创造者承担，而不是由别人承担。</p>"
+        },
+        "165": {
+            "verses": {
+                "26:165": {
+                    "id": 165
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道你们要与人们中的男性交接吗？</p>"
+        },
+        "166": {
+            "verses": {
+                "26:166": {
+                    "id": 166
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们放弃真主为你们创造的妻子，以满足你们的性欲。不然，你们是变态的、超越法度的人。”</p>"
+        },
+        "167": {
+            "verses": {
+                "26:167": {
+                    "id": 167
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他的族人对他说：“鲁特啊！如果你不停止谴责我们，你和你的追随者必会遭到驱逐。”</p>"
+        },
+        "168": {
+            "verses": {
+                "26:168": {
+                    "id": 168
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>鲁特对他们说：“我的确痛恨你们的行为。”</p>"
+        },
+        "169": {
+            "verses": {
+                "26:169": {
+                    "id": 169
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他祈祷真主说：“主啊！求你拯救我和我的家人，免遭他们因罪行而遭到的惩罚。”</p>"
+        },
+        "170": {
+            "verses": {
+                "26:170": {
+                    "id": 170
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我应答了他的祈祷，拯救了他和他的家人。</p>"
+        },
+        "171": {
+            "verses": {
+                "26:171": {
+                    "id": 171
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>但他的妻子除外，她是不信道者，她要留下来遭到毁灭。</p>"
+        },
+        "172": {
+            "verses": {
+                "26:172": {
+                    "id": 172
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在鲁特和他的家人离开索多玛时，我毁灭了其余的人。</p>"
+        },
+        "173": {
+            "verses": {
+                "26:173": {
+                    "id": 173
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我从天上为他们降下了石雨，他们所遭到的惩罚真恶劣。鲁特曾警告过他们，他们执迷不悟地不信道。</p>"
+        },
+        "174": {
+            "verses": {
+                "26:174": {
+                    "id": 174
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在提到的由于鲁特民众的丑行而降临给他们的惩罚中，对于能思维者确有一种迹象，但他们的大多数不归信。</p>"
+        },
+        "175": {
+            "verses": {
+                "26:175": {
+                    "id": 175
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂有能力惩罚敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "176": {
+            "verses": {
+                "26:176": {
+                    "id": 176
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>麦德彦附近的丛林的居民否认了使者——舒阿卜。</p>"
+        },
+        "177": {
+            "verses": {
+                "26:177": {
+                    "id": 177
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当时，他们的先知舒阿卜对他们说：“你们怎么不敬畏真主，放弃以物配主呢？</p>"
+        },
+        "178": {
+            "verses": {
+                "26:178": {
+                    "id": 178
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我是真主派遣给你们的使者，我是忠实的传达者，我既不增加，也不减少。</p>"
+        },
+        "179": {
+            "verses": {
+                "26:179": {
+                    "id": 179
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故你们当因敬畏真主，服从祂的命令，远离祂的禁令，而当服从我。</p>"
+        },
+        "180": {
+            "verses": {
+                "26:180": {
+                    "id": 180
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不为传达启示而向你们索取报酬，我的报酬只由万物的创造者承担，而不是由别人承担。</p>"
+        },
+        "181": {
+            "verses": {
+                "26:181": {
+                    "id": 181
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们在买卖时要称足量足，不要缺斤少两。</p>"
+        },
+        "182": {
+            "verses": {
+                "26:182": {
+                    "id": 182
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当你们给别人称量时，要使用公平的称。</p>"
+        },
+        "183": {
+            "verses": {
+                "26:183": {
+                    "id": 183
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们不要克扣他人应得的，你们不要在大地上为非作歹。</p>"
+        },
+        "184": {
+            "verses": {
+                "26:184": {
+                    "id": 184
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们当敬畏创造了你们和前人的主。要担心真主为你们降临惩罚。</p>"
+        },
+        "185": {
+            "verses": {
+                "26:185": {
+                    "id": 185
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>舒阿卜的族人对舒阿卜说：“你只是一个中了邪的人，你已失去了理智。</p>"
+        },
+        "186": {
+            "verses": {
+                "26:186": {
+                    "id": 186
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你只是像我们一样的凡人，你并不比我们优越，你怎么会成为使者呢？我们认为你是一个说谎者。</p>"
+        },
+        "187": {
+            "verses": {
+                "26:187": {
+                    "id": 187
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果你所说属实，你使天一块块地落到我们头上吧。”</p>"
+        },
+        "188": {
+            "verses": {
+                "26:188": {
+                    "id": 188
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>舒阿卜对他们说：“我的主最知道你们的以物配主和罪恶，你们的任何行为都瞒不过他。”</p>"
+        },
+        "189": {
+            "verses": {
+                "26:189": {
+                    "id": 189
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们坚持否认，于是，他们在阴云密布的日子里遭到了惩罚。我为他们降下了火，烧死了他们。他们被毁灭的日子是极其恐怖的。</p>"
+        },
+        "190": {
+            "verses": {
+                "26:190": {
+                    "id": 190
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>提到的毁灭舒阿卜的民众，对于能思考者确有一种迹象，但他们多半不信仰。</p>"
+        },
+        "191": {
+            "verses": {
+                "26:191": {
+                    "id": 191
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主是万能的，祂有能力惩罚敌人，祂对忏悔者是至慈的。</p>"
+        },
+        "192": {
+            "verses": {
+                "26:192": {
+                    "id": 192
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这部《古兰经》是万物之主降示给穆罕默德（愿主福安之）。</p>"
+        },
+        "193": {
+            "verses": {
+                "26:193": {
+                    "id": 193
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>忠实的吉卜利里降示了它。</p>"
+        },
+        "194": {
+            "verses": {
+                "26:194": {
+                    "id": 194
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！把它降到了你的心灵中，以便你成为警告世人的一名使者，警告他们真主的惩罚</p>"
+        },
+        "195": {
+            "verses": {
+                "26:195": {
+                    "id": 195
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>它是以明显的阿拉伯语降示的。</p>"
+        },
+        "196": {
+            "verses": {
+                "26:196": {
+                    "id": 196
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这部《古兰经》在古代的经典中被提到过，古代的天启经典都以它而报喜。</p>"
+        },
+        "197": {
+            "verses": {
+                "26:197": {
+                    "id": 197
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以色列后裔中的学者知道它，这难道不能作为他们的一个迹象吗？如阿卜杜拉·本·赛俩目。</p>"
+        },
+        "198": {
+            "verses": {
+                "26:198": {
+                    "id": 198
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>假如我把这部《古兰经》降示给不会说阿拉伯语的非阿拉伯人。</p>"
+        },
+        "199": {
+            "verses": {
+                "26:199": {
+                    "id": 199
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那个人把它宣读给人们，他们不会信仰它。因为他们将说：“”我们不理解它。因此，为了让他们为此赞美真主，祂以阿拉伯语降示了《古兰经》。</p>"
+        },
+        "200": {
+            "verses": {
+                "26:200": {
+                    "id": 200
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我就这样使犯罪者常怀否认之心。</p>"
+        },
+        "201": {
+            "verses": {
+                "26:201": {
+                    "id": 201
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们不会放弃否认，直到看见痛苦的刑罚。</p>"
+        },
+        "202": {
+            "verses": {
+                "26:202": {
+                    "id": 202
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那种刑罚会突然降临他们，他们不知道它会何时降临。</p>"
+        },
+        "203": {
+            "verses": {
+                "26:203": {
+                    "id": 203
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当刑罚突然降临时，他们会说：“我们会被宽限吗？”</p>"
+        },
+        "204": {
+            "verses": {
+                "26:204": {
+                    "id": 204
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道这些否认者要求刑罚早日降临吗？我们绝不信仰你，直到你使天一块块地落在我们头上。</p>"
+        },
+        "205": {
+            "verses": {
+                "26:205": {
+                    "id": 205
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>使者啊！你告诉我吧 。如果我使这些拒绝信仰者继续享受一段时间。</h2>"
+        },
+        "206": {
+            "verses": {
+                "26:206": {
+                    "id": 206
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后，他们在享受了那些恩典一段时间后，警告的刑罚降临他们。</p>"
+        },
+        "207": {
+            "verses": {
+                "26:207": {
+                    "id": 207
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们在今世所享受的恩典对他们无济于事，那些恩典已经消失了。</p>"
+        },
+        "208": {
+            "verses": {
+                "26:208": {
+                    "id": 208
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不毁灭任何民族，除非在派遣使者和降示经典进行警告之后。</p>"
+        },
+        "209": {
+            "verses": {
+                "26:209": {
+                    "id": 209
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以便劝告和提醒他们。在派遣使者、降示经典对他们进行警告之后，惩罚他们并不是对他们的亏待。</p>"
+        },
+        "210": {
+            "verses": {
+                "26:210": {
+                    "id": 210
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这部《古兰经》不是恶魔降示给穆罕默德的。</p>"
+        },
+        "211": {
+            "verses": {
+                "26:211": {
+                    "id": 211
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们不应该这样做，他们也没有能力这样做。</p>"
+        },
+        "212": {
+            "verses": {
+                "26:212": {
+                    "id": 212
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>因为他们从天上遭到了驱逐，他们怎能到达天上呢？</p>"
+        },
+        "213": {
+            "verses": {
+                "26:213": {
+                    "id": 213
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>除真主外，你不要崇拜别的神。否则，你会因此而遭到惩罚。</p>"
+        },
+        "214": {
+            "verses": {
+                "26:214": {
+                    "id": 214
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你当警告你的亲戚，以免他们因以物配主而遭到真主的惩罚。</p>"
+        },
+        "215": {
+            "verses": {
+                "26:215": {
+                    "id": 215
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你当温和地对待追随你的信士，对他们要同情和慈爱。</p>"
+        },
+        "216": {
+            "verses": {
+                "26:216": {
+                    "id": 216
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果他们违背你，不服从你的命令，你对他们说：“我与你们的以物配主是无关的。”</p>"
+        },
+        "217": {
+            "verses": {
+                "26:217": {
+                    "id": 217
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你当把自己的事情交给万能的主，祂有能力惩罚敌人，祂对归依祂的人是至慈的。</p>"
+        },
+        "218": {
+            "verses": {
+                "26:218": {
+                    "id": 218
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当你站起来礼拜时，祂是看着你的。</p>"
+        },
+        "219": {
+            "verses": {
+                "26:219": {
+                    "id": 219
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>祂看到你率众礼拜的种种动作，你和任何人的任何事情都瞒不过祂。</p>"
+        },
+        "220": {
+            "verses": {
+                "26:220": {
+                    "id": 220
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>祂在聆听你礼拜时诵读的《古兰经》和赞词，祂全知你的举意。</p>"
+        },
+        "221": {
+            "verses": {
+                "26:221": {
+                    "id": 221
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我告诉你们，恶魔是附在那些妄称是他们降示了《古兰经》的人身上？</p>"
+        },
+        "222": {
+            "verses": {
+                "26:222": {
+                    "id": 222
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他附在每个造谣者、犯罪者的身上。</p>"
+        },
+        "223": {
+            "verses": {
+                "26:223": {
+                    "id": 223
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>恶魔偷听天界的机密，把它传授给那些占卜者，占卜者大多是说谎者，他们说的大部分是谎话。</p>"
+        },
+        "224": {
+            "verses": {
+                "26:224": {
+                    "id": 224
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们妄称穆罕默德属于一名诗人，众诗人被迷误者正道者所追随。他们认为，他们所说的就是诗文。</p>"
+        },
+        "225": {
+            "verses": {
+                "26:225": {
+                    "id": 225
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！难道你没有看见他们的迷误吗？他们在各山谷中彷徨，有时赞美，有时谴责。</p>"
+        },
+        "226": {
+            "verses": {
+                "26:226": {
+                    "id": 226
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们是说谎者，他们只是空谈，从不付诸行动。</p>"
+        },
+        "227": {
+            "verses": {
+                "26:227": {
+                    "id": 227
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>除了那些有信仰的诗人。他们信道、行善并多多记念真主。他们在被欺压之后进行自卫，如罕沙·本·撒比特。不义者将会知道他们的归宿是什么，他们将回归真主，接受严厉的清算。</p>"
+        }
+    }
+}

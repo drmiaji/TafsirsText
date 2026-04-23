@@ -1,0 +1,789 @@
+{
+    "chapter": 52,
+    "verses": {
+        "1": {
+            "verses": {
+                "52:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الطور مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>دحض شبهات المكذبين من خلال عرض الحجج والبراهين، إرغامًا على الإذعان والتسليم.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>أقسم الله بالجبل الذي كلّم عليه موسى عليه السلام.</h2>"
+        },
+        "2": {
+            "verses": {
+                "52:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالكتاب الذي هو مسَطَّر.</h2>"
+        },
+        "3": {
+            "verses": {
+                "52:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في ورق مبسوط مفتوح كالكتب المنزلة.</h2>"
+        },
+        "4": {
+            "verses": {
+                "52:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالبيت الذي تعمره الملائكة في السماء بعبادة الله.</h2>"
+        },
+        "5": {
+            "verses": {
+                "52:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالسماء المرفوعة التي هي سقف الأرض.</h2>"
+        },
+        "6": {
+            "verses": {
+                "52:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالبحر المملوء ماء.</h2>"
+        },
+        "7": {
+            "verses": {
+                "52:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن عذاب ربك - أيها الرسول - لواقع لا محالة على الكافرين.</h2>"
+        },
+        "8": {
+            "verses": {
+                "52:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليس له من دافع يدفعه عنهم، ويمنعهم من وقوعه بهم.</h2>"
+        },
+        "9": {
+            "verses": {
+                "52:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم تتحرك السماء تحركًا، وتضطرب إيذانًا بالقيامة.</h2>"
+        },
+        "10": {
+            "verses": {
+                "52:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وتسير الجبال من مواقعها سيرًا.</h2>"
+        },
+        "11": {
+            "verses": {
+                "52:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فهلاك وخسار في ذلك اليوم للمكذبين بما وعد الله الكافرين به من العذاب.</p>"
+        },
+        "12": {
+            "verses": {
+                "52:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذين هم في خوض في الباطل يلعبون، لا يبالون ببعث ولا نشور.</h2>"
+        },
+        "13": {
+            "verses": {
+                "52:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم يُدْفعون بشدّة وعنف إلى نار جهنم دفعًا.</h2>"
+        },
+        "14": {
+            "verses": {
+                "52:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال توبيخًا لهم: هذه النار التي كنتم بها تكذبون عندما تخوفكم رسلكم منها.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• الكفر ملة واحدة وإن اختلفت وسائله وتنوع أهله ومكانه وزمانه.</p>\n<h2>• شهادة الله لرسوله ﷺ بتبليغ الرسالة.</h2>\n<h2>• الحكمة من خلق الجن والإنس تحقيق عبادة الله بكل مظاهرها.</h2>\n<h2>• سوف تتغير أحوال الكون يوم القيامة.</h2>"
+        },
+        "15": {
+            "verses": {
+                "52:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفسحر هذا الذي عاينتموه من العذاب؟! أم أنتم لا تعاينونه؟!</h2>"
+        },
+        "16": {
+            "verses": {
+                "52:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ذوقوا حرّ هذه النار وعانوها، فاصبروا على معاناة حرّها، أو لا تصبروا عليه، سواء صبركم وعدم صبركم، لا تجزون اليوم إلا ما كنتم تعملون في الدنيا من الكفر والمعاصي.</p>"
+        },
+        "17": {
+            "verses": {
+                "52:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما ذكر الله جزاء المكذبين، ذكر جزاء المصدقين المتقين، فقال:</h2>\n<p>إن المتقين لربهم - بامتثال أوامره، واجتناب نواهيه - في جنات ونعيم عظيم لا ينقطع.</p>"
+        },
+        "18": {
+            "verses": {
+                "52:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يتفكهون بما أعطاهم الله من لذائذ المأكل والمشرب والمنكح، ووقاهم ربهم سبحانه عذاب الجحيم، ففازوا بحصول مطلوبهم من الملذات، وبوقايتهم من المكدرات.</p>"
+        },
+        "19": {
+            "verses": {
+                "52:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال لهم: كلوا واشربوا مما اشتهته أنفسكم، هنيئًا، لا تخافون ضررًا ولا أذى مما تأكلون أو تشربون، جزاء لكم على أعمالكم الطيبة في الدنيا.</p>"
+        },
+        "20": {
+            "verses": {
+                "52:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>متكئون على الأرائك المزينة قد جعلت متقابلة بعضها إلى جانب بعض، وزوجناهم بنساء بيض واسعات العيون.</p>"
+        },
+        "21": {
+            "verses": {
+                "52:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين آمنوا واتبعهم أولادهم في الإيمان، ألحقنا بهم أولادهم لتقرّ أعينهم بهم، ولو لم يبلغوا أعمالهم، وما نقصناهم شيئًا من ثواب أعمالهم، كل إنسان محبوس بما كسبه من عمل سيئ لا يحمل عنه غيره من عمله شيئًا.</p>"
+        },
+        "22": {
+            "verses": {
+                "52:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأمددنا أهل الجنة هؤلاء بصنوف من الفاكهة، وأمددناهم بكل ما اشتهوه من لحم.</p>"
+        },
+        "23": {
+            "verses": {
+                "52:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يتعاطون في الجنة كأسًا لا يترتب على شربها ما يترتب عليها في الدنيا، من الكلام الباطل والإثم بسبب السكر.</p>"
+        },
+        "24": {
+            "verses": {
+                "52:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويدور عليهم غلمان سخروا لخدمتهم كأنهم في صفاء بشرتهم وبياضها لؤلؤ محفوظ في أصدافه.</p>"
+        },
+        "25": {
+            "verses": {
+                "52:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقبل بعض أهل الجنة على بعض، يسأل بعضهم بعضًا عن حالهم في الدنيا.</p>"
+        },
+        "26": {
+            "verses": {
+                "52:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فيجيبونهم: إنا كنا في الدنيا بين أهلينا خائفين من عذاب الله.</p>"
+        },
+        "27": {
+            "verses": {
+                "52:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فمنّ الله علينا بالهداية إلى الإسلام، ووقانا العذاب البالغ في الحرارة.</p>"
+        },
+        "28": {
+            "verses": {
+                "52:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا كنّا في حياتنا الدنيا نعبده، وندعوه أن يقينا عذاب النار، إنه هو المحسن الصادق في وعده لعباده، الرحيم بهم، ومن برّه ورحمته بنا أن هدانا للإيمان، وأدخلنا الجنة، وأبعدنا عن النار.</p>"
+        },
+        "29": {
+            "verses": {
+                "52:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فذكّر - أيها الرسول - بالقرآن، فلست بما أنعم الله عليك به من الإيمان والعقل بكاهنٍ لكَ رَئِيٌّ من الجن، ولست بمجنون.</p>"
+        },
+        "30": {
+            "verses": {
+                "52:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم يقول هؤلاء المكذبون: إن محمدًا ليس رسولًا، بل هو شاعر ننتظر به أن يتخطفه الموت، فنستريح منه.</p>"
+        },
+        "31": {
+            "verses": {
+                "52:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل لهم - أيها الرسول -: انتظروا موتي، وأنا أنتظر ما يحلّ بكم من عذاب بسبب تكذيبكم إياي.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• الجمع بين الآباء والأبناء في الجنة في منزلة واحدة وإن قصر عمل بعضهم إكرامًا لهم جميعًا حتى تتم الفرحة.</p>\n<h2>• خمر الآخرة لا يترتب على شربها مكروه.</h2>\n<h2>• من خاف من ربه في دنياه أمّنه في آخرته.</h2>"
+        },
+        "32": {
+            "verses": {
+                "52:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>بل أتأمرهم عقولهم بقولهم: إنه كاهن ومجنون؟! فيجمعون بين ما لا يجتمع في شخص، بل هم قوم متجاوزون للحدود، فلا يرجعون إلى شرع ولا عقل.</p>"
+        },
+        "33": {
+            "verses": {
+                "52:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم يقولون: إن محمدًا اختلق هذا القرآن، ولم يوحَ إليه به؟! لم يختلقه، بل هم يستكبرون عن الإيمان به، فيقولون: اختلقه.</p>"
+        },
+        "34": {
+            "verses": {
+                "52:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فليأتوا بحديث مثله ولو كان مُخْتَلَقًا إن كانوا صادقين في دعواهم أنه اختلقه.</p>"
+        },
+        "35": {
+            "verses": {
+                "52:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم خُلقوا من غير خالق يخلقهم؟! أم هم الخالقون لأنفسهم؟! لا يمكن وجود مخلوق دون خالق، ولا مخلوق يخلق، فلم لا يعبدون خالقهم؟!</p>"
+        },
+        "36": {
+            "verses": {
+                "52:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم خلقوا السماوات والأرض؟! بل لا يوقنون أن الله هو خالقهم، إذ لو أيقنوا ذلك لوحَّدوه، ولآمنوا برسوله.</p>"
+        },
+        "37": {
+            "verses": {
+                "52:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم عندهم خزائن ربك من الرزق فيمنحوه من يشاؤون، ومن النبوّة فيعطوها ويمنعوها من أرادوا؟! أم هم المُتَسلِّطون المتصرفون حسب مشيئتهم؟!</p>"
+        },
+        "38": {
+            "verses": {
+                "52:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم لهم مِرْقاة يرقون بها إلى السماء يستمعون فيها إلى وحي الله يوحيه أنهم على حق؟! فليأت من استمع منهم إلى ذلك الوحي بحجة واضحة تصدقكم فيما تدّعونه من أنكم على حق.</p>"
+        },
+        "39": {
+            "verses": {
+                "52:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم له سبحانه وتعالى البنات التي تكرهونها، ولكم البنون الذين تحبّونهم؟!</p>"
+        },
+        "40": {
+            "verses": {
+                "52:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم تطلب منهم - أيها الرسول - أجرًا على ما تبلغهم عن ربك؟! فهم بسبب ذلك مكلفون حِملًا لا يقدرون على حمله.</p>"
+        },
+        "41": {
+            "verses": {
+                "52:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم عندهم علم الغيب فهم يكتبون للناس ما يطلعون عليه من الغيوب، فيخبرونهم بما شاؤوا منها؟!</p>"
+        },
+        "42": {
+            "verses": {
+                "52:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم يريد هؤلاء المكذبون كيدًا بك وبدينك؟! فثقْ بالله، فالذين كفروا بالله وبرسوله هم الممكور بهم، لا أنت.</p>"
+        },
+        "43": {
+            "verses": {
+                "52:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أم لهم معبود بحق غير الله؟! تنزه الله وتقدس عما ينسبونه إليه من الشريك. كل ما تقدم لم يكن ولا يتصور بحال.</p>"
+        },
+        "44": {
+            "verses": {
+                "52:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن يروا قطعًا من السماء ساقطة يقولوا عنه: هذا سحاب متراكم بعضه على بعض كالعادة، فلا يتعظون، ولا يؤمنون.</p>"
+        },
+        "45": {
+            "verses": {
+                "52:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فاتركهم - أيها الرسول - في عنادهم وجحودهم حتى يلاقوا يومهم الذي فيه يعذبون، وهو يوم القيامة.</p>"
+        },
+        "46": {
+            "verses": {
+                "52:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يوم لا يغني عنهم كيدهم شيئًا قليلًا أو كثيرًا، ولا هم ينصرون بإنقاذهم من العذاب.</p>"
+        },
+        "47": {
+            "verses": {
+                "52:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن للذين ظلموا أنفسهم بالشرك والمعاصي عذابًا قبل عذاب الآخرة، في الدنيا بالقتل والسبي، وفي البَرْزَخ بعذاب القبر، ولكنّ معظمهم لا يعلمون ذلك، فلذلك يقيمون على كفرهم.</p>"
+        },
+        "48": {
+            "verses": {
+                "52:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما بيّن الله بطلان ما عليه المشركون أمر رسوله بعدم المبالاة بهم، وبالصبر على تكذيبهم فقال:</h2>\n<p>واصبر - أيها الرسول - لقضاء ربك، ولحكمه الشرعي، فإنك بمرأى منا وحفظ، وسبح بحمد ربك حين تقوم من نومك.</p>"
+        },
+        "49": {
+            "verses": {
+                "52:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ومن الليل فسبّح ربك، وصلّ له، وصلّ صلاة الفجر حين إدبار النجوم بأفولها بضوء النهار.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• الطغيان سبب من أسباب الضلال.</h2>\n<h2>• أهمية الجدال العقلي في إثبات حقائق الدين.</h2>\n<h2>• ثبوت عذاب البَرْزَخ.</h2>"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک ہم نے دی تجھ کو کوثر</h2>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>سو نماز پڑھ اپنے رب کے آگے اور قربانی کر</h2>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک جو دشمن ہے تیرا وہی رہ گیا پیچھا کٹا۔</h2>"
+        }
+    }
+}

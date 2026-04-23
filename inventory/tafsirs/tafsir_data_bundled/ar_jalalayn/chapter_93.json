@@ -1,0 +1,181 @@
+{
+    "chapter": 93,
+    "verses": {
+        "1": {
+            "verses": {
+                "93:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱلضُّحَىٰ ۝١﴾ أَيْ أَوَّل النَّهَار أَوْ كُلّه</h2>"
+        },
+        "2": {
+            "verses": {
+                "93:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱلَّیۡلِ إِذَا سَجَىٰ ۝٢﴾ غَطَّى بِظَلَامِهِ أَوْ سَكَنَ</h2>"
+        },
+        "3": {
+            "verses": {
+                "93:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَا وَدَّعَكَ﴾ تَرَكَك يَا مُحَمَّد ﴿رَبُّكَ وَمَا قَلَىٰ ۝٣﴾ أَبْغَضك نَزَلَ هَذَا لَمَّا قَالَ الْكُفَّار عِنْد تَأَخُّر الْوَحْي عَنْهُ خَمْسَة عَشَر يَوْمًا إِنَّ رَبّه وَدَّعَهُ وَقَلَاهُ</p>"
+        },
+        "4": {
+            "verses": {
+                "93:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَلۡـَٔاخِرَةُ خَیۡرࣱ لَّكَ﴾ لِمَا فِيهَا مِنْ الْكَرَامَات لك ﴿مِنَ ٱلۡأُولَىٰ ۝٤﴾ للدنيا</p>"
+        },
+        "5": {
+            "verses": {
+                "93:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَسَوۡفَ یُعۡطِیكَ رَبُّكَ﴾ فِي الْآخِرَة مِنْ الْخَيْرَات عَطَاء جَزِيلًا ﴿فَتَرۡضَىٰۤ ۝٥﴾ بِهِ فَقَالَ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ إِذْن لَا أَرْضَى وَوَاحِد مِنْ أُمَّتِي فِي النَّار إِلَى هُنَا تَمَّ جَوَاب الْقَسَم بِمُثْبَتَيْنِ بَعْد مَنْفِيَّيْنِ</p>"
+        },
+        "6": {
+            "verses": {
+                "93:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَلَمۡ یَجِدۡكَ﴾ اِسْتِفْهَام تَقْرِير أَيْ وَجَدَك ﴿یَتِیمࣰا﴾ بِفَقْدِ أَبِيك قَبْل وِلَادَتك أَوْ بَعْدهَا ﴿فَـَٔاوَىٰ ۝٦﴾ بِأَنْ ضَمَّك إِلَى عَمّك أَبِي طَالِب</p>"
+        },
+        "7": {
+            "verses": {
+                "93:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَوَجَدَكَ ضَاۤلࣰّا﴾ عَمَّا أَنْتَ عَلَيْهِ مِنْ الشَّرِيعَة ﴿فَهَدَىٰ ۝٧﴾ أَيْ هَدَاك إِلَيْهَا</p>"
+        },
+        "8": {
+            "verses": {
+                "93:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَوَجَدَكَ عَاۤىِٕلࣰا﴾ فَقِيرًا ﴿فَأَغۡنَىٰ ۝٨﴾ أَغْنَاك بِمَا قَنَّعَك بِهِ مِنْ الْغَنِيمَة وَغَيْرهَا وَفِي الْحَدِيث لَيْسَ الْغِنَى عَنْ كَثْرَة الْعَرَض وَلَكِنَّ الْغِنَى غِنَى النفس</p>"
+        },
+        "9": {
+            "verses": {
+                "93:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَمَّا ٱلۡیَتِیمَ فَلَا تَقۡهَرۡ ۝٩﴾ بِأَخْذِ مَاله أَوْ غَيْر ذَلِكَ</p>"
+        },
+        "10": {
+            "verses": {
+                "93:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَمَّا ٱلسَّاۤىِٕلَ فَلَا تَنۡهَرۡ ۝١٠﴾ تَزْجُرهُ لِفَقْرِهِ</p>"
+        },
+        "11": {
+            "verses": {
+                "93:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَمَّا بِنِعۡمَةِ رَبِّكَ﴾ عليك بالنبوة وغيره ﴿فَحَدِّثۡ ۝١١﴾ أَخْبِرْ وَحُذِفَ ضَمِيره صَلَّى اللَّه عَلَيْهِ وسلم في بعض الأفعال رعاية للفواصل</p>"
+        }
+    }
+}

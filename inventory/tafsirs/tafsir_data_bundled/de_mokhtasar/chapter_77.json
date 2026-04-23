@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah schwor bei den Winden, die wie Pferde aufeinanderfolgen.</p>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und Er schwor bei den Stürmen, die stark wehen.</h2>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und Er schwor bei den Stürmen, die den Regen ausbreiten.</h2>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Er schwor bei den Engeln, die mit dem herabkommen, was zwischen Wahrheit und Falschheit trennt.</p>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Er schwor bei den Engeln, die mit der Offenbarung herabkommen.</p>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie kommen mit der Offenbarung herab, als Entschuldigung von Allah an die Menschen und als Warnung für die Menschen vor Allahs Strafe.</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Das, was euch von der Auferstehung, Abrechnung und Vergeltung versprochen wird, wird sicherlich eintreffen.</p>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Wenn dann das Licht der Sterne ausgelöscht wird und vergeht</h2>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>und wenn der Himmel gespalten wird, damit die Engel aus ihm herabkommen,</p>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>und wenn die Berge aus ihren Plätzen gerissen und zerbröckelt werden, bis sie zu Staub werden,</p>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>und wenn die Gesandten zu einer festgesetzten Zeit versammelt werden.</p>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Auf einen gewaltigen Tag wurde ihre Frist festgelegt, damit sie gegen ihre Völker bezeugen.</p>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Auf den Tag, der zwischen den Dienern entscheidet. So wird klar, wer recht hatte und wer unrecht, und wer der Glückliche und der Unglückliche ist.</p>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was lässt dich - o Gesandter - wissen, was der Tag der Entscheidung ist?</p>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zugrunde gehen, vernichtet und verlieren werden die Leugner an jenem Tag. Diejenigen, die das für Lüge erklärten, womit die Gesandten von Allah kamen.</p>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Haben Wir nicht die früheren Völker vernichtet, weil sie nicht an Allah glaubten und Seine Gesandten der Lüge bezichtigten?</p>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dann lassen Wir ihnen die späteren Leugner folgen, so werden Wir sie vernichten, wie Wir sie einst vernichtet haben.</p>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wie die Vernichtung dieser Völker lassen Wir (auch) die Verbrecher vernichten, die das verleugnen, womit Muhammad - Allahs Segen und Frieden auf ihm - gekommen ist.</p>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Haben Wir euch - o ihr Menschen - nicht aus einem geringen, verächtlichen Wasser, welcher der Samentropfen ist, erschaffen?</p>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So haben wir dieses verächtliche Wasser in einem durchgebohrten Ort sein lassen. Dieser ist der Leib der Frau.</p>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bis zu einem bekannten Zeitpunkt, welcher der Zeitpunkt der Schwangerschaft ist.</p>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So haben Wir das Aussehen des Geborenen, seine Größe, Farbe etc. bemessen. Welch trefflicher Bemesser sind Wir für all das?</p>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Haben wir die Erde nicht so gemacht, dass sie alle Menschen umfasst?</p>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie umfasst ihre Lebenden, indem sie auf ihr leben und sie bewohnen, und ihre Toten, indem sie in ihr begraben werden.</p>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Auf ihr haben wir feste Berge gemacht, die sie daran hindern zu beben und die hoch sind. Und wir haben euch - o ihr Menschen - süßes Wasser zu trinken gegeben. Derjenige, Der dies erschaffen hat, ist nicht unfähig dazu, euch auch auferstehen zu lassen.</p>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Den Leugnern wird mit dem, womit ihre Gesandten zu ihnen kamen, gesagt: „Zieht los, ihr Leugner, zu dem, was ihr an der Strafe stets für Lüge erklärt habt.</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zieht los zu einem Schatten aus dem Rauch des Höllenfeuers, der sich in drei Gruppen aufteilt.</p>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>In ihm findet man keinen kühlen Schatten und er hindert die Flammen und die Hitze des Höllenfeuers nicht zu euch durchzudringen.“</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Das Höllenfeuer wirft mit Funken. Jeder Funke ist so groß wie ein Schloss.</p>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Als wären die Funken, mit denen geworfen wird, aufgrund ihrer Schwärze und Größe schwarze Kamele.</p>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Das ist ein Tag, an dem sie über nichts reden werden.</h2>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und es wird ihnen nicht erlaubt, dass sie sich bei ihrem Herrn für ihren Unglauben und ihre Sünden entschuldigen.</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Das ist der Tag, der zwischen den Geschöpfen entscheiden wird. Wir haben euch und die früheren Völker auf einer Ebene versammelt.</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn ihr also eine List habt, mit der ihr euch vor Allahs Strafe rettet, dann führt sie gegen Mich aus.</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die ihren Herrn fürchten, indem sie sich an Seine Gebote halten und sich vor Seinen Verboten hüten, werden sich in den langen Schatten des Paradiesgartens und den fließenden, süßen Wasserquellen befinden</p>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>und bei Früchten von dem, was sie begehren zu verzehren.</h2>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zu ihnen wird gesagt: „Esst von den guten Dingen und trinkt ein Getränk, in dem nichts ist, das ihn trübt, als wohlbekömmlich für das, was ihr im Diesseits an guten Taten zu tun pflegtet.“</p>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Genauso, wie Wir euch vergelten, so vergelten Wir den Rechtschaffenen ihre Taten.</p>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zu den Leugnern wird gesagt: „Esst und genießt die Süße des Lebens für eine kurze Zeit im Diesseits. Gewiss, ihr seid ja dafür, dass ihr nicht an Allah glaubt und Seine Gesandten zu Lügnern erklärt, Verbrecher.“</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zerstörung, Strafe und Verlust gebühren an diesem Tag denjenigen, welche die Androhung Allahs über die Bestrafung der Verbrecher geleugnet haben.</p>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn zu diesen Leugnern gesagt wird: „Betet zu Allah!“, werden sie nicht zu Ihm beten.</p>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zugrunde gehen, vernichtet und verlieren werden die Leugner an jenem Tag. Diejenigen, die das für Lüge erklärten, womit die Gesandten von Allah kamen.</p>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn sie an diesem Quran, der von ihrem Herrn hinabesandt wurde, nicht glauben, an welche andere Aussage glauben sie denn?</p>"
+        }
+    }
+}

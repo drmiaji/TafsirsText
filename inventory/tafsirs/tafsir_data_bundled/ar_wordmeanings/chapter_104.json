@@ -1,0 +1,149 @@
+{
+    "chapter": 104,
+    "verses": {
+        "1": {
+            "verses": {
+                "104:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيْلٌ﴾ شَرٌّ، وَهَلاَكٌ.</h2>\n<h2>﴿هُمَزَةٍ﴾ مُغْتَابٍ لِلنَّاسِ.</h2>\n<h2>﴿لُمَزَةٍ﴾ طَعَّانٍ فِي النَّاسِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "104:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَعَدَّدَهُ﴾ أَحْصَاهُ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "104:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَحْسَبُ﴾ يَظُنُّ.</h2>\n<h2>﴿أَخْلَدَهُ﴾ أَبْقَاهُ خَالِدًا فِي الدُّنْيَا.</h2>"
+        },
+        "4": {
+            "verses": {
+                "104:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَلاَّ﴾ لَيْسَ الأَمْرُ كَمَا يَظُنُّ.</h2>\n<h2>﴿لَيُنْبَذَنَّ﴾ لَيُطْرَحَنَّ.</h2>\n<p>﴿الْحُطَمَةِ﴾ النَّارِ الَّتِي تَهْشِمُ كُلَّ مَا يُلْقَى فِيهَا.</p>"
+        },
+        "5": {
+            "verses": {
+                "104:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "104:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "7": {
+            "verses": {
+                "104:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿تَطَّلِعُ عَلَى الأَفْئِدَةِ﴾ تَنْفُذُ لِشِدَّتِهَا مِنْ أَجْسَامِهِمْ إِلَى قُلُوبِهِمْ.</p>"
+        },
+        "8": {
+            "verses": {
+                "104:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مُؤْصَدَةٌ﴾ مُطْبَقَةٌ.</h2>"
+        },
+        "9": {
+            "verses": {
+                "104:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِي عَمَدٍ مُمَدَّدَةٍ﴾ يُعَذَّبُونَ فِي أَعْمِدَةٍ طَوِيلَةٍ مِنَ النَّارِ، أَوْ أَنَّ أَبْوَابَهَا مُغْلَقَةٌ بِأَعْمِدَةٍ مُمَدَّدَةٍ؛ لِئَلاَّ يَخْرُجُوا مِنْهَا.</p>"
+        }
+    }
+}

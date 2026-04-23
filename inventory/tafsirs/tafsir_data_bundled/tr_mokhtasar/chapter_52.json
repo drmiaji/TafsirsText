@@ -1,0 +1,789 @@
+{
+    "chapter": 52,
+    "verses": {
+        "1": {
+            "verses": {
+                "52:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yüce Allah, Musa -aleyhisselam- ile konuştuğu yer olan, Tur dağı adına yemin etmiştir.</p>"
+        },
+        "2": {
+            "verses": {
+                "52:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Ve yazılmış kitaba (Ku'an-ı Kerim'e) yemin etmiştir.</h2>"
+        },
+        "3": {
+            "verses": {
+                "52:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Önceden indirilmiş kitaplarda olduğu gibi yayılmış sahifeler içinde.</p>"
+        },
+        "4": {
+            "verses": {
+                "52:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yüce Allah, meleklerin gökyüzünde Allah'a ibadet ederek imar ettikleri eve yemin etmiştir.</p>"
+        },
+        "5": {
+            "verses": {
+                "52:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Yerin tavanı olan yükseltilmiş göğe yemin etmiştir.</h2>"
+        },
+        "6": {
+            "verses": {
+                "52:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Yüce Allah, su ile dolu denize yemin etmiştir.</h2>"
+        },
+        "7": {
+            "verses": {
+                "52:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Rabbinin azabı kâfirler üzerine mutlaka vuku bulacaktır, bunda hiç şüphe yoktur.</p>"
+        },
+        "8": {
+            "verses": {
+                "52:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Onlardan bunu defedecek ve gerçekleşmesine mani olacak hiçbir şey yoktur.</p>"
+        },
+        "9": {
+            "verses": {
+                "52:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gün gök hareket eder, kıyametin gelişini çalkalanarak haber verir.</p>"
+        },
+        "10": {
+            "verses": {
+                "52:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Dağlar yerlerinden hareket edip yürür.</h2>"
+        },
+        "11": {
+            "verses": {
+                "52:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yalanlayanların hüsrana ve helâka uğrayacak olmalarından dolayı vay onların hallerine! Zira Yüce Allah o günde kâfirleri azabı ile tehdit etmiştir.</p>"
+        },
+        "12": {
+            "verses": {
+                "52:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Onlar daldıkları batıl içinde oyalanıp duranlardır. Onlar yeniden dirilecek olmalarını önemseyip, umursamazlar.</p>"
+        },
+        "13": {
+            "verses": {
+                "52:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gün zor kullanarak itile kakıla Cehennem ateşine atılacaklardır.</p>"
+        },
+        "14": {
+            "verses": {
+                "52:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Azarlamak için onlara şöyle denilir: \"Rasûlleriniz sizi kendisi ile korkuttuğu halde işte bu yalanlayıp durduğunuz ateşin ta kendisidir.\"</p>"
+        },
+        "15": {
+            "verses": {
+                "52:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Gözlerinizle apaçık gördüğünüz azap da mı sihirdir? Yoksa siz onu görmüyor musunuz?</p>"
+        },
+        "16": {
+            "verses": {
+                "52:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu ateşin sıcaklığını ve acısını tadın. Onun sıcaklığına ister sabredin ister sabretmeyin; sizin için birdir. Bugün sabretseniz de sabretmeseniz de dünyada işlemiş olduğunuz küfür ve günahların karşılığına çarptırılacaksınız.</p>"
+        },
+        "17": {
+            "verses": {
+                "52:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Emirlerini yerine getirip, yasaklarından sakınarak Rablerine karşı takva sahibi olanlar Cennetler ve kesintiye uğramayacak büyük nimetler içindedirler.</p>"
+        },
+        "18": {
+            "verses": {
+                "52:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yüce Allah'ın kendilerine vermiş olduğu yiyecek, içeçek ve evlilikten alacakları lezzetlerin sefasını sürerler. Rableri -Subhanehu ve Teâlâ- onları alevli ateşin azabından korur. Talep ettikleri lezzetli şeyleri elde ederek ve sıkıntı verecek şeylerden de korunarak kazançlı çıkarlar.</p>"
+        },
+        "19": {
+            "verses": {
+                "52:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Onlara şöyle denilir: \"Canınızın çektiği şeylerden afiyetle yiyip için. Dünyada yapmış olduğunuz güzel amellerinizin karşılığı olarak, yiyip içtiğiniz şeylerin bir eziyet ve zarar vermesinden korkmayın.\"</p>"
+        },
+        "20": {
+            "verses": {
+                "52:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Karşılıklı sıra sıra dizilmiş süslenmiş koltuklara oturmuşlardır. Ve onları iri gözlü beyaz tenli kadınlarla (huriler) onları evlendiririz.</p>"
+        },
+        "21": {
+            "verses": {
+                "52:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İman edenleri ve iman etmede onlara tabi olan evlatlarını onlarla bir araya getirdik ki gönülleri rahatlasın. Velev ki amelleri bu dereceye ulaşmasa bile, onların amellerinin sevaplarından da bir şey eksiltmedik. Her insan, kendi yapıp kazanmakta olduğu kötü amele karşılık rehindir, hiçbir kimse onun amelinden bir şeyi yüklenemez.</p>"
+        },
+        "22": {
+            "verses": {
+                "52:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cennet ehline canlarının çektiği çeşit çeşit meyvelerden ve etlerden bol bol verdik.</p>"
+        },
+        "23": {
+            "verses": {
+                "52:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cennet'te birbirilerine kadeh sunarlar. Dünyada içildiğinde sarhoşluk vermesi sebebiyle meydana gelen günah ve batıl söz söyleme sonucunu doğurmaz.</p>"
+        },
+        "24": {
+            "verses": {
+                "52:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hizmetlerine sunulmuş gençler etraflarında dolanıp dururlar. Sanki onlar ciltlerinin beyazlığı ve temizliğinden dolayı kabuğunda saklı inci gibidirler.</p>"
+        },
+        "25": {
+            "verses": {
+                "52:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cennetlikler birbirlerine dönüp dünyadaki hallerini birbirilerine sorarlar.</p>"
+        },
+        "26": {
+            "verses": {
+                "52:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Birbirlerine şöyle cevap verirler: \"Şüphesiz biz, dünyada ailemizin yanındayken Yüce Allah'ın azabından korkardık.\"</p>"
+        },
+        "27": {
+            "verses": {
+                "52:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>\"Allah, İslam'a hidayet ederek bize lütufta bulundu ve şiddetli azaptan bizleri korudu.\"</p>"
+        },
+        "28": {
+            "verses": {
+                "52:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bizler, dünya hayatında O'na ibadet ediyorduk. Cehennem azabından bizi koruması için O'na dua ediyorduk. O kullarına karşı vadettiği hususlarda sadık ve ihsan sahibidir. Onlara karşı çok merhametlidir. Bize olan rahmeti ve ihsanından dolayı bizleri imana erdirdi. Bizleri Cennet'e koydu ve Cehennem'den uzaklaştırdı.</p>"
+        },
+        "29": {
+            "verses": {
+                "52:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Sen Kur'an ile öğüt ver. Allah'ın sana bahşetmiş olduğu iman ve akıl sebebiyle sen kâhin değilsin. Sana görünen cinler vardır ve sen deli de değilsin.</p>"
+        },
+        "30": {
+            "verses": {
+                "52:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa bu yalanlayanlar şöyle mi diyorlar?: \"Muhammed rasûl değildir, bilâkis o şairdir. Ölümün onu kıskıvrak yakalamasını bekliyoruz ki, ondan kurtulalım.\"</p>"
+        },
+        "31": {
+            "verses": {
+                "52:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Onlara de ki: \"Ölümümü bekleyin, ben de beni yalanlamanızdan dolayı başınıza gelecek azabı bekliyorum.\"</p>"
+        },
+        "32": {
+            "verses": {
+                "52:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>\"Şüphesiz o kâhin ve delidir.\" sözlerini onlara akılları mı emrediyor? Bir kişide bir arada bulunması mümkün olmayan şeyleri bir araya getirmeye çalışıyorlar. Bilâkis onlar, haddi aşan bir topluluktur. Dine ve sahih akla dönmezler.</p>"
+        },
+        "33": {
+            "verses": {
+                "52:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa onlar; Muhammed bu Kur'an'ı kendisi uydurdu, bunlar ona vahyolmadı mı diyorlar? Kur'an'ı o uydurmadı, bilâkis onlar ona iman etme hususunda kibirleniyorlar. Buna rağmen hâlâ onu uydurdu diyorlar.</p>"
+        },
+        "34": {
+            "verses": {
+                "52:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Eğer onun uydurma olduğunu iddia ettiklerinde sadık iseler, uydurma da olsa onun misli bir söz getirsinler!</p>"
+        },
+        "35": {
+            "verses": {
+                "52:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa onlar kendilerini yaratan bir yaratıcı olmadan mı yaratıldılar? Yoksa onlar kendilerini mi yarattılar? Yaratıcı olmadan mahlûkatın olması imkansızdır. Hiçbir mahlûk yaratamaz. O halde neden kendilerini yaratana ibadet etmiyorlar?</p>"
+        },
+        "36": {
+            "verses": {
+                "52:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa, gökleri ve yeri onlar mı yarattı? Hayır! Yüce Allah'ın, onların yaratıcısı olduğuna yakinen iman etmiyorlar. Şayet gerçekten iman etmiş olsalardı O'nu birler ve Rasûllerine iman ederlerdi.</p>"
+        },
+        "37": {
+            "verses": {
+                "52:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa, Rabbinin rızık hazineleri onların yanında mıdır ki dilediklerini bağışlasınlar? Peygamberliği de dilediklerine verip dilediklerine de engel olup vermesinler. Yoksa onlar dilediği gibi tasarruf eden hakimiyet sahibi kimseler midir?</p>"
+        },
+        "38": {
+            "verses": {
+                "52:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa onların gökyüzüne yükseldikleri bir merdivenleri mi var da; orada Yüce Allah'ın onların hak olduğuna dair vahyini mi duydular? Onlardan kim bu vahyi duyduysa, hak üzerine olduklarına dair kendilerini tasdik eden apaçık delilleri getirsin.</p>"
+        },
+        "39": {
+            "verses": {
+                "52:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O kötü gördüğünüz kızlar, Allah -Subhanehu ve Teâlâ-'nın da; sevdiğiniz erkek çocukları sizin mi?</p>"
+        },
+        "40": {
+            "verses": {
+                "52:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Yoksa sen Rabbinden tebliğ ettiğin şeyler karşılığında onlardan bir ücret istiyorsun da, bundan dolayı onlar taşımaya güç yetiremedikleri bir borcun altına mı giriyorlar?</p>"
+        },
+        "41": {
+            "verses": {
+                "52:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa gayp ilmi onların yanında da, gayptan bildiklerini insanlar için yazıyorlar ve onlara gayptan dilediklerini mi haber veriyorlar?</p>"
+        },
+        "42": {
+            "verses": {
+                "52:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa bu yalanlayanlar sana ve içinde bulunduğun dine tuzak mı kurmak istiyorlar? Yüce Allah'ı ve Rasûlünü küfredenlerin kendisi tuzağa düşenlerdir, sen değilsin.</p>"
+        },
+        "43": {
+            "verses": {
+                "52:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa onların Yüce Allah'tan başka hak ilahları mı var? Yüce Allah, onların zatına nispet ettikleri ortaklardan münezzeh ve yücedir.</p>"
+        },
+        "44": {
+            "verses": {
+                "52:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Eğer gökten bir parça düştüğünü görseler; “Bunlar her zaman olduğu gibi üst üste yığılmış bulutlardır.” derler. Bundan öğüt almaz ve iman da etmezler.</p>"
+        },
+        "45": {
+            "verses": {
+                "52:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Azap görecekleri günlerine ulaşıncaya kadar onları inkâr ve inatları üzerine bırak. O gün kıyamet günüdür.</p>"
+        },
+        "46": {
+            "verses": {
+                "52:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Az ya da çok o gün kurdukları tuzakları kendilerinden bir şey def edemez ve azaptan kurtarılmak için de onlara yardım edilmez.</p>"
+        },
+        "47": {
+            "verses": {
+                "52:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şirk ve günahlar ile kendilerine zulmedenler ahiret azabından önce dünya hayatında ölüm ve esir alınır, berzah aleminde de kabir azabına uğrarlar. Ancak onların çoğu bunu bilmezler. Bundan dolayı küfürleri üzerine devam ederler.</p>"
+        },
+        "48": {
+            "verses": {
+                "52:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Rabbinin emrine ve şer'î hükmüne sabret. Şüphesiz ki, sen gözümüzün önünde ve korumamız altındasın. Uykudan uyandığında Rabbini hamd ile tespih et.</p>"
+        },
+        "49": {
+            "verses": {
+                "52:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Gecenin bir kısmında Rabbini tespih et, O'na dua et ve sabah namazını yıldızlar battıktan sonra gündüzün ışığı (fecrin doğuşu) ile kıl.</p>"
+        }
+    }
+}

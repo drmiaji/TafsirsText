@@ -1,0 +1,341 @@
+{
+    "chapter": 92,
+    "verses": {
+        "1": {
+            "verses": {
+                "92:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah schwört bei der Nacht, die alles, was zwischen Himmel und Erde ist, in Dunkelheit hüllt.</p>"
+        },
+        "2": {
+            "verses": {
+                "92:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und Er schwört bei dem Tag, wenn er aufkommt und scheint.</h2>"
+        },
+        "3": {
+            "verses": {
+                "92:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Er schwört bei dem Mann und bei der Frau, die Er erschaffen hat.</p>"
+        },
+        "4": {
+            "verses": {
+                "92:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O ihr Menschen, eure Taten sind verschieden - so gibt es gute Taten, die der Grund für das Eingehen in den Paradiesgarten sind, und Sünden, die die Ursache für den Eintritt in das Höllenfeuer sind.</p>"
+        },
+        "5": {
+            "verses": {
+                "92:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was den betrifft, der das gibt, wofür er sich aufopfern soll (wozu er verpflichtet ist), wie die Zakah und die Ausgaben für die Sühneleistung, und sich von dem enthält, das Allah ihm verbietet,</p>"
+        },
+        "6": {
+            "verses": {
+                "92:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>und der das für wahr hält, was Allah ihm an Nachkommen versprochen hat,</p>"
+        },
+        "7": {
+            "verses": {
+                "92:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>so werden Wir es ihm erleichtern, gute Taten zu vollziehen und sein Vermögen auf Allahs Weg auszugeben.</p>"
+        },
+        "8": {
+            "verses": {
+                "92:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Doch was den betrifft, der geizt, sich für nichts aufopfert, das für ihn verpflichtend ist, und durch sein Vermögen auf Allah verzichtet und Ihn in keinster Weise um Seine Huld bittet,</p>"
+        },
+        "9": {
+            "verses": {
+                "92:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>und das für Lüge erklärt, was Allah ihm an Hinterlassenschaft und Lohn, für seine Ausgaben auf Allahs Weg, versprochen hat,</p>"
+        },
+        "10": {
+            "verses": {
+                "92:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>so werden Wir es ihm erleichtern, Böses zu tun und es ihm schwer machen, Gutes zu tun.</p>"
+        },
+        "11": {
+            "verses": {
+                "92:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und was bringt ihm sein Vermögen, mit dem er geizig ist, wenn er zugrunde geht und das Höllenfeuer betritt?</p>"
+        },
+        "12": {
+            "verses": {
+                "92:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Uns obliegt es, den wahren und den falschen Weg darzulegen.</h2>"
+        },
+        "13": {
+            "verses": {
+                "92:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Uns gehört das jenseitige und das diesseitige Leben; Wir verfügen darüber, so wie Wir wollen, und dies steht sonst niemandem zu.</p>"
+        },
+        "14": {
+            "verses": {
+                "92:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ich warnte euch - o ihr Menschen - vor einem brennenden Höllenfeuer, wenn ihr euch Allah widersetzt.</p>"
+        },
+        "15": {
+            "verses": {
+                "92:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Hitze dieses Höllenfeuers erleidet nur der Unglücklichste, welcher der Ungläubige ist.</p>"
+        },
+        "16": {
+            "verses": {
+                "92:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Derjenige, der die Botschaft des Gesandten - Allahs Segen und Frieden auf ihm - für Lüge erklärt und sich davon abkehrt, Allahs Geboten nachzukommen.</p>"
+        },
+        "17": {
+            "verses": {
+                "92:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Davon (also vom Höllenfeuer) aber wird der Gottesfürchtigste unter den Menschen, Abu Bakr - möge Allah mit ihm zufrieden sein -, ferngehalten.</p>"
+        },
+        "18": {
+            "verses": {
+                "92:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Der sein Vermögen für das Rechtschaffene ausgibt, um sich von Sünden zu reinigen.</p>"
+        },
+        "19": {
+            "verses": {
+                "92:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er gibt sein Vermögen nicht aus, um dadurch eine Gunst, die er von einem erhielt, wieder gut zu machen.</p>"
+        },
+        "20": {
+            "verses": {
+                "92:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Für das, was er ausgegeben hat, will er nur das Angesicht seines Herrn, Der hoch über Seiner Schöpfung ist.</p>"
+        },
+        "21": {
+            "verses": {
+                "92:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er wird mit der großzügigen Belohnung Allahs zufrieden sein.</p>"
+        }
+    }
+}

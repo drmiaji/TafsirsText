@@ -1,0 +1,485 @@
+{
+    "chapter": 89,
+    "verses": {
+        "1": {
+            "verses": {
+                "89:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الفجر مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>عرض مشاهد العظمة والقدرة الإلهية في الكون وأحوال الإنسان، وبيان عاقبة المغترين.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>أقسم الله سبحانه بالفجر.</h2>"
+        },
+        "2": {
+            "verses": {
+                "89:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالليالي العشر الأولى من ذي الحجة.</h2>"
+        },
+        "3": {
+            "verses": {
+                "89:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالزوج والفرد من الأشياء.</h2>"
+        },
+        "4": {
+            "verses": {
+                "89:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقسم بالليل إذا جاء، واستمرّ وأدبر وجواب هذه الأقسام: لَتُجازُنَّ على أعمالكم.</p>"
+        },
+        "5": {
+            "verses": {
+                "89:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هل في ذلك المذكور قَسَم يقنع ذا عقل؟!</h2>"
+        },
+        "6": {
+            "verses": {
+                "89:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ألم تر - أيها الرسول - كيف فعل ربك بعاد قوم هود لما كذبوا رسوله؟!</p>"
+        },
+        "7": {
+            "verses": {
+                "89:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>قبيلة عاد المنسوبة إلى جدها إرم ذات الطول.</h2>"
+        },
+        "8": {
+            "verses": {
+                "89:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>التي لم يخلق الله مثلها في البلاد.</h2>"
+        },
+        "9": {
+            "verses": {
+                "89:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أوَلم تر كيف فعل ربك بثمود قوم صالح، الذين شقُّوا صخور الجبال، وجعلوا منها بيوتًا بالحِجْر.</p>"
+        },
+        "10": {
+            "verses": {
+                "89:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أوَلم تر كيف فعل ربك بفرعون الذي كانت له أوتاد يعذب بها الناس؟</p>"
+        },
+        "11": {
+            "verses": {
+                "89:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كلّ هؤلاء تجاوزوا الحدّ في الجَبَرُوت والظلم، كلٌّ تجاوزه في بلده.</p>"
+        },
+        "12": {
+            "verses": {
+                "89:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأكثروا فيها الفساد بما نشروه من الكفر والمعاصي.</h2>"
+        },
+        "13": {
+            "verses": {
+                "89:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأذاقهم الله عذابه الشديد، واستأصلهم من الأرض.</h2>"
+        },
+        "14": {
+            "verses": {
+                "89:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن ربك - أيها الرسول - ليرصد أعمال الناس ويراقبها، ليجازي من أحسن بالجنة، ومن أساء بالنار.</p>"
+        },
+        "15": {
+            "verses": {
+                "89:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما كانت الأمم التي أهلكها الله منعمًا عليها بالقوة والمنعة، بيّن أن الإنعام بذلك ليس دليلًا على رضا الله عنهم، فقال:</h2>\n<p>فأما الإنسان فمِن طَبْعِه أنه إذا اختبره ربه وأكرمه، وأنعم عليه بالمال والأولاد والجاه، ظنّ أنّ ذلك لكرامة له عند الله، فيقول: ربي أكرمني لاستحقاقي لإكرامه.</p>"
+        },
+        "16": {
+            "verses": {
+                "89:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأما إذا اختبره وضيّق عليه رزقه، فإنه يظن أن ذلك لهوانه على ربه فيقول: ربي أهانني.</p>"
+        },
+        "17": {
+            "verses": {
+                "89:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كلا، ليس الأمر كما تصور هذا الإنسان من أنّ النعم دليل على رضا الله عن عبده، وأن النقم دليل على هوان العبد عند ربه، بل الواقع أنكم لا تكرمون اليتيم مما أعطاكم الله من الرزق.</p>"
+        },
+        "18": {
+            "verses": {
+                "89:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا يحثّ بعضكم بعضًا على إطعام الفقير الذي لا يجد ما يقتات به.</p>"
+        },
+        "19": {
+            "verses": {
+                "89:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وتأكلون حقوق الضعفاء من النساء واليتامى أكلًا شديدًا دون مراعاة حلِّه.</p>"
+        },
+        "20": {
+            "verses": {
+                "89:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وتحبون المال حبًّا كثيرًا، فتبخلون بإنفاقه في سبيل الله حرصًا عليه.</p>"
+        },
+        "21": {
+            "verses": {
+                "89:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا ينبغي أن يكون هذا عملكم، واذكروا إذا حُرِّكت الأرض تحريكًا شديدًا وزُلْزِلت.</p>"
+        },
+        "22": {
+            "verses": {
+                "89:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجاء ربك - أيها الرسول - للفصل بين عباده، وجاءت الملائكة مصطفين صفوفًا.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• فضل عشر ذي الحجة على أيام السنة.</h2>\n<p>• ثبوت المجيء لله تعالى يوم القيامة وفق ما يليق به، من غير تشبيه ولا تمثيل ولا تعطيل.</p>\n<h2>• المؤمن إذا ابتلي صبر وإن أعطي شكر.</h2>"
+        },
+        "23": {
+            "verses": {
+                "89:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجيء في ذلك اليوم بجهنم لها سبعون ألف زِمام، مع كل زِمام سبعون ألف ملك يجرّونها، في ذلك اليوم يتذكر الإنسان ما فرَّط في جنب الله، وأنى له أن ينفعه التذكر في ذلك اليوم، لأنه يوم جزاء لا يوم عمل؟!</p>"
+        },
+        "24": {
+            "verses": {
+                "89:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يقول من شدّة الندم: يا ليتني قدمت الأعمال الصالحة لحياتي الأخروية التي هي الحياة الحقيقية.</p>"
+        },
+        "25": {
+            "verses": {
+                "89:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>في ذلك اليوم لا يُعَذِّب أحد مثل عذاب الله، لأن عذاب الله أشدّ وأبقى.</p>"
+        },
+        "26": {
+            "verses": {
+                "89:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولا يُوثِق في السلاسل أحد مثل وثاقه للكافرين فيها.</h2>"
+        },
+        "27": {
+            "verses": {
+                "89:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما ذكر الله جزاء الكفار ذكر جزاء المؤمنين فقال:</h2>\n<p>وأما نفس المؤمن فيقال لها عند الموت ويوم القيامة: يا أيتها النفس المطمئنة إلى الإيمان والعمل الصالح.</p>"
+        },
+        "28": {
+            "verses": {
+                "89:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ارجعي إلى ربك راضية عنه بما تنالين من الثواب الجزيل، مرضية عنده سبحانه بما كان لك من عمل صالح.</p>"
+        },
+        "29": {
+            "verses": {
+                "89:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فادخلي في جملة عبادي الصالحين.</h2>"
+        },
+        "30": {
+            "verses": {
+                "89:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وادخلي معهم جنتي التي أعددتها لهم.</h2>"
+        }
+    }
+}

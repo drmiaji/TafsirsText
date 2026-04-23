@@ -1,0 +1,181 @@
+{
+    "chapter": 100,
+    "verses": {
+        "1": {
+            "verses": {
+                "100:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>قسم ہے دوڑنے والے گھوڑوں کی ہانپ کر</h2>"
+        },
+        "2": {
+            "verses": {
+                "100:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر آگ سلگانے والے جھاڑ کر</h2>"
+        },
+        "3": {
+            "verses": {
+                "100:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر غارت ڈالنے والے صبح کو</h2>"
+        },
+        "4": {
+            "verses": {
+                "100:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر اٹھانے والے اس میں گرد</h2>"
+        },
+        "5": {
+            "verses": {
+                "100:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر گھس جانے والے اس وقت فوج میں</h2>"
+        },
+        "6": {
+            "verses": {
+                "100:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک آدمی اپنے رب کا ناشکر ہے</h2>"
+        },
+        "7": {
+            "verses": {
+                "100:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور وہ آدمی اس کام کو سامنے دیکھتا ہے</h2>"
+        },
+        "8": {
+            "verses": {
+                "100:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور آدمی محبت پر مال کی بہت پکا ہے</h2>"
+        },
+        "9": {
+            "verses": {
+                "100:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا نہیں جانتا وہ وقت کہ کریدا جائے جو کچھ قبروں میں ہے</h2>"
+        },
+        "10": {
+            "verses": {
+                "100:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور تحقیق ہو وے جو کچھ کہ جیوں میں ہے</h2>"
+        },
+        "11": {
+            "verses": {
+                "100:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک ان کے رب کو ان کی اس دن سب خبر ہے۔</h2>"
+        }
+    }
+}

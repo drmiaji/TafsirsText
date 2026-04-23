@@ -1,0 +1,581 @@
+{
+    "chapter": 83,
+    "verses": {
+        "1": {
+            "verses": {
+                "83:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيْلٌ﴾ عَذَابٌ شَدِيدٌ.</h2>\n<p>﴿لِلْمُطَفِّفِينَ﴾ الَّذِينَ يَبْخَسُونَ المِكْيَالَ، وَالمِيزَانَ.</p>"
+        },
+        "2": {
+            "verses": {
+                "83:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "83:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يُخْسِرُونَ﴾ يَنْقُصُونَ فِي المِكْيَالِ، وَالمِيزَانِ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "83:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَظُنُّ﴾ يَعْتَقِدُ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "83:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "83:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "7": {
+            "verses": {
+                "83:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كِتَابَ الْفُجَّارِ﴾ كِتَابَ أَعْمَالِهِمْ، أَوْ مَصِيرَهُمْ.</p>\n<h2>﴿سِجِّينٍ﴾ سِجْنٍ، وَضِيقٍ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "83:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "9": {
+            "verses": {
+                "83:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَرْقُومٌ﴾ مَكْتُوبٌ كَالرَّقْمِ فِي الثَّوْبِ لاَ يُمْحَى.</p>"
+        },
+        "10": {
+            "verses": {
+                "83:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "11": {
+            "verses": {
+                "83:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "12": {
+            "verses": {
+                "83:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مُعْتَدٍ﴾ ظَالِمٍ مُتَجَاوِزٍ لِلْحَدِّ.</h2>\n<h2>﴿أَثِيمٍ﴾ كَثِيرِ الإِثْمِ.</h2>"
+        },
+        "13": {
+            "verses": {
+                "83:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَسَاطِيرُ﴾ أَبَاطِيلُ.</h2>"
+        },
+        "14": {
+            "verses": {
+                "83:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَانَ﴾ غَطَّى.</h2>"
+        },
+        "15": {
+            "verses": {
+                "83:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لَمَحْجُوبُونَ﴾ مَحْرُومُونَ مِنْ رُؤْيَةِ رَبِّهِمْ.</h2>"
+        },
+        "16": {
+            "verses": {
+                "83:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَصَالُو الْجَحِيمِ﴾ لَدَاخِلُو النَّارِ يُقَاسُونَ حَرَّهَا.</p>"
+        },
+        "17": {
+            "verses": {
+                "83:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "18": {
+            "verses": {
+                "83:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لَفِي عِلِّيِّينَ﴾ لَفِي مَرْتَبَةٍ، وَمَكَانٍ عَالٍ.</h2>"
+        },
+        "19": {
+            "verses": {
+                "83:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "20": {
+            "verses": {
+                "83:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "21": {
+            "verses": {
+                "83:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "22": {
+            "verses": {
+                "83:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "23": {
+            "verses": {
+                "83:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿الأَرَائِكِ﴾ الأَسِرَّةِ المُزَيَّنَةِ بِالسُّتُورِ، وَالثِّيَابِ.</p>"
+        },
+        "24": {
+            "verses": {
+                "83:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نَضْرَةَ﴾ بَهْجَةَ.</h2>"
+        },
+        "25": {
+            "verses": {
+                "83:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَحِيقٍ﴾ خَمْرٍ صَافِيَةٍ.</h2>"
+        },
+        "26": {
+            "verses": {
+                "83:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿خِتَامُهُ مِسْكٌ﴾ آخِرُهُ رَائِحَةُ المِسْكِ.</h2>"
+        },
+        "27": {
+            "verses": {
+                "83:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمِزَاجُهُ﴾ خَلْطُهُ.</h2>\n<h2>﴿تَسْنِيمٍ﴾ عَيْنٍ فِي أَعْلَى الجَنَّةِ.</h2>"
+        },
+        "28": {
+            "verses": {
+                "83:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَشْرَبُ بِهَا﴾ يَشْرَبُونَ مُتَلَذِّذِينَ بِهَا.</h2>"
+        },
+        "29": {
+            "verses": {
+                "83:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "30": {
+            "verses": {
+                "83:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَتَغَامَزُونَ﴾ يَغْمِزُ بَعْضُهُمْ بَعْضًا بِأَعْيُنِهِمُ اسْتِهْزَاءً.</p>"
+        },
+        "31": {
+            "verses": {
+                "83:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿انْقَلَبُوا﴾ رَجَعُوا.</h2>\n<p>﴿فَكِهِينَ﴾ مُتَلَذِّذِينَ بِسُخْرِيَتِهِمْ مِنَ المُؤْمِنِينَ.</p>"
+        },
+        "32": {
+            "verses": {
+                "83:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "33": {
+            "verses": {
+                "83:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿حَافِظِينَ﴾ رُقَبَاءَ يُحْصُونَ أَعْمَالَهُمْ.</h2>"
+        },
+        "34": {
+            "verses": {
+                "83:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "35": {
+            "verses": {
+                "83:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "36": {
+            "verses": {
+                "83:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ثُوِّبَ﴾ جُوزِيَ.</h2>"
+        }
+    }
+}

@@ -1,0 +1,709 @@
+{
+    "chapter": 70,
+    "verses": {
+        "1": {
+            "verses": {
+                "70:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة المعارج مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>تأكيد وقوع العذاب على الكافرين، والنعيم للمصدقين بيوم الدين.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<p>دعا داعٍ من المشركين على نفسه وقومه بعذاب إن كان هذا العذاب حاصلًا، وهو سخرية منه، وهو واقع يوم القيامة.</p>"
+        },
+        "2": {
+            "verses": {
+                "70:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>للكافرين بالله، ليس لهذا العذاب من يرده.</h2>"
+        },
+        "3": {
+            "verses": {
+                "70:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>من الله ذي العلو والدرجات والفواضل والنعم.</h2>"
+        },
+        "4": {
+            "verses": {
+                "70:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تصعد إليه الملائكة وجبريل في تلك الدرجات، في يوم القيامة، وهو يوم طويل مقداره خمسون ألف سنة.</p>"
+        },
+        "5": {
+            "verses": {
+                "70:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فاصبر - أيها الرسول - صبرًا لا جَزَع فيه ولا شكوى.</h2>"
+        },
+        "6": {
+            "verses": {
+                "70:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنهم يرون هذا العذاب بعيدًا مستحيل الوقوع.</h2>"
+        },
+        "7": {
+            "verses": {
+                "70:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ونراه نحن قريبًا واقعًا لا محالة.</h2>"
+        },
+        "8": {
+            "verses": {
+                "70:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم تكون السماء مثل المُذاب من النحاس والذهب وغيرهما.</h2>"
+        },
+        "9": {
+            "verses": {
+                "70:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وتكون الجبال مثل الصوف في الخِفَّة.</h2>"
+        },
+        "10": {
+            "verses": {
+                "70:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولا يسأل قريب قريبًا عن حاله، لأن كل واحد مشغول بنفسه.</h2>\n<h2>* من فوائد الآيات:</h2>\n<h2>• تنزيه القرآن عن الشعر والكهانة.</h2>\n<h2>• خطر التَّقَوُّل على الله والافتراء عليه سبحانه.</h2>\n<h2>• الصبر الجميل الذي يحتسب فيه الأجر من الله ولا يشكى لغيره.</h2>"
+        },
+        "11": {
+            "verses": {
+                "70:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يشاهد كل إنسان قريبه لا يخفى عليه، ومع ذلك لا يسأل أحد أحدًا لهول الموقف، يودّ من استحق النار أن يقدم أولاده للعذاب بدلًا منه.</p>"
+        },
+        "12": {
+            "verses": {
+                "70:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويفتدي بزوجته وأخيه.</h2>"
+        },
+        "13": {
+            "verses": {
+                "70:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويفتدي بعشيرته الأقربين منه، الذين يقفون معه في الشدائد.</h2>"
+        },
+        "14": {
+            "verses": {
+                "70:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويفتدي بمن في الأرض جميعًا من الإنس والجن وغيرهما، ثم يسلّمه ذلك الافتداء، وينقذه من عذاب النار.</p>"
+        },
+        "15": {
+            "verses": {
+                "70:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كما تمنّى هذا المجرم، إنها نار الآخرة تلتهب وتشتعل.</p>"
+        },
+        "16": {
+            "verses": {
+                "70:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تفصل جلدة الرأس فصلًا شديدًا من شدة حرّها واشتعالها.</h2>"
+        },
+        "17": {
+            "verses": {
+                "70:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تنادي من أعرض عن الحق، وأبعد عنه ولم يؤمن به ولم يعمل.</h2>"
+        },
+        "18": {
+            "verses": {
+                "70:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وجَمَع المال، وضنّ بالإنفاق منه في سبيل الله.</h2>"
+        },
+        "19": {
+            "verses": {
+                "70:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن الإنسان خُلِق شديد الحرص.</h2>"
+        },
+        "20": {
+            "verses": {
+                "70:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إذا أصابه ضُرٌّ من مرض أو فقر كان قليل الصبر.</h2>"
+        },
+        "21": {
+            "verses": {
+                "70:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا أصابه ما يُسَرُّ به من خَصْب وغنًى كان كثير المنع لبذله في سبيل الله.</p>"
+        },
+        "22": {
+            "verses": {
+                "70:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إلا المصلّين، فهم سالمون من تلك الصفات الذميمة.</h2>"
+        },
+        "23": {
+            "verses": {
+                "70:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>الذين هم على صلاتهم مواظبون، لا ينشغلون عنها، ويؤدونها في وقتها المحدد لها.</p>"
+        },
+        "24": {
+            "verses": {
+                "70:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>والذين في أموالهم نصيب محدد مفروض.</h2>"
+        },
+        "25": {
+            "verses": {
+                "70:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يدفعونه للذي يسألهم وللذي لا يسألهم ممن حرم الرزق لأي سبب كان.</p>"
+        },
+        "26": {
+            "verses": {
+                "70:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين يصدّقون بيوم القيامة، يوم يجازي الله كلًّا بما يستحقّه.</p>"
+        },
+        "27": {
+            "verses": {
+                "70:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين هم من عذاب ربهم خائفون، مع ما قدموا من أعمالهم الصالحة.</p>"
+        },
+        "28": {
+            "verses": {
+                "70:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن عذاب ربهم مخوف لا يأمنه عاقل.</h2>"
+        },
+        "29": {
+            "verses": {
+                "70:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>والذين هم لفروجهم حافظون بسترها وإبعادها عن الفواحش.</h2>"
+        },
+        "30": {
+            "verses": {
+                "70:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا من زوجاتهم أو ما ملكوا من الإماء، فإنهم غير ملومين في التمتع بهنّ بالوطء فما دونه.</p>"
+        },
+        "31": {
+            "verses": {
+                "70:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فمن طلب الاستمتاع بغير ما ذُكِر من الزوجات والإماء، فأولئك هم المتجاوزون لحدود الله.</p>"
+        },
+        "32": {
+            "verses": {
+                "70:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين هم لما ائتمنوا عليه من الأموال والأسرار وغيرهما، ولعهودهم التي عاهدوا عليها الناس - حافظون، لا يخونون أماناتهم، ولا ينقضون عهودهم.</p>"
+        },
+        "33": {
+            "verses": {
+                "70:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين هم قائمون بشهادتهم على الوجه المطلوب، لا تؤثر قرابة ولا عداوة فيها.</p>"
+        },
+        "34": {
+            "verses": {
+                "70:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذين هم على صلاتهم يحافظون، بأدائها في وقتها، وبطهارة وطمأنينة، لا يشغلهم عنها شاغل.</p>"
+        },
+        "35": {
+            "verses": {
+                "70:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أولئك الموصوفون بتلك الصفات في جنات مُكْرَمون، بما يلقونه من النعيم المقيم، والنظر إلى وجه الله الكريم.</p>"
+        },
+        "36": {
+            "verses": {
+                "70:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ما الذي جرّ هؤلاء المشركين من قومك - أيها الرسول - حَواليك مسرعين إلى التكذيب بك؟!</p>"
+        },
+        "37": {
+            "verses": {
+                "70:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>محيطون بك عن يمينك وشمالك جماعات جماعات.</h2>"
+        },
+        "38": {
+            "verses": {
+                "70:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أيأمل كل واحد منهم أن يدخله الله جنة النعيم، يتنعم بما فيها من النعيم المقيم، وهو باقٍ على كفره؟!</p>"
+        },
+        "39": {
+            "verses": {
+                "70:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كما تصوّروا، إنا خلقناهم مما يعرفونه، فقد خلقناهم من ماء حقير، فهم ضعفاء لا يملكون لأنفسهم نفعًا ولا ضرًّا، فكيف يتكبرون؟!</p>"
+        },
+        "40": {
+            "verses": {
+                "70:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أقسم الله برب مشارق الشمس والقمر، إنا لقادرون.</h2>\n<h2>* من فوائد الآيات:</h2>\n<p>• شدة عذاب النار حيث يود أهل النار أن ينجوا منها بكل وسيلة مما كانوا يعرفونه من وسائل الدنيا.</p>\n<p>• الصلاة من أعظم ما تكفَّر به السيئات في الدنيا، ويتوقى بها من نار الآخرة.</p>\n<h2>• الخوف من عذاب الله دافع للعمل الصالح.</h2>"
+        },
+        "41": {
+            "verses": {
+                "70:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>على تبديلهم بغيرهم ممن يطيع الله، ونهلكهم، لا نعجز عن ذلك، ولسنا بمغلوبين متى أردنا إهلاكهم وتبديلهم بغيرهم.</p>"
+        },
+        "42": {
+            "verses": {
+                "70:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فاتركهم - أيها الرسول - يخوضوا فيما هم فيه من الباطل والضلال، ويلعبوا في حياتهم الدنيا إلى أن يلاقوا يوم القيامة الذي كانوا يوعدون به في القرآن.</p>"
+        },
+        "43": {
+            "verses": {
+                "70:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم يخرجون من القبور سراعًا كأنهم إلى عَلَمٍ يتسابقون.</h2>"
+        },
+        "44": {
+            "verses": {
+                "70:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ذليلة أبصارهم، تغشاهم ذلة، ذلك هو اليوم الذي كانوا يوعدون به في الدنيا، وكانوا لا يبالون به.</p>"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "chapter": 99,
+    "verses": {
+        "1": {
+            "verses": {
+                "99:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿زُلۡزِلَتِ﴾: رُجَّتْ.</h2>\n<h2>﴿زِلۡزَالَهَا﴾: رَجّاً شَدِيداً.</h2>"
+        },
+        "2": {
+            "verses": {
+                "99:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَثۡقَالَهَا﴾: ما في بَطْنِهَا مِن مَوتَى وَكُنُوزٍ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "99:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَا لَهَا﴾: ما الَّذِي حَدَثَ لَها؟</h2>"
+        },
+        "4": {
+            "verses": {
+                "99:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَوۡمَئِذٖ﴾: يَومَ القيامةِ.</h2>\n<p>﴿تُحَدِّثُ أَخۡبَارَهَا﴾: تُخْبِرُ الأَرْضُ بِما عُمِلَ عَلَيها مِنْ خَيرٍ أو شَرٍّ.</p>"
+        },
+        "5": {
+            "verses": {
+                "99:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَوۡحَىٰ لَهَا﴾: أَمَرَها بأن تُخْبِرَ بِما عُمِلَ عَلَيها.</p>"
+        },
+        "6": {
+            "verses": {
+                "99:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَصۡدُرُ ٱلنَّاسُ﴾: يَرْجِعُ النَّاسُ عَن مَوقِفِ الحِسابِ.</p>\n<h2>﴿أَشۡتَاتٗا﴾: أصنافاً مُتَفَرِّقِينَ.</h2>\n<h2>﴿لِيُرَوۡاْ أَعۡمَٰلَهُمۡ﴾: لِيُرِيَهُم اللهُ ما عَمِلُوا.</h2>"
+        },
+        "7": {
+            "verses": {
+                "99:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مِثۡقَالَ ذَرَّةٍ﴾: وزنَ نَمْلَةٍ صَغِيرَةٍ.</h2>\n<h2>﴿يَرَهُۥ﴾: يَرَ ثَوابَهُ في الآخِرَةِ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "99:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        }
+    }
+}

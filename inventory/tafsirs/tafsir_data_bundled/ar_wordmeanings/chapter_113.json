@@ -1,0 +1,85 @@
+{
+    "chapter": 113,
+    "verses": {
+        "1": {
+            "verses": {
+                "113:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَعُوذُ﴾ أَعْتَصِمُ، وَأَلْتَجِئُ.</h2>\n<h2>﴿الْفَلَقِ﴾ الصُّبْحِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "113:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "113:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿غَاسِقٍ﴾ لَيْلٍ شَدِيدِ الظُّلْمَةِ.</h2>\n<h2>﴿إِذَا وَقَبَ﴾ إِذَا دَخَلَ ظَلاَمُهُ، وَتَغَلْغَلَ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "113:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿النَفَّاثَاتِ فِي الْعُقَدِ﴾ السَّاحِرَاتِ اللَّوَاتِي يَنْفُخْنَ بِلاَ رِيقٍ فِي عُقَدِ الخَيْطِ؛ بِقَصْدِ السِّحْرِ، سَوَاءٌ كُنَّ نِسَاءً، أَوْ أنْفُسًا خَبِيثَةً.</p>"
+        },
+        "5": {
+            "verses": {
+                "113:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حَاسِدٍ﴾ مَنْ يَتَمَنَّى زَوَالَ النِّعْمَةِ عَنْ غَيْرِهِ.</p>"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "chapter": 97,
+    "verses": {
+        "1": {
+            "verses": {
+                "97:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہم نے اس کو اتارا شب قدر میں</h2>"
+        },
+        "2": {
+            "verses": {
+                "97:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور تو نے کیا سمجھا کہ کیا ہے شب قدر</h2>"
+        },
+        "3": {
+            "verses": {
+                "97:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>شب قدر بہتر ہے ہزار مہینے سے</h2>"
+        },
+        "4": {
+            "verses": {
+                "97:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اترتے ہیں فرشتے اور وحی اس میں اپنے رب کے حکم سے</h2>"
+        },
+        "5": {
+            "verses": {
+                "97:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہر کام پر امان ہے وہ رات صبح کے نکلنے تک۔</h2>"
+        }
+    }
+}

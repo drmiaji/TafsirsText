@@ -1,0 +1,85 @@
+{
+    "chapter": 97,
+    "verses": {
+        "1": {
+            "verses": {
+                "97:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَنْزَلْنَاهُ﴾ أَنْزَلْنَا القُرْآنَ جُمْلَةً وَاحِدَةً مِنَ اللَّوْحِ المَحْفُوظِ إِلَى بَيْتِ العِزَّةِ فِي السَّمَاءِ الدُنْيَا.</p>\n<p>﴿لَيْلَةِ الْقَدْرِ﴾ لَيْلَةِ الشَّرَفِ، وَالعَظَمَةِ، وَكِتَابِ المَقَادِيرِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "97:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "97:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "4": {
+            "verses": {
+                "97:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَالرُّوحُ﴾ جِبْرِيلُ عليه السلام.</h2>\n<h2>﴿أَمْرٍ﴾ قَضَاءٍ قَدَّرَهُ اللهُ فِي تِلْكَ السَّنَةِ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "97:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿سَلاَمٌ﴾ أَمْنٌ، وَسَلاَمَةٌ، وَتَسْلِيمٌ مِنَ المَلاَئِكَةِ.</p>"
+        }
+    }
+}

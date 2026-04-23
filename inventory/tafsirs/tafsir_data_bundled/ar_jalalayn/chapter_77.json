@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱلۡمُرۡسَلَـٰتِ عُرۡفࣰا ۝١﴾ أَيْ الرِّيَاح مُتَتَابِعَة كَعُرْفِ الْفَرَس يَتْلُو بَعْضه بَعْضًا وَنَصْبه عَلَى الْحَال</p>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَٱلۡعَـٰصِفَـٰتِ عَصۡفࣰا ۝٢﴾ الرِّيَاح الشَّدِيدَة</h2>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱلنَّـٰشِرَ ٰ⁠تِ نَشۡرࣰا ۝٣﴾ الرِّيَاح تَنْشُر الْمَطَر</h2>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱلۡفَـٰرِقَـٰتِ فَرۡقࣰا ۝٤﴾ أَيْ آيَات الْقُرْآن تَفْرُق بَيْن الْحَقّ وَالْبَاطِل وَالْحَلَال وَالْحَرَام</p>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱلۡمُلۡقِیَـٰتِ ذِكۡرًا ۝٥﴾ أَيْ الْمَلَائِكَة تَنْزِل بِالْوَحْيِ إلَى الْأَنْبِيَاء وَالرُّسُل يُلْقُونَ الْوَحْي إلَى الْأُمَم</p>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿عُذۡرًا أَوۡ نُذۡرًا ۝٦﴾ أَيْ لِلْإِعْذَارِ وَالْإِنْذَار مِنْ اللَّه تَعَالَى وَفِي قِرَاءَة بِضَمِّ ذَال {نُذُرًا} وَقُرِئَ بِضَمِّ ذَال عُذْرًا</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّمَا تُوعَدُونَ﴾ أَيْ يَا كُفَّار مَكَّة مِنْ الْبَعْث وَالْعَذَاب ﴿لَوَ ٰ⁠قِعࣱ ۝٧﴾ كَائِن لَا مَحَالَة</p>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَإِذَا ٱلنُّجُومُ طُمِسَتۡ ۝٨﴾ مُحِيَ نُورهَا</h2>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَإِذَا ٱلسَّمَاۤءُ فُرِجَتۡ ۝٩﴾ شُقَّتْ</h2>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ ۝١٠﴾ فُتِّتَتْ وَسُيِّرَتْ</h2>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ ۝١١﴾ بِالْوَاوِ وَبِالْهَمْزَةِ بَدَلًا مِنْهَا أَيْ جُمِعَتْ لوقت</p>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لِأَیِّ یَوۡمٍ﴾ لِيَوْمٍ عَظِيم ﴿أُجِّلَتۡ ۝١٢﴾ لِلشَّهَادَةِ عَلَى أممهم بالتبليغ</p>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لِیَوۡمِ ٱلۡفَصۡلِ ۝١٣﴾ بَيْن الْخَلْق وَيُؤْخَذ مِنْهُ جَوَاب إذَا أَيْ وَقَعَ الْفَصْل بَيْن الْخَلَائِق</p>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَاۤ أَدۡرَىٰكَ مَا یَوۡمُ ٱلۡفَصۡلِ ۝١٤﴾ تَهْوِيل لِشَأْنِهِ</p>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝١٥﴾ هَذَا وَعِيد لَهُمْ</p>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِینَ ۝١٦﴾ بِتَكْذِيبِهِمْ أَيْ أَهْلَكْنَاهُمْ</p>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ثُمَّ نُتۡبِعُهُمُ ٱلۡـَٔاخِرِینَ ۝١٧﴾ مِمَّنْ كَذَّبُوا كَكُفَّارِ مَكَّة فَنُهْلِكهُمْ</p>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَذَ ٰ⁠لِكَ﴾ مِثْل مَا فَعَلْنَا بِالْمُكَذِّبِينَ ﴿نَفۡعَلُ بِٱلۡمُجۡرِمِینَ ۝١٨﴾ بِكُلِّ مَنْ أَجْرَمَ فِيمَا يَسْتَقْبِل فَنُهْلِكهُمْ</p>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝١٩﴾ تَأْكِيد</h2>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَلَمۡ نَخۡلُقكُّم مِّن مَّاۤءࣲ مَّهِینࣲ ۝٢٠﴾ ضَعِيف وَهُوَ المني</p>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَجَعَلۡنَـٰهُ فِی قَرَارࣲ مَّكِینٍ ۝٢١﴾ حَرِيز وَهُوَ الرَّحِم</p>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِلَىٰ قَدَرࣲ مَّعۡلُومࣲ ۝٢٢﴾ وَهُوَ وَقْت الْوِلَادَة</h2>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَقَدَرۡنَا﴾ على ذلك ﴿فَنِعۡمَ ٱلۡقَـٰدِرُونَ ۝٢٣﴾ نحن</h2>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٢٤﴾</h2>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا ۝٢٥﴾ مَصْدَر كَفَتَ بِمَعْنَى ضَمَّ أَيْ ضَامَّة</p>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَحۡیَاۤءࣰ﴾ عَلَى ظَهْرهَا ﴿وَأَمۡوَ ٰ⁠تࣰا ۝٢٦﴾ فِي بَطْنهَا</p>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَجَعَلۡنَا فِیهَا رَوَ ٰ⁠سِیَ شَـٰمِخَـٰتࣲ﴾ جِبَالًا مُرْتَفِعَات ﴿وَأَسۡقَیۡنَـٰكُم مَّاۤءࣰ فُرَاتࣰا ۝٢٧﴾ عذبا</p>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٢٨﴾ وَيُقَال لِلْمُكَذِّبِينَ يَوْم الْقِيَامَة</p>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱنطَلِقُوۤا۟ إِلَىٰ مَا كُنتُم بِهِۦ﴾ مِنْ الْعَذَاب ﴿تُكَذِّبُونَ ۝٢٩﴾</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱنطَلِقُوۤا۟ إِلَىٰ ظِلࣲّ ذِی ثَلَـٰثِ شُعَبࣲ ۝٣٠﴾ هُوَ دُخَان جَهَنَّم إذَا ارْتَفَعَ افْتَرَقَ ثَلَاث فِرَق لعظمه</p>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَّا ظَلِیلࣲ﴾ كَنِين يُظِلّهُمْ مِنْ حَرّ ذَلِكَ الْيَوْم ﴿وَلَا یُغۡنِی﴾ يَرُدّ عَنْهُمْ شَيْئًا ﴿مِنَ ٱللَّهَبِ ۝٣١﴾ النار</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّهَا﴾ أَيْ النَّار ﴿تَرۡمِی بِشَرَرࣲ﴾ هُوَ مَا تَطَايَرَ مِنْهَا ﴿كَٱلۡقَصۡرِ ۝٣٢﴾ مِنْ الْبِنَاء فِي عِظَمه وارتفاعه</p>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَأَنَّهُۥ جِمَـٰلَـٰتࣱ﴾ جمع جمالة جَمْع جَمَل وَفِي قِرَاءَة {جِمَـٰلَتࣱ} ﴿صُفۡرࣱ ۝٣٣﴾ فِي هَيْئَتهَا وَلَوْنهَا وَفِي الْحَدِيث شِرَار النَّاس أَسْوَد كَالْقِيرِ وَالْعَرَب تُسَمِّي سُود الْإِبِل صُفْرًا لِشَوْبِ سَوَادهَا بِصُفْرَةٍ فَقِيلَ صُفْر فِي الْآيَة بِمَعْنَى سُود لِمَا ذُكِرَ وَقِيلَ لَا وَالشَّرَر جَمْع شرارة والقير القار</p>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٣٤﴾</h2>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿هَـٰذَا﴾ أَيْ يَوْم الْقِيَامَة ﴿یَوۡمُ لَا یَنطِقُونَ ۝٣٥﴾ فيه بشيء</p>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَا یُؤۡذَنُ لَهُمۡ﴾ فِي الْعُذْر ﴿فَیَعۡتَذِرُونَ ۝٣٦﴾ عَطْف عَلَى يُؤْذَن مِنْ غَيْر تَسَبُّب عَنْهُ فَهُوَ دَاخِل فِي حَيِّز النَّفْي أَيْ لَا إذْن فلا اعتذار</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٣٧﴾</h2>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿هَـٰذَا یَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَـٰكُمۡ﴾ أَيّهَا الْمُكَذِّبُونَ مِنْ هَذِهِ الْأُمَّة ﴿وَٱلۡأَوَّلِینَ ۝٣٨﴾ مِنْ الْمُكَذِّبِينَ قَبْلكُمْ فَتُحَاسَبُونَ وتعذبون جميعا</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَإِن كَانَ لَكُمۡ كَیۡدࣱ﴾ حِيلَة فِي دَفْع العذاب عنكم ﴿فَكِیدُونِ ۝٣٩﴾ فافعلوها</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٠﴾</h2>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّ ٱلۡمُتَّقِینَ فِی ظِلَـٰلࣲ﴾ أَيْ تَكَاثُف أَشْجَار إذْ لَا شَمْس يُظِلّ مِنْ حَرّهَا ﴿وَعُیُونࣲ ۝٤١﴾ نَابِعَة مِنْ الْمَاء</p>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَفَوَ ٰ⁠كِهَ مِمَّا یَشۡتَهُونَ ۝٤٢﴾ فِيهِ إعْلَام بِأَنَّ الْمَأْكَل وَالْمَشْرَب فِي الْجَنَّة بِحَسَبِ شَهَوَاتهمْ بِخِلَافِ الدُّنْيَا فَبِحَسَبِ مَا يَجِد النَّاس فِي الْأَغْلَب وَيُقَال لهم</p>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا﴾ حَال أَيْ مُتَهَنِّئِينَ ﴿بِمَا كُنتُمۡ تَعۡمَلُونَ ۝٤٣﴾ مِنْ الطَّاعَة</p>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّا كَذَ ٰ⁠لِكَ﴾ كما جزينا المتقين ﴿نَجۡزِی ٱلۡمُحۡسِنِینَ ۝٤٤﴾</p>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٥﴾</h2>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كُلُوا۟ وَتَمَتَّعُوا۟﴾ خِطَاب لِلْكُفَّارِ فِي الدُّنْيَا ﴿قَلِیلًا﴾ مِنْ الزَّمَان وَغَايَته إلَى الْمَوْت وَفِي هَذَا تهديد لهم ﴿إِنَّكُم مُّجۡرِمُونَ ۝٤٦﴾</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٧﴾</h2>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَإِذَا قِیلَ لَهُمُ ٱرۡكَعُوا۟﴾ صَلُّوا ﴿لَا یَرۡكَعُونَ ۝٤٨﴾ لا يصلون</p>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٩﴾</h2>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَبِأَیِّ حَدِیثِۭ بَعۡدَهُۥ﴾ أَيْ الْقُرْآن ﴿یُؤۡمِنُونَ ۝٥٠﴾ أَيْ لَا يَمْكَن إيمَانهمْ بِغَيْرِهِ مِنْ كُتُب اللَّه بَعْد تَكْذِيبهمْ بِهِ لِاشْتِمَالِهِ عَلَى الْإِعْجَاز الَّذِي لم يشتمل عليه غيره</p>"
+        }
+    }
+}

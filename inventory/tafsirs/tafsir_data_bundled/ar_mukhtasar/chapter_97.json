@@ -1,0 +1,85 @@
+{
+    "chapter": 97,
+    "verses": {
+        "1": {
+            "verses": {
+                "97:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة القدر مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>بيان عظم ليلة القدر وفضلها وما أنزل فيها.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<p>إنا أنزلنا القرآن جملة إلى السماء الدنيا كما ابتدأنا إنزاله على النبي ﷺ في ليلة القدر من شهر رمضان.</p>"
+        },
+        "2": {
+            "verses": {
+                "97:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وهل تدري - أيها النبي - ما في هذه الليلة من الخير والبركة؟!</h2>"
+        },
+        "3": {
+            "verses": {
+                "97:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هذه الليلة ليلة عظيمة الخير، فهي خير من ألف شهر لمن قامها إيمانًا واحتسابًا.</p>"
+        },
+        "4": {
+            "verses": {
+                "97:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تنزل الملائكة وينزل جبريل عليه السلام فيها بإذن ربهم سبحانه بكلّ أمر قضاه الله في تلك السنة رزقًا كان أو موتًا أو ولادة أو غير ذلك مما يقدره الله.</p>"
+        },
+        "5": {
+            "verses": {
+                "97:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هذه الليلة المباركة خير كلها من ابتدائها حتى نهايتها بطلوع الفجر.</p>"
+        }
+    }
+}

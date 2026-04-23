@@ -1,0 +1,677 @@
+{
+    "chapter": 80,
+    "verses": {
+        "1": {
+            "verses": {
+                "80:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تیوری چڑھائی اور منہ موڑا</h2>"
+        },
+        "2": {
+            "verses": {
+                "80:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اس بات سے کہ آیا اس کے پاس اندھا</h2>"
+        },
+        "3": {
+            "verses": {
+                "80:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور تجھ کو کیا خبر ہے شاید کہ وہ سنورتا</h2>"
+        },
+        "4": {
+            "verses": {
+                "80:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یا سوچتا تو کام آتا اس کے سمجھانا</h2>"
+        },
+        "5": {
+            "verses": {
+                "80:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>وہ جو پروا نہیں کرتا</h2>"
+        },
+        "6": {
+            "verses": {
+                "80:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>سو اس کی فکر میں ہے</h2>"
+        },
+        "7": {
+            "verses": {
+                "80:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور تجھ پر کچھ الزام نہیں کہ وہ نہیں درست ہوتا</h2>"
+        },
+        "8": {
+            "verses": {
+                "80:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور وہ جو آیا تیرے پاس دوڑتا</h2>"
+        },
+        "9": {
+            "verses": {
+                "80:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور وہ ڈرتا ہے</h2>"
+        },
+        "10": {
+            "verses": {
+                "80:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>سو تو اس سے تغافل کرتا ہے</h2>"
+        },
+        "11": {
+            "verses": {
+                "80:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یوں نہیں یہ تو نصیحت ہے</h2>"
+        },
+        "12": {
+            "verses": {
+                "80:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر جو کوئی چاہے اس کو پڑھے</h2>"
+        },
+        "13": {
+            "verses": {
+                "80:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>لکھا ہے عزت کے ورقوں میں</h2>"
+        },
+        "14": {
+            "verses": {
+                "80:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اونچے رکھے ہوئے نہایت ستھرے</h2>"
+        },
+        "15": {
+            "verses": {
+                "80:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہاتھوں میں لکھنے والوں کے</h2>"
+        },
+        "16": {
+            "verses": {
+                "80:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جو بڑے درجہ والے نیک کار ہیں</h2>"
+        },
+        "17": {
+            "verses": {
+                "80:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مارا جائیو آدمی کیسا ناشکر ہے</h2>"
+        },
+        "18": {
+            "verses": {
+                "80:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کس چیز سے بنایا اس کو</h2>"
+        },
+        "19": {
+            "verses": {
+                "80:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ایک بوند سے بنایا اس کو پھر اندازہ پر رکھا اس کو</h2>"
+        },
+        "20": {
+            "verses": {
+                "80:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر راہ آسان کردی اس کو</h2>"
+        },
+        "21": {
+            "verses": {
+                "80:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر اس کو مردہ کیا پھر قبر میں رکھوا دیا اس کو</h2>"
+        },
+        "22": {
+            "verses": {
+                "80:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر جب چاہا اٹھا نکالا اس کو</h2>"
+        },
+        "23": {
+            "verses": {
+                "80:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہرگز نہیں پورا نہ کیا جو اس کو</h2>"
+        },
+        "24": {
+            "verses": {
+                "80:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>فرمایا اب دیکھ لے آدمی اپنے کھانے کو</h2>"
+        },
+        "25": {
+            "verses": {
+                "80:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کہ ہم نے ڈالا پانی اوپر سے گرتا ہوا</h2>"
+        },
+        "26": {
+            "verses": {
+                "80:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر چیرا زمین کو پھاڑ کر</h2>"
+        },
+        "27": {
+            "verses": {
+                "80:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر اگایا اس میں اناج</h2>"
+        },
+        "28": {
+            "verses": {
+                "80:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور انگور اور ترکاری</h2>"
+        },
+        "29": {
+            "verses": {
+                "80:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور زیتون اور کھجوریں</h2>"
+        },
+        "30": {
+            "verses": {
+                "80:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور گھن کے باغ اور میوہ</h2>"
+        },
+        "31": {
+            "verses": {
+                "80:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور گھاس کام چلانے کو</h2>"
+        },
+        "32": {
+            "verses": {
+                "80:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تمہارے اور تمہارے چوپایوں کے</h2>"
+        },
+        "33": {
+            "verses": {
+                "80:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر جب آئے وہ کان پھوڑنے والی</h2>"
+        },
+        "34": {
+            "verses": {
+                "80:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جس دن کہ بھاگے مرد اپنے بھائی سے</h2>"
+        },
+        "35": {
+            "verses": {
+                "80:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اپنی ماں اور اپنے باپ سے</h2>"
+        },
+        "36": {
+            "verses": {
+                "80:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اپنی ساتھ والی سے اور اپنے بیٹوں سے</h2>"
+        },
+        "37": {
+            "verses": {
+                "80:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>ہر مرد کو لیے ان میں سے اس دن ایک فکر لگا ہوا ہے جو اس کے لئے کافی ہے</p>"
+        },
+        "38": {
+            "verses": {
+                "80:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کتنے منہ اس دن روشن ہیں</h2>"
+        },
+        "39": {
+            "verses": {
+                "80:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہنستے خوشیاں کرتے</h2>"
+        },
+        "40": {
+            "verses": {
+                "80:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور کتنے منہ اس دن ان پر گرد پڑی ہے</h2>"
+        },
+        "41": {
+            "verses": {
+                "80:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>چڑھی آتی ہے ان پر سیاہی</h2>"
+        },
+        "42": {
+            "verses": {
+                "80:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ لوگ وہی ہیں جو منکر ہیں ڈھیٹھ۔</h2>"
+        }
+    }
+}

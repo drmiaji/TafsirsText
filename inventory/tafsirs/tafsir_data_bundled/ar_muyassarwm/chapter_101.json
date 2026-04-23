@@ -1,0 +1,181 @@
+{
+    "chapter": 101,
+    "verses": {
+        "1": {
+            "verses": {
+                "101:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱلۡقَارِعَةُ﴾: السَّاعةُ الَّتِي تَقْرَعُ قُلُوبَ النَّاسِ بِأَهْوالِها.</p>"
+        },
+        "2": {
+            "verses": {
+                "101:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "101:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمَآ أَدۡرَىٰكَ﴾: وأيُّ شَيءٍ أَعَلَمَكَ بِها؟</h2>"
+        },
+        "4": {
+            "verses": {
+                "101:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ﴾: كالفَراشِ المُنْتَشِرِ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "101:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ﴾: كالصُّوفِ المُتَعَدِّدِ الألوانِ الَّذِي يُنْفَشُ باليدِ، فَيَصِيرُ هَباءً ويَزُولُ.</p>"
+        },
+        "6": {
+            "verses": {
+                "101:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَن ثَقُلَتۡ مَوَٰزِينُهُۥ﴾: مَن رَجَحَتْ مَوَازِينُ حَسَناتِهِ.</p>"
+        },
+        "7": {
+            "verses": {
+                "101:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عِيشَةٖ رَّاضِيَةٖ﴾: حياةٍ مُرْضِيَةٍ في الجنَّةِ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "101:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ﴾: مَنْ خَفَّتْ مَوَازِينُ حسناتِهِ وَرَجَحَتْ مَوَازينُ سَيِّئاتِهِ.</p>"
+        },
+        "9": {
+            "verses": {
+                "101:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأُمُّهُۥ هَاوِيَةٞ﴾: فَمَأواهُ جَهَنَّمُ؛ لِأنَّهُ يَهْوِي فِيها عَلَى أُمِّ رَأْسِهِ.</p>"
+        },
+        "10": {
+            "verses": {
+                "101:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمَآ أَدۡرَىٰكَ﴾: وأيُّ شَيءٍ أَعْلَمكَ؟</h2>\n<h2>﴿مَا هِيَهۡ﴾: ما هذهِ الهاوِيةُ؟</h2>"
+        },
+        "11": {
+            "verses": {
+                "101:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿حَامِيَةُۢ﴾: قَدْ حَمِيَتْ مِنَ الوَقُودِ عَلَيها.</h2>"
+        }
+    }
+}

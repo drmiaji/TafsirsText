@@ -1,0 +1,181 @@
+{
+    "chapter": 101,
+    "verses": {
+        "1": {
+            "verses": {
+                "101:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Stunde, welche an die Herzen der Menschen anklopft, und dies aufgrund des gewaltigen Schreckens.</p>"
+        },
+        "2": {
+            "verses": {
+                "101:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was ist diese Stunde, welche an die Herzen der Menschen anklopft, und dies aufgrund des gewaltigen Schreckens?</p>"
+        },
+        "3": {
+            "verses": {
+                "101:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O Gesandter, was lässt dich wissen, was diese Stunde ist, welche an die Herzen der Menschen anklopft, und dies aufgrund des gewaltigen Schreckens? Sie ist der Tag der Auferstehung.</p>"
+        },
+        "4": {
+            "verses": {
+                "101:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>An dem Tag, an dem an die Herzen der Menschen angeklopft wird, sie die Menschen wie verstreute Motten, die sich hier und dort verbreitet haben.</p>"
+        },
+        "5": {
+            "verses": {
+                "101:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Berge werden in ihren leichten Bewegungen wie gekämmte Wolle sein.</p>"
+        },
+        "6": {
+            "verses": {
+                "101:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Wessen gute Taten die schlechten Taten überwiegen,</h2>"
+        },
+        "7": {
+            "verses": {
+                "101:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>der wird ein zufriedenes Leben haben, das er im Paradiesgarten erlangen wird.</p>"
+        },
+        "8": {
+            "verses": {
+                "101:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Wessen schlechte Taten die guten Taten überwiegen,</h2>"
+        },
+        "9": {
+            "verses": {
+                "101:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>dessen Bleibe und Niederkunft werden am Tag der Auferstehung das Höllenfeuer sein.</p>"
+        },
+        "10": {
+            "verses": {
+                "101:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O Gesandter, was lässt dich wissen, was es ist?</h2>"
+        },
+        "11": {
+            "verses": {
+                "101:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Es ist ein sehr heißes Feuer.</h2>"
+        }
+    }
+}

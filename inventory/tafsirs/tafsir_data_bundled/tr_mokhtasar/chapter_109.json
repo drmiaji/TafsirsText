@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>-Ey Peygamber!- De ki: Ey Allah'a karşı kâfir olanlar!</h2>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ben, şimdi ve gelecekte sizin ibadet ettiğiniz putlara ibadet etmem.</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Siz de benim ibadet ettiğim bir tek Allah'a ibadet edecek değilsiniz.</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ben de sizin ibadet ettiğiniz putlara ibadet edecek değilim.</p>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve siz de benim ibadet ettiğim bir tek Allah'a ibadet edecek değilsiniz.</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kendiniz için uydurduğunuz dininiz size, Allah’ın bana indirdiği din ise banadır.</p>"
+        }
+    }
+}

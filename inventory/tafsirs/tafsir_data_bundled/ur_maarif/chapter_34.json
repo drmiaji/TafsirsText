@@ -1,0 +1,869 @@
+{
+    "chapter": 34,
+    "verses": {
+        "1": {
+            "verses": {
+                "34:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سب خوبی اللہ کی ہے جس کا ہے جو کچھ کہ ہے آسمان اور زمین میں اور اسی کی تعریف ہے آخرت میں اور وہی ہے حکمتوں والا سب کچھ جاننے والا</p>"
+        },
+        "2": {
+            "verses": {
+                "34:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جانتا ہے جو کچھ کہ اندر گھستا ہے زمین کے اور جو کچھ کہ نکلتا ہے اس سے اور جو اترتا ہے آسمان سے اور جو چڑھتا ہے اس میں اور وہی ہے رحم والا بخشنے والا۔</p>"
+        },
+        "3": {
+            "verses": {
+                "34:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہنے لگے منکر نہ آئے گی ہم پر قیامت تو کہہ کیوں نہیں قسم ہے میرے رب کی البتہ آئے گی تم پر اس عالم الغیب کی غائب نہیں ہوسکتا اس سے کچھ ذرا بھر آسمانوں میں اور نہ زمین میں اور کوئی چیز نہیں اس سے چھوٹی اور نہ اس سے بڑی جو نہیں ہے کھلی کتاب میں</p>"
+        },
+        "4": {
+            "verses": {
+                "34:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تاکہ بدلہ دے ان کو جو یقین لائے اور کئے بھلے کام وہ لوگ جو ہیں ان کیلئے ہے معافی اور عزت کی روزی</p>"
+        },
+        "5": {
+            "verses": {
+                "34:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جو لوگ دوڑے ہماری آیتوں کے ہرانے کو ان کو بلا کا عذاب ہے درد ناک</p>"
+        },
+        "6": {
+            "verses": {
+                "34:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور دیکھ لیں جن کو ملی ہے سمجھ کہ جو تجھ پر اترا تیرے رب سے وہی ٹھیک ہے اور سجھاتا ہے راہ اس زبردست خوبیوں والے</p>"
+        },
+        "7": {
+            "verses": {
+                "34:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہنے لگے منکر ہم بتلائیں تم کو ایک مرد کہ تم کو خبر دیتا ہے جب تم پھٹ کر ہوجاؤ گے ٹکڑے ٹکڑے تم کو پھر نئے سرے سے بننا ہے</p>"
+        },
+        "8": {
+            "verses": {
+                "34:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا بنا لایا ہے اللہ پر (جھوٹ یا اس کو سودا ہے کچھ بھی نہیں پر جو یقین نہیں رکھتے آخرت کا آفت میں ہیں اور دور جا پڑے غلطی میں</p>"
+        },
+        "9": {
+            "verses": {
+                "34:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا دیکھتے نہیں کچھ ان کے آگے ہے اور پیچھے ہے آسمان اور زمین سے اگر ہم چاہیں دھنسا دیں ان کو زمین میں یا گرا دیں ان پر ٹکڑا آسمان سے تحقیق اس میں نشانی ہے ہر بندے رجوع کرنے کے واسطے</p>"
+        },
+        "10": {
+            "verses": {
+                "34:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور ہم نے دی ہے داؤد کو اپنی طرف سے بڑائی اے پہاڑو خوش آوازی سے پڑھو اس کے ساتھ اور اڑتے جانوروں کو اور نرم کردیا ہم نے اس کے آگے لوہا</p>"
+        },
+        "11": {
+            "verses": {
+                "34:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کہ بنا زرہیں کشادہ اور اندازے سے جوڑ کڑیاں اور کرو تم سب کام بھلا میں جو کچھ تم کرتے ہو دیکھتا ہوں</p>"
+        },
+        "12": {
+            "verses": {
+                "34:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور سلیمان کے آگے ہوا کو صبح کی منزل اس کی ایک مہینہ کی اور شام کی منزل ایک مہینہ کی اور بہا دیا ہم نے اس کے واسطے چشمہ پگھلے ہوئے تانبے کا اور جنوں میں کتنے لوگ تھے جو محنت کرتے اس کے سامنے اس کے رب کے حکم سے اور جو کوئی پھرے ان میں سے ہمارے حکم سے دکھائیں ہم اس کو آگ کا عذاب</p>"
+        },
+        "13": {
+            "verses": {
+                "34:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>بناتے اس کے واسطے جو کچھ چاہتا قلع اور تصویریں اور لگن جیسے تالاب اور دیگیں چولہوں پر جمی ہوئی کام کرو اے داؤد کے گھر والو ! احسان مان کر اور تھوڑے ہیں میرے بندوں میں احسان ماننے والے</p>"
+        },
+        "14": {
+            "verses": {
+                "34:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>پھر جب مقرر کیا ہم نے اس پر موت کو نہ جتلایا ان کو اس کا مرنا مگر کیڑے نے گھن کے کھاتے رہا اس کا عصاء پھر جب وہ گر پڑا معلوم کیا جنوں نے کہ اگر خبر رکھتے ہوتے غیب کی نہ رہتے ذلت کی تکلیف میں۔</p>"
+        },
+        "15": {
+            "verses": {
+                "34:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تحقیق قوم سبا کو تھی ان کی بستی میں نشانی دو باغ داہنے اور بائیں کھاؤ روزی اپنے رب کی اور اس کا شکر کرو شہر ہے پاکیزہ اور رب ہے گناہ بخشنے والا</p>"
+        },
+        "16": {
+            "verses": {
+                "34:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو دھیان میں نہ لائے پھر چھوڑ دیا ہم نے ان پر ایک نالا زور کا اور دیئے ہم نے ان کو بدلے ان دو باغوں کے دو اور باغ جن میں کچھ میوہ کیلا تھا اور جھاؤ اور کچھ بیر تھوڑے سے یہ بدلہ دیا ہم نے ان کو اس پر کہ ناشکری کی</p>"
+        },
+        "17": {
+            "verses": {
+                "34:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ہم یہ بدلہ اسی کو دیتے ہیں جو ناشکر ہو</h2>"
+        },
+        "18": {
+            "verses": {
+                "34:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور رکھی تھیں ہم نے ان میں اور ان بستیوں میں جہاں ہم نے برکت رکھی ہے ایسی بستیاں جو راہ پر نظر آتی تھیں اور منزلیں مقرر کردیں ہم نے ان میں آنے جانے کی پھرو ان میں راتوں کو اور دنوں کو امن سے</p>"
+        },
+        "19": {
+            "verses": {
+                "34:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>پھر کہنے لگے اے رب دراز کر دے ہمارے سفروں کو اور آپ اپنا برا کیا پھر کر ڈالا ہم نے ان کو کہانیاں اور کر ڈالا چیر کر ٹکڑے ٹکڑے اس میں پتے کی باتیں ہیں ہر صبر کرنے والے شکر گزار کو۔</p>"
+        },
+        "20": {
+            "verses": {
+                "34:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور سچ کر دکھلائی ان پر ابلیس نے اپنی اٹکل پھر اس کی راہ چلے مگر تھوڑے سے ایمان دار</p>"
+        },
+        "21": {
+            "verses": {
+                "34:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اس کا ان پر کچھ زور نہ تھا مگر اتنے واسطے کہ معلوم کرلیں ہم اس کو جو یقین لاتا ہے آخرت پر جدا کر کے اس سے جو رہتا ہے آخرت کی طرف سے دھوکہ میں اور تیرا رب ہر چیز پر نگہبان ہے۔</p>"
+        },
+        "22": {
+            "verses": {
+                "34:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ پکارو ان کو جن کو گمان کرتے ہو سوائے اللہ کے وہ مالک نہیں ایک ذرہ بھر کے آسمانوں میں اور نہ زمین میں اور نہ ان کا ان دونوں میں کچھ ساجھا ہے اور نہ ان میں کوئی اس کا مددگار</p>"
+        },
+        "23": {
+            "verses": {
+                "34:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کام نہیں آتی سفارش اس کے پاس مگر اس کو کہ جس کے واسطے حکم کر دے یہاں تک کہ جب گھبراہٹ دور ہوجائے ان کے دل سے کہیں کیا فرمایا تمہارے رب نے ؟ وہ کہیں فرمایا جو واجبی ہے اور وہی ہے سب سے اوپر بڑا</p>"
+        },
+        "24": {
+            "verses": {
+                "34:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ کون روزی دیتا ہے تم کو آسمان سے اور زمین سے بتلا دے کہ اللہ اور یا ہم یا تم بیشک ہدایت پر ہیں یا پڑے ہیں گمراہی میں صریح</p>"
+        },
+        "25": {
+            "verses": {
+                "34:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ تم سے پوچھ نہ ہوگی اس کی جو ہم نے گناہ کیا اور ہم سے پوچھ نہ ہوگی اس کی جو تم کرتے ہو</p>"
+        },
+        "26": {
+            "verses": {
+                "34:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ جمع کرے گا ہم سب کو رب ہمارا پھر فیصلہ کرے گا ہم میں انصاف کا اور وہی قصہ چکانے والا سب کچھ جاننے والا ہے</p>"
+        },
+        "27": {
+            "verses": {
+                "34:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ مجھ کو دکھلاؤ تو سہی جن کو اس سے ملاتے ہو ساجھی قرار دیکر کوئی نہیں وہی اللہ ہے زبردست حکمتوں والا۔</p>"
+        },
+        "28": {
+            "verses": {
+                "34:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور تجھ کو جو ہم نے بھیجا سو سارے لوگوں کے واسطے خوشی اور ڈر سنانے کو لیکن بہت لوگ نہیں سمجھتے۔</p>"
+        },
+        "29": {
+            "verses": {
+                "34:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور کہتے ہیں کب ہے یہ وعدہ اگر تم سچے ہو</h2>"
+        },
+        "30": {
+            "verses": {
+                "34:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ تمہارے لئے وعدہ ہے ایک دن کا نہ دیر کرو گے اس سے ایک گھڑی نہ جلدی اور کہنے لگے منکر ہم ہرگز نہ مانیں گے اس قرآن کو اور نہ اس سے اگلے کو</p>"
+        },
+        "31": {
+            "verses": {
+                "34:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کبھی تو دیکھے جب کہ گنہگار کھڑے کئے جائیں اپنے رب کے پاس ایک دوسرے پر ڈالتا ہے بات کو کہتے ہیں وہ لوگ جو کمزور سمجھے جاتے تھے بڑائی کرنے والوں کو اگر تم نہ ہوتے تو ہم ایمان دار ہوتے</p>"
+        },
+        "32": {
+            "verses": {
+                "34:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کہنے لگے بڑائی کرنے والے ان سے جو کہ کمزور ہوگئے تھے کیا ہم نے روکا تم کو حق بات سے تمہارے پاس پہنچ چکنے کے بعد کوئی نہیں تم ہی تھے گنہگار</p>"
+        },
+        "33": {
+            "verses": {
+                "34:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہنے لگے وہ لوگ جو کمزور گنے گئے تھے بڑائی کرنے والوں کو کوئی نہیں پر فریب سے رات دن کے جب تم ہم کو حکم کیا کرتے کہ ہم نہ مانیں اللہ کو اور ٹھہرائیں اس کے ساتھ برابر کے ساجھی اور چھپے چھپے پچھتانے لگے جب دیکھ لیا عذاب اور ہم نے ڈالے ہیں طوق گردنوں میں منکروں کے وہی بدلہ پاتے ہیں جو عمل کرتے تھے۔</p>"
+        },
+        "34": {
+            "verses": {
+                "34:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور نہیں بھیجا ہم نے کسی بستی میں کوئی ڈرانے والا مگر کہنے لگے وہاں کے آسودہ لوگ جو تمہارے ہاتھ بھیجا گیا ہم اس کو نہیں مانتے</p>"
+        },
+        "35": {
+            "verses": {
+                "34:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہنے لگے ہم زیادہ ہیں مال اور اولاد میں اور ہم پر آفت نہیں آنے والی</p>"
+        },
+        "36": {
+            "verses": {
+                "34:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ میرا رب ہے جو کشادہ کردیتا ہے روزی جس کو چاہے اور ماپ کردیتا ہے لیکن بہت لوگ سمجھ نہیں رکھتے</p>"
+        },
+        "37": {
+            "verses": {
+                "34:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور تمہارے مال اور تمہاری اولاد وہ نہیں کہ نزدیک کردیں ہمارے پاس تمہارا درجہ پر جو کوئی یقین لایا اور بھلا کام کیا سو ان کے لئے ہے بدلہ دونا ان کے کئے کام کا اور وہ جھروکوں میں بیٹھے ہیں دل جمعی سے</p>"
+        },
+        "38": {
+            "verses": {
+                "34:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جو لوگ دوڑتے ہیں ہماری آیتوں کے ہرانے کو وہ عذاب میں پکڑے ہوئے آتے ہیں</p>"
+        },
+        "39": {
+            "verses": {
+                "34:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ میرا رب ہے جو کشادہ کردیتا ہے روزی جس کو چاہے اپنے بندوں میں اور ماپ کردیتا ہے اور جو خرچ کرتے ہو کچھ چیز وہ اس کا عوض دیتا ہے اور وہ بہتر ہے روزی دینے والا۔</p>"
+        },
+        "40": {
+            "verses": {
+                "34:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جس دن جمع کرے گا ان سب کو پھر کہے گا فرشتوں کو کیا یہ لوگ تم کو پوجا کرتے تھے ؟</p>"
+        },
+        "41": {
+            "verses": {
+                "34:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>وہ کہیں گے پاک ذات ہے تیری ہم تیری طرف میں ہیں ان کی طرف میں نہیں پر پوجتے تھے جنوں کو یہ اکثر انہیں پر اعتقاد رکھتے تھے</p>"
+        },
+        "42": {
+            "verses": {
+                "34:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو آج تم مالک نہیں ایک دوسرے کے بھلے کے نہ برے کے اور کہیں گے ہم ان گنہگاروں کو چکھو تکلیف اس آگ کی جس کو تم جھوٹ بتلاتے تھے۔</p>"
+        },
+        "43": {
+            "verses": {
+                "34:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جب پڑھی جائیں ان کے پاس ہماری آیتیں کھلی کھلی کہیں اور کچھ نہیں مگر یہ ایک مرد ہے چاہتا ہے کہ روک دے تم کو ان سے جن کو پوجتے رہے تمہارے باپ دادے اور کہیں اور کچھ نہیں یہ جھوٹ ہے باندھا ہوا اور کہتے ہیں منکر حق بات کو جب پہنچے ان تک اور کچھ نہیں یہ ایک جادو ہے صریح</p>"
+        },
+        "44": {
+            "verses": {
+                "34:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور ہم نے دی نہیں ان کو کچھ کتابیں کہ جن کو وہ پڑھتے ہوں اور بھیجا نہیں ان کے پاس تجھ سے پہلے کوئی ڈرانے والا</p>"
+        },
+        "45": {
+            "verses": {
+                "34:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جھٹلایا ہے ان سے اگلوں نے اور یہ نہیں پہنچے دسویں حصہ کو اس کے جو ہم نے ان کو دیا تھا پھر جھٹلایا انہوں نے میرے بھیجے ہوؤں کو تو کیسا ہوا انکار میرا</p>"
+        },
+        "46": {
+            "verses": {
+                "34:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ میں تو ایک ہی نصیحت کرتا ہوں تم کو کہ اٹھ کھڑے ہو اللہ کے نام پر دو دو ایک ایک پھر دھیان کرو کہ اس تمہارے رفیق کو کچھ سودا نہیں یہ تو ایک ڈرانے والا ہے تم کو ایک بڑی آفت کے آنے سے</p>"
+        },
+        "47": {
+            "verses": {
+                "34:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ جو میں نے تم سے مانگا ہو کچھ بدلہ سو وہ تم ہی رکھو میرا بدلہ ہے اسی اللہ پر اور اس کے سامنے ہے ہر چیز</p>"
+        },
+        "48": {
+            "verses": {
+                "34:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ میرا رب پھینک رہا ہے سچا دین اور وہ جانتا ہے چھپی چیزیں</p>"
+        },
+        "49": {
+            "verses": {
+                "34:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ آیا دین سچا اور جھوٹ تو کسی چیز کو نہ پیدا کرے اور نہ پھیر کر لائے</p>"
+        },
+        "50": {
+            "verses": {
+                "34:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ اگر میں بہکا ہوا ہوں تو بہکوں گا اپنے ہی نقصان کو اور اگر ہوں سیدھے راستہ پر تو اس سبب سے کہ وحی بھیجتا ہے مجھ کو میرا رب بیشک وہ سب کچھ سنتا ہے نزدیک ہے۔</p>"
+        },
+        "51": {
+            "verses": {
+                "34:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کبھی تو دیکھے جب یہ گھبرائیں پھر نہ بچیں بھاگ کر اور پکڑے ہوئے آئیں نزدیک جگہ سے</p>"
+        },
+        "52": {
+            "verses": {
+                "34:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہنے لگیں ہم نے اس کو یقین مان لیا اور اب کہاں ان کا ہاتھ پہنچ سکتا ہے بعید جگہ سے</p>"
+        },
+        "53": {
+            "verses": {
+                "34:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اس سے منکر رہے پہلے سے اور پھینکتے رہے بن دیکھے نشانے پر دور کی جگہ سے</p>"
+        },
+        "54": {
+            "verses": {
+                "34:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور رکاوٹ پڑگئی ان میں اور ان کی آرزو میں جیسا کہ کیا گیا ہے ان کے طریقہ والوں کے ساتھ اس سے پہلے وہ لوگ تھے ایسے تردر میں جو چین نہ لینے دے۔</p>"
+        }
+    }
+}

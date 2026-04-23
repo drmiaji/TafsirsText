@@ -1,0 +1,2917 @@
+{
+    "chapter": 37,
+    "verses": {
+        "1": {
+            "verses": {
+                "37:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الصافات مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>تنزيه الله عما نسبه إليه المشركون، وإبطال مزاعمهم في الملائكة والجن.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>أقسم بالملائكة التي تصُفُّ في عبادتها مُتَراصَّة.</h2>"
+        },
+        "2": {
+            "verses": {
+                "37:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقسم بالملائكة التي تزجر السحاب، وتسوقه إلى حيث يشاء الله له أن ينزِل.</p>"
+        },
+        "3": {
+            "verses": {
+                "37:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة الذين يتلون كلام الله.</h2>"
+        },
+        "4": {
+            "verses": {
+                "37:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن معبودكم بحق - أيها الناس - لواحد لا شريك له، وهو الله.</h2>"
+        },
+        "5": {
+            "verses": {
+                "37:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>رب السماوات، ورب الأرض، ورب ما بينهما، ورب الشمس في مطالعها ومغاربها طول السنة.</p>"
+        },
+        "6": {
+            "verses": {
+                "37:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا جمَّلنا أقرب السماوات إلى الأرض بزينة جميلة هي الكواكب التي هي في النظر كالجواهر المتلألئة.</p>"
+        },
+        "7": {
+            "verses": {
+                "37:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وحفظنا السماء الدنيا بالنجوم من كل شيطان متمرد خارج عن الطاعة، فيُرْمى بها.</p>"
+        },
+        "8": {
+            "verses": {
+                "37:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا يستطيع هؤلاء الشياطين أن يسمعوا الملائكة في السماء إذا تكلموا بما يوحيه إليهم ربهم من شرعه ولا من قدره، ويُرمون بالشُّهُب من كل جانب.</p>"
+        },
+        "9": {
+            "verses": {
+                "37:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>طردًا لهم وإبعادًا عن الاستماع إليهم، ولهم في الآخرة عذاب مؤلم دائم لا ينقطع.</p>"
+        },
+        "10": {
+            "verses": {
+                "37:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا من اختطف من الشياطين خَطْفة، وهي كلمة مما يتفاوض فيه الملائكة ويدور بينهم مما لم يصل علمه إلى أهل الأرض، فيتبعه شهاب مضيء يحرقه، وربما يلقي تلك الكلمة قبل أن يحرقه الشهاب إلى إخوانه فتصل إلى الكهان، فيكذبون معها مئة كذبة.</p>"
+        },
+        "11": {
+            "verses": {
+                "37:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فاسأل - يا محمد - الكفار المنكرين للبعث: أهم أشد خلقًا وأقوى أجسامًا وأعظم أعضاءً ممن خلقنا من السماوات والأرض والملائكة؟ إنا خلقناهم من طين لَزِج، فكيف ينكرون البعث، وهم مخلوقون من خلق ضعيف وهو الطين اللزِج؟</p>"
+        },
+        "12": {
+            "verses": {
+                "37:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>بل عجبتَ - يا محمد - من قدرة الله وتدبيره لشؤون خلقه، وعجبتَ من تكذيب المشركين بالبعث، وهؤلاء المشركون من شدة تكذيبهم بالبعث يسخرون مما تقول بشأنه.</p>"
+        },
+        "13": {
+            "verses": {
+                "37:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا وُعظ هؤلاء المشركون بموعظة من المواعظ لم يتعظوا بها، ولم ينتفعوا، لما هم عليه من قساوة القلوب.</p>"
+        },
+        "14": {
+            "verses": {
+                "37:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا شاهدوا آية من آيات النبي ﷺ الدالة على صدقه بالغوا في السخرية والتعجب منها.</p>"
+        },
+        "15": {
+            "verses": {
+                "37:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وقالوا: ما هذا الذي جاء به محمد إلا سحر واضح.</h2>"
+        },
+        "16": {
+            "verses": {
+                "37:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإذا متنا وصرنا ترابًا وعظامًا بالية متفتتة أإنا لمبعوثون أحياء بعد ذلك؟! إن هذا لمستبعد.</p>"
+        },
+        "17": {
+            "verses": {
+                "37:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أوَيُبعث آباؤنا الأولون الذين ماتوا قبلنا؟!</h2>"
+        },
+        "18": {
+            "verses": {
+                "37:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل - يا محمد - مجيبًا إياهم: نعم تبعثون بعد أن صرتم ترابًا وعظامًا بالية، ويُبْعث آباؤكم الأولون، تُبْعثون جميعًا وأنتم صاغرون ذليلون.</p>"
+        },
+        "19": {
+            "verses": {
+                "37:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإنما هي نفخة واحدة في الصور (النفخة الثانية) فإذا هم جميعًا ينظرون إلى أهوال يوم القيامة يترقبون ما يفعل الله بهم.</p>"
+        },
+        "20": {
+            "verses": {
+                "37:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقال المشركون المكذبون بالبعث: يا هلاكنا هذا يوم الجزاء الذي يجازي فيه الله عباده على ما قدموا في حياتهم الدنيا من عمل.</p>"
+        },
+        "21": {
+            "verses": {
+                "37:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فيقال لهم: هذا يوم القضاء بين العباد الذي كنتم تنكرونه وتكذبون به في الدنيا.</p>"
+        },
+        "22": {
+            "verses": {
+                "37:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال للملائكة في ذلك اليوم: اجمعوا المشركين الظالمين بشركهم هم وأشباههم في الشرك والمُشايعون لهم في التكذيب، وما كانوا يعبدونه من دون الله من الأصنام، فعرِّفوهم طريق النار ودلوهم عليها وسوقوهم إليها، فإنها مصيرهم.</p>"
+        },
+        "23": {
+            "verses": {
+                "37:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 22</h2>"
+        },
+        "24": {
+            "verses": {
+                "37:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>واحبسوهم قبل إدخالهم النار للحساب، فهم مسؤولون، ثم بعد ذلك سوقوهم إلى النار.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• تزيين السماء الدنيا بالكواكب لمنافع، منها: تحصيل الزينة، والحفظ من الشيطان المارد.</p>\n<p>• إثبات الصراط، وهو جسر ممدود على متن جهنم يعبره أهل الجنة، وتزل به أقدام أهل النار.</p>"
+        },
+        "25": {
+            "verses": {
+                "37:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال لهم توبيخًا لهم: ما بالكم لا ينصر بعضكم بعضًا كما كنتم في الدنيا تتناصرون، وتزعمون أن أصنامكم تنصركم؟!</p>"
+        },
+        "26": {
+            "verses": {
+                "37:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>بل هم اليوم منقادون لأمر الله ذليلون، لا ينصر بعضهم بعضًا لعجزهم وقلة حيلتهم.</p>"
+        },
+        "27": {
+            "verses": {
+                "37:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقبل بعضهم على بعض يتلاومون ويتخاصمون حين لا ينفع التلاوم والتخاصم.</p>"
+        },
+        "28": {
+            "verses": {
+                "37:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال الأتباع للمتبوعين: إنكم - يا كبراءنا - كنتم تأتوننا من جهة الدين والحق فتزينون لنا الكفر والشرك بالله وارتكاب المعاصي، وتنفروننا من الحق الذي جاءت به الرسل من عند الله.</p>"
+        },
+        "29": {
+            "verses": {
+                "37:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال المتبوعون للأتباع: ليس الأمر - كما زعمتم - بل كنتم على الكفر ولم تكونوا مؤمنين، بل كنتم منكرين.</p>"
+        },
+        "30": {
+            "verses": {
+                "37:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما كان لنا عليكم أيها الأتباع من تسلط بقهر أو غلبة حتى نوقعكم في الكفر والشرك وارتكاب المعاصي، بل كنتم قومًا متجاوزين الحد في الكفر والضلال.</p>"
+        },
+        "31": {
+            "verses": {
+                "37:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فوجب علينا وعليكم وعيد الله في قوله: ﴿لأَمْلأَنَّ جَهَنَّمَ مِنكَ ومِمَّنْ تَبِعَكَ مِنهُمْ أجْمَعِينَ﴾ [ص ٨٥]، ومن ثَمَّ فإنا ذائقون - لا محالة - ما توعد به ربنا.</p>"
+        },
+        "32": {
+            "verses": {
+                "37:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فدعوناكم إلى الضلال والكفر، إنا كنا ضالين عن طريق الهدى.</h2>"
+        },
+        "33": {
+            "verses": {
+                "37:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإن الأتباع والمتبوعين في العذاب يوم القيامة مشتركون.</h2>"
+        },
+        "34": {
+            "verses": {
+                "37:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا كما فعلنا بهؤلاء من إذاقتهم العذاب، نفعل بالمجرمين من غيرهم.</p>"
+        },
+        "35": {
+            "verses": {
+                "37:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن هؤلاء المشركين كانوا إذا قيل لهم في الدنيا: لا إله إلا الله للعمل بمقتضاها وترك ما يخالفها، رفضوا الاستجابة لذلك والإذعان له تكبرًا عن الحق وترفعًا عليه.</p>"
+        },
+        "36": {
+            "verses": {
+                "37:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقولون محتجِّين لكفرهم: أنترك عبادة آلهتنا لقول شاعر مجنون؟! يعنون بقولهم هذا رسولَ الله ﷺ.</p>"
+        },
+        "37": {
+            "verses": {
+                "37:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لقد أعظموا الفِرْية، فما كان رسول الله ﷺ مجنونًا ولا شاعرًا، بل جاء بالقرآن الداعي إلى توحيد الله واتباع رسوله، وصدق المرسلين فيما جاؤوا به من عند الله من التوحيد وإثبات المعاد، ولم يخالفهم في شيء.</p>"
+        },
+        "38": {
+            "verses": {
+                "37:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنكم - أيها المشركون - لذائقو العذاب الموجع يوم القيامة بسبب كفركم وتكذيبكم للرسل.</p>"
+        },
+        "39": {
+            "verses": {
+                "37:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما تُجْزَون - أيها المشركون - إلا ما كنتم تعملون في الدنيا من الكفر بالله وارتكاب المعاصي.</p>"
+        },
+        "40": {
+            "verses": {
+                "37:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لكن عباد الله المؤمنين الذين أخلصهم الله لعبادته، وأخلصوا له العبادة، هم بمنجاة من هذا العذاب.</p>"
+        },
+        "41": {
+            "verses": {
+                "37:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أولئك العباد المخلصون لهم رزق يرزقهم الله إياه، معلوم في طيبه وحسنه ودوامه.</p>"
+        },
+        "42": {
+            "verses": {
+                "37:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ومن هذا الرزق أنهم يرزقون فواكه من أطيب ما يأكلونه ويشتهونه، وهم فوق ذلك مكرمون برفع الدرجات وبالنظر إلى وجه الله الكريم.</p>"
+        },
+        "43": {
+            "verses": {
+                "37:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كل ذلك ينالونه في جنات النعيم المقيم الثابت الذي لا ينقطع ولا يزول.</p>"
+        },
+        "44": {
+            "verses": {
+                "37:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يتكئون على أسِرَّة متقابلين ينظر بعضهم إلى بعض.</h2>"
+        },
+        "45": {
+            "verses": {
+                "37:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يدار عليهم بكؤوس الخمر التي هي في صفائها كالماء الجاري.</h2>"
+        },
+        "46": {
+            "verses": {
+                "37:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>بيضاء اللون يلتذ بشربها من يشربها لذة كاملة.</h2>"
+        },
+        "47": {
+            "verses": {
+                "37:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليست كخمر الدنيا، فليس فيها ما يُذْهِب العقول من السكر، ولا ينتاب متعاطيها صُداع، يَسْلَم لشاربها جسمه وعقله.</p>"
+        },
+        "48": {
+            "verses": {
+                "37:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وعندهم في الجنة نساء عفيفات، لا تمتد أبصارهن إلى غير أزواجهن، حسان العيون.</p>"
+        },
+        "49": {
+            "verses": {
+                "37:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كأنهن في بياض ألوانهن المشوبة بصفرة بيضُ طائر مصون لم تمسه الأيدي.</p>"
+        },
+        "50": {
+            "verses": {
+                "37:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأقبل بعض أهل الجنة على بعض يتساءلون عن ماضيهم وما حدث لهم في الدنيا.</p>"
+        },
+        "51": {
+            "verses": {
+                "37:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال قائل من هؤلاء المؤمنين: إني كان لي في الدنيا صاحب مُنْكِر للبعث.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• سبب عذاب الكافرين: العمل المنكر، وهو الشرك والمعاصي.</h2>\n<p>• من نعيم أهل الجنة أنهم نعموا باجتماع بعضهم مع بعض، ومقابلة بعضهم مع بعض، وهذا من كمال السرور.</p>"
+        },
+        "52": {
+            "verses": {
+                "37:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يقول لي منكرًا وساخرًا: هل أنت - أيها الصديق - مِن المصدِّقين ببعث الأموات؟</p>"
+        },
+        "53": {
+            "verses": {
+                "37:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أإذا متنا وصرنا ترابًا وعظامًا نخرة أإنا لمبعوثون ومجازون على أعمالنا التي عملناها في الدنيا؟</p>"
+        },
+        "54": {
+            "verses": {
+                "37:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال قرينه المؤمن لأصحابه من أهل الجنة: اطَّلعوا معي لنرى مصير ذلك القرين الذي كان ينكر البعث؟</p>"
+        },
+        "55": {
+            "verses": {
+                "37:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فاطلع هو فرأى قرينه في وسط جهنم.</h2>"
+        },
+        "56": {
+            "verses": {
+                "37:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال: تالله لقد قاربت - أيها القرين - أن تهلكني بدخول النار بدعوتك لي إلى الكفر وإنكار البعث.</p>"
+        },
+        "57": {
+            "verses": {
+                "37:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولولا إنعام الله علي بالهداية للإيمان والتوفيق له، لكنت من المحضرين إلى العذاب مثلك.</p>"
+        },
+        "58": {
+            "verses": {
+                "37:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما أنهى كلامه مع قرينه من أهل النار توجه إلى خطاب قرنائه من أهل الجنة فقال:</h2>\n<h2>فلسنا نحن - أصحاب الجنة - بميتين.</h2>"
+        },
+        "59": {
+            "verses": {
+                "37:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>غير موتتنا الأولى في الحياة الدنيا، بل نحن مخلدون في الجنة، ولسنا بمعذبين كما يعذب الكفار.</p>"
+        },
+        "60": {
+            "verses": {
+                "37:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن هذا الذي جازانا به ربنا - من دخول الجنة والخلود فيها والسلامة من النار - لهو الظفر العظيم الذي لا ظفر يساويه.</p>"
+        },
+        "61": {
+            "verses": {
+                "37:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لمثل هذا الجزاء العظيم يجب أن يعمل العاملون، فإن هذا هو التجارة الرابحة.</p>"
+        },
+        "62": {
+            "verses": {
+                "37:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أذلك النعيم المذكور الذي أعده الله لعباده الذين أخلصهم لطاعته، خير وأفضل مقامًا وكرامة، أم شجرة الزقوم الملعونة في القرآن التي هي طعام الكفار الذي لا يسمن ولا يغني من جوع؟!</p>"
+        },
+        "63": {
+            "verses": {
+                "37:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا صيَّرنا هذه الشجرة فتنة يفتتن بها الظالمون بالكفر والمعاصي، حيث قالوا: إن النار تأكل الشجر، فلا يمكن أن ينبت فيها.</p>"
+        },
+        "64": {
+            "verses": {
+                "37:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن شجرة الزقوم شجرة خبيثة المَنبَت، فهي شجرة تخرج في قعر الجحيم.</p>"
+        },
+        "65": {
+            "verses": {
+                "37:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثمرها الخارج منها كريه المنظر كأنه رؤوس الشياطين، وقبح المنظر دليل على قبح المخبر، وهذا يعني أن ثمرها خبيث الطعم.</p>"
+        },
+        "66": {
+            "verses": {
+                "37:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإن الكفار لآكلون من ثمرها المر القبيح، ومالئون منه بطونهم الخاوية.</p>"
+        },
+        "67": {
+            "verses": {
+                "37:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم إنهم بعد أكلهم منها لهم شراب خليط قبيح حار.</h2>"
+        },
+        "68": {
+            "verses": {
+                "37:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم إن رجوعهم بعد ذلك لإلى عذاب الجحيم، فهم يتنقلون من عذاب إلى عذاب.</p>"
+        },
+        "69": {
+            "verses": {
+                "37:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن هؤلاء الكفار وجدوا آباءهم ضالين عن طريق الهداية، فتأسوا بهم تقليدًا لا عن حجة.</p>"
+        },
+        "70": {
+            "verses": {
+                "37:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهم يتبعون آثار آبائهم في الضلالة مسرعين.</h2>"
+        },
+        "71": {
+            "verses": {
+                "37:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد ضل قبلهم أكثر الأولين، فليس قومك - أيها الرسول - أول من ضل من الأمم.</p>"
+        },
+        "72": {
+            "verses": {
+                "37:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد أرسلنا في تلك الأمم الأولى رسلًا يخوفونهم من عذاب الله، فكفروا.</p>"
+        },
+        "73": {
+            "verses": {
+                "37:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فانظر - أيها الرسول - كيف كانت نهاية الأقوام الذين أنذرتهم رسلهم فلم يستجيبوا لهم، إن نهايتهم كانت دخول النار خالدين فيها بسبب كفرهم وتكذيبهم لرسلهم.</p>"
+        },
+        "74": {
+            "verses": {
+                "37:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا من أخلصهم الله للإيمان به، فإنهم ناجون من العذاب الذي كان نهاية أولئك المكذبين الكافرين.</p>"
+        },
+        "75": {
+            "verses": {
+                "37:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد دعانا نبينا نوح عليه السلام حين دعا على قومه الذين كذبوه، فلنعم المجيبون نحن، فقد سارعنا في إجابة دعائه عليهم.</p>"
+        },
+        "76": {
+            "verses": {
+                "37:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد سلمناه وأهل بيته والمؤمنين معه من أذى قومه ومن الغرق بالطوفان العظيم المرسل على الكافرين من قومه.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• الظفر بنعيم الجنان هو الفوز الأعظم، ولمثل هذا العطاء والفضل ينبغي أن يعمل العاملون.</p>\n<p>• إن طعام أهل النار هو الزقّوم ذو الثمر المرّ الكريه الطعم والرائحة، العسير البلع، المؤلم الأكل.</p>\n<p>• أجاب الله تعالى دعاء نوح عليه السلام بإهلاك قومه، والله نعم المقصود المجيب.</p>"
+        },
+        "77": {
+            "verses": {
+                "37:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ونجينا أهله وأتباعه المؤمنين وحدهم، فقد أغرقنا غيرهم من قومه الكافرين.</p>"
+        },
+        "78": {
+            "verses": {
+                "37:78": {
+                    "id": 78
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأبقينا له في الأمم اللاحقة ثناءً حسنًا يثنون به عليه.</h2>"
+        },
+        "79": {
+            "verses": {
+                "37:79": {
+                    "id": 79
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أمان وسلام لنوح من أن يقال فيه سوء في الأمم اللاحقة، بل سيبقى له الثناء والذكر الحسن.</p>"
+        },
+        "80": {
+            "verses": {
+                "37:80": {
+                    "id": 80
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن مثل هذا الجزاء الذي جازينا به نوحًا عليه السلام نجزي المحسنين بعبادتهم وطاعتهم لله وحده.</p>"
+        },
+        "81": {
+            "verses": {
+                "37:81": {
+                    "id": 81
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن نوحًا من عبادنا المؤمنين العاملين بطاعة الله.</h2>"
+        },
+        "82": {
+            "verses": {
+                "37:82": {
+                    "id": 82
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم أغرقنا الباقين بالطوفان الذي أرسلناه عليهم، فلم يبق منهم أحد.</p>"
+        },
+        "83": {
+            "verses": {
+                "37:83": {
+                    "id": 83
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن إبراهيم من أهل دينه الذين وافقوه في الدعوة إلى توحيد الله.</p>"
+        },
+        "84": {
+            "verses": {
+                "37:84": {
+                    "id": 84
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فاذكر حين جاء ربه بقلب سليم من الشرك ناصح لله في خلقه.</h2>"
+        },
+        "85": {
+            "verses": {
+                "37:85": {
+                    "id": 85
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>حين قال لأبيه وقومه المشركين موبخًا لهم: ما الذي تعبدونه من دون الله؟!</p>"
+        },
+        "86": {
+            "verses": {
+                "37:86": {
+                    "id": 86
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أآلهة مكذوبة تعبدونها من دون الله؟</h2>"
+        },
+        "87": {
+            "verses": {
+                "37:87": {
+                    "id": 87
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فما ظنكم - يا قوم - برب العالمين إذا لقيتموه وأنتم تعبدون غيره؟! وماذا ترونه صانعًا بكم؟!</p>"
+        },
+        "88": {
+            "verses": {
+                "37:88": {
+                    "id": 88
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فنظر إبراهيم نظرة في النجوم يدبر مكيدة للتخلص من الخروج مع قومه.</p>"
+        },
+        "89": {
+            "verses": {
+                "37:89": {
+                    "id": 89
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فقال متعللًا عن الخروج مع قومه إلى عيدهم: إني مريض.</h2>"
+        },
+        "90": {
+            "verses": {
+                "37:90": {
+                    "id": 90
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فتركوه وراءهم وذهبوا.</h2>"
+        },
+        "91": {
+            "verses": {
+                "37:91": {
+                    "id": 91
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فمال إلى آلهتهم التي يعبدونها من دون الله، فقال ساخرًا من آلهتهم: ألا تأكلون من الطعام الذي يصنعه المشركون لكم؟!</p>"
+        },
+        "92": {
+            "verses": {
+                "37:92": {
+                    "id": 92
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ما شأنكم لا تتكلمون، ولا تجيبون من يسألكم؟! أمثل هذا يُعْبد من دون الله؟!</p>"
+        },
+        "93": {
+            "verses": {
+                "37:93": {
+                    "id": 93
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمال عليهم إبراهيم يضربهم بيده اليمنى ليكسرهم.</h2>"
+        },
+        "94": {
+            "verses": {
+                "37:94": {
+                    "id": 94
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأقبل إليه عبّاد هذه الأصنام يسرعون.</h2>"
+        },
+        "95": {
+            "verses": {
+                "37:95": {
+                    "id": 95
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فقابلهم إبراهيم بثبات، وقال لهم موبخًا إياهم: أتعبدون من دون الله آلهة أنتم الذين تنحتونها بأيديكم؟!</p>"
+        },
+        "96": {
+            "verses": {
+                "37:96": {
+                    "id": 96
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والله سبحانه خلقكم أنتم، وخلق عملكم، ومن عملكم هذه الأصنام، فهو المستحق لأن يعبد وحده، ولا يشرك به غيره.</p>"
+        },
+        "97": {
+            "verses": {
+                "37:97": {
+                    "id": 97
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلما عجزوا عن مقارعته بالحجة لجؤوا إلى القوة، فتشاوروا فيما بينهم فيما يفعلونه بإبراهيم، قالوا: ابنوا له بنيانًا، واملؤوه حطبًا وأضرموه، ثم ارموه فيه.</p>"
+        },
+        "98": {
+            "verses": {
+                "37:98": {
+                    "id": 98
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأراد قوم إبراهيم بإبراهيم سوءًا بأن يهلكوه فيستريحوا منه، فصيرناهم الخاسرين حين جعلنا النار عليه بردًا وسلامًا.</p>"
+        },
+        "99": {
+            "verses": {
+                "37:99": {
+                    "id": 99
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقال إبراهيم: إني مهاجر إلى ربي تاركًا بلد قومي لأتمكن من عبادته، سيدلني ربي على ما فيه الخير لي في الدنيا والآخرة.</p>"
+        },
+        "100": {
+            "verses": {
+                "37:100": {
+                    "id": 100
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يا رب، ارزقني ولدًا صالحًا يكون لي عونًا وعوضًا عن قومي في الغربة.</p>"
+        },
+        "101": {
+            "verses": {
+                "37:101": {
+                    "id": 101
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فاستجبنا له دعوته فأخبرناه بما يسره، حيث بشرناه بولد يكبر، ويصير حليمًا، وهذا الولد هو إسماعيل عليه السلام.</p>"
+        },
+        "102": {
+            "verses": {
+                "37:102": {
+                    "id": 102
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلما شب إسماعيل، وأدرك سعيُه سعي أبيه رأى أبوه إبراهيم رؤيا، ورؤيا الأنبياء وحي، قال إبراهيم مخبرًا ابنه عن فحوى هذه الرؤيا: يا بني، إني رأيت في النوم أني أذبحك، فانظر ما ترى في ذلك، فأجاب إسماعيل أباه قائلًا: يا أبي، افعل ما أمرك الله به من ذبحي، ستجدني من الصابرين الراضين بحكم الله.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• من مظاهر الإنعام على نوح: نجاة نوح ومن آمن معه، وجعل ذريته أصول البشر والأعراق والأجناس، وإبقاء الذكر الجميل والثناء الحسن.</p>\n<h2>• أفعال الإنسان يخلقها الله ويفعلها العبد باختياره.</h2>\n<p>• الذبيح بحسب دلالة هذه الآيات وترتيبها هو إسماعيل عليه السلام، لأنه هو المُبَشَّر به أولًا، وأما إسحاق عليه السلام فبُشِّر به بعد إسماعيل عليه السلام.</p>\n<p>• قول إسماعيل: ﴿سَتَجِدُنِي إن شَآءَ اْللهُ مِنَ اْلصّابِرِينَ﴾ سبب لتوفيق الله له بالصبر، لأنه جعل الأمر لله.</p>"
+        },
+        "103": {
+            "verses": {
+                "37:103": {
+                    "id": 103
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلما خضعا لله وانقادا له، وضع إبراهيم ابنه على جانب جبهته لينفذ ما أمر به من ذبحه.</p>"
+        },
+        "104": {
+            "verses": {
+                "37:104": {
+                    "id": 104
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ونادينا إبراهيم وهو يَهُمُّ بتنفيذ أمر الله بذبح ابنه: أن يا إبراهيم.</p>"
+        },
+        "105": {
+            "verses": {
+                "37:105": {
+                    "id": 105
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قد حققت الرؤيا التي رأيتها في منامك بعزمك على ذبح ابنك، إنا - كما جزيناك بتخليصك من هذه المحنة العظيمة - نجزي المحسنين فنخلصهم من المحن والشدائد.</p>"
+        },
+        "106": {
+            "verses": {
+                "37:106": {
+                    "id": 106
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن هذا لهو الاختبار الواضح، وقد نجح إبراهيم فيه.</h2>"
+        },
+        "107": {
+            "verses": {
+                "37:107": {
+                    "id": 107
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفدينا إسماعيل بكبش عظيم بدلًا منه يذبح عنه.</h2>"
+        },
+        "108": {
+            "verses": {
+                "37:108": {
+                    "id": 108
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأبقينا على إبراهيم ثناءً حسنًا في الأمم اللاحقة.</h2>"
+        },
+        "109": {
+            "verses": {
+                "37:109": {
+                    "id": 109
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تحية من الله له، ودعاءً بالسلامة من كل ضر وآفة.</h2>"
+        },
+        "110": {
+            "verses": {
+                "37:110": {
+                    "id": 110
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>كما جازينا إبراهيم هذا الجزاء على طاعته نجازي المحسنين.</h2>"
+        },
+        "111": {
+            "verses": {
+                "37:111": {
+                    "id": 111
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن إبراهيم من عبادنا المؤمنين الذين يفون بما تقتضيه العبودية لله.</p>"
+        },
+        "112": {
+            "verses": {
+                "37:112": {
+                    "id": 112
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وبشرناه بولد آخر يصير نبيًّا وعبدًا صالحًا وهو إسحاق، جزاءً على طاعته لله في ذبح إسماعيل ولده الوحيد.</p>"
+        },
+        "113": {
+            "verses": {
+                "37:113": {
+                    "id": 113
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأنزلنا عليه وعلى ابنه إسحاق بركة منا، فأكثرنا لهما النعم، ومنها تكثير ولدهما، ومن ذريتهما محسن بطاعته لربه، ومنهم ظالم لنفسه بالكفر وارتكاب المعاصي واضح الظلم.</p>"
+        },
+        "114": {
+            "verses": {
+                "37:114": {
+                    "id": 114
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولقد مننا على موسى وأخيه هارون بالنبوة.</h2>"
+        },
+        "115": {
+            "verses": {
+                "37:115": {
+                    "id": 115
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وسلمناهما وقومهما بني إسرائيل من استعباد فرعون لهم ومن الغرق.</p>"
+        },
+        "116": {
+            "verses": {
+                "37:116": {
+                    "id": 116
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ونصرناهم على فرعون وجنوده، فكانت الغلبة لهم على عدوهم.</h2>"
+        },
+        "117": {
+            "verses": {
+                "37:117": {
+                    "id": 117
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأعطينا موسى وأخاه هارون التوراة كتابًا من عند الله واضحًا لا لبس فيه.</p>"
+        },
+        "118": {
+            "verses": {
+                "37:118": {
+                    "id": 118
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وهديناهما إلى الصراط المستقيم الذي لا اعوجاج فيه، وهو طريق دين الإسلام الموصلة إلى مرضاة الخالق سبحانه.</p>"
+        },
+        "119": {
+            "verses": {
+                "37:119": {
+                    "id": 119
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأبقينا عليهما ثناءً حسنًا وذكرًا طيبًا في الأمم اللاحقة.</h2>"
+        },
+        "120": {
+            "verses": {
+                "37:120": {
+                    "id": 120
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تحية من الله طيبة لهما وثناءً عليهما ودعاءً بالسلامة من كل مكروه.</p>"
+        },
+        "121": {
+            "verses": {
+                "37:121": {
+                    "id": 121
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا كما جازينا موسى وهارون هذا الجزاء الحسن نجزي المحسنين بطاعتهم لربهم.</p>"
+        },
+        "122": {
+            "verses": {
+                "37:122": {
+                    "id": 122
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن موسى وهارون من عبادنا المؤمنين بالله العاملين بما شرع لهم.</p>"
+        },
+        "123": {
+            "verses": {
+                "37:123": {
+                    "id": 123
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن إلياس لمن المرسلين من ربه، أنعم الله عليه بالنبوة والرسالة.</p>"
+        },
+        "124": {
+            "verses": {
+                "37:124": {
+                    "id": 124
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إذ قال لقومه الذين أرسل إليهم من بني إسرائيل: يا قوم، ألا تتقون الله، بامتثال أوامره، ومنها التوحيد، وباجتناب نواهيه، ومنها الشرك؟!</p>"
+        },
+        "125": {
+            "verses": {
+                "37:125": {
+                    "id": 125
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أتعبدون من دون الله صنمكم بَعْلًا، وتتركون عبادة الله أحسن الخالقين؟!</p>"
+        },
+        "126": {
+            "verses": {
+                "37:126": {
+                    "id": 126
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والله هو ربكم الذي خلقكم، وخلق آباءكم من قبل، فهو المستحق للعبادة، لا غيره من الأصنام التي لا تنفع ولا تضر.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• قوله: ﴿فَلَمَّآ أسْلَما﴾ دليل على أن إبراهيم وإسماعيل عليهما السلام كانا في غاية التسليم لأمر الله تعالى.</p>\n<h2>• من مقاصد الشرع تحرير العباد من عبودية البشر.</h2>\n<h2>• الثناء الحسن والذكر الطيب من النعيم المعجل في الدنيا.</h2>"
+        },
+        "127": {
+            "verses": {
+                "37:127": {
+                    "id": 127
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فما كان من قومه إلا أن كذبوه، وبسبب تكذيبهم فهم مُحْضرون في العذاب.</p>"
+        },
+        "128": {
+            "verses": {
+                "37:128": {
+                    "id": 128
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا من كان من قومه مؤمنًا مخلصًا لله في عبادته، فإنه ناج من الإحضار إلى العذاب.</p>"
+        },
+        "129": {
+            "verses": {
+                "37:129": {
+                    "id": 129
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأبقينا عليه ثناءً حسنًا وذكرًا طيبًا في الأمم اللاحقة.</h2>"
+        },
+        "130": {
+            "verses": {
+                "37:130": {
+                    "id": 130
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تحية من الله وثناءً على إلياس.</h2>"
+        },
+        "131": {
+            "verses": {
+                "37:131": {
+                    "id": 131
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنا كما جازينا إلياس هذا الجزاء الحسن نجزي المحسنين من عبادنا المؤمنين.</p>"
+        },
+        "132": {
+            "verses": {
+                "37:132": {
+                    "id": 132
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن إلياس من عبادنا المؤمنين حقًّا الصادقين في إيمانهم بربهم.</p>"
+        },
+        "133": {
+            "verses": {
+                "37:133": {
+                    "id": 133
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن لوطًا لمن رسل الله الذين أرسلهم إلى أقوامهم مبشرين ومنذرين.</p>"
+        },
+        "134": {
+            "verses": {
+                "37:134": {
+                    "id": 134
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فاذكر حين سلمناه وأهله كلهم من العذاب المرسل على قومه.</h2>"
+        },
+        "135": {
+            "verses": {
+                "37:135": {
+                    "id": 135
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا زوجته، فقد كانت امرأة شملها عذاب قومها، لكونها كانت كافرة مثلهم.</p>"
+        },
+        "136": {
+            "verses": {
+                "37:136": {
+                    "id": 136
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم أهلكنا الباقين من قومه ممن كذبوا به، ولم يصدقوا بما جاء به.</p>"
+        },
+        "137": {
+            "verses": {
+                "37:137": {
+                    "id": 137
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإنكم - يا أهل مكة - لتمرون على منازلهم في أسفاركم إلى الشام في وقت الصباح.</p>"
+        },
+        "138": {
+            "verses": {
+                "37:138": {
+                    "id": 138
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وتمرون عليها كذلك ليلًا، أفلا تعقلون، وتتعظون بما آل إليه أمرهم بعد تكذيبهم وكفرهم وارتكابهم الفاحشة التي لم يسبقوا إليها؟!</p>"
+        },
+        "139": {
+            "verses": {
+                "37:139": {
+                    "id": 139
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن عبدنا يونس لمن رسل الله الذين أرسلهم إلى أقوامهم مبشرين ومنذرين.</p>"
+        },
+        "140": {
+            "verses": {
+                "37:140": {
+                    "id": 140
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>حين فرّ من قومه من غير إذن ربه، وركب سفينة مملوءة من الركاب والأمتعة.</p>"
+        },
+        "141": {
+            "verses": {
+                "37:141": {
+                    "id": 141
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأوشكت السفينة أن تغرق لامتلائها، فاقترع الركاب لِيُلْقُوا بعضهم، خوفًا من غرق السفينة بسبب كثرة الركاب، فكان يونس من هؤلاء المغلوبين، فألقوه في البحر.</p>"
+        },
+        "142": {
+            "verses": {
+                "37:142": {
+                    "id": 142
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلما ألقوه في البحر أخذه الحوت، وابتلعه، وهو آت بما يُلام عليه، لذهابه إلى البحر بغير إذن ربه.</p>"
+        },
+        "143": {
+            "verses": {
+                "37:143": {
+                    "id": 143
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلولا أن يونس كان من الذاكرين الله كثيرًا قبل ما حل به، ولولا تسبيحه في بطن الحوت.</p>"
+        },
+        "144": {
+            "verses": {
+                "37:144": {
+                    "id": 144
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لمكث في بطن الحوت إلى يوم القيامة بحيث يصير له قبرًا.</h2>"
+        },
+        "145": {
+            "verses": {
+                "37:145": {
+                    "id": 145
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فألقيناه من بطن الحوت بأرض خالية من الشجر والبناء، وهو ضعيف البدن لمكثه مدَّة في بطن الحوت.</p>"
+        },
+        "146": {
+            "verses": {
+                "37:146": {
+                    "id": 146
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأنبتنا عليه في تلك الأرض الخالية شجرة من القرع يستظل بها ويأكل منها.</p>"
+        },
+        "147": {
+            "verses": {
+                "37:147": {
+                    "id": 147
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأرسلناه إلى قومه وعددهم مئة ألف، بل يزيدون.</h2>"
+        },
+        "148": {
+            "verses": {
+                "37:148": {
+                    "id": 148
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فآمنوا وصدقوا بما جاء به، فمتعهم الله في حياتهم الدنيا إلى أن انقضت آجالهم المحددة لهم.</p>"
+        },
+        "149": {
+            "verses": {
+                "37:149": {
+                    "id": 149
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فاسأل - يا محمد - المشركين سؤال إنكار: أتجعلون لله البنات اللاتي تكرهونهن، وتجعلون لكم البنين الذين تحبونهم؟! أي قسمة هذه؟!</p>"
+        },
+        "150": {
+            "verses": {
+                "37:150": {
+                    "id": 150
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كيف زعموا أن الملائكة إناث، وهم لم يحضروا خلقهم، وما شاهدوه؟!</p>"
+        },
+        "151": {
+            "verses": {
+                "37:151": {
+                    "id": 151
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ألا إن المشركين من كذبهم على الله وافترائهم عليه.</h2>"
+        },
+        "152": {
+            "verses": {
+                "37:152": {
+                    "id": 152
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لينسبون له الولد، وإنهم لكاذبون في دعواهم هذه.</h2>"
+        },
+        "153": {
+            "verses": {
+                "37:153": {
+                    "id": 153
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هل اختار الله لنفسه البنات اللاتي تكرهونهن على البنين الذين تحبونهم؟! كلا.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• سُنَّة الله التي لا تتبدل ولا تتغير: إنجاء المؤمنين وإهلاك الكافرين.</p>\n<p>• ضرورة العظة والاعتبار بمصير الذين كذبوا الرسل حتى لا يحل بهم ما حل بغيرهم.</p>\n<p>• جواز القُرْعة شرعًا لقوله تعالى: ﴿فَساهَمَ فَكانَ مِنَ اْلْمُدْحَضِين﴾.</p>"
+        },
+        "154": {
+            "verses": {
+                "37:154": {
+                    "id": 154
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ما لكم - أيها المشركون - تحكمون هذا الحكم الجائر حيث تجعلون لله البنات، وتجعلون لكم البنين؟!</p>"
+        },
+        "155": {
+            "verses": {
+                "37:155": {
+                    "id": 155
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أفلا تتذكرون بطلان ما أنتم عليه من هذا الاعتقاد الفاسد؟! فإنكم لو تذكرتم لما قلتم هذا القول.</p>"
+        },
+        "156": {
+            "verses": {
+                "37:156": {
+                    "id": 156
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أم لكم حجة جلية وبرهان واضح من كتاب بذلك أو رسول؟!</h2>"
+        },
+        "157": {
+            "verses": {
+                "37:157": {
+                    "id": 157
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأْتُوا بكتابكم الذي يحمل لكم الحجة على هذا إن كنتم صادقين فيما تدعونه.</p>"
+        },
+        "158": {
+            "verses": {
+                "37:158": {
+                    "id": 158
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجعل المشركون بين الله وبين الملائكة المستورين عنهم نسبًا حين زعموا أن الملائكة بنات الله، ولقد علمت الملائكة أن الله سيحضر المشركين للحساب.</p>"
+        },
+        "159": {
+            "verses": {
+                "37:159": {
+                    "id": 159
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تنزه الله وتقدس عما يصفه به المشركون مما لا يليق به سبحانه من الولد والشريك وغير ذلك.</p>"
+        },
+        "160": {
+            "verses": {
+                "37:160": {
+                    "id": 160
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا عباد الله المخلصين، فإنهم لا يصفون الله إلا بما يليق به سبحانه من صفات الجلال والكمال.</p>"
+        },
+        "161": {
+            "verses": {
+                "37:161": {
+                    "id": 161
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإنكم أنتم - أيها المشركون - وما تعبدون من دون الله.</h2>"
+        },
+        "162": {
+            "verses": {
+                "37:162": {
+                    "id": 162
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لستم بمضلين من أحد عن دين الحق.</h2>"
+        },
+        "163": {
+            "verses": {
+                "37:163": {
+                    "id": 163
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا من قضى الله عليه أنه من أصحاب النار، فإن الله ينفذ فيه قضاءه فيكفر، ويدخل النار، أما أنتم ومعبوداتكم فلا قدرة لكم على ذلك.</p>"
+        },
+        "164": {
+            "verses": {
+                "37:164": {
+                    "id": 164
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقالت الملائكة مبينة عبوديتها لله، وبراءتها مما زعمه المشركون: وليس منا أحد إلا له مقام معلوم في عبادة الله وطاعته.</p>"
+        },
+        "165": {
+            "verses": {
+                "37:165": {
+                    "id": 165
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإنا - نحن الملائكة - لواقفون صفوفًا في عبادة الله وطاعته، وإنا لمنزِّهون الله عما لا يليق به من الصفات والنُّعوت.</p>"
+        },
+        "166": {
+            "verses": {
+                "37:166": {
+                    "id": 166
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 165</h2>"
+        },
+        "167": {
+            "verses": {
+                "37:167": {
+                    "id": 167
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن المشركين من أهل مكة كانوا يقولون قبل بعثة محمد ﷺ: لو كان عندنا كتاب من كتب الأولين كالتوراة مثلًا، لأخلصنا لله العبادة، وهم كاذبون في ذلك، فقد جاءهم محمد ﷺ بالقرآن فكفروا به، فسوف يعلمون ما ينتظرهم من العذاب الشديد يوم القيامة.</p>"
+        },
+        "168": {
+            "verses": {
+                "37:168": {
+                    "id": 168
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 167</h2>"
+        },
+        "169": {
+            "verses": {
+                "37:169": {
+                    "id": 169
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن المشركين من أهل مكة كانوا يقولون قبل بعثة محمد ﷺ: لو كان عندنا كتاب من كتب الأولين كالتوراة مثلًا، لأخلصنا لله العبادة، وهم كاذبون في ذلك، فقد جاءهم محمد ﷺ بالقرآن فكفروا به، فسوف يعلمون ما ينتظرهم من العذاب الشديد يوم القيامة.</p>"
+        },
+        "170": {
+            "verses": {
+                "37:170": {
+                    "id": 170
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 169</h2>"
+        },
+        "171": {
+            "verses": {
+                "37:171": {
+                    "id": 171
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد سبقت كلمتنا لرسلنا أنهم منصورون على أعدائهم بما منَّ الله عليهم به من الحجة والقوة، وأن الغلبة لجندنا الذين يقاتلون في سبيل الله لتكون كلمة الله هي العليا.</p>"
+        },
+        "172": {
+            "verses": {
+                "37:172": {
+                    "id": 172
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 171</h2>"
+        },
+        "173": {
+            "verses": {
+                "37:173": {
+                    "id": 173
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد سبقت كلمتنا لرسلنا أنهم منصورون على أعدائهم بما منَّ الله عليهم به من الحجة والقوة، وأن الغلبة لجندنا الذين يقاتلون في سبيل الله لتكون كلمة الله هي العليا.</p>"
+        },
+        "174": {
+            "verses": {
+                "37:174": {
+                    "id": 174
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأعرض - أيها الرسول - عن هؤلاء المشركين المعاندين إلى مدة يعلمها الله حتى يأتي وقت عذابهم.</p>"
+        },
+        "175": {
+            "verses": {
+                "37:175": {
+                    "id": 175
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وانظرهم حين ينزل بهم العذاب، فسيبصرون هم حين لا ينفعهم إبصار.</p>"
+        },
+        "176": {
+            "verses": {
+                "37:176": {
+                    "id": 176
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفيستعجل هؤلاء المشركون بعذاب الله؟!</h2>"
+        },
+        "177": {
+            "verses": {
+                "37:177": {
+                    "id": 177
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإذا نزل عذاب الله بهم فبئس الصباح صباحهم.</h2>"
+        },
+        "178": {
+            "verses": {
+                "37:178": {
+                    "id": 178
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأعرض - أيها الرسول - عنهم حتى يقضي الله بعذابهم.</h2>"
+        },
+        "179": {
+            "verses": {
+                "37:179": {
+                    "id": 179
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وانظر فسينظر هؤلاء ما يحل بهم من عذاب الله وعقابه.</h2>"
+        },
+        "180": {
+            "verses": {
+                "37:180": {
+                    "id": 180
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تنزه ربك - يا محمد - ربّ القوة، وتقدس عما يصفه به المشركون من صفات النقص.</p>"
+        },
+        "181": {
+            "verses": {
+                "37:181": {
+                    "id": 181
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وتحية الله وثناؤه على رسله الكرام.</h2>"
+        },
+        "182": {
+            "verses": {
+                "37:182": {
+                    "id": 182
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والثناء كله لله سبحانه وتعالى، فهو المستحق له، وهو رب العالمين جميعًا، لا رب لهم سواه.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• سُنَّة الله نصر المرسلين وورثتهم بالحجة والغلبة، وفي الآيات بشارة عظيمة، لمن اتصف بأنه من جند الله، أنه غالب منصور.</p>\n<p>• في الآيات دليل على بيان عجز المشركين وعجز آلهتهم عن إضلال أحد، وبشارة لعباد الله المخلصين بأن الله بقدرته ينجيهم من إضلال الضالين المضلين.</p>"
+        }
+    }
+}

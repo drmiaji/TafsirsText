@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة المرسلات مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>إثبات القيامة من خلال محاجة المكذبين بالأدلة، وتتابعها بالوعيد والتهديد.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>أقسم الله بالرياح المتتابعة مثل عُرف الفرس.</h2>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالرياح الشديدة الهبوب.</h2>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالرياح التي تنشر المطر.</h2>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة التي تنزل بما يفرق بين الحق والباطل.</h2>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة التي تنزل بالوحي.</h2>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>تنزل بالوحي إعذارًا من الله إلى الناس، وإنذارًا للناس من عذاب الله.</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن الذي توعدون به من البعث والحساب والجزاء لواقع لا محالة.</h2>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإذا النجوم مُحِيَ نورها وذهب ضوؤها.</h2>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا السماء شُقَّت لتنزّل الملائكة منها.</h2>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الجبال اقتُلِعت من مكانها فَفُتِّتَتْ حتى تصير هباءً.</h2>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الرسل جُمِعت لوقت محدد.</h2>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليوم عظيم أُجِّلت للشهادة على أممها.</h2>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليوم الفصل بين العباد، فيتبين المحق من المبطل، والسعيد من الشقي.</p>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وما أعلمك - أيها الرسول - ما يوم الفصل؟!</h2>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هلاك وعذاب وخسران في ذلك اليوم للمكذبين الذين يكذبون بما جاءت به الرسل من عند الله.</p>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ألم نهلك الأمم السابقة لما كفرت بالله وكذبت رسلها؟!</h2>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم نتبعهم المكذبين من المتأخرين، فنهلكهم كما أهلكناهم.</h2>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>مثل الإهلاك لتلك الأمم نهلك المجرمين المكذبين بما جاء به محمد ﷺ.</p>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بوعيد الله بالعقاب للمجرمين.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• خطر التعلق بالدنيا ونسيان الآخرة.</h2>\n<h2>• مشيئة العبد تابعة لمشيئة الله.</h2>\n<h2>• إهلاك الأمم المكذبة سُنَّة إلهية.</h2>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ألم نخلقكم - أيها الناس - من ماء حقير قليل وهو النُّطْفة.</h2>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فجعلنا ذلك الماء المَهِين في مكان مَحْروز وهو رحم المرأة.</h2>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إلى مُدّة معلومة هي مدّة الحمل.</h2>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فقدَّرنا صفة المولود وقَدْرَه ولونه وغير ذلك، فنعم القادرون لذلك كله نحن.</p>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بقدرة الله.</h2>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ألم نجعل الأرض تضمّ الناس جميعًا.</h2>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تضمّ أحياءهم بالسكن عليها وعمارتها، وأمواتهم بالدفن فيها.</h2>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجعلنا فيها جبالًا ثوابتَ، تمنعها من الاضطراب، عاليات، وأسقيناكم - أيها الناس - ماءً عذبًا، فمن خلق ذلك ليس عاجزًا عن بعثكم.</p>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بنعم الله عليهم.</h2>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال للمكذبين بما جاءت به رسلهم: سيروا - أيها المكذبون - إلى ما كنتم به تكذبون من العذاب.</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>سيروا إلى ظل من دخان النار مفترق ثلاث فرق.</h2>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس فيه برد الظلال، ولا يمنع لهيب النار وحرّها أن ينفذ إليكم.</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن النار تقذف بشرارات، كل شرارة مثل القصر في عظمها.</h2>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>كأن الشرارات التي تقذف بها في سوادها وضخامتها جِمال سود.</h2>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بعذاب الله.</h2>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هذا يوم لا يتكلمون فيه بشيء.</h2>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا يُؤْذَن لهم أن يعتذروا إلى ربهم من كفرهم وسيئاتهم، فيعتذرون إليه.</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بأخبار هذا اليوم.</h2>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هذا يوم الفصل بين الخلائق، جمعناكم والأمم السابقة في صعيد واحد.</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإن كانت لكم حيلة تحتالون بها للنجاة من عذاب الله فاحتالوا عليّ.</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بيوم الفصل.</h2>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن المتقين لربهم بامتثال أوامره واجتناب نواهيه، في ظلال أشجار الجنة الوارفة، وعيون الماء العذبة الجارية.</p>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفواكه مما يشتهون أكله.</h2>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال لهم: كلوا من الطيبات، واشربوا شرابًا هنيئًا لا مُنَغِّص فيه، بما كنتم تعملون في الدنيا من الأعمال الصالحات.</p>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنا مثل هذا الجزاء الذي جزيناكم به نجزي المحسنين لأعمالهم.</h2>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بما أعد الله للمتقين.</p>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويقال للمكذبين: كلوا وتمتعوا بملذات الحياة وقتًا قليلًا في الدنيا، إنكم بكفركم بالله وتكذيبكم رسله مجرمون</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هلاك وعذاب وخسران في ذلك اليوم للمكذبين بجزائهم يوم الدين.</h2>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا قيل لهؤلاء المكذبين: صلّوا لله لا يصلّون له.</h2>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هلاك وعذاب وخسران في ذلك اليوم للمكذبين الذين يكذبون بما جاءت به الرسل من عند الله.</p>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإذا لم يؤمنوا بهذا القرآن المنزل من ربهم فبأي حديث غيره يؤمنون؟!</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• رعاية الله للإنسان في بطن أمه.</h2>\n<h2>• اتساع الأرض لمن عليها من الأحياء، ولمن فيها من الأموات.</h2>\n<h2>• خطورة التكذيب بآيات الله والوعيد الشديد لمن فعل ذلك.</h2>"
+        }
+    }
+}

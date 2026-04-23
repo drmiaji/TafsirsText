@@ -1,0 +1,229 @@
+{
+    "chapter": 61,
+    "verses": {
+        "1": {
+            "verses": {
+                "61:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الصف مدنية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>تحفيز المؤمنين لنصرة دين الله، والجهاد في سبيله.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<p>نَزَّهَ الله سبحانه وتعالى وقَدَّسه عن كل ما لا يليق به، ما في السماوات وما في الأرض، وهو العزيز الذي لا يغلبه أحد، الحكيم في خلقه وقدره وشرعه.</p>"
+        },
+        "2": {
+            "verses": {
+                "61:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يا أيها الذين آمنوا بالله، لم تقولون: فعلنا شيئًا، ولم تفعلوه في الواقع؟! كقول أحدكم: قاتلت بسيفي وضربت، وهو لم يقاتل بسيفه ولم يضرب.</p>"
+        },
+        "3": {
+            "verses": {
+                "61:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>عَظُم ذلك المبغوض عند الله وهو أن تقولوا ما لا تفعلونه، فلا يليق بالمؤمن إلا أن يكون صادقًا مع الله، يُصَدِّق عملُهُ قولَه.</p>"
+        },
+        "4": {
+            "verses": {
+                "61:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن الله يحبّ المؤمنين الذين يقاتلون في سبيله ابتغاء مرضاته صفًّا بعضهم جنب بعض كأنهم بنيان متلاصق بعضه ببعض.</p>"
+        },
+        "5": {
+            "verses": {
+                "61:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما ذكر الله القتال وامتدح المؤمنين المُتَراصِّين في القتال في سبيله، ذكر ما كان عليه أصحاب موسى وعيسى من مخالفة رسوليهما، تحذيرًا للمؤمنين من مخالفة نبيهم، فقال:</h2>\n<p>واذكر - أيها الرسول - حين قال موسى لقومه: يا قوم، لم تؤذونني بمخالفة أمري وأنتم تعلمون أني رسول الله إليكم؟! فلما مالوا وانحرفوا عما جاءهم به من الحق أمال الله قلوبهم عن الحق والاستقامة، والله لا يوفق للحق القوم الخارجين عن طاعته.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• مشروعية مبايعة ولي الأمر على السمع والطاعة والتقوى.</h2>\n<h2>• وجوب الصدق في الأفعال ومطابقتها للأقوال.</h2>\n<p>• بين الله للعبد طريق الخير والشر، فإذا اختار العبد الزيغ والضلال ولم يتب فإن الله يعاقبه بزيادة زيغه وضلاله.</p>"
+        },
+        "6": {
+            "verses": {
+                "61:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>واذكر - أيها الرسول - حين قال عيسى ابن مريم عليه السلام: يا بني إسرائيل، إني رسول الله بعثني إليكم مصدقًا لما نزل قبلي من التوراة، فلست بِبِدْع من الرسل، ومبشرًا برسول يجيء من بعدي اسمه أحمد، فلما جاءهم عيسى بالحجج الدالة على صدقه قالوا: هذا سحر واضح، فلن نتبعه.</p>"
+        },
+        "7": {
+            "verses": {
+                "61:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا أحد أشدّ ظلمًا ممن اختلق على الله الكذب حيث جعل له أندادًا يعبدهم من دونه وهو يُدْعى إلى الإسلام دين التوحيد الخالص لله، والله لا يوفق القوم الظالمين لأنفسهم بالشرك والمعاصي إلى ما فيه رشدهم وسدادهم.</p>"
+        },
+        "8": {
+            "verses": {
+                "61:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يريد هؤلاء المكذبون أن يطفئوا نور الله بما يصدر منهم من المقالات الفاسدة ومن التشويه للحق، والله مكمل نوره على رغم أنوفهم بإظهار دينه في مشارق الأرض ومغاربها وإعلاء كلمته.</p>"
+        },
+        "9": {
+            "verses": {
+                "61:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>الله هو الذي بعث رسوله محمدًا ﷺ بدين الإسلام، دين الهداية والإرشاد للخير، ودين العلم النافع والعمل الصالح، ليُعْلِيه على جميع الأديان على رغم أنوف المشركين الذين يكرهون أن يُمَكَّن له في الأرض.</p>"
+        },
+        "10": {
+            "verses": {
+                "61:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يا أيها الذين آمنوا بالله، وعملوا بما شرعه لهم، هل أرشدكم وأهديكم إلى تجارة رابحة، تنقذكم من عذاب موجع؟</p>"
+        },
+        "11": {
+            "verses": {
+                "61:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هذه التجارة الرابحة هي أن تؤمنوا بالله وبرسوله، وتجاهدوا في سبيله سبحانه بإنفاق أموالكم وبذل أنفسكم ابتغاء مرضاته، ذلك العمل المذكور خير لكم إن كنتم تعلمون فسارعوا إليه.</p>"
+        },
+        "12": {
+            "verses": {
+                "61:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ورِبْح هذه التجارة هو أن يغفر الله لكم ذنوبكم، ويدخلكم جنات تجري الأنهار من تحت قصورها وأشجارها، ويدخلكم مساكن طيبة في جنات إقامة لا انتقال عنها، ذلك الجزاء المذكور هو الفوز العظيم الذي لا يدانيه أيّ فوز.</p>"
+        },
+        "13": {
+            "verses": {
+                "61:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ومن رِبْح هذه التجارة خصلة أخرى تحبونها وهي عاجلة في الدنيا، أن ينصركم الله على عدوّكم، وفتحٌ قريب يفتحه عليكم وهو فتح مكة وغيرها، وأَخْبِر - أيها الرسول - المؤمنين بما يسرّهم من النصر في الدنيا والفوز بالجنة في الآخرة.</p>"
+        },
+        "14": {
+            "verses": {
+                "61:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يا أيها الذين آمنوا بالله وعملوا بما شرعه لهم، كونوا أنصار الله بنصركم لدينه الذي جاء به رسولكم مثل نصرة الحَوارِيين لما قال لهم عيسى عليه السلام: من أنصاري إلى الله؟ فأجابوه مبادرين: نحن أنصار الله، فآمن فريق من بني إسرائيل بعيسى عليه السلام، وكفر به فريق آخر، فأيّدنا الذين آمنوا بعيسى على الذين كفروا به، فأصبحوا غالبين عليهم.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• تبشير الرسالات السابقة بنبينا ﷺ دلالة على صدق نبوته.</h2>\n<h2>• التمكين للدين سُنَّة إلهية.</h2>\n<h2>• الإيمان والجهاد في سبيل الله من أسباب دخول الجنة.</h2>\n<p>• قد يعجل الله جزاء المؤمن في الدنيا، وقد يدخره له في الآخرة لكنه لا يُضَيِّعه - سبحانه -.</p>"
+        }
+    }
+}

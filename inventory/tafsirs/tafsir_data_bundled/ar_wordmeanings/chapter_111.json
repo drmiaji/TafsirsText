@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿تَبَّتْ﴾ خَسِرَتْ، وَهَلَكَتْ، وَهَذا دُعَاءٌ عَلَيْهِ.</h2>\n<p>﴿وَتَبَّ﴾ حَصَلَ لَهُ الخَسَارُ وَالهَلاَكُ، وَهَذَا خَبَرٌ عَنْهُ.</p>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَا أَغْنَى عَنْهُ﴾ مَا دَفَعَ عَنْهُ الخَسَارَ.</h2>\n<h2>﴿وَمَا كَسَبَ﴾ وَهُوَ وَلَدُهُ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَيَصْلَى نَارًا﴾ سَيَدْخُلُ نَارًا يُقَاسِي حَرَّهَا.</h2>\n<h2>﴿ذَاتَ لَهَبٍ﴾ نَارًا مُتَأَجِّجَةً، مُتَّقِدَةً.</h2>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حَمَّالَةَ الْحَطَبِ﴾ تَحْمِلُ الشَّوْكَ، فَتَطْرَحُهُ فِي طَرِيقِ النَّبِيِّ صلّى الله عليه وسلّم؛ لِتُؤْذِيَهُ.</p>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿جِيدِهَا﴾ عُنُقِهَا.</h2>\n<p>﴿مِنْ مَسَدٍ﴾ مِنْ لِيفٍ شَدِيدٍ خَشِنٍ تُرْفَعُ بِهِ فِي النَّارِ، ثُمَّ تُرْمَى.</p>"
+        }
+    }
+}

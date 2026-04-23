@@ -1,0 +1,485 @@
+{
+    "chapter": 89,
+    "verses": {
+        "1": {
+            "verses": {
+                "89:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>قسم ہے فجر کی</h2>"
+        },
+        "2": {
+            "verses": {
+                "89:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور دس راتوں کی</h2>"
+        },
+        "3": {
+            "verses": {
+                "89:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جفت اور طاق کی</h2>"
+        },
+        "4": {
+            "verses": {
+                "89:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اس رات کی جب رات کو چلے</h2>"
+        },
+        "5": {
+            "verses": {
+                "89:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہے ان چیزوں کی قسم پوری عقلمندوں کے واسطے</h2>"
+        },
+        "6": {
+            "verses": {
+                "89:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تو نے نہ دیکھا کیسا کیا تیرے رب نے عاد کے ساتھ</h2>"
+        },
+        "7": {
+            "verses": {
+                "89:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>وہ جو ارم میں تھے بڑے ستونوں والے</h2>"
+        },
+        "8": {
+            "verses": {
+                "89:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کہ بنی نہیں ویسی سارے شہروں میں</h2>"
+        },
+        "9": {
+            "verses": {
+                "89:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ثمود کے ساتھ جنہوں نے تراشا پتھروں کو وادی میں</h2>"
+        },
+        "10": {
+            "verses": {
+                "89:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور فرعون کے ساتھ وہ میخوں والا</h2>"
+        },
+        "11": {
+            "verses": {
+                "89:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ سب تھے جنہوں نے سر اٹھایا ملکوں میں</h2>"
+        },
+        "12": {
+            "verses": {
+                "89:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر بہت ڈالی ان میں خرابی</h2>"
+        },
+        "13": {
+            "verses": {
+                "89:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر پھینکا ان پر تیرے رب نے کوڑا عذاب کا</h2>"
+        },
+        "14": {
+            "verses": {
+                "89:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک تیرا رب لگا ہے گھات میں</h2>"
+        },
+        "15": {
+            "verses": {
+                "89:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو آدمی جو ہے جب جانچے اس کو رب اس کا پھر اس کو عزت دے اور اس کو نعمت دے تو کہے میرے رب نے مجھ کو عزت دی</p>"
+        },
+        "16": {
+            "verses": {
+                "89:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور وہ جس وقت اس کو جانچے پھر کھینچ کرے اس پر روزی کی تو کہے میرے رب نے مجھے ذلیل کیا</p>"
+        },
+        "17": {
+            "verses": {
+                "89:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کوئی نہیں پر تم عزت سے نہیں رکھتے یتیم کو</h2>"
+        },
+        "18": {
+            "verses": {
+                "89:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور تاکید نہیں کرتے آپس میں محتاج کے کھلانے کی</h2>"
+        },
+        "19": {
+            "verses": {
+                "89:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور کھا جاتے ہو مردے کا مال سمیٹ کر سارا</h2>"
+        },
+        "20": {
+            "verses": {
+                "89:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور پیار کرتے ہو مال کی جی بھر کر</h2>"
+        },
+        "21": {
+            "verses": {
+                "89:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کوئی نہیں جب پست کردی جائے زمین کوٹ کوٹ کر</h2>"
+        },
+        "22": {
+            "verses": {
+                "89:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور آئے تیرا رب اور فرشتے آئیں قطار قطار</h2>"
+        },
+        "23": {
+            "verses": {
+                "89:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور لائی جائے اس دن دوزخ اس دن سوچے گا آدمی اور کہاں ملے اس کو سوچنا</p>"
+        },
+        "24": {
+            "verses": {
+                "89:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کہے کیا اچھا ہوتا جو میں کچھ آگے بھیج دیتا اپنی زندگی میں</h2>"
+        },
+        "25": {
+            "verses": {
+                "89:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر اس دن عذاب نہ دے اس کا سا کوئی</h2>"
+        },
+        "26": {
+            "verses": {
+                "89:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ باندھ کر رکھے اس کا سا باندھنا کوئی</h2>"
+        },
+        "27": {
+            "verses": {
+                "89:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اے وہ جی جس نے چین پکڑ لیا</h2>"
+        },
+        "28": {
+            "verses": {
+                "89:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر چل اپنے رب کی طرف تو اس سے راضی وہ تجھ سے راضی</h2>"
+        },
+        "29": {
+            "verses": {
+                "89:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر شامل ہو میرے بندوں میں</h2>"
+        },
+        "30": {
+            "verses": {
+                "89:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور داخل ہو میری بہشت میں۔</h2>"
+        }
+    }
+}

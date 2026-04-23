@@ -1,0 +1,117 @@
+{
+    "chapter": 107,
+    "verses": {
+        "1": {
+            "verses": {
+                "107:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِالدِّينِ﴾ بِالبَعْثِ، وَالجَزَاءِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "107:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَدُعُّ الْيَتِيمَ﴾ يَدْفَعُ اليَتِيمَ بِعُنْفٍ عَنْ حَقِّهِ.</p>"
+        },
+        "3": {
+            "verses": {
+                "107:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَلاَ يَحُضُّ﴾ لاَ يَحُثُّ النَّاسَ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "107:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَوَيْلٌ﴾ فَعَذَابٌ شَدِيدٌ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "107:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿سَاهُونَ﴾ غَيْرُ مُبَالِينَ بِهَا؛ يُؤَخِّرُونَها عَنْ وَقْتِهَا، وَلاَ يُقِيمُونَهَا عَلَى وَجْهِهَا.</p>"
+        },
+        "6": {
+            "verses": {
+                "107:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يُرَاءُونَ﴾ يُظَاهِرُونَ بِأَعْمَالِهِمْ؛ مُرَاءَاةً لِلنَّاسِ.</p>"
+        },
+        "7": {
+            "verses": {
+                "107:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَيَمْنَعُونَ الْمَاعُونَ﴾ يَمْنَعُونَ إِعَارَةَ مَا لاَ تَضُرُّ إِعَارَتُهُ مِنَ الآنِيَةِ وَغَيْرِهَا؛ لِبُخْلِهِمْ.</p>"
+        }
+    }
+}

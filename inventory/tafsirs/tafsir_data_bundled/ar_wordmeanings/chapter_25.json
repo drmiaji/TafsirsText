@@ -1,0 +1,1237 @@
+{
+    "chapter": 25,
+    "verses": {
+        "1": {
+            "verses": {
+                "25:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿تَبَارَكَ﴾ كَثُرَ خَيْرُهُ، وَعَظُمَتْ بَرَكَتُهُ، وَكَمُلَتْ صِفَاتُهُ.</p>\n<p>﴿الْفُرْقَانَ﴾ القُرْآنَ الفَارِقَ بَيْنَ الحَقِّ، وَالبَاطِلِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "25:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَقَدَّرَهُ﴾ سَوَّاهُ عَلَى مَا يُنَاسِبُ مِنَ الخَلْقِ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "25:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نُشُورًا﴾ بَعْثًا بَعْدَ المَوْتِ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "25:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِفْكٌ افْتَرَاهُ﴾ كَذِبٌ اخْتَرَعَهُ مِنْ عِنْدِ نَفْسِهِ.</p>\n<h2>﴿وَزُورًا﴾ كَذِبًا شَنِيعًا.</h2>"
+        },
+        "5": {
+            "verses": {
+                "25:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَسَاطِيرُ الأَوَّلِينَ﴾ أَحَادِيثُ الأُمَمِ القَدِيمَةِ المُسَطَّرَةُ فِي كُتُبِهِمْ.</p>\n<h2>﴿بُكْرَةً وَأَصِيلاً﴾ أَوَّلَ النَّهَارِ، وَآخِرَهُ.</h2>"
+        },
+        "6": {
+            "verses": {
+                "25:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "7": {
+            "verses": {
+                "25:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "8": {
+            "verses": {
+                "25:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿جَنَّةٌ﴾ بُسْتَانٌ مُثْمِرٌ.</h2>"
+        },
+        "9": {
+            "verses": {
+                "25:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ضَرَبُوا لَكَ الأَمْثَالَ﴾ قَالُوا فِي حَقِّكَ الأَقْوَالَ العَجِيبَةَ الَّتِي تُشْبِهُ لِغَرَابَتِهَا الأَمْثَالَ.</p>"
+        },
+        "10": {
+            "verses": {
+                "25:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "11": {
+            "verses": {
+                "25:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَعِيرًا﴾ نَارًا حَارَّةً تُسَعَّرُ بِهِمْ.</h2>"
+        },
+        "12": {
+            "verses": {
+                "25:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَزَفِيرًا﴾ صَوْتًا شَدِيدًا مِنْ شِدَّةِ الغَيْظِ.</h2>"
+        },
+        "13": {
+            "verses": {
+                "25:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مُقَرَّنِينَ﴾ قُرِنَتْ أَيْدِيهُمْ بِالسَّلاَسِلِ إِلَى أَعْنَاقِهِمْ.</p>\n<h2>﴿ثُبُورًا﴾ هَلاَكًا.</h2>"
+        },
+        "14": {
+            "verses": {
+                "25:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "15": {
+            "verses": {
+                "25:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "16": {
+            "verses": {
+                "25:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "17": {
+            "verses": {
+                "25:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "18": {
+            "verses": {
+                "25:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بُورًا﴾ هَالِكِينَ.</h2>"
+        },
+        "19": {
+            "verses": {
+                "25:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿صَرْفًا﴾ دَفْعًا لِلْعَذَابِ.</h2>"
+        },
+        "20": {
+            "verses": {
+                "25:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فِتْنَةً﴾ ابْتِلاَءً، وَاخْتِبَارًا.</h2>"
+        },
+        "21": {
+            "verses": {
+                "25:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لاَ يَرْجُونَ لِقَاءَنَا﴾ لاَ يُؤْمِنُونَ بِاليَوْمِ الآخِرِ.</p>\n<h2>﴿وَعَتَوا﴾ تَجَاوَزُوا الحَدَّ فِي الطُّغْيَانِ.</h2>"
+        },
+        "22": {
+            "verses": {
+                "25:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حِجْرًا مَحْجُورًا﴾ تَقُولُ المَلاَئِكَةُ لَهُمُ: الجَنَّةُ مَكَانٌ مُحَرَّمٌ عَلَيْكُمْ.</p>"
+        },
+        "23": {
+            "verses": {
+                "25:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿هَبَاءً﴾ كَالهَبَاءِ، وَهُوَ مَا يُرَى فِي ضَوْءِ الشَّمْسِ مِنْ خَفِيفِ الغُبَارِ.</p>"
+        },
+        "24": {
+            "verses": {
+                "25:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَقِيلاً﴾ مَنْزِلاً مُرِيحًا.</h2>"
+        },
+        "25": {
+            "verses": {
+                "25:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِالْغَمَامِ﴾ بِالسَّحَابِ الأَبْيَضِ الرَّقِيقِ.</h2>"
+        },
+        "26": {
+            "verses": {
+                "25:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "27": {
+            "verses": {
+                "25:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَبِيلاً﴾ طَرِيقًا إِلَى الجَنَّةِ.</h2>"
+        },
+        "28": {
+            "verses": {
+                "25:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "29": {
+            "verses": {
+                "25:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "30": {
+            "verses": {
+                "25:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "31": {
+            "verses": {
+                "25:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "32": {
+            "verses": {
+                "25:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَرَتَّلْنَاهُ﴾ بَيَّنَّاهُ فِي تَثَبُّتٍ وَمُهْلَةٍ.</h2>"
+        },
+        "33": {
+            "verses": {
+                "25:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "34": {
+            "verses": {
+                "25:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "35": {
+            "verses": {
+                "25:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "36": {
+            "verses": {
+                "25:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "37": {
+            "verses": {
+                "25:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "38": {
+            "verses": {
+                "25:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَأَصْحَابَ الرَّسِّ﴾ أَصْحَابَ البِئْرِ.</h2>\n<h2>﴿وَقُرُوناً﴾ أُمَمًا.</h2>"
+        },
+        "39": {
+            "verses": {
+                "25:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الأَمْثَالَ﴾ الحُجَجَ.</h2>\n<h2>﴿تَبَّرْنَا﴾ أَهْلَكْنَا وَدَمَّرْنَا.</h2>"
+        },
+        "40": {
+            "verses": {
+                "25:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَطَرَ السَّوْءِ﴾ حِجَارَةً مِنَ السَّمَاءِ أَهْلَكَتْهُمْ.</p>"
+        },
+        "41": {
+            "verses": {
+                "25:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "42": {
+            "verses": {
+                "25:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَادَ لَيُضِلُّنَا﴾ قَارَبَ أَنْ يَصْرِفَنَا عَنْ عِبَادَةِ أَصْنَامِنَا.</p>"
+        },
+        "43": {
+            "verses": {
+                "25:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَرَأَيْتَ﴾ أَخْبِرْنِي.</h2>"
+        },
+        "44": {
+            "verses": {
+                "25:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "45": {
+            "verses": {
+                "25:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَدَّ الظِّلَّ﴾ بَسَطَهُ مِنْ طُلُوعِ الفَجْرِ إِلَى طُلُوعِ الشَّمْسِ.</p>\n<h2>﴿سَاكِناً﴾ ثَابِتًا مُسْتَقِرًّا.</h2>"
+        },
+        "46": {
+            "verses": {
+                "25:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "47": {
+            "verses": {
+                "25:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لِبَاسًا﴾ سَاتِرًا لَكُمْ بِظَلاَمِهِ.</h2>\n<h2>﴿سُبَاتًا﴾ رَاحَةً لأِبْدَانِكُمْ.</h2>\n<h2>﴿نُشُورًا﴾ وَقْتًا لِلاِنْتِشَارِ وَالسَّعْيِ فِي الأَرْضِ.</h2>"
+        },
+        "48": {
+            "verses": {
+                "25:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بُشْرًا﴾ مُبَشِّرَاتٍ بِالرَّحْمَةِ، وَهِيَ المَطَرُ.</h2>"
+        },
+        "49": {
+            "verses": {
+                "25:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "50": {
+            "verses": {
+                "25:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿صَرَّفْنَاهُ﴾ أَنْزَلْنَا المَطَرَ عَلَى أَرْضٍ دُونَ أُخْرَى.</p>"
+        },
+        "51": {
+            "verses": {
+                "25:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "52": {
+            "verses": {
+                "25:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَجَاهِدْهُمْ بِهِ﴾ بَلِّغْهُمُ القُرْآنَ بَاذِلاً وُسْعَكَ.</p>\n<h2>﴿جِهَادًا كَبِيرًا﴾ لاَ يُخِالِطُهُ فُتُورٌ.</h2>"
+        },
+        "53": {
+            "verses": {
+                "25:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَرَجَ﴾ خَلَطَ.</h2>\n<h2>﴿فُرَاتٌ﴾ شَدِيدُ العُذُوبَةِ.</h2>\n<h2>﴿أُجَاجٌ﴾ شَدِيدُ المُلُوحَةِ.</h2>\n<p>﴿بَرْزَخًا﴾ حَاجِزًا يَمْنَعُ إِفْسَادَ أَحَدِهِمَا لِلآخَرِ.</p>\n<p>﴿وَحِجْرًا مَحْجُورًا﴾ سِتْرًا يَمْنَعُ وُصُولَ أَحَدِهِمَا إِلَى الآخَرِ.</p>"
+        },
+        "54": {
+            "verses": {
+                "25:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿المَاءِ﴾ مَنِيِّ الرَّجُلِ وَالمَرْأَةِ.</h2>\n<h2>﴿نَسَبًا﴾ قَرَابَةَ النَّسَبِ.</h2>\n<h2>﴿وَصِهْرًا﴾ قَرَابَةَ المُصَاهَرَةِ.</h2>"
+        },
+        "55": {
+            "verses": {
+                "25:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ظَهِيرًا﴾ مُعِينًا لِلشَّيْطَانِ عَلَى رَبِّهِ؛ بِالشِّرْكِ، مُظَاهِرًا لَهُ فِي المَعْصِيَةِ.</p>"
+        },
+        "56": {
+            "verses": {
+                "25:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "57": {
+            "verses": {
+                "25:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "58": {
+            "verses": {
+                "25:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "59": {
+            "verses": {
+                "25:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿اسْتَوَى﴾ عَلاَ وَارْتَفَعَ اسْتَوَاءً يَلِيقُ بِجَلاَلِهِ.</p>"
+        },
+        "60": {
+            "verses": {
+                "25:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نُفُورًا﴾ بُعْدًا.</h2>"
+        },
+        "61": {
+            "verses": {
+                "25:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بُرُوجًا﴾ نُجُومًا كِبَارًا بِمَنَازِلِهَا.</h2>\n<h2>﴿سِرَاجًا﴾ شَمْسًا مُضِيئَةً.</h2>"
+        },
+        "62": {
+            "verses": {
+                "25:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿خِلْفَةً﴾ مُتَعَاقِبِينَ يَخْلُفُ أَحَدُهُمَا الآخَرَ.</h2>"
+        },
+        "63": {
+            "verses": {
+                "25:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿هَوْناً﴾ بِسَكِينَةٍ، وَوَقَارٍ، وَتَوَاضُعٍ.</h2>\n<p>﴿قَالُوا سَلاَمًا﴾ خَاطَبُوا الجَاهِلَ بِكَلاَمٍ يَسْلَمُونَ فِيهِ مِنَ الإِثْمِ، وَلَمْ يُقَابِلُوهُ بِجَهْلِهِ.</p>"
+        },
+        "64": {
+            "verses": {
+                "25:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "65": {
+            "verses": {
+                "25:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿غَرَامًا﴾ مُلاَزِمًا؛ كَالغَرِيمِ (وَهُوَ الدَّائِنُ) يُلاَزِمُ غَرِيمَهُ.</p>"
+        },
+        "66": {
+            "verses": {
+                "25:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "67": {
+            "verses": {
+                "25:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَقْتُرُوا﴾ يُضَيِّقُوا فِي النَّفَقَةِ.</h2>\n<h2>﴿قَوَامًا﴾ وَسَطًا.</h2>"
+        },
+        "68": {
+            "verses": {
+                "25:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَثَامًا﴾ عِقَابًا.</h2>"
+        },
+        "69": {
+            "verses": {
+                "25:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مُهَاناً﴾ ذَلِيلاً حَقِيرًا.</h2>"
+        },
+        "70": {
+            "verses": {
+                "25:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "71": {
+            "verses": {
+                "25:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَتَابًا﴾ رُجُوعًا صَحِيحًا.</h2>"
+        },
+        "72": {
+            "verses": {
+                "25:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لاَ يَشْهَدُونَ الزُّورَ﴾ لاَ يَشْهَدُونَ بِالكَذِبِ، وَلاَ يَحْضُرُونَ مَجَالِسَ الكَذِبِ.</p>\n<p>﴿مَرُّوا بِاللَّغْوِ﴾ مَرُّوا بِأَهْلِ البَاطِلِ وَالكَلاَمِ القَبِيحِ وَمَا لاَ يَنْفَعُ.</p>\n<h2>﴿كِرَامًا﴾ مُعْرِضِينَ مُنْكِرِينَ يَتَنَزَّهُونَ عَنْهُ.</h2>"
+        },
+        "73": {
+            "verses": {
+                "25:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَمْ يَخِرُّوا﴾ لَمْ يَقَعُوا سُجُودًا غَافِلِينَ، بَلْ سَجَدُوا مُطِيعِينَ.</p>"
+        },
+        "74": {
+            "verses": {
+                "25:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قُرَّةَ أَعْيُنٍ﴾ تَقَرُّ بِهِمْ عُيُونُنَا، وَبِهِمْ نَأْنَسُ وَنَفْرَحُ.</p>\n<h2>﴿إِمَامًا﴾ قُدْوَةً يُقْتَدَى بِه فِي الخَيْرِ.</h2>"
+        },
+        "75": {
+            "verses": {
+                "25:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الْغُرْفَةَ﴾ أَعْلَى مَنَازِلِ الجَنَّةِ.</h2>\n<p>﴿وَسَلاَمًا﴾ تَسْلِيمًا مِنَ المَلاَئِكَةِ، وَسَلاَمَةً مِنَ الآفَاتِ.</p>"
+        },
+        "76": {
+            "verses": {
+                "25:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "77": {
+            "verses": {
+                "25:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَا يَعْبَأُ﴾ مَا يَكْتَرِثُ بِكُمْ وَلاَ يُبَالِي.</h2>\n<h2>﴿دُعَاؤُكُمْ﴾ عِبَادَتُكُمْ وَسُؤَالُكُمْ إِيَّاهُ.</h2>\n<h2>﴿لِزَامًا﴾ عَذَابًا مُلاَزِمًا لَكُمْ.</h2>"
+        }
+    }
+}

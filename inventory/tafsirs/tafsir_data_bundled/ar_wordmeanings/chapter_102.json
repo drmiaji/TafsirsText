@@ -1,0 +1,133 @@
+{
+    "chapter": 102,
+    "verses": {
+        "1": {
+            "verses": {
+                "102:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَلْهَاكُمُ﴾ شَغَلَكُمْ عَنْ طَاعَةِ اللهِ.</h2>\n<p>﴿التَّكَاثُرُ﴾ التَّفَاخُرُ بِكَثْرَةِ الأَمْوَالِ وَالأَوْلاَدِ وَالمَتَاعِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "102:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿زُرْتُمُ الْمَقَابِرَ﴾ دُفِنْتُمْ فِي القُبُورِ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "102:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "4": {
+            "verses": {
+                "102:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "5": {
+            "verses": {
+                "102:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عِلْمَ الْيَقِينِ﴾ حَقَّ العِلْمِ.</h2>"
+        },
+        "6": {
+            "verses": {
+                "102:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "7": {
+            "verses": {
+                "102:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿عَيْنَ الْيَقِينِ﴾ لَتُبْصِرُنَّ جَهَنَّمَ يَقِينًا بِلاَ رَيْبٍ.</p>"
+        },
+        "8": {
+            "verses": {
+                "102:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿النَّعِيمِ﴾ كُلِّ أَنْوَاعِ النِّعَمِ مِنَ الأَمْنِ، وَالأَهْلِ، والمَطْعَمِ، وَنَحْوِهَا.</p>"
+        }
+    }
+}

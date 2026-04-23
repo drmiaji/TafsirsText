@@ -1,0 +1,85 @@
+{
+    "chapter": 97,
+    "verses": {
+        "1": {
+            "verses": {
+                "97:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Biz Kur'an'ı, Ramazan ayının Kadir Gecesi'nde Peygamber -sallallahu aleyhi ve sellem-'e indirmeye başladığımız gibi, bir bütün olarak Dünya semasına indirdik.</p>"
+        },
+        "2": {
+            "verses": {
+                "97:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Bu gecede bulunan hayır ve bereketi biliyor musun?</p>"
+        },
+        "3": {
+            "verses": {
+                "97:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu gece, büyük hayırlara sahip bir gecedir. İman edip sevabını ümit ederek o geceyi ihya eden kimse için bin aydan daha hayırlıdır.</p>"
+        },
+        "4": {
+            "verses": {
+                "97:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gece, melekler ve Cebrail -aleyhisselam- Rableri Allah -Subhanehu ve Teâlâ-'nın izniyle, o sene için Allah’ın takdir ettiği, rızık, ölüm, doğum veya bunların dışındaki her iş için inerler.</p>"
+        },
+        "5": {
+            "verses": {
+                "97:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu mübarek gece, başlangıcından fecrin doğuşuyla gelen sonuna kadar bütünüyle hayırlıdır.</p>"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir haben dir - o Gesandter - viel Gutes gegeben, und dazu gehört auch der Fluss „Al-Kauthar“ im Paradiesgarten.</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So bedanke dich bei Allah für diese Gunstgabe, indem du Ihn alleine anbetest und etwas opferst; doch nicht wie die Götzenanbeter, die durch die Opferung von Schlachttieren die Nähe ihrer Götzen ersuchen.</p>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Derjenige, der dich hasst, wird gewiss von allem Guten abgetrennt sein. Er wird der Vergessene sein - wenn man sich an ihn erinnert, dann nur im Bösen.</p>"
+        }
+    }
+}

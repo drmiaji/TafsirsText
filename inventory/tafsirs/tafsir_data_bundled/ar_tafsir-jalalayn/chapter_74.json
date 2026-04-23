@@ -1,0 +1,733 @@
+{
+  "chapter": 74,
+  "verses": {
+    "1": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p>سُورَة المُدَّثِّر مَكِّيَّة وآياتها سِتّ وخَمْسُونَ</p><p><span class=\"qpc-hafs\">﴿يا أيّها المُدَّثِّر﴾</span> النَّبِيّ ﷺ وأَصْله المُتَدَثِّر أُدْغِمَتْ التّاء فِي الدّال أيْ المُتَلَفِّف بِثِيابِهِ عِنْد نُزُول الوَحْي عَلَيْهِ</p></div>",
+      "verses": {
+        "74:1": {
+          "id": 5496
+        }
+      }
+    },
+    "2": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُمْ فَأَنْذِرْ﴾</span> خَوِّفْ أهْل مَكَّة النّار إنْ لَمْ يُؤْمِنُوا</p></div>",
+      "verses": {
+        "74:2": {
+          "id": 5497
+        }
+      }
+    },
+    "3": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ورَبّك فَكَبِّرْ﴾</span> عَظِّمْ عَنْ إشْراك المُشْرِكِينَ</p></div>",
+      "verses": {
+        "74:3": {
+          "id": 5498
+        }
+      }
+    },
+    "4": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وثِيابك فَطَهِّرْ﴾</span> عَنْ النَّجاسَة أوْ قَصِّرْها خِلاف جَرّ العَرَب ثِيابهمْ خُيَلاء فَرُبَّما أصابَتْها نَجاسَة</p></div>",
+      "verses": {
+        "74:4": {
+          "id": 5499
+        }
+      }
+    },
+    "5": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿والرُّجْز﴾</span> فَسَّرَهُ النَّبِيّ ﷺ بِالأَوْثانِ <span class=\"qpc-hafs\">﴿فاهْجُرْ﴾</span> أيْ دُمْ عَلى هَجْره</p></div>",
+      "verses": {
+        "74:5": {
+          "id": 5500
+        }
+      }
+    },
+    "6": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولا تَمْنُنْ تَسْتَكْثِر﴾</span> بِالرَّفْعِ حال أيْ لا تُعْطِ شَيْئًا لِتَطْلُب أكْثَر مِنهُ وهَذا خاصّ بِهِ ﷺ لِأَنَّهُ مَأْمُور بِأَجْمَل الأَخْلاق وأَشْرَف الآداب</p></div>",
+      "verses": {
+        "74:6": {
+          "id": 5501
+        }
+      }
+    },
+    "7": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولِرَبِّك فاصْبِرْ﴾</span> عَلى الأَوامِر والنَّواهِي</p></div>",
+      "verses": {
+        "74:7": {
+          "id": 5502
+        }
+      }
+    },
+    "8": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَإذا نُقِرَ فِي النّاقُور﴾</span> نُفِخَ فِي الصُّور وهُوَ القَرْن النَّفْخَة الثّانِيَة</p></div>",
+      "verses": {
+        "74:8": {
+          "id": 5503
+        }
+      }
+    },
+    "9": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَذَلِكَ﴾</span> أيْ وقْت النَّقْر <span class=\"qpc-hafs\">﴿يَوْمئِذٍ﴾</span> بَدَل مِمّا قَبْله المُبْتَدَأ وبُنِيَ لِإضافَتِهِ إلى غَيْر مُتَمَكِّن وخَبَر المُبْتَدَأ <span class=\"qpc-hafs\">﴿يَوْم عَسِير﴾</span> والعامِل فِي إذا ما دَلَّتْ عَلَيْهِ الجُمْلَة اشْتَدَّ الأَمْر</p></div>",
+      "verses": {
+        "74:9": {
+          "id": 5504
+        }
+      }
+    },
+    "10": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿عَلى الكافِرِينَ غَيْر يَسِير﴾</span> فِيهِ دَلالَة عَلى أنَّهُ يَسِير عَلى المُؤْمِنِينَ فِي عُسْره</p></div>",
+      "verses": {
+        "74:10": {
+          "id": 5505
+        }
+      }
+    },
+    "11": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ذَرْنِي﴾</span> اُتْرُكْنِي <span class=\"qpc-hafs\">﴿ومَن خَلَقْت﴾</span> عَطْف عَلى المَفْعُول أوْ مَفْعُول مَعَهُ <span class=\"qpc-hafs\">﴿وحِيدًا﴾</span> حال مِن مَن أوْ مِن ضَمِيره المَحْذُوف مِن خَلَقْت مُنْفَرِدًا بِلا أهْل ولا مال هُوَ الوَلِيد بْن المُغِيرَة المَخْزُومِيّ</p></div>",
+      "verses": {
+        "74:11": {
+          "id": 5506
+        }
+      }
+    },
+    "12": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وجَعَلْت لَهُ مالًا مَمْدُودًا﴾</span> واسِعًا مُتَّصِلًا مِن الزُّرُوع والضُّرُوع والتِّجارَة</p></div>",
+      "verses": {
+        "74:12": {
+          "id": 5507
+        }
+      }
+    },
+    "13": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وبَنِينَ﴾</span> عَشَرَة أوْ أكْثَر <span class=\"qpc-hafs\">﴿شُهُودًا﴾</span> يَشْهَدُونَ المَحافِل وتُسْمَع شَهاداتهمْ</p></div>",
+      "verses": {
+        "74:13": {
+          "id": 5508
+        }
+      }
+    },
+    "14": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ومَهَّدْت﴾</span> بَسَطْت <span class=\"qpc-hafs\">﴿لَهُ﴾</span> فِي العَيْش والعُمُر والوَلَد</p></div>",
+      "verses": {
+        "74:14": {
+          "id": 5509
+        }
+      }
+    },
+    "15": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar></div>",
+      "verses": {
+        "74:15": {
+          "id": 5510
+        }
+      }
+    },
+    "16": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَلّا﴾</span> لا أزِيدهُ عَلى ذَلِكَ <span class=\"qpc-hafs\">﴿إنّهُ كانَ لِآياتِنا﴾</span> القُرْآن <span class=\"qpc-hafs\">﴿عَنِيدًا﴾</span> مُعانِدًا</p></div>",
+      "verses": {
+        "74:16": {
+          "id": 5511
+        }
+      }
+    },
+    "17": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿سَأُرْهِقُهُ﴾</span> أُكَلِّفهُ <span class=\"qpc-hafs\">﴿صَعُودًا﴾</span> مَشَقَّة مِن العَذاب أوْ جَبَلًا مِن نار يَصْعَد فِيهِ ثُمَّ يَهْوِي أبَدًا</p></div>",
+      "verses": {
+        "74:17": {
+          "id": 5512
+        }
+      }
+    },
+    "18": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنّهُ فَكَّرَ﴾</span> فِيما يَقُول فِي القُرْآن الَّذِي سَمِعَهُ مِن النَّبِيّ ﷺ <span class=\"qpc-hafs\">﴿وقَدَّرَ﴾</span> فِي نَفْسه ذَلِكَ</p></div>",
+      "verses": {
+        "74:18": {
+          "id": 5513
+        }
+      }
+    },
+    "19": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَقُتِلَ﴾</span> لُعِنَ وعُذِّبَ <span class=\"qpc-hafs\">﴿كَيْفَ قَدَّرَ﴾</span> عَلى أيّ حال كانَ تَقْدِيره</p></div>",
+      "verses": {
+        "74:19": {
+          "id": 5514
+        }
+      }
+    },
+    "20": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar></div>",
+      "verses": {
+        "74:20": {
+          "id": 5515
+        }
+      }
+    },
+    "21": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ثُمَّ نَظَرَ﴾</span> فِي وُجُوه قَوْمه أوْ فِيما يَقْدَح بِهِ فِيهِ</p></div>",
+      "verses": {
+        "74:21": {
+          "id": 5516
+        }
+      }
+    },
+    "22": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ثُمَّ عَبَسَ﴾</span> قَبَضَ وجْهه وكَلَّحَهُ ضِيقًا بِما يَقُول <span class=\"qpc-hafs\">﴿وبَسَرَ﴾</span> زادَ فِي القَبْض والكُلُوح</p></div>",
+      "verses": {
+        "74:22": {
+          "id": 5517
+        }
+      }
+    },
+    "23": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ثُمَّ أدْبَرَ﴾</span> عَنْ الإيمان <span class=\"qpc-hafs\">﴿واسْتَكْبَرَ﴾</span> تَكَبَّرَ عَنْ اتِّباع النَّبِيّ ﷺ</p></div>",
+      "verses": {
+        "74:23": {
+          "id": 5518
+        }
+      }
+    },
+    "24": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَقالَ﴾</span> فِيما جاءَ بِهِ <span class=\"qpc-hafs\">﴿إنْ﴾</span> ما <span class=\"qpc-hafs\">﴿هَذا إلّا سِحْر يُؤْثَر﴾</span> يُنْقَل عَنْ السَّحَرَة</p></div>",
+      "verses": {
+        "74:24": {
+          "id": 5519
+        }
+      }
+    },
+    "25": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنْ﴾</span> ما <span class=\"qpc-hafs\">﴿هَذا إلّا قَوْل البَشَر﴾</span> كَما قالُوا إنّما يُعَلِّمهُ بَشَر</p></div>",
+      "verses": {
+        "74:25": {
+          "id": 5520
+        }
+      }
+    },
+    "26": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿سَأُصْلِيهِ﴾</span> أُدْخِلهُ <span class=\"qpc-hafs\">﴿سَقَر﴾</span> جَهَنَّم</p></div>",
+      "verses": {
+        "74:26": {
+          "id": 5521
+        }
+      }
+    },
+    "27": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وما أدْراك ما سَقَر﴾</span> تَعْظِيمًا لِشَأْنِها</p></div>",
+      "verses": {
+        "74:27": {
+          "id": 5522
+        }
+      }
+    },
+    "28": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لا تُبْقِي ولا تَذَر﴾</span> شَيْئًا مِن لَحْم ولا عَصَب إلّا أهْلَكَتْهُ ثُمَّ يَعُود كَما كانَ</p></div>",
+      "verses": {
+        "74:28": {
+          "id": 5523
+        }
+      }
+    },
+    "29": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَوّاحَة لِلْبَشَرِ﴾</span> مُحَرِّقَة لِظاهِرِ الجِلْد</p></div>",
+      "verses": {
+        "74:29": {
+          "id": 5524
+        }
+      }
+    },
+    "30": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿عَلَيْها تِسْعَة عَشَر﴾</span> مَلَكًا خَزَنَتها قالَ بَعْض الكُفّار وكانَ قَوِيًّا شَدِيد البَأْس أنا أكْفِيكُمْ سَبْعَة عَشَر واكْفُونِي أنْتُمْ اثْنَيْنِ قالَ تَعالى:</p></div>",
+      "verses": {
+        "74:30": {
+          "id": 5525
+        }
+      }
+    },
+    "31": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وما جَعَلْنا أصْحاب النّار إلّا مَلائِكَة﴾</span> أيْ فَلا يُطاقُونَ كَما يَتَوَهَّمُونَ <span class=\"qpc-hafs\">﴿وما جَعَلْنا عِدَّتهمْ﴾</span> ذَلِكَ <span class=\"qpc-hafs\">﴿إلّا فِتْنَة﴾</span> ضَلالًا <span class=\"qpc-hafs\">﴿لِلَّذِينَ كَفَرُوا﴾</span> بِأَنْ يَقُولُوا لِمَ كانُوا تِسْعَة عَشَر <span class=\"qpc-hafs\">﴿لِيَسْتَيْقِن﴾</span> لِيَسْتَبِينَ <span class=\"qpc-hafs\">﴿الَّذِينَ أُوتُوا الكِتاب﴾</span> أيْ اليَهُود صِدْق النَّبِيّ ﷺ فِي كَوْنهمْ تِسْعَة عَشَر المُوافِق لِما فِي كِتابهمْ <span class=\"qpc-hafs\">﴿ويَزْداد الَّذِينَ آمَنُوا﴾</span> مِن أهْل الكِتاب <span class=\"qpc-hafs\">﴿إيمانًا﴾</span> تَصْدِيقًا لِمُوافَقَتِهِ ما أتى بِهِ النَّبِيّ ﷺ لِما فِي كِتابهمْ <span class=\"qpc-hafs\">﴿ولا يَرْتاب الَّذِينَ أُوتُوا الكِتاب والمُؤْمِنُونَ﴾</span> مِن غَيْرهمْ فِي عَدَد المَلائِكَة <span class=\"qpc-hafs\">﴿ولِيَقُولَ الَّذِينَ فِي قُلُوبهمْ مَرَض﴾</span> شَكّ بِالمَدِينَةِ <span class=\"qpc-hafs\">﴿والكافِرُونَ﴾</span> بِمَكَّة <span class=\"qpc-hafs\">﴿ماذا أرادَ اللَّه بِهَذا﴾</span> العَدَد <span class=\"qpc-hafs\">﴿مَثَلًا﴾</span> سَمَّوْهُ لِغَرابَتِهِ بِذَلِكَ وأُعْرِبَ حالًا <span class=\"qpc-hafs\">﴿كَذَلِكَ﴾</span> أيْ مِثْل إضْلال مُنْكِر هَذا العَدَد وهَدى مُصَدِّقه <span class=\"qpc-hafs\">﴿يُضِلّ اللَّه مَن يَشاء ويَهْدِي مَن يَشاء وما يَعْلَم جُنُود رَبّك﴾</span> أيْ المَلائِكَة فِي قُوَّتهمْ وأَعْوانهمْ <span class=\"qpc-hafs\">﴿إلّا هُوَ وما هِيَ﴾</span> أيْ سَقَر</p></div>",
+      "verses": {
+        "74:31": {
+          "id": 5526
+        }
+      }
+    },
+    "32": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَلّا﴾</span> اسْتِفْتاح بِمَعْنى ألّا</p></div>",
+      "verses": {
+        "74:32": {
+          "id": 5527
+        }
+      }
+    },
+    "33": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿واللَّيْل إذا﴾</span> بِفَتْحِ الذّال <span class=\"qpc-hafs\">﴿أدْبَرَ﴾</span> جاءَ بَعْد النَّهار وفِي قِراءَة إذا أدْبَرَ بِسُكُونِ الذّال بَعْدها هَمْزَة أيْ مَضى</p></div>",
+      "verses": {
+        "74:33": {
+          "id": 5528
+        }
+      }
+    },
+    "34": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿والصُّبْح إذا أسْفَرَ﴾</span> ظَهَرَ</p></div>",
+      "verses": {
+        "74:34": {
+          "id": 5529
+        }
+      }
+    },
+    "35": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنّها﴾</span> أيْ سَقَر <span class=\"qpc-hafs\">﴿لَإحْدى الكُبَر﴾</span> البَلايا العِظام</p></div>",
+      "verses": {
+        "74:35": {
+          "id": 5530
+        }
+      }
+    },
+    "36": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿نَذِيرًا﴾</span> حال مِن إحْدى وذُكِّرَ لِأَنَّها بِمَعْنى العَذاب</p></div>",
+      "verses": {
+        "74:36": {
+          "id": 5531
+        }
+      }
+    },
+    "37": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لِمَن شاءَ مِنكُمْ﴾</span> بَدَل مِن البَشَر <span class=\"qpc-hafs\">﴿أنْ يَتَقَدَّم﴾</span> إلى الخَيْر أوْ الجَنَّة بِالإيمانِ <span class=\"qpc-hafs\">﴿أوْ يَتَأَخَّر﴾</span> إلى الشَّرّ أوْ النّار بِالكُفْرِ</p></div>",
+      "verses": {
+        "74:37": {
+          "id": 5532
+        }
+      }
+    },
+    "38": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كُلّ نَفْس بِما كَسَبَتْ رَهِينَة﴾</span> مَرْهُونَة مَأْخُوذَة بِعَمَلِها فِي النّار</p></div>",
+      "verses": {
+        "74:38": {
+          "id": 5533
+        }
+      }
+    },
+    "39": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إلّا أصْحاب اليَمِين﴾</span> وهُمْ المُؤْمِنُونَ فَناجُونَ مِنها كائِنُونَ</p></div>",
+      "verses": {
+        "74:39": {
+          "id": 5534
+        }
+      }
+    },
+    "40": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فِي جَنّات يَتَساءَلُونَ﴾</span> بَيْنهمْ</p></div>",
+      "verses": {
+        "74:40": {
+          "id": 5535
+        }
+      }
+    },
+    "41": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿عَنْ المُجْرِمِينَ﴾</span> وحالهمْ ويَقُولُونَ لَهُمْ بَعْد إخْراج المُوَحِّدِينَ مِن النّار</p></div>",
+      "verses": {
+        "74:41": {
+          "id": 5536
+        }
+      }
+    },
+    "42": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ما سَلَكَكُمْ﴾</span> أدْخَلَكُمْ</p></div>",
+      "verses": {
+        "74:42": {
+          "id": 5537
+        }
+      }
+    },
+    "43": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar></div>",
+      "verses": {
+        "74:43": {
+          "id": 5538
+        }
+      }
+    },
+    "44": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "74:43",
+      "verses": {
+        "74:44": {
+          "id": 5539
+        }
+      }
+    },
+    "45": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وكُنّا نَخُوض﴾</span> فِي الباطِل</p></div>",
+      "verses": {
+        "74:45": {
+          "id": 5540
+        }
+      }
+    },
+    "46": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وكُنّا نُكَذِّب بِيَوْمِ الدِّين﴾</span> البَعْث والجَزاء</p></div>",
+      "verses": {
+        "74:46": {
+          "id": 5541
+        }
+      }
+    },
+    "47": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿حَتّى أتانا اليَقِين﴾</span> المَوْت</p></div>",
+      "verses": {
+        "74:47": {
+          "id": 5542
+        }
+      }
+    },
+    "48": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَما تَنْفَعهُمْ شَفاعَة الشّافِعِينَ﴾</span> مِن المَلائِكَة والأَنْبِياء والصّالِحِينَ والمَعْنى لا شَفاعَة لَهُمْ</p></div>",
+      "verses": {
+        "74:48": {
+          "id": 5543
+        }
+      }
+    },
+    "49": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَما﴾</span> مُبْتَدَأ <span class=\"qpc-hafs\">﴿لَهُمْ﴾</span> خَبَره مُتَعَلِّق بِمَحْذُوفٍ انْتَقَلَ ضَمِيره إلَيْهِ <span class=\"qpc-hafs\">﴿عَنْ التَّذْكِرَة مُعْرِضِينَ﴾</span> حال مِن الضَّمِير والمَعْنى أيّ شَيْء حَصَلَ لَهُمْ فِي إعْراضهمْ عَنْ الِاتِّعاظ</p></div>",
+      "verses": {
+        "74:49": {
+          "id": 5544
+        }
+      }
+    },
+    "50": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَأَنَّهُمْ حُمُر مُسْتَنْفِرَة﴾</span> وحْشِيَّة</p></div>",
+      "verses": {
+        "74:50": {
+          "id": 5545
+        }
+      }
+    },
+    "51": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَرَّتْ مِن قَسْوَرَة﴾</span> أسَد أيْ هَرَبَتْ مِنهُ أشَدّ الهَرَب</p></div>",
+      "verses": {
+        "74:51": {
+          "id": 5546
+        }
+      }
+    },
+    "52": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿بَلْ يُرِيد كُلّ امْرِئٍ مِنهُمْ أنْ يُؤْتى صُحُفًا مُنَشَّرَة﴾</span> أيْ مِن اللَّه تَعالى بِاتِّباعِ النَّبِيّ كَما قالُوا: لَنْ نُؤْمِن لَك حَتّى تُنَزِّل عَلَيْنا كِتابًا نَقْرَؤُهُ</p></div>",
+      "verses": {
+        "74:52": {
+          "id": 5547
+        }
+      }
+    },
+    "53": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَلّا﴾</span> رَدْع عَمّا أرادُوهُ <span class=\"qpc-hafs\">﴿بَلْ لا يَخافُونَ الآخِرَة﴾</span> أيْ عَذابها</p></div>",
+      "verses": {
+        "74:53": {
+          "id": 5548
+        }
+      }
+    },
+    "54": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَلّا﴾</span> اسْتِفْتاح <span class=\"qpc-hafs\">﴿إنّهُ﴾</span> أيْ القُرْآن <span class=\"qpc-hafs\">﴿تَذْكِرَة﴾</span> عِظَة</p></div>",
+      "verses": {
+        "74:54": {
+          "id": 5549
+        }
+      }
+    },
+    "55": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَمَن شاءَ ذَكَرَهُ﴾</span> قَرَأَهُ فاتَّعَظَ بِهِ</p></div>",
+      "verses": {
+        "74:55": {
+          "id": 5550
+        }
+      }
+    },
+    "56": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وما يَذْكُرُونَ﴾</span> بِالياءِ والتّاء <span class=\"qpc-hafs\">﴿إلّا أنْ يَشاء اللَّه هُوَ أهْل التَّقْوى﴾</span> بِأَنْ يُتَّقى <span class=\"qpc-hafs\">﴿وأَهْل المَغْفِرَة﴾</span> بِأَنْ يَغْفِر لِمَن اتَّقاهُ</p></div>",
+      "verses": {
+        "74:56": {
+          "id": 5551
+        }
+      }
+    }
+  }
+}

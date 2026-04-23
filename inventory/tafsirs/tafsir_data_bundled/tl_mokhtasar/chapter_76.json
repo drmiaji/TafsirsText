@@ -1,0 +1,501 @@
+{
+    "chapter": 76,
+    "verses": {
+        "1": {
+            "verses": {
+                "76:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>May dumaan nga sa tao na isang mahabang panahon na siya dati roon ay isang wala na walang pagbanggit sa kanya.</p>"
+        },
+        "2": {
+            "verses": {
+                "76:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na Kami ay lumikha sa tao mula sa isang patak na magkahalo sa pagitan ng likido ng lalaki at likido ng babae upang sumulit Kami sa pamamagitan ng inoobliga Namin sa kanya na mga inaatang na tungkulin, saka gumawa Kami sa kanya na isang madinigin, na nakakikita upang magsagawa siya ng iniatang Namin sa kanya na batas.</p>"
+        },
+        "3": {
+            "verses": {
+                "76:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na Kami ay naglinaw para sa kanya, sa pamamagitan ng mga dila ng mga sugo Namin, ng daan ng kapatnubayan kaya luminaw para sa kanya dahil doon ang daan ng pagkaligaw. Kaya siya matapos niyon ay maaaring mapatnubayan sa landasing tuwid para siya ay maging isang lingkod na mananampalataya na mapagpasalamat kay Allāh, o maaaring maligaw palayo roon para maging isang lingkod na tagatangging sumampalataya na mapagkaila sa mga tanda ni Allāh.</p>"
+        },
+        "4": {
+            "verses": {
+                "76:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na Kami ay naghanda para sa mga tagatangging sumampalataya kay Allāh at sa mga sugo Niya ng mga tanikala na ipanghihila sa kanila sa Apoy, mga kulyar na ipangkukulyar sa kanila roon, at isang apoy na nagsisiklab.</p>"
+        },
+        "5": {
+            "verses": {
+                "76:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang mga mananampalataya na tumatalima kay Allāh ay iinom sa Araw ng Pagbangon mula sa kopa ng alak na pinuno na hinaluan ng Kāfūr dahil sa kabanguhan ng amoy nito.</p>"
+        },
+        "6": {
+            "verses": {
+                "76:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang inuming inihandang ito para sa mga alagad ng pagtalima ay mula sa isang bukal na madaling maabot, na masagana, na hindi natutuyuan, na iinom doon ang mga lingkod ni Allāh, na magpapaagos sila niyon at magpapadaloy sila niyon saan man nila loobin.</p>"
+        },
+        "7": {
+            "verses": {
+                "76:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang mga katangian ng mga lingkod na iinom doon ay na sila ay tumutupad sa inobliga nila sa mga sarili nila na mga pagtalima at nangangamba sa isang araw na ang kasamaan niyon ay magiging kumakalat na lumalaganap. Iyon ay ang Araw ng Pagbangon.</p>"
+        },
+        "8": {
+            "verses": {
+                "76:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpapakain sila ng pagkain sa kabila ng kanilang pagiging nasa isang kalagayang naiibigan nila ito dahil sa pangangailangan nila rito at pagnanasa nila rito. Nagpapakain sila nito sa mga nangangailangan kabilang sa mga maralita, mga ulila, at mga bilanggo.</p>"
+        },
+        "9": {
+            "verses": {
+                "76:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ipinagtatapat nila sa mga sarili nila na sila ay hindi nagpapakain sa mga iyon malibang para sa [ikalulugod ng] mukha ni Allāh sapagkat hindi sila nagnanais mula sa mga iyon ng isang gantimpala ni isang pagbubunyi dahil sa pagpapakain nila sa mga iyon.</p>"
+        },
+        "10": {
+            "verses": {
+                "76:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na kami ay nangangamba sa Panginoon Namin sa isang araw na iismid doon ang mga mukha ng mga malumbay dahil sa tindi niyon at rimarim niyon.\"</p>"
+        },
+        "11": {
+            "verses": {
+                "76:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya magsasanggalang sa kanila si Allāh, dahil sa kabutihang-loob Niya, sa kasamaan ng dakilang Araw na iyon at magbibigay Siya sa kanila ng karilagan at liwanag sa mga mukha nila bilang pagpaparangal sa kanila at bilang galak sa mga puso nila.</p>"
+        },
+        "12": {
+            "verses": {
+                "76:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Maggagantimpala sa kanila si Allāh – dahilan sa pagtitiis nila sa mga pagtalima, pagtitiis nila sa mga itinakda ni Allāh, at pagtitiis nila sa paglayo sa mga pagsuway – ng hardin na magiginhawahan sila roon at sutla na isusuot nila.</p>"
+        },
+        "13": {
+            "verses": {
+                "76:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Mga nakasandal doon sa mga kamang ginayakan, hindi sila makakikita sa paraisong ito ng araw na makasasakit sa kanila ang sinag nito ni ng lamig na matindi, bagkus sila ay nasa isang lilim na mamamalagi na walang init doon at walang lamig.</p>"
+        },
+        "14": {
+            "verses": {
+                "76:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Malapit mula sa kanila ang mga lilim nito, pagsisilbihin ang mga bunga nito para sa sinumang kukuha ng mga ito kaya kukunin ang mga ito nang may kadalian at kagaanan yayamang maaabot ito ng nakahiga, nakaupo, at nakatayo.</p>"
+        },
+        "15": {
+            "verses": {
+                "76:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Papaligid sa kanila ang mga alila ng may mga pinggang pilak at may mga baso ng mga ito na malinaw ang kulay ng mga ito, sa sandali ng pagnanais nila ng pag-inom.</p>"
+        },
+        "16": {
+            "verses": {
+                "76:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang mga ito, sa kalinawan ng kulay ng mga ito, ay tulad ng mga salamin gayong ang mga ito ay yari sa pilak. Ang mga ito ay nasukat alinsunod sa ninanais nila, na hindi nadaragdagan at hindi nababawasan.</p>"
+        },
+        "17": {
+            "verses": {
+                "76:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Paiinumin ang mga pinararangalang ito ng isang kopa ng alak na hinaluan ng luya.</p>"
+        },
+        "18": {
+            "verses": {
+                "76:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Iinom sila mula sa isang bukal sa Paraiso, na pinangangalanang Salsabīl.</p>"
+        },
+        "19": {
+            "verses": {
+                "76:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>May papaligid sa kanila sa Paraiso na mga batang lalaki na mga nananatili sa kabataan nila. Kapag nakita mo sila ay magpapalagay kang sila ay mga mutyang isinabog dahil sa kasariwaan ng mga mukha nila, ganda ng mga kulay nila, dami nila, at pagkalat-kalat nila.</p>"
+        },
+        "20": {
+            "verses": {
+                "76:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kapag nakakita ka ng naroroon sa Paraiso ay makakikita ka ng isang kaginhawahang hindi maaaring mailarawan at isang paghaharing dakilang walang nakapapantay na isang paghahari.</p>"
+        },
+        "21": {
+            "verses": {
+                "76:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pumaibabaw nga sa mga katawan nila ang mga kasuutang luntiang magara. Ang mga ito ay yari sa sutlang manipis at sutlang makapal. Pasusuutin sila roon ng mga pulseras na yari sa pilak. Magpapainom sa kanila si Allāh ng inuming walang anumang panligalig.</p>"
+        },
+        "22": {
+            "verses": {
+                "76:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sasabihin sa kanila bilang pagpaparangal para sa kanila: \"Tunay na ang kaginhawahang ito na ibinigay sa inyo ay naging isang gantimpala para sa inyo sa mga gawa ninyong maayos. Ang gawain ninyo ay naging tanggap sa ganang kay Allāh.\"</p>"
+        },
+        "23": {
+            "verses": {
+                "76:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na Kami ay nagpababa sa iyo, O Sugo, ng Qur’ān na pinagbaha-bahagi, at hindi nagpababa nito sa iyo sa nag-iisang kabuuan.</p>"
+        },
+        "24": {
+            "verses": {
+                "76:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya magtiis ka sa anumang inihahatol ni Allāh sa isang pagtatakda o sa isang batas, at huwag kang tumalima sa isang nagkakasala sa anumang inaanyaya nito na kasalanan ni sa isang tagatangging sumampalataya sa anumang inaanyaya nito na kawalang-pananampalataya.</p>"
+        },
+        "25": {
+            "verses": {
+                "76:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Alalahanin mo ang Panginoon mo sa dasal sa madaling-araw sa unang bahagi ng maghapon at sa dasal sa tanghali at hapon sa huling bahagi nito.</p>"
+        },
+        "26": {
+            "verses": {
+                "76:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Alalahanin mo Siya sa dalawang dasal sa gabi: ang dasal sa pagkalubog ng araw at ang dasal sa gabi, at magsagawa ka ng tahajjud matapos ng dalawang ito.</p>"
+        },
+        "27": {
+            "verses": {
+                "76:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang mga tagapagtambal na ito ay umiibig sa buhay na pangmundo, nagsisigasig dito, at nag-iiwan sa likuran nila ng Araw ng Pagbangon, na siyang araw na mabigat dahil sa taglay nito na mga kapahamakan at mga kasawiang-palad.</p>"
+        },
+        "28": {
+            "verses": {
+                "76:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kami ay lumikha sa kanila at nagpalakas sa pagkalikha sa kanila sa pamamagitan ng pagpapalakas sa mga kasukasuan nila, mga bahagi ng katawan nila, at iba pa. Kapag niloob Namin ang pagpapahamak sa kanila at ang pagpapalit sa kanila ng mga tulad nila ay magpapahamak Kami sa kanila at magpapalit Kami sa kanila.</p>"
+        },
+        "29": {
+            "verses": {
+                "76:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang kabanatang ito ay isang pangaral at isang pagpapaalaala, kaya ang sinumang lumuob ng paggawa ng isang daan na magpaparating sa kanya tungo sa pagkalugod ng Panginoon niya ay gumawa siya nito.</p>"
+        },
+        "30": {
+            "verses": {
+                "76:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi ninyo loloobin ang paggawa ng daan tungo sa pagkalugod ni Allāh maliban na loobin ni Allāh iyon mula sa inyo sapagkat ang utos sa kabuuan nito ay nasa Kanya. Tunay na si Allāh ay laging Maalam sa anumang nababagay para sa mga lingkod Niya at sa anumang hindi nababagay para sa kanila, Marunong sa paglikha Niya, pagtatakda Niya, at batas Niya.</p>"
+        },
+        "31": {
+            "verses": {
+                "76:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magpapapasok Siya ng sinumang niloloob Niya mula sa mga lingkod Niya sa awa Niya kaya magtutuon Siya sa kanila sa pananampalataya at gawang maayos samantalang naghanda naman Siya para sa mga tagalabag sa katarungan sa mga sarili nila dahil sa kawalang-pananampalataya at mga pagsuway ng isang pagdurusang nakasasakit sa Kabilang-buhay: ang pagdurusa sa Apoy.</p>"
+        }
+    }
+}

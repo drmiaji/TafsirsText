@@ -1,0 +1,837 @@
+{
+    "chapter": 68,
+    "verses": {
+        "1": {
+            "verses": {
+                "68:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>(Nun) Bu hususta benzer bir açıklama Bakara Suresi'nin başında zikredilmiştir. Allah, kaleme ve insanların kalemleriyle yazdıklarına yemin etmiştir.</p>"
+        },
+        "2": {
+            "verses": {
+                "68:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Allah’ın sana verdiği peygamberlik nimetiyle delirmiş değilsin. Sen, müşriklerin iftira ettiği delilikten çok uzaksın.</p>"
+        },
+        "3": {
+            "verses": {
+                "68:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şüphesiz insanlara bu mesajı taşımandan ötürü çektiğin çileye karşılık sana kesintisiz ve hiç kimseye onun için minnet etmeyeceğin bir mükâfat vardır.</p>"
+        },
+        "4": {
+            "verses": {
+                "68:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şüphesiz sen, Kur’an’ın getirdiği çok büyük bir ahlâk üzeresin. Onun içinde bulunanları en eksiksiz şekilde ahlâk edinmişsin.</p>"
+        },
+        "5": {
+            "verses": {
+                "68:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sende göreceksin, o yalanlayanlar da görecekler.</h2>"
+        },
+        "6": {
+            "verses": {
+                "68:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hakikat ortaya çıktığı zaman hanginizin delirmiş olduğu ortaya çıkacak.</p>"
+        },
+        "7": {
+            "verses": {
+                "68:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasul!- Şüphesiz Rabbin; yolundan sapanları da, o yolu bulmuş olanları da çok iyi biliyor. Ayrıca onların yoldan sapmış kimselerden olduğunu ve senin de onun doğru yolu üzerine olduğunu da çok iyi biliyor.</p>"
+        },
+        "8": {
+            "verses": {
+                "68:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasul!- Sakın senin getirdiklerini yalanlayanlara itaat etme!</p>"
+        },
+        "9": {
+            "verses": {
+                "68:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Din adına onlara yumuşak davranmanı ve iyilik yapmanı arzu ederler ki, böylece onlar da sana yumuşak davranıp iyilik yapsınlar.</p>"
+        },
+        "10": {
+            "verses": {
+                "68:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Yalan yere çokça yemin eden hakir kimseye asla itaat etme!</h2>"
+        },
+        "11": {
+            "verses": {
+                "68:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanların çokça arkasından konuşan, bolca laf taşıyarak aralarını açan kimseye.</p>"
+        },
+        "12": {
+            "verses": {
+                "68:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hayra çokça mani olan; insanların mallarına, ırzlarına ve canlarına kast eden, çok günah ve suç sahibi kimseye.</p>"
+        },
+        "13": {
+            "verses": {
+                "68:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sert, hoyrat ve kavmiyle sözde bir bağı olan kimseye.</h2>"
+        },
+        "14": {
+            "verses": {
+                "68:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Serveti ve evlatları olması sebebiyle kibirlenip Allah’a ve Rasûlüne iman etmedi.</p>"
+        },
+        "15": {
+            "verses": {
+                "68:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ona ayetlerimiz okunduğu zaman şöyle der: “Bunlar öncekilerin yazdığı hurafelerdir.”</p>"
+        },
+        "16": {
+            "verses": {
+                "68:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Biz onun burnuna, onu lekeleyen ve ona yapışıp kalan bir alamet koyacağız.</p>"
+        },
+        "17": {
+            "verses": {
+                "68:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Meyvelerden fakirlerin yememesi için bahçelerinin meyvelerini sabah vakti alelacele toplayacaklarına dair yemin eden bahçe sahiplerini imtihan ettiğimiz gibi, o müşrikleri de kıtlık ve açlıkla imtihan ettik.</p>"
+        },
+        "18": {
+            "verses": {
+                "68:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ettikleri yeminlerinde (inşallah) diyerek bir istisna da yapmıyorlardı.</p>"
+        },
+        "19": {
+            "verses": {
+                "68:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah Teâlâ da onlara bir ateş gönderdi. Sahiplerinin uykuda olduğu esnada bahçelerini yutuveren o ateşi uzaklaştıramadılar.</p>"
+        },
+        "20": {
+            "verses": {
+                "68:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Bahçeleri bir anda kapkaranlık gece gibi simsiyah oldu.</h2>"
+        },
+        "21": {
+            "verses": {
+                "68:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sabah vakti birbirlerine seslendiler.</h2>"
+        },
+        "22": {
+            "verses": {
+                "68:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şöyle diyorlardı: \"Eğer meyveleri toplayacaksanız fakirler gelmeden, mahsulünüz için bir an önce yola çıkın.''</p>"
+        },
+        "23": {
+            "verses": {
+                "68:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Birbiriyle kısık bir sesle konuşarak alelacele mahsullerinin yanına gittiler.</p>"
+        },
+        "24": {
+            "verses": {
+                "68:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Birbirlerine şöyle diyorlardı: “Bahçede sizin yanınıza hiçbir fakir kesinlikle girmesin.''</p>"
+        },
+        "25": {
+            "verses": {
+                "68:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Fakirlerin meyvelerinden almalarını engellemek için kararlı bir halde sabahın ilk vaktinde gittiler.</p>"
+        },
+        "26": {
+            "verses": {
+                "68:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bahçeyi yanmış olarak gördüklerinde birbirlerine şöyle dediler: “Biz bahçenin yolunu şaşırdık.”</p>"
+        },
+        "27": {
+            "verses": {
+                "68:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bilâkis, fakirleri engellemeye dair bizden sadır olan karardan ötürü bahçenin meyvelerini toplamaktan mahrum bırakıldık.</p>"
+        },
+        "28": {
+            "verses": {
+                "68:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Aralarından en iyi olanı dedi ki: \"Yoksulları mahsulden mahrum etme kararını verdiğiniz zaman size; Allah’ı tesbih edip, O'na tövbe etmeyecek misiniz demedim mi?\"</p>"
+        },
+        "29": {
+            "verses": {
+                "68:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dediler ki: “Rabbimiz! Seni tenzih ederiz. Şüphesiz biz, bahçelerimizin meyvelerinden yoksulları mahrum etmeye karar verdiğimizde, kendi nefislerimize zulmeden zalim kimselerdendik.”</p>"
+        },
+        "30": {
+            "verses": {
+                "68:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sonra da birbirlerini kınamaya başladılar.</h2>"
+        },
+        "31": {
+            "verses": {
+                "68:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pişmanlık içinde şöyle dediler: ''Yazıklar olsun bizlere! Yoksulları haklarından mahrum bırakmamız sebebiyle biz haddi aşmış kimselerdik.''</p>"
+        },
+        "32": {
+            "verses": {
+                "68:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Umulur ki, Rabbimiz bize bu bahçeden daha hayırlısını verir. Biz, bir tek Rabbimizi arzuluyor, O'ndan bağışlanma diliyor ve O'ndan hayır istiyoruz.</p>"
+        },
+        "33": {
+            "verses": {
+                "68:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İşte böyle, rızıktan mahrum bırakan azap gibi, bize asi olanlara azap ederiz. Elbette ahiret azabı daha büyüktür. O azabın şiddetini ve devamlılığını keşke biliyor olsalardı.</p>"
+        },
+        "34": {
+            "verses": {
+                "68:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şüphesiz emirlerini yerine getirip, yasaklarından sakınarak Allah’a karşı takvalı olanlar için Rablerinin katında, içinde bolluğun olduğu nimetleri hiç kesilmeyen Cennetler vardır.</p>"
+        },
+        "35": {
+            "verses": {
+                "68:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Mekke halkından müşriklerin iddia ettikleri gibi, ceza verirken hiç Müslümanlarla kâfirleri bir tutar mıyız?</p>"
+        },
+        "36": {
+            "verses": {
+                "68:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey müşrikler!- Size ne oluyor da bu adaletsiz çarpık hükmü veriyorsunuz?</p>"
+        },
+        "37": {
+            "verses": {
+                "68:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa sizin, içinde itaat edenlerin ve günahkârların eşit olduğunu okuduğunuz bir kitabınız mı var?</p>"
+        },
+        "38": {
+            "verses": {
+                "68:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu kitapta, ahirette kendiniz için beğenip seçtiğiniz şeyler mi yazılı?</p>"
+        },
+        "39": {
+            "verses": {
+                "68:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa kendiniz için ne hüküm verirseniz size verilecektir diye yeminlerle pekiştirilmiş olarak size verdiğimiz sözlerimiz mi var?</p>"
+        },
+        "40": {
+            "verses": {
+                "68:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Bunu söyleyenlere hangisinin bunu savunacağını sor?</p>"
+        },
+        "41": {
+            "verses": {
+                "68:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa onların Mü'minlere verilecek karşılığın aynısını kendilerine de verecek Allah’tan başka ortakları mı var? Onların Mü'minlere verilecek karşılığın aynısının kendilerine de vereceği hakkında ileri sürdükleri iddiaları doğru ise; haydi ortaklarını çağırıp, getirsinler bakalım.</p>"
+        },
+        "42": {
+            "verses": {
+                "68:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kıyamet günü korku ve dehşet ortaya çıkar. Rabbimiz baldırını açar ve insanlar secde etmeye çağırılırlar. Mü'minler secde eder, fakat kâfirler ve münafıklar öylece kalıp, secde etmeye güç yetiremezler.</p>"
+        },
+        "43": {
+            "verses": {
+                "68:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bakışları utanç içinde, onları zillet ve pişmanlık kaplamış bir haldeydiler. Oysa onlar dünyada bugün içinde bulundukları halden selamette iken onlardan Allah’a secde etmeleri istenmişti.</p>"
+        },
+        "44": {
+            "verses": {
+                "68:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Sana indirilmiş bu Kur’an’ı yalanlayanları bana bırak. Bunun onlar için bir tuzak ve aldatma olduğunun farkına varmadan onları yavaş yavaş azaba doğru süreceğim.</p>"
+        },
+        "45": {
+            "verses": {
+                "68:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Günahlarında ısrar etmelerinde onlara mühlet vereceğim. Şüphesiz benim tuzağım kâfirlere ve yalanlayanlara karşı çok güçlüdür. Benden asla kaçamazlar ve cezalandırmamdan kurtulamazlar.</p>"
+        },
+        "46": {
+            "verses": {
+                "68:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Rasûl!- Onları davet ettiğin şeye karşılık onlardan bir mükâfat mı istiyorsun ki; bu yüzden çok ağır bir yük taşıyorlar da, bu da onların senden yüz çevirmesine sebep oluyor? Oysa durum bunun tam aksinedir. Sen onlardan bir mükâfat istemiyorsun. Öyleyse sana tabi olmalarına engel olan nedir?</p>"
+        },
+        "47": {
+            "verses": {
+                "68:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa gayb ilmine sahipler de, hoşlarına giden ve sana karşı delil olarak sundukları şeyleri onlar mı yazıyorlar?</p>"
+        },
+        "48": {
+            "verses": {
+                "68:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Rabbinin bir aldatma olarak onlara mühlet verilmesi hükmüne sabret. Sakın balığın arkadaşı kavmine gücenen Yunus -aleyhisselam- gibi olma! Hani denizin ve balinanın karnının karanlığı içinde sıkıntılı bir halde Rabbine seslenmişti.</p>"
+        },
+        "49": {
+            "verses": {
+                "68:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şayet Allah'ın Rahmeti onu bulmasaydı, balık onu ıssız bir toprak parçasına kınanmış bir halde atmış olacaktı.</p>"
+        },
+        "50": {
+            "verses": {
+                "68:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Oysa Rabbi onu seçti ve onu salih kullarından biri kıldı.</h2>"
+        },
+        "51": {
+            "verses": {
+                "68:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah'a karşı kâfir olan ve Rasûlünü yalanlayanlar, sana indirilmiş olan bu Kur’an’ı işittikleri zaman bakışlarının keskinliğinin şiddetinden neredeyse bakışlarıyla seni yere yıkacaklardı. -Arzularına uyarak ve haktan yüz çevirerek- şöyle diyorlardı: \"Bunu getiren Rasûl kesinlikle bir delidir.''</p>"
+        },
+        "52": {
+            "verses": {
+                "68:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oysa sana indirilmiş olan bu Kur’an, insanlar ve cinlere bir öğüt ve hatırlatmadan başka bir şey değildir.</p>"
+        }
+    }
+}

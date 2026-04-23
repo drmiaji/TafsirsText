@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تو کہہ اسے منکرو</h2>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>میں نہیں پوجتا جس کو تم پوجتے ہو</h2>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ تم پوجو جس کو میں پوجوں</h2>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ مجھ کو پوجنا ہے اس کا جس کو تم نے پوجا</h2>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>او نہ تم کو پوجنا ہے اس کا جس کو میں پوجوں</h2>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تم کو تمہاری راہ اور مجھ کو میری راہ۔</h2>"
+        }
+    }
+}

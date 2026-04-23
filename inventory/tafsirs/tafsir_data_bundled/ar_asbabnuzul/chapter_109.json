@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<h2>سُورَةُ الْكَافِرُونَ</h2>\n<h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</h2>\n<p>قَوْلُهُ عَزَّ وَجَلَّ : ﴿قُلْ يَا أَيُّهَا الْكَافِرُونَ﴾ [سُورَةُ الكَافِرُونَ : ١]، إِلَى آخِرِ السُّورَةِ.</p>\n<p>[[أخرج معناه ابن جرير (٣٠/٢١٤) وابن أبي حاتم والطبراني (فتح القدير: ٥/٥٠٨) عن ابن عباس مختصرا, وضعفه الحافظ ابن حجر (فتح الباري: ٨/٧٣٣).]] نَزَلَتْ فِي رَهْطٍ مِنْ قُرَيْشٍ قَالُوا : يَا مُحَمَّدُ، هَلُمَّ فَاتَّبِعْ دِينَنَا وَنَتَّبِعْ دِينَكَ، تَعْبُدُ آلِهَتَنَا سَنَةً وَنَعْبُدُ إِلَهَكَ سَنَةً، فَإِنْ كَانَ الَّذِي جِئْتَ بِهِ خَيْرًا مِمَّا بِأَيْدِينَا قَدْ شَرَكْنَاكَ فِيهِ، وَأَخَذْنَا بِحَظِّنَا مِنْهُ، وَإِنْ كَانَ الَّذِي بِأَيْدِينَا خَيْرًا مِمَّا فِي يَدَيْكَ قَدْ شَرَكْتَنَا فِي أَمْرِنَا وَأَخَذْتَ بِحَظِّكَ. فَقَالَ : \" مَعَاذَ اللَّهِ أَنْ أُشْرِكَ بِهِ غَيْرَهُ \". فَأَنْزَلَ اللَّهُ تَعَالَى : ﴿قُلْ يَا أَيُّهَا الْكَافِرُونَ﴾ [سُورَةُ الكَافِرُونَ : ١]، إِلَى آخِرِ السُّورَةِ. فَغَدَا رَسُولُ اللَّهِ ﷺ إِلَى الْمَسْجِدِ الْحَرَامِ وَفِيهِ الْمَلَأُ مِنْ قُرَيْشٍ، فَقَرَأَهَا عَلَيْهِمْ حَتَّى فَرَغَ مِنَ السُّورَةِ، فَأَيِسُوا مِنْهُ عِنْدَ ذَلِكَ.</p>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        }
+    }
+}

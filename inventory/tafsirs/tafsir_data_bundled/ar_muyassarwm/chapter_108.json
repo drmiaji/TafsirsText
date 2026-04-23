@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱلۡكَوۡثَرَ﴾: الخيرَ الكَثِيرَ في الدُّنيا والآخِرَةِ، وَمِن ذَلِكَ نَهرُ الكَوْثَرِ في الجنَّةِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱنۡحَرۡ﴾: واذْبَحْ ذَبيحَتكَ للهِ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿شَانِئَكَ﴾: مُبْغِضَكَ.</h2>\n<p>﴿هُوَ ٱلۡأَبۡتَرُ﴾: هُوَ المُنْقَطِعُ أَثَرُهُ، المقطُوعُ مِن كُلِّ خَيرٍ.</p>"
+        }
+    }
+}

@@ -1,0 +1,709 @@
+{
+    "chapter": 70,
+    "verses": {
+        "1": {
+            "verses": {
+                "70:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مانگا ایک مانگنے والے نے عذاب پڑنے والا</h2>"
+        },
+        "2": {
+            "verses": {
+                "70:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>منکروں کے واسطے کوئی نہیں اس کو ہٹانے والا</h2>"
+        },
+        "3": {
+            "verses": {
+                "70:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>آئے اللہ کی طرف سے جو چڑھتے درجوں والا ہے</h2>"
+        },
+        "4": {
+            "verses": {
+                "70:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>چڑھیں گے اس کی طرف فرشتے اور روح اس دن میں جس کا لنباؤ پچاس ہزار برس</p>"
+        },
+        "5": {
+            "verses": {
+                "70:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہے سو تو صبر کر بھلی طرح کا صبر کرنا</h2>"
+        },
+        "6": {
+            "verses": {
+                "70:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>وہ دیکھتے ہیں اس کو دور</h2>"
+        },
+        "7": {
+            "verses": {
+                "70:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ہم دیکھتے ہیں اس کو نزدیک</h2>"
+        },
+        "8": {
+            "verses": {
+                "70:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جس دن ہوگا آسمان جیسے تانبا پگھلا ہوا</h2>"
+        },
+        "9": {
+            "verses": {
+                "70:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ہونگے پہاڑ جیسے اون رنگی ہوئی</h2>"
+        },
+        "10": {
+            "verses": {
+                "70:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ پوچھے گا دوستدار دوستدار کو</h2>"
+        },
+        "11": {
+            "verses": {
+                "70:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سب نظر آجائیں گے ان کو چاہئے گا گنہگار کسی طرح چھڑوائی میں دے کر اس دن کے عذاب سے اپنے بیٹے کو</p>"
+        },
+        "12": {
+            "verses": {
+                "70:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اپنی ساتھ والی کو اور اپنے بھائی کو</h2>"
+        },
+        "13": {
+            "verses": {
+                "70:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اپنے گھرانے کو جس میں رہتا تھا</h2>"
+        },
+        "14": {
+            "verses": {
+                "70:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جتنے زمین پر ہیں سب کو پھر اپنے آپ کو بچا لے</h2>"
+        },
+        "15": {
+            "verses": {
+                "70:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہرگز نہیں وہ تپتی ہوئی آگ ہے</h2>"
+        },
+        "16": {
+            "verses": {
+                "70:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کھینچ لینے والی کلیجہ</h2>"
+        },
+        "17": {
+            "verses": {
+                "70:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پکارتی ہے اس کو جس نے پیٹھ پھیرلی اور پھر کر چلا گیا</h2>"
+        },
+        "18": {
+            "verses": {
+                "70:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جوڑا اور سینت کر رکھا</h2>"
+        },
+        "19": {
+            "verses": {
+                "70:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک آدمی بنا ہے جی کا کچا</h2>"
+        },
+        "20": {
+            "verses": {
+                "70:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جب پہنچے اس کو برائی تو بےصبرا</h2>"
+        },
+        "21": {
+            "verses": {
+                "70:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جب پہنچے اس کو بھلائی تو بےتوفیقا</h2>"
+        },
+        "22": {
+            "verses": {
+                "70:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مگر وہ نمازی</h2>"
+        },
+        "23": {
+            "verses": {
+                "70:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جو اپنی نماز پر قائم ہیں</h2>"
+        },
+        "24": {
+            "verses": {
+                "70:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جن کے مال میں حصہ مقرر ہے</h2>"
+        },
+        "25": {
+            "verses": {
+                "70:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مانگنے والے اور ہارے ہوئے کا</h2>"
+        },
+        "26": {
+            "verses": {
+                "70:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو یقین کرتے ہیں انصاف کے دن پر</h2>"
+        },
+        "27": {
+            "verses": {
+                "70:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو لوگ کہ اپنے رب کے عذاب سے ڈرتے ہیں</h2>"
+        },
+        "28": {
+            "verses": {
+                "70:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک ان کے رب کے عذاب سے کسی کو نڈر نہ ہونا چاہئے</h2>"
+        },
+        "29": {
+            "verses": {
+                "70:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو اپنی شہوت کی جگہ کو تھامتے ہیں</h2>"
+        },
+        "30": {
+            "verses": {
+                "70:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>مگر اپنی جوروؤں سے یا اپنے ہاتھ کے مال سے سو ان پر نہیں کچھ الاہنا</p>"
+        },
+        "31": {
+            "verses": {
+                "70:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر جو کوئی ڈھونڈے اس کے سوائے سو وہی ہیں حد سے بڑھنے والے</h2>"
+        },
+        "32": {
+            "verses": {
+                "70:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو لوگ کہ اپنی امانتوں اور اپنے قول کو نباہتے ہیں</h2>"
+        },
+        "33": {
+            "verses": {
+                "70:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو اپنی گواہیوں پر سیدھے ہیں</h2>"
+        },
+        "34": {
+            "verses": {
+                "70:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور جو اپنی نماز سے خبر دار ہیں</h2>"
+        },
+        "35": {
+            "verses": {
+                "70:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>وہی لوگ ہیں باغوں میں عزت سے</h2>"
+        },
+        "36": {
+            "verses": {
+                "70:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر کیا ہوا ہے منکروں کو تیری طرف دوڑتے ہوئے آتے ہیں</h2>"
+        },
+        "37": {
+            "verses": {
+                "70:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>داہنے سے اور بائیں سے غول کے غول</h2>"
+        },
+        "38": {
+            "verses": {
+                "70:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا طمع رکھتا ہے ہر ایک شخص ان میں کہ داخل ہوجائے نعمت کے باغ میں</p>"
+        },
+        "39": {
+            "verses": {
+                "70:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہرگز نہیں ہم نے ان کو بنایا ہے جس سے وہ بھی جانتے ہیں</h2>"
+        },
+        "40": {
+            "verses": {
+                "70:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو میں قسم کھاتا ہوں مشرقوں اور مغربوں کے مالک کی تحقیق ہم کرسکتے ہیں</p>"
+        },
+        "41": {
+            "verses": {
+                "70:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کہ بدل کرلے آئیں ان سے بہتر اور ہمارے قابو سے نکل نہ جائیں گے</p>"
+        },
+        "42": {
+            "verses": {
+                "70:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو چھوڑ دے ان کو کہ باتیں بنائیں اور کھیلا کریں یہاں تک کہ مل جائیں اپنے اس دن سے جس کا ان سے وعدہ ہے</p>"
+        },
+        "43": {
+            "verses": {
+                "70:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جس دن نکل پڑیں گے قبروں سے دوڑتے ہوئے جیسے کسی نشانی پر دوڑتے جاتے ہیں</p>"
+        },
+        "44": {
+            "verses": {
+                "70:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جھکی ہوں گی ان کی آنکھیں چڑھی آتی ہوگی ان پر ذلت یہ ہے وہ دن جس کا ان سے وعدہ تھا۔</p>"
+        }
+    }
+}

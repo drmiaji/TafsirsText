@@ -1,0 +1,53 @@
+{
+    "chapter": 110,
+    "verses": {
+        "1": {
+            "verses": {
+                "110:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جب پہنچ چکے مدد اللہ کی</h2>"
+        },
+        "2": {
+            "verses": {
+                "110:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور فیصلہ اور تو دیکھے لوگوں کو داخل ہوتے دین میں غول کے غول</p>"
+        },
+        "3": {
+            "verses": {
+                "110:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو پاکی بول اپنے رب کی خوبیاں اور گناہ بخشوا اس سے بیشک وہ معاف کرنے والا ہے۔</p>"
+        }
+    }
+}

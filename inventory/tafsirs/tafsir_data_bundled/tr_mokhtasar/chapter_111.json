@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yaptıklarının verdiği zararlardan ötürü Peygamber -sallallahu aleyhi ve sellem-'in amcası Abdulmuttalib oğlu Ebu Leheb'in elleri kurusun! Çünkü o, Peygamber -sallallahu aleyhi ve sellem-'e eziyet ediyordu. Ve çabası da boşa çıktı.</p>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sahip olduğu malı ve çocukları ona ne fayda verecekler ki? Onun herhangi bir azabını engelleyemedikleri gibi ona bir iyilik de kazandıramadılar.</p>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kıyamet günü alevli bir ateşe girerek, onun sıcaklığına katlanmak zorunda kalacak.</p>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yürüdüğü yola dikenler atarak, Peygamber -sallallahu aleyhi ve sellem-'e eziyet eden karısı Ümmü Cemil de Cehennem'e girecektir.</p>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Boynunda sapasağlam örülmüş, onu ateşe sürükleyen bir halat olduğu halde.</p>"
+        }
+    }
+}

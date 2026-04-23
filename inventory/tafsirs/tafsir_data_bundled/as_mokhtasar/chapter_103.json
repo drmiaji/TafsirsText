@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 117,
+            "resource_name": "Tafsir As Mokhtasar",
+            "language_id": 38,
+            "slug": "as_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir As Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>আল্লাহ তাআলাই আছৰৰ সময়ৰ শপত কৰিছে।</h2>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 117,
+            "resource_name": "Tafsir As Mokhtasar",
+            "language_id": 38,
+            "slug": "as_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir As Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>নিশ্চয় মানুহ ক্ষতি আৰু ধ্বংসৰ পথত লিপ্ত।</h2>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 117,
+            "resource_name": "Tafsir As Mokhtasar",
+            "language_id": 38,
+            "slug": "as_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir As Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>কিন্তু যিসকলে আল্লাহ আৰু ৰাছুলৰ প্ৰতি ঈমান আনিছে আৰু সত্কৰ্ম কৰিছে আৰু এজনে আনজনক সত্যৰ উপদেশ দিয়ে আৰু পৰস্পৰক সত্য পথৰ প্ৰতি ধৈৰ্য ধাৰণ কৰিবলৈ উপদেশ দিয়ে। এতেকে এই বৈশিষ্ট্যৰ গৰাকীয়ে পৃথিৱী আৰু পৰকালৰ জীৱনত সফলতা লাভ কৰিব।</p>"
+        }
+    }
+}

@@ -1,0 +1,469 @@
+{
+    "chapter": 81,
+    "verses": {
+        "1": {
+            "verses": {
+                "81:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كُوِّرَتْ﴾ لُفَّتْ، وَذَهَبَ ضَوْؤُهَا.</h2>"
+        },
+        "2": {
+            "verses": {
+                "81:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿انْكَدَرَتْ﴾ تَنَاثَرَتْ، وَذَهَبَ نُورُهَا.</h2>"
+        },
+        "3": {
+            "verses": {
+                "81:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿سُيِّرَتْ﴾ أُزِيلَتْ عَنْ وَجْهِ الأَرْضِ؛ فَصَارَتْ هَبَاءً مَنْثُورًا.</p>"
+        },
+        "4": {
+            "verses": {
+                "81:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الْعِشَارُ﴾ النُّوقُ الحَوَامِلُ.</h2>\n<h2>﴿عُطِّلَتْ﴾ أُهْمِلَتْ، وَتُرِكَتْ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "81:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حُشِرَتْ﴾ جُمِعَتْ، وَاخْتَلَطَتْ؛ لِيُقْتَصَّ لِبَعْضِهَا مِنْ بَعْضٍ.</p>"
+        },
+        "6": {
+            "verses": {
+                "81:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿سُجِّرَتْ﴾ مُلِئَتْ حَتَّى فَاضَتْ، فَانْفَجَرَتْ، ثُمَّ اتَّقَدَتْ نِيرَانًا.</p>"
+        },
+        "7": {
+            "verses": {
+                "81:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿زُوِّجَتْ﴾ قُرِنَتْ بِأَمْثَالِهَا وَنَظَائِرِهَا.</h2>"
+        },
+        "8": {
+            "verses": {
+                "81:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الْمَوْءُودَةُ﴾ الطِّفْلَةُ المَدْفُونَةُ حَيَّةً.</h2>"
+        },
+        "9": {
+            "verses": {
+                "81:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "10": {
+            "verses": {
+                "81:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الصُّحُفُ﴾ صُحُفُ الأَعْمَالِ.</h2>\n<h2>﴿نُشِرَتْ﴾ فُتِحَتْ، وَبُسِطَتْ.</h2>"
+        },
+        "11": {
+            "verses": {
+                "81:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كُشِطَتْ﴾ قُلِعَتْ، وَأُزِيلَتْ.</h2>"
+        },
+        "12": {
+            "verses": {
+                "81:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سُعِّرَتْ﴾ أُوقِدَتْ، فَأُضْرِمَتْ.</h2>"
+        },
+        "13": {
+            "verses": {
+                "81:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أُزْلِفَتْ﴾ قُرِّبَتْ مِنْ أَهْلِهَا.</h2>"
+        },
+        "14": {
+            "verses": {
+                "81:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَحْضَرَتْ﴾ قَدَّمَتْ مِنْ خَيْرٍ أَوْ شَرٍّ.</h2>"
+        },
+        "15": {
+            "verses": {
+                "81:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَلاَ أُقْسِمُ﴾ أُقْسِمُ، وَ(لاَ): لِتَأْكِيدِ الْقَسَمِ.</h2>\n<p>﴿بِالْخُنَّسِ﴾ النُّجُومِ المُخْتَفِيَةِ أَنْوَارُهَا نَهَارًا.</p>"
+        },
+        "16": {
+            "verses": {
+                "81:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الْجَوَارِ﴾ النُّجُومِ الجَارِيَةِ فِي أَفْلاَكِهَا.</h2>\n<h2>﴿الْكُنَّسِ﴾ النُّجُومِ المُسْتَتِرَةِ فِي أَبْرَاجِهَا.</h2>"
+        },
+        "17": {
+            "verses": {
+                "81:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عَسْعَسَ﴾ أَقْبَلَ بِظَلاَمِهِ، وَأَدْبَرَ.</h2>"
+        },
+        "18": {
+            "verses": {
+                "81:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿تَنَفَّسَ﴾ ظَهَرَ ضِيَاؤُهُ، وَامْتَدَّ.</h2>"
+        },
+        "19": {
+            "verses": {
+                "81:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَسُولٍ كَرِيمٍ﴾ هُوَ: جِبْرِيلُ عليه السلام.</h2>"
+        },
+        "20": {
+            "verses": {
+                "81:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَكِينٍ﴾ ذِي مَكَانَةٍ رَفِيعَةٍ عِنْدَ اللهِ.</h2>"
+        },
+        "21": {
+            "verses": {
+                "81:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ثَمَّ﴾ هُنَاكَ فِي السَّمَاوَاتِ.</h2>"
+        },
+        "22": {
+            "verses": {
+                "81:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "23": {
+            "verses": {
+                "81:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿رَآهُ بِالأُفُقِ﴾ رَأَى نَبِيُّنَا مُحَمَّدٌ صلّى الله عليه وسلّم جِبْرِيلَ عليه السلام فِي الأُفُقِ عَلَى صُورَتِهِ الَّتِي خُلِقَ عَلَيْهَا.</p>"
+        },
+        "24": {
+            "verses": {
+                "81:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿بِضَنِينٍ﴾ بِبَخِيلٍ فِي تَبْلِيغِ الوَحْيِ، وَفِي قِرَاءَةٍ: (بِظَنِينٍ)، أَيْ: مُتَّهَمٍ عَلَى الْوَحْيِ.</p>"
+        },
+        "25": {
+            "verses": {
+                "81:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَجِيمٍ﴾ مَرْجُومٍ، مَطْرُودٍ مِنْ رَحْمَةِ اللهِ.</h2>"
+        },
+        "26": {
+            "verses": {
+                "81:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "27": {
+            "verses": {
+                "81:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِنْ هُوَ﴾ مَا هُوَ.</h2>\n<h2>﴿لِلْعَالَمِينَ﴾ الإِنْسِ، وَالجِنِّ.</h2>"
+        },
+        "28": {
+            "verses": {
+                "81:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "29": {
+            "verses": {
+                "81:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَبُّ الْعَالَمِينَ﴾ رَبُّ الخَلاَئِقِ أَجْمَعِينَ.</h2>"
+        }
+    }
+}

@@ -1,0 +1,949 @@
+{
+    "chapter": 44,
+    "verses": {
+        "1": {
+            "verses": {
+                "44:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>حم</p>"
+        },
+        "2": {
+            "verses": {
+                "44:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>قسم ہے اس کتاب واضح کی</h2>"
+        },
+        "3": {
+            "verses": {
+                "44:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہم نے اس کو اتارا ایک برکت کی رات میں ہم ہیں کہہ سنانے والے</h2>"
+        },
+        "4": {
+            "verses": {
+                "44:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اسی میں جدا ہوتا ہے ہر کام جانچا ہوا حکم ہو کر</h2>"
+        },
+        "5": {
+            "verses": {
+                "44:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہمارے پاس سے ہم ہیں بھیجنے والے</h2>"
+        },
+        "6": {
+            "verses": {
+                "44:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>رحمت سے تیرے رب کی وہی ہے سننے جاننے والا</h2>"
+        },
+        "7": {
+            "verses": {
+                "44:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>رب آسمانوں کا اور زمین کا اور جو کچھ ان کے بیچ ہے اگر تم کو یقین ہے</p>"
+        },
+        "8": {
+            "verses": {
+                "44:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کسی کی بندگی نہیں سوائے اس کے جلاتا ہے اور مارتا ہے رب تمہارا اور رب تمہارے اگلے باپ دادوں کا</p>"
+        },
+        "9": {
+            "verses": {
+                "44:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کوئی نہیں وہ دھوکے میں ہیں کھیلتے۔</h2>"
+        },
+        "10": {
+            "verses": {
+                "44:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>سو تو انتظار کر اس دن کا کہ لائے آسمان دھواں صریح</h2>"
+        },
+        "11": {
+            "verses": {
+                "44:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جو گھیر لیوے لوگوں کو یہ ہے عذاب درد ناک</h2>"
+        },
+        "12": {
+            "verses": {
+                "44:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اے رب کھولدے ہم پر سے یہ آفت ہم یقین لاتے ہیں</h2>"
+        },
+        "13": {
+            "verses": {
+                "44:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کہاں ملے ان کو سمجھنا اور آ چکا ان کے پاس رسول کھول کر سنانے والا</p>"
+        },
+        "14": {
+            "verses": {
+                "44:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر اس سے پیٹھ پھیری اور کہنے لگے سکھایا ہوا ہے باؤلا</h2>"
+        },
+        "15": {
+            "verses": {
+                "44:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ہم کھولے دیتے ہیں یہ عذاب تھوڑی مدت تک تم پھر وہی کرو گے</h2>"
+        },
+        "16": {
+            "verses": {
+                "44:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جس دن پکڑیں گے ہم بڑی پکڑ تحقیق ہم بدلہ لینے والے ہیں۔</h2>"
+        },
+        "17": {
+            "verses": {
+                "44:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جانچ چکے ہیں ہم ان سے پہلے فرعون کی قوم کو اور آیا ان کے پاس رسول عزت والا</p>"
+        },
+        "18": {
+            "verses": {
+                "44:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کہ حوالہ کرو میرے بندے خدا کے میں تمہارے پاس آیا ہوں بھیجا ہوا معتبر</p>"
+        },
+        "19": {
+            "verses": {
+                "44:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور یہ کہ چڑھے نہ جاؤ اللہ کے مقابل میں لاتا ہوں تمہارے پاس سند کھلی ہوئی</p>"
+        },
+        "20": {
+            "verses": {
+                "44:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور میں پناہ لے چکا ہوں اپنے رب اور تمہارے رب کی اس بات سے کہ تم مجھ کو سنگسار کرو</p>"
+        },
+        "21": {
+            "verses": {
+                "44:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اگر تم نہیں یقین کرتے مجھ پر تو مجھ سے پرے ہو جاؤ</h2>"
+        },
+        "22": {
+            "verses": {
+                "44:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر دعا کی اپنے رب سے کہ یہ لوگ گنہگار ہیں</h2>"
+        },
+        "23": {
+            "verses": {
+                "44:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر لے نکل رات سے میرے بندوں کو البتہ تمہارا پیچھا کریں گے</h2>"
+        },
+        "24": {
+            "verses": {
+                "44:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور چھوڑ جا دریا کو تھما ہوا البتہ وہ لشکر ڈوبنے والے ہیں</h2>"
+        },
+        "25": {
+            "verses": {
+                "44:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بہت سے چھوڑ گئے باغ اور چشمے</h2>"
+        },
+        "26": {
+            "verses": {
+                "44:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور کھیتیاں اور گھر خاصے</h2>"
+        },
+        "27": {
+            "verses": {
+                "44:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور آرام کا سامان جس میں باتیں بنایا کرتے تھے</h2>"
+        },
+        "28": {
+            "verses": {
+                "44:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یونہی ہوا اور وہ سب ہاتھ لگا دیا ہم نے ایک دوسری قوم کے</h2>"
+        },
+        "29": {
+            "verses": {
+                "44:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر نہ رویا ان پر آسمان اور زمین اور نہ ملی ان کو ڈھیل</h2>"
+        },
+        "30": {
+            "verses": {
+                "44:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ہم نے بچا نکالا بنی اسرائیل کو ذلت کی مصیبت سے</h2>"
+        },
+        "31": {
+            "verses": {
+                "44:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جو فرعون کی طرف سے تھی بیشک وہ تھا چڑھ رہا حد سے بڑھ جانے والا</p>"
+        },
+        "32": {
+            "verses": {
+                "44:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ان کو ہم نے پسند کیا جان بوجھ کر جہان کے لوگوں سے</h2>"
+        },
+        "33": {
+            "verses": {
+                "44:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور دیں ہم نے ان کی نشانیاں جن میں تھی مدد صریح۔</h2>"
+        },
+        "34": {
+            "verses": {
+                "44:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ لوگ کہتے ہیں</h2>"
+        },
+        "35": {
+            "verses": {
+                "44:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کچھ نہیں ہمارا یہی مرنا ہے پہلا اور ہم کو پھر اٹھنا نہیں</p>"
+        },
+        "36": {
+            "verses": {
+                "44:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بھلا لے تو آؤ ہمارے باپ دادوں کو اگر تم سچے ہو</h2>"
+        },
+        "37": {
+            "verses": {
+                "44:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>بھلا یہ بہتر ہیں یا تبع کی قوم اور جو ان سے پہلے تھے ہم نے ان کو غارت کردیا بیشک وہ تھے گنہگار</p>"
+        },
+        "38": {
+            "verses": {
+                "44:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ہم نے جو بنایا آسمان اور زمین اور جو ان کے بیچ ہے کھیل</h2>"
+        },
+        "39": {
+            "verses": {
+                "44:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>نہیں بنایا ان کو تو بنایا ہم نے ٹھیک کام پر بہت لوگ نہیں سمجھتے</p>"
+        },
+        "40": {
+            "verses": {
+                "44:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تحقیق فیصلہ کا دن وعدہ ہے ان سب کا</h2>"
+        },
+        "41": {
+            "verses": {
+                "44:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جس دن کام نہ آئے کوئی رفیق کسی رفیق کے کچھ بھی اور نہ ان کی مدد پہنچے</p>"
+        },
+        "42": {
+            "verses": {
+                "44:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مگر جس پر رحمت کرے اللہ بیشک وہی ہے زبردست رحم والا۔</h2>"
+        },
+        "43": {
+            "verses": {
+                "44:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مقرر درخت سیہنڈ کا</h2>"
+        },
+        "44": {
+            "verses": {
+                "44:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کھانا ہے گنہگار کا</h2>"
+        },
+        "45": {
+            "verses": {
+                "44:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جیسے پگھلا ہوا تانبا کھولتا ہے پیٹوں میں</h2>"
+        },
+        "46": {
+            "verses": {
+                "44:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جیسے کھولتا پانی</h2>"
+        },
+        "47": {
+            "verses": {
+                "44:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پکڑو اس کو اور دھکیل کرلے جاؤ بیچوں بیچ دوزخ کے</h2>"
+        },
+        "48": {
+            "verses": {
+                "44:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر ڈالو اس کے سر پر جلتے پانی کا عذاب</h2>"
+        },
+        "49": {
+            "verses": {
+                "44:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ چکھ، تو ہی ہے بڑا عزت والا سردار</h2>"
+        },
+        "50": {
+            "verses": {
+                "44:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ وہی ہے جس میں تم دھوکے میں پڑے تھے</h2>"
+        },
+        "51": {
+            "verses": {
+                "44:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک ڈرنے والے گھر میں ہیں چین کے</h2>"
+        },
+        "52": {
+            "verses": {
+                "44:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>باغوں میں اور چشموں میں</h2>"
+        },
+        "53": {
+            "verses": {
+                "44:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پہنتے ہیں پوشاک ریشمی پتلی اور گاڑھی ایک دوسرے کے سامنے</h2>"
+        },
+        "54": {
+            "verses": {
+                "44:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اسی طرح ہوگا اور بیاہ دیں ہم ان کو حوریں بڑی آنکھوں والیاں</h2>"
+        },
+        "55": {
+            "verses": {
+                "44:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>منگوائیں گے وہاں ہر میوہ دلجمعی سے</h2>"
+        },
+        "56": {
+            "verses": {
+                "44:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>نہ چکھیں گے وہاں موت مگر جو پہلے آ چکی اور بچایا ان کو دوزخ کے عذاب سے</p>"
+        },
+        "57": {
+            "verses": {
+                "44:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>فضل سے تیرے رب کے یہی ہے بڑی مراد ملنی</h2>"
+        },
+        "58": {
+            "verses": {
+                "44:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو یہ قرآن آسان کیا ہم نے اس کو تیری بولی میں تاکہ وہ یاد رکھیں</p>"
+        },
+        "59": {
+            "verses": {
+                "44:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اب تو راہ دیکھ وہ بھی راہ تکتے ہیں۔</h2>"
+        }
+    }
+}

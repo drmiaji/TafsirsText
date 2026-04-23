@@ -1,0 +1,181 @@
+{
+    "chapter": 101,
+    "verses": {
+        "1": {
+            "verses": {
+                "101:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة القارعة مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>قرع القلوب لاستحضار هول القيامة.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>الساعة التي تقرع قلوب الناس لعظم هولها.</h2>"
+        },
+        "2": {
+            "verses": {
+                "101:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ما هذه الساعة التي تقرع قلوب الناس لعظم هولها؟!</h2>"
+        },
+        "3": {
+            "verses": {
+                "101:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما أعلمك - أيها الرسول - ما هذه الساعة التي تقرع قلوب الناس لعظم هولها؟! إنها يوم القيامة.</p>"
+        },
+        "4": {
+            "verses": {
+                "101:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يوم تقرع قلوب الناس يكونون كالفراش المُنْتَشِر المتناثر هنا وهناك.</p>"
+        },
+        "5": {
+            "verses": {
+                "101:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وتكون الجبال مثل الصوف المَندُوف في خفة سيرها وحركتها.</h2>"
+        },
+        "6": {
+            "verses": {
+                "101:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأما من رجحت أعماله الصالحة على أعماله السيئة.</h2>"
+        },
+        "7": {
+            "verses": {
+                "101:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهو في عيشة مرضية ينالها في الجنة.</h2>"
+        },
+        "8": {
+            "verses": {
+                "101:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأما من رجحت أعماله السيئة على أعماله الصالحة.</h2>"
+        },
+        "9": {
+            "verses": {
+                "101:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمسكنه ومستقرّه يوم القيامة هو جهنم.</h2>"
+        },
+        "10": {
+            "verses": {
+                "101:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وما أعلمك - أيها الرسول - ما هي؟!</h2>"
+        },
+        "11": {
+            "verses": {
+                "101:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هي نار شديدة الحرارة.</h2>"
+        }
+    }
+}

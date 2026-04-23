@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sabihin mo, O Sugo: \"O mga tagatangging sumampalataya kay Allāh,</p>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>hindi ako sumasamba sa kasalukuyan at sa hinaharap sa sinasamba ninyo na mga anito,</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at hindi kayo mga sasamba sa sinasamba ko mismo: si Allāh lamang,</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>at hindi ako sasamba sa sinamba ninyo na mga anito,</h2>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at hindi kayo mga sasamba sa sinasamba ko mismo: si Allāh lamang.</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ukol sa inyo ang relihiyon ninyo na pinauso ninyo para sa mga sarili ninyo at ukol sa akin ang relihiyon ko na pinababa ni Allāh sa akin.\"</p>"
+        }
+    }
+}

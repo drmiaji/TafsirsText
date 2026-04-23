@@ -1,0 +1,789 @@
+{
+    "chapter": 52,
+    "verses": {
+        "1": {
+            "verses": {
+                "52:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>قسم ہے طور کی</h2>"
+        },
+        "2": {
+            "verses": {
+                "52:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور لکھی ہوئی کتاب کی</h2>"
+        },
+        "3": {
+            "verses": {
+                "52:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کشادہ ورق میں</h2>"
+        },
+        "4": {
+            "verses": {
+                "52:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور آباد گھر کی</h2>"
+        },
+        "5": {
+            "verses": {
+                "52:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اونچی چھت کی</h2>"
+        },
+        "6": {
+            "verses": {
+                "52:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور ابلتے ہوئے دریا کی</h2>"
+        },
+        "7": {
+            "verses": {
+                "52:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بیشک عذاب تیرے رب کا ہو کر رہے گا</h2>"
+        },
+        "8": {
+            "verses": {
+                "52:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اس کو کوئی نہیں ہٹانے والا</h2>"
+        },
+        "9": {
+            "verses": {
+                "52:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جس دن لرزے آسمان کپکپا کر</h2>"
+        },
+        "10": {
+            "verses": {
+                "52:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور پھریں پہاڑ چل کر</h2>"
+        },
+        "11": {
+            "verses": {
+                "52:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>سو خرابی ہے اس دن جھٹلانے والوں کو</h2>"
+        },
+        "12": {
+            "verses": {
+                "52:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جو باتیں بناتے ہیں کھیلتے ہوئے</h2>"
+        },
+        "13": {
+            "verses": {
+                "52:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جس دن کو دھکیلے جائیں دوزخ کی طرف دھکیل کر</h2>"
+        },
+        "14": {
+            "verses": {
+                "52:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>یہ ہے وہ آگ جس کو تم جھوٹ جانتے تھے</h2>"
+        },
+        "15": {
+            "verses": {
+                "52:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اب بھلا یہ جادو ہے یا تم کو نہیں سوجھتا</h2>"
+        },
+        "16": {
+            "verses": {
+                "52:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>چلے جاؤ اس کے اندر پھر تم صبر کرو یا نہ صبر کرو تم کو برابر ہے وہی بدلہ پاؤ گے جو کچھ تم کرتے تھے</p>"
+        },
+        "17": {
+            "verses": {
+                "52:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>جو ڈرنے والے ہیں وہ باغوں میں ہیں اور نعمت میں</h2>"
+        },
+        "18": {
+            "verses": {
+                "52:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>میوے کھاتے ہوئے جو ان کو دیئے ان کے رب نے اور بچایا ان کو ان کے رب نے دوزخ کے عذاب سے</p>"
+        },
+        "19": {
+            "verses": {
+                "52:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کھاؤ اور پیو رچتا ہوا بدلہ ان کاموں کا جو تم کرتے تھے</h2>"
+        },
+        "20": {
+            "verses": {
+                "52:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تکیہ لگائے بیٹھے تختوں پر برابر بچھے ہوئے قطار باندھ کر اور بیاہ دیں ہم نے ان کو حوریں بڑی آنکھوں والیاں</p>"
+        },
+        "21": {
+            "verses": {
+                "52:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جو لوگ یقین لائے اور ان کی راہ پر چلی ان کی اولاد ایمان سے پہنچا دیا ہم نے ان تک ان کی اولاد کو اور گھٹایا نہیں ہم نے ان سے ان کا کیا ذرا بھی ہر آدمی اپنی کمائی میں پھنسا ہے</p>"
+        },
+        "22": {
+            "verses": {
+                "52:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور تار لگا دیا ہم نے ان پر میووں کا اور گوشت کا جس چیز کو چاہیں</p>"
+        },
+        "23": {
+            "verses": {
+                "52:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جھپٹتے ہیں وہاں پیالہ نہ بکنا ہے اس شراب میں اور نہ گناہ میں ڈالنا</p>"
+        },
+        "24": {
+            "verses": {
+                "52:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور پھرتے ہیں ان کے پاس چھوکرے ان کے گویا وہ موتی ہیں اپنے غلاف کے اندر</p>"
+        },
+        "25": {
+            "verses": {
+                "52:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور منہ کیا بعضوں نے دوسروں کی طرف آپس میں پوچھتے ہوئے</h2>"
+        },
+        "26": {
+            "verses": {
+                "52:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>بولے ہم بھی تھے اس سے پہلے اپنے گھروں میں ڈرتے رہتے</h2>"
+        },
+        "27": {
+            "verses": {
+                "52:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر احسان کیا اللہ نے ہم پر اور بچا دیا ہم کو لو کے عذاب سے</h2>"
+        },
+        "28": {
+            "verses": {
+                "52:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>ہم پہلے سے پکارتے تھے اس کو بیشک وہی ہے نیک سلوک والا مہربان۔</p>"
+        },
+        "29": {
+            "verses": {
+                "52:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اب تو سمجھا دے کہ تو اپنے رب کے فضل سے نہ جنوں سے خبر لینے والا ہے اور نہ دیوانہ</p>"
+        },
+        "30": {
+            "verses": {
+                "52:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا کہتے ہیں یہ شاعر ہے ہم منتظر ہیں اس پر گردش زمانہ کے</h2>"
+        },
+        "31": {
+            "verses": {
+                "52:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تو کہہ تم منتظر رہو کہ میں بھی تمہارے ساتھ منتظر ہوں</h2>"
+        },
+        "32": {
+            "verses": {
+                "52:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا ان کی عقلیں یہی سکھلاتی ہیں ان کو یا یہ لوگ شرارت پر ہیں</p>"
+        },
+        "33": {
+            "verses": {
+                "52:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>یا کہتے ہیں یہ قرآن خود بنا لایا کوئی نہیں پر وہ یقین نہیں کرتے</p>"
+        },
+        "34": {
+            "verses": {
+                "52:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر چاہئے کہ لے آئیں کوئی بات اسی طرح کی اگر وہ سچے ہیں</h2>"
+        },
+        "35": {
+            "verses": {
+                "52:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا وہ بن گئے ہیں آپ ہی آپ یا وہی ہیں بنانے والے</h2>"
+        },
+        "36": {
+            "verses": {
+                "52:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>یا انہوں نے بنایا آسمانوں کو اور زمین کو کوئی نہیں پر وہ یقین نہیں کرتے</p>"
+        },
+        "37": {
+            "verses": {
+                "52:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا ان کے پاس ہیں خزانے تیرے رب کے یا وہی داروغہ ہیں</h2>"
+        },
+        "38": {
+            "verses": {
+                "52:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا ان کے پاس کوئی سیڑھی ہے جس پر سن آتے ہیں تو چاہئے لے آئے جو سنتا ہے ان میں ایک سند کھلی ہوئی</p>"
+        },
+        "39": {
+            "verses": {
+                "52:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا اس کے یہاں بیٹیاں ہیں اور تمہارے لئے بیٹے</h2>"
+        },
+        "40": {
+            "verses": {
+                "52:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا تو مانگتا ہے ان سے کچھ بدلہ سو ان پر تاوان کا بوجھ ہے</h2>"
+        },
+        "41": {
+            "verses": {
+                "52:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کیا ان کو خبر ہے بھید کی سو وہ لکھ رکھتے ہیں</h2>"
+        },
+        "42": {
+            "verses": {
+                "52:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا چاہتے ہیں کچھ داؤ کرنا سو جو منکر ہیں وہی آتے ہیں داؤ میں</p>"
+        },
+        "43": {
+            "verses": {
+                "52:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا ان کا کوئی حاکم ہے اللہ کے سوائے وہ اللہ پاک ہے ان کے شریک بنانے سے</p>"
+        },
+        "44": {
+            "verses": {
+                "52:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اگر دیکھیں ایک تختہ آسمان سے گرتا ہوا کہیں یہ بادل ہے گاڑھا</p>"
+        },
+        "45": {
+            "verses": {
+                "52:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سو تو چھوڑ دے ان کو یہاں تک کہ دیکھ لیں اپنے اس دن کو جس میں ان پر پڑے گی بجلی کی کڑک</p>"
+        },
+        "46": {
+            "verses": {
+                "52:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جس دن کام نہ آئے گا ان کو ان کا داؤ ذرا بھی اور نہ ان کو مدد پہنچے گی</p>"
+        },
+        "47": {
+            "verses": {
+                "52:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور ان گنہگاروں کے لئے ایک عذاب ہے اس سے ورے پر بہت ان میں کے نہیں جانتے</p>"
+        },
+        "48": {
+            "verses": {
+                "52:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور تو ٹھہرا وہ منتظر اپنے رب کے حکم کا تو تو ہماری آنکھوں کے سامنے ہے اور پاکی بیان کر اپنے رب کی خوبیاں جس وقت تو اٹھتا ہے</p>"
+        },
+        "49": {
+            "verses": {
+                "52:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کچھ رات میں بول اس کی پاکی اور پیٹھ پھیرتے وقت تاروں کے۔</p>"
+        }
+    }
+}

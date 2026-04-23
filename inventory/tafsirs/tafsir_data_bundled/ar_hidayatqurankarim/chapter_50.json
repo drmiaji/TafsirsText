@@ -1,0 +1,725 @@
+{
+    "chapter": 50,
+    "verses": {
+        "1": {
+            "verses": {
+                "50:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>بلغ القرآنُ الغايةَ في الحُسن والمجد، وحَريٌّ بأتباعه أن يرتقوا إلى عَليائه؛ إيمانًا به، وعملًا بهديه.</p>\n<p>__________</p>"
+        },
+        "2": {
+            "verses": {
+                "50:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>العَجَبُ أن يستنكرَ الكفَّارُ نبوَّةَ البشَر، ولا يستَنكفوا عن السُّجود لما صنعوا من حَجَر!</p>\n<p>__________</p>\n<p>حــين يستحـكمُ بالمـرء الهـوى والباطل، يُنكر البديهيَّات، ويستنكر المسلَّمات.</p>\n<p>__________</p>"
+        },
+        "3": {
+            "verses": {
+                "50:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>الإيمانُ بالبعث ثمرةٌ من ثمار الإيمان بالله تعالى وبحكمته وعدله وسائر صفات كماله.</p>\n<p>__________</p>\n<p>لا يُنكر البعثَ إلا من عميَ عن غاية الحياة، ولم ينظُر إليها بعين العقل والحكمة.</p>\n<p>__________</p>"
+        },
+        "4": {
+            "verses": {
+                "50:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>أحاط الله سبحانه بكلِّ شيء علمًا؛ وهيهاتَ يَعزُب عنه شيءٌ من أحوال خَلقه.</p>\n<p>__________</p>\n<p>أنَّى للمؤمن أن يحيدَ عن الصِّراط، وقد علم أن الكتاب حافظٌ لكلِّ صغيرة وكبيرة من عمله؟!</p>\n<p>__________</p>"
+        },
+        "5": {
+            "verses": {
+                "50:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>قال الحسن البصريُّ: (ما ترك قومٌ الحقَّ إلا مَرَجَ أمرُهُم). أي اختلط.</p>\n<p>__________</p>\n<p>الجاحدون للحقِّ لا يُهدَون إلى الصَّواب، وهم أبدًا في شكٍّ وضيق واضطراب، والمصدِّقون بالحقِّ يوفَّقون إلى بصيرةٍ هادية، ويحيَون في راحة وسكينةٍ وافية.</p>\n<p>__________</p>"
+        },
+        "6": {
+            "verses": {
+                "50:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>التفكُّر في صُنع الله وآلائه يهدي العقول الحَيرى، إلى الإيمان بالحقائق الكُبرى.</p>\n<p>__________</p>\n<p>جمالُ السماء في عَليائها، وإحكامُ خَلقها وصَنعتها، دليلٌ بيِّن على كمال صانعها وباريها.</p>\n<p>__________</p>"
+        },
+        "7": {
+            "verses": {
+                "50:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>إن الله خلق الأرض وما عليها على أحسن صورة وأحكم نظام، فما أكثرَ الآياتِ من حولنا الشاهدةَ على قدرة الله وعظمة خلقه، ولكن قليلٌ من يتفكَّر!</p>\n<p>__________</p>"
+        },
+        "8": {
+            "verses": {
+                "50:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>مفتاح التبصُّر والتذكُّر إخلاصُ العبودية لله، وإنابةُ العبد لمولاه.</p>\n<p>__________</p>\n<p>لا يتبصَّر في آيات الله الكونيَّة إلا من تفكَّر فيها وتدبَّر، وجعلها سُلَّمًا للافتكار والاعتبار.</p>\n<p>__________</p>"
+        },
+        "9": {
+            "verses": {
+                "50:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>إن نِعَمَ الله تحُفُّ بنا من كلِّ جانب، ومن أعظمها الماءُ الذي جعل الله منه كلَّ شيء حيٍّ، فله الحمدُ على ما أنعَم.</p>\n<p>__________</p>\n<p>مطرُ السماء آيةٌ يُحيي الله بها قلوبَ الناس بالبهجة والبِشر، قبل أن يُحييَ بها الأرضَ بعد جَدْب وقَفر.</p>\n<p>__________</p>"
+        },
+        "10": {
+            "verses": {
+                "50:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>ما أجدرَ المسلمَ أن يكونَ كالنخل؛ اعتزازًا وشُموخًا، وعطاء وجُودًا، وقد شبَّه النبيُّ ﷺ المسلمَ بها.</p>\n<p>__________</p>"
+        },
+        "11": {
+            "verses": {
+                "50:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من عظيم رحمة الله أنه لم يَقصِر رزقَه على المؤمنين الطائعين، ولكنَّه تكفَّل برزق عباده أجمعين، ولو كانوا كافرين مكذِّبين.</p>\n<p>__________</p>\n<p>أفاضَ الله الكريم على خَلقه بصُنوف الخير والرزق، ولكن قليلٌ من عباده الشَّكور.</p>\n<p>__________</p>\n<p>إن الذي أخرج من النَّواة النخلَ، وأحيا الأرضَ بعد موتها لقادرٌ على إحياء الناس للحساب، فاعتبروا يا أولي الأبصار.</p>\n<p>__________</p>\n<p>العاقل من تفكَّر في تصريف الله لكونه، وتأمَّل بديعَ صفاته، وكمالَ قُدرته.</p>\n<p>__________</p>"
+        },
+        "12": {
+            "verses": {
+                "50:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من سُنن الله في خَلقه أن يُهلكَ من يجحَد دينَه، ويكذِّب أنبياءه، جزاءً وِفاقًا.</p>\n<p>__________</p>\n<p>حَذارِ أن تسلكوا مسلكَ من سبقَ في التكذيب والنُّكران، فإن الله لا يُحابي أحدًا من خَلقه، ومصير المكذِّبين الهُلك والخُسران.</p>\n<p>__________</p>\n<p>هو درسٌ بليغٌ للدعاة في كلِّ مكان؛ أنِ اصبروا وصابروا، فما أكثرَ المكذِّبين بالرسُل على طول الزمان.</p>\n<p>__________</p>"
+        },
+        "13": {
+            "verses": {
+                "50:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من سُنن الله في خَلقه أن يُهلكَ من يجحَد دينَه، ويكذِّب أنبياءه، جزاءً وِفاقًا.</p>\n<p>__________</p>\n<p>حَذارِ أن تسلكوا مسلكَ من سبقَ في التكذيب والنُّكران، فإن الله لا يُحابي أحدًا من خَلقه، ومصير المكذِّبين الهُلك والخُسران.</p>\n<p>__________</p>\n<p>هو درسٌ بليغٌ للدعاة في كلِّ مكان؛ أنِ اصبروا وصابروا، فما أكثرَ المكذِّبين بالرسُل على طول الزمان.</p>\n<p>__________</p>"
+        },
+        "14": {
+            "verses": {
+                "50:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من سُنن الله في خَلقه أن يُهلكَ من يجحَد دينَه، ويكذِّب أنبياءه، جزاءً وِفاقًا.</p>\n<p>__________</p>\n<p>حَذارِ أن تسلكوا مسلكَ من سبقَ في التكذيب والنُّكران، فإن الله لا يُحابي أحدًا من خَلقه، ومصير المكذِّبين الهُلك والخُسران.</p>\n<p>__________</p>\n<p>هو درسٌ بليغٌ للدعاة في كلِّ مكان؛ أنِ اصبروا وصابروا، فما أكثرَ المكذِّبين بالرسُل على طول الزمان.</p>\n<p>__________</p>"
+        },
+        "15": {
+            "verses": {
+                "50:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>إنَّ إحياء الناس بعد موتهم أهونُ يقينًا من ابتداء خلقهم من عدَم، ولكن هيهاتَ أن يُبصرَ هذا من جُعل على أعينهم غِشاوة!</p>\n<p>__________</p>\n<p>اتِّباعُ الشَّهَوات وهوى النفس يصدُّ الإنسانَ عن إدراك أظهر الحقائق.</p>\n<p>__________</p>"
+        },
+        "16": {
+            "verses": {
+                "50:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>قد علم الله سبحانه ما يُكنُّه صدرُك، وما يَجول في ضميرك ونفسك، فحذارِ أن يطَّلعَ منك على ما لا يُرضيه.</p>\n<p>__________</p>"
+        },
+        "17": {
+            "verses": {
+                "50:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لا يؤاخِذُ الله عبدَه حتى يقيمَ عليه الحُجَّة من نفسه، وما تتبُّعُ الملَكَين لعمله إلا شهادةٌ تكون له أو عليه.</p>\n<p>__________</p>\n<p>لا مفرَّ للإنسان من السَّعي إلى تقوى الله سرًّا وعلانية، فإن الملَكَين عن يمينه وشِماله يرصُدان عملَه لا يفوتهما منه فائتة.</p>\n<p>__________</p>"
+        },
+        "18": {
+            "verses": {
+                "50:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لو علمتَ بمُخبِر يَرقُبُك ويتتبَّعك لأوجستَ منه خِيفة، وكنت منه على حذَر، فما بالُك بمَن يرقُب أعمالك، ويكتب أقوالك؟!</p>\n<p>__________</p>"
+        },
+        "19": {
+            "verses": {
+                "50:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>الموت حقيقةُ الحقائق لا يُنكرها عاقل، ومن الخير لك أن تواجهَ هذه الحقيقةَ؛ بأن تُعدَّ لها العُدَّة.</p>\n<p>__________</p>\n<p>أيها الغافلُ اللاهي، إن فرارَك من الموت ما هو في الواقع إلا إقبالٌ عليه، لأنه قدَرُك الذي لا مفرَّ منه، فتنبَّه!</p>\n<p>__________</p>"
+        },
+        "20": {
+            "verses": {
+                "50:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>أنَّى للعاقل أن يهنأَ وهو يعلم أن الملَك الموكَّل بالقَرْن يوشكُ أن ينفُخَ فيه للبعث والحساب؟</p>\n<p>__________</p>"
+        },
+        "21": {
+            "verses": {
+                "50:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>إنه لمشهدٌ مفزع حين تُساق الأنفس إلى الله ليحكم بين العباد، والشاهدُ حاضر ليُدليَ بشهادته بالحقِّ.</p>\n<p>__________</p>"
+        },
+        "22": {
+            "verses": {
+                "50:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لا تزول حُجُب الغَفلة التي تَحولُ بين المرء وقلبه إلا بالإيمان الصادق، ودوام ذِكر الله تعالى.</p>\n<p>__________</p>\n<p>مَن لم يرفَع عن عينيه في الدنيا غِشاء الشَّهَوات وغِطاء الشُّبهات رُفع عنه يومَ القيامة قَسرًا؛ ليُبصرَ بعينَي قلبه ما غَفَل عنه طويلًا.</p>\n<p>__________</p>"
+        },
+        "23": {
+            "verses": {
+                "50:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>ما تفعلُه في رحلة الحياة تجدُه مسطورًا بحذافيره في شهادة الملَك الموكَّل بك، فاملأ صحيفتَك بما تحبُّ أن تراه غدًا؛ خيرًا أو شرًّا.</p>\n<p>__________</p>"
+        },
+        "24": {
+            "verses": {
+                "50:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>مضى زمنُ الإمهال وحان وقتُ الحساب، فمَن آثرَ الكفرَ على الإيمان استحقَّ أشدَّ العقاب.</p>\n<p>__________</p>\n<p>العِنادُ صفةٌ ذميمة تحولُ بين المرء وقَبول الحقِّ مهما أُقيم عليه من حُجَج، وظهر له من بيِّنات.</p>\n<p>__________</p>"
+        },
+        "25": {
+            "verses": {
+                "50:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>مضى زمنُ الإمهال وحان وقتُ الحساب، فمَن آثرَ الكفرَ على الإيمان استحقَّ أشدَّ العقاب.</p>\n<p>__________</p>\n<p>العِنادُ صفةٌ ذميمة تحولُ بين المرء وقَبول الحقِّ مهما أُقيم عليه من حُجَج، وظهر له من بيِّنات.</p>\n<p>__________</p>"
+        },
+        "26": {
+            "verses": {
+                "50:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لا يقتصر الشِّركُ على السُّجود للحَجَر والشَّجَر، فكم من شِركٍ دون ذلك، يورد صاحبه المهالك.</p>\n<p>__________</p>"
+        },
+        "27": {
+            "verses": {
+                "50:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>ما أسرعَ أن يتبرَّأ شيطانُك منك ومن عملك؛ ليَذرَك وحدَك في مواجهة مصيرك المحتوم، كما تبرَّأ من المشركين يومَ بدر!</p>\n<p>__________</p>\n<p>مَن انحرفَ عن درب الهُدى يوشك أن يضلَّ، فإن مضى في السَّير ازداد من الحقِّ بُعدًا.</p>\n<p>__________</p>"
+        },
+        "28": {
+            "verses": {
+                "50:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لا ينفعُ أهلَ الضَّلال تخاصمُهم وتلاومُهم واعتذارُهم يوم القيامة؛ إذ أُقيمَت عليهم الحُجَّة من قبل.</p>\n<p>__________</p>"
+        },
+        "29": {
+            "verses": {
+                "50:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من سنن الله التي لا تتغيَّر: أنَّ المحسنَ يُكافأ بالإحسان، وأنَّ المسيء مستحقٌّ للعقوبة والحرمان.</p>\n<p>__________</p>"
+        },
+        "30": {
+            "verses": {
+                "50:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>لا تفتأ جهنَّم تطلب المزيدَ من الكفَّار والعُصاة، فلنحذَر أن نكونَ من أهلها.</p>\n<p>__________</p>"
+        },
+        "31": {
+            "verses": {
+                "50:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>يا له من شرفٍ للمؤمن الذي تقرَّب إلى ربِّه في الدنيا؛ تُدنى منه الجنَّة على جلالها وتقرَّبُ إليه؛ مبالغةً في تكريمه والإنعام عليه.</p>\n<p>__________</p>"
+        },
+        "32": {
+            "verses": {
+                "50:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>وعدُ الله كائنٌ لا محالة، فلنتجمَّل بحفظ العهد والرجوع دومًا إلى الحقِّ؛ لنفوزَ بجميل وعده سبحانه.</p>\n<p>__________</p>\n<p>إذا ما خلَوتَ يومًا بنفسك، ودعَتكَ إلى معصية ربِّك، فذكِّرها بما أعدَّ الله للأوَّابين، فلا أخسرَ ممَّن باع هذه المنزلةَ بشهوة عابرة.</p>\n<p>__________</p>"
+        },
+        "33": {
+            "verses": {
+                "50:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>وعدُ الله كائنٌ لا محالة، فلنتجمَّل بحفظ العهد والرجوع دومًا إلى الحقِّ؛ لنفوزَ بجميل وعده سبحانه.</p>\n<p>__________</p>\n<p>إذا ما خلَوتَ يومًا بنفسك، ودعَتكَ إلى معصية ربِّك، فذكِّرها بما أعدَّ الله للأوَّابين، فلا أخسرَ ممَّن باع هذه المنزلةَ بشهوة عابرة.</p>\n<p>__________</p>"
+        },
+        "34": {
+            "verses": {
+                "50:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>مسكينٌ من يفوته هذا المدخل الكريم: خلودٌ أبديّ، وبقاءٌ سَرمَديّ، في نعيم لا يَزول، وسعادة لا تَحول.</p>\n<p>__________</p>"
+        },
+        "35": {
+            "verses": {
+                "50:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>عطاء الله غيرُ محدود، وكرمُه لا تحُدُّه حدود، يثيب أهلَ جنَّته بتحقيق مآربهم وما يشتهون، ويزيدُهم من فضله أضعافَ أضعافِ ما يؤمِّلون.</p>\n<p>__________</p>"
+        },
+        "36": {
+            "verses": {
+                "50:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>مَن لم يعتبِر بمصير الأمم الجاحدة قبله أصابه ما أصابهم من بطشٍ وتنكيل.</p>\n<p>__________</p>\n<p>لا يُنجي من سخَط الله قوَّةٌ ولا حيلةٌ ولا تدبير، فخيرٌ لك أيها المغرورُ أن تفرَّ إلى مولاك؛ لتأمنَ انتقامَه وعقوبتَه.</p>\n<p>__________</p>"
+        },
+        "37": {
+            "verses": {
+                "50:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>أكثر القلوب انتفاعًا بالمواعظ والبصائر هي القلوبُ التي تميلُ لسماع القرآن كما تميلُ الأذنُ لسماع الصَّوت الحسن.</p>\n<p>__________</p>\n<p>إن لم تكن قادرًا على تدبُّر الآيات بنفسك، فلا أقلَّ من أن تُصغيَ باهتمام لمن يُبصِّرك بها.</p>\n<p>__________</p>\n<p>إذا وجدتَّ أنك تسمع القرآنَ ولا تتأثَّر به، ففتِّش عن علَّة في قلبك، فإنه أعظم كلام.</p>\n<p>__________</p>"
+        },
+        "38": {
+            "verses": {
+                "50:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>من الأدلَّة على كمال قدرة الله سبحانه إيجادُه أعظمَ مخلوقاته من عدَم، دون تعَب ولا نصَب.</p>\n<p>__________</p>\n<p>لو شاء الله أن يخلقَ الكونَ كلَّه في لحظـة لفعـلَ سبحـانه، ولكـن فيمـا اختـاره توجيـهٌ لطيف للإنسان، بضرورة التأنِّي في العمل والإتقان.</p>\n<p>__________</p>"
+        },
+        "39": {
+            "verses": {
+                "50:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>طريقُ الدعوة محفوفٌ بالابتلاء، وألوان المصاعب والإيذاء، وعلى الدعاة أن يوطِّنوا أنفسَهم على الصبر في مقارعة الباطل.</p>\n<p>__________</p>\n<p>ممَّا يُعين الداعيةَ على التجلُّد والصَّبر، الصلاةُ ودوامُ التسبيح والذِّكر.</p>\n<p>__________</p>"
+        },
+        "40": {
+            "verses": {
+                "50:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>طريقُ الدعوة محفوفٌ بالابتلاء، وألوان المصاعب والإيذاء، وعلى الدعاة أن يوطِّنوا أنفسَهم على الصبر في مقارعة الباطل.</p>\n<p>__________</p>\n<p>ممَّا يُعين الداعيةَ على التجلُّد والصَّبر، الصلاةُ ودوامُ التسبيح والذِّكر.</p>\n<p>__________</p>"
+        },
+        "41": {
+            "verses": {
+                "50:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>الفطِن يكون دائمًا على ترقُّب واستعداد، لنداء الملَك للبعث والحساب، حين يصل نداؤه إلى كل الخلائق على السوية، ويقول: هلموا إلى الحساب، فيخرجون من قبورهم كأنهم جراد منتشر.</p>\n<p>__________</p>"
+        },
+        "42": {
+            "verses": {
+                "50:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>الفطِن يكون دائمًا على ترقُّب واستعداد، لنداء الملَك للبعث والحساب، حين يصل نداؤه إلى كل الخلائق على السوية، ويقول: هلموا إلى الحساب، فيخرجون من قبورهم كأنهم جراد منتشر.</p>\n<p>__________</p>"
+        },
+        "43": {
+            "verses": {
+                "50:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>إن الذي يتفرَّد بالخَلق والتدبير والإحياء والإماتة، لجديرٌ أن يُفردَ وحدَه بالتعظيم والعبادة.</p>\n<p>__________</p>"
+        },
+        "44": {
+            "verses": {
+                "50:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>يا له من مشهد؛ حين يُحشَر الخلقُ كلُّهم في صَعيد واحد للحساب، لا يُنجي المرءَ يومئذٍ إلا عملُه!</p>\n<p>__________</p>\n<p>ما يبدو لنا صعبًا عسيرًا، هو عند الله سهلٌ يسير، فما أضعفَ المخلوقَ، وما أعظمَ الخالق!</p>\n<p>__________</p>"
+        },
+        "45": {
+            "verses": {
+                "50:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 105,
+            "resource_name": "Tafsir Ar Hidayatqurankarim",
+            "language_id": 38,
+            "slug": "ar_hidayatqurankarim",
+            "translated_name": {
+                "name": "Tafsir Ar Hidayatqurankarim",
+                "language_name": "english"
+            },
+            "text": "<p>أيها الدعاةُ، إنما وظيفتكم تبليغُ رسالة الإسلام وتبيينُ شرع الله، وهو سبحانه أعلمُ بخصومكم، وعند الله تجتمعُ الخصوم.</p>\n<p>__________</p>\n<p>القرآن تبصرةٌ وعِظة، فيه الحجَّةُ البالغة والموعظةُ البليغة، ولكن هيهاتَ أن ينتفعَ به إلا من يخافُ الوعيد، ويطمعُ بالموعود.</p>\n<p>__________</p>"
+        }
+    }
+}

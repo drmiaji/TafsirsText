@@ -1,0 +1,85 @@
+{
+    "chapter": 105,
+    "verses": {
+        "1": {
+            "verses": {
+                "105:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi mo ba nalaman, O Sugo, kung papaano ang ginawa ng Panginoon mo kay Abrahah at sa mga kasamahan niyang mga kasamahan ng elepante nang nagnais sila ng pagwasak ng Ka`bah?</p>"
+        },
+        "2": {
+            "verses": {
+                "105:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Talaga ngang gumawa si Allāh sa pagpapanukala nilang masagwa para sa pagwasak ng Ka`bah [na mauwi] sa isang pagkasayang sapagkat hindi sila nagtamo ng minithi nila na pagpapabaling sa mga tao palayo sa Ka`bah at hindi sila nagtamo mula roon ng anuman.</p>"
+        },
+        "3": {
+            "verses": {
+                "105:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpadala Siya sa kanila ng mga ibon na pumunta sa kanila nang pangkat-pangkat,</p>"
+        },
+        "4": {
+            "verses": {
+                "105:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>na nagpupukol sa kanila ng mga batong mula sa luwad na nagsabato.</p>"
+        },
+        "5": {
+            "verses": {
+                "105:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya gumawa sa kanila si Allāh gaya ng mga dahon ng pananim na kinainan ng mga hayop at tinapakan ng mga ito.</p>"
+        }
+    }
+}

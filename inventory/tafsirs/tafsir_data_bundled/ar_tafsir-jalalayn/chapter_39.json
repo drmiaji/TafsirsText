@@ -1,0 +1,980 @@
+{
+  "chapter": 39,
+  "verses": {
+    "1": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p>سُورَة الزُّمَر [ مَكِّيَّة إلّا الآيات ٥٢ و٥٣ و٥٤ فَمَدَنِيَّة وآياتها ٧٥ نَزَلَتْ بَعْد سَبَأ ]</p><p><span class=\"qpc-hafs\">﴿تَنْزِيل الكِتاب﴾</span> القُرْآن مُبْتَدَأ <span class=\"qpc-hafs\">﴿مِنَ اللَّه﴾</span> خَبَره <span class=\"qpc-hafs\">﴿العَزِيز﴾</span> فِي مُلْكه <span class=\"qpc-hafs\">﴿الحَكِيم﴾</span> فِي صُنْعه</p></div>",
+      "verses": {
+        "39:1": {
+          "id": 4059
+        }
+      }
+    },
+    "2": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنّا أنْزَلْنا إلَيْك﴾</span> يا مُحَمَّد <span class=\"qpc-hafs\">﴿الكِتاب بِالحَقِّ﴾</span> مُتَعَلِّق بِأَنْزَل <span class=\"qpc-hafs\">﴿فاعْبُدِ اللَّه مُخْلِصًا لَهُ الدِّين﴾</span> مِن الشِّرْك: أيْ مُوَحِّدًا لَهُ</p></div>",
+      "verses": {
+        "39:2": {
+          "id": 4060
+        }
+      }
+    },
+    "3": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ألا لِلَّهِ الدِّين الخالِص﴾</span> لا يَسْتَحِقّهُ غَيْره <span class=\"qpc-hafs\">﴿والَّذِينَ اتَّخَذُوا مِن دُونه﴾</span> عِبادَة الأَصْنام <span class=\"qpc-hafs\">﴿أوْلِياء﴾</span> وهُمْ كُفّار مَكَّة قالُوا: <span class=\"qpc-hafs\">﴿ما نَعْبُدهُمْ إلّا لِيُقَرِّبُونا إلى اللَّه زُلْفى﴾</span> قُرْبى مَصْدَر بِمَعْنى تَقْرِيبًا <span class=\"qpc-hafs\">﴿إنّ اللَّه يَحْكُم بَيْنهمْ﴾</span> وبَيْن المُسْلِمِينَ <span class=\"qpc-hafs\">﴿فِي ما هُمْ فِيهِ يَخْتَلِفُونَ﴾</span> مِن أمْر الدِّين فَيَدْخُل المُؤْمِنِينَ الجَنَّة والكافِرِينَ النّار <span class=\"qpc-hafs\">﴿إنّ اللَّه لا يَهْدِي مَن هُوَ كاذِب﴾</span> فِي نِسْبَة الوَلَد إلَيْهِ <span class=\"qpc-hafs\">﴿كُفّار﴾</span> بِعِبادَتِهِ غَيْر اللَّه</p></div>",
+      "verses": {
+        "39:3": {
+          "id": 4061
+        }
+      }
+    },
+    "4": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَوْ أرادَ اللَّه أنْ يَتَّخِذ ولَدًا﴾</span> كَما قالُوا: <span class=\"qpc-hafs\">﴿اتَّخَذَ الرَّحْمَن ولَدًا﴾</span> <span class=\"qpc-hafs\">﴿لاصْطَفى مِمّا يَخْلُق ما يَشاء﴾</span> واِتَّخَذَهُ ولَدًا غَيْر مَن قالُوا مِن المَلائِكَة بَنات اللَّه وعُزَيْر ابْن اللَّه والمَسِيح ابْن اللَّه <span class=\"qpc-hafs\">﴿سُبْحانه﴾</span> تَنْزِيهًا لَهُ عَنْ اتِّخاذ الوَلَد <span class=\"qpc-hafs\">﴿هُوَ اللَّه الواحِد القَهّار﴾</span> لِخَلْقِهِ</p></div>",
+      "verses": {
+        "39:4": {
+          "id": 4062
+        }
+      }
+    },
+    "5": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿خَلَقَ السَّمَوات والأَرْض بِالحَقِّ﴾</span> مُتَعَلِّق بخَلَقَ <span class=\"qpc-hafs\">﴿يُكَوِّر﴾</span> يُدْخِل <span class=\"qpc-hafs\">﴿اللَّيْل عَلى النَّهار﴾</span> فَيَزِيد <span class=\"qpc-hafs\">﴿ويُكَوِّر النَّهار﴾</span> يُدْخِلهُ <span class=\"qpc-hafs\">﴿عَلى اللَّيْل﴾</span> فَيَزِيد <span class=\"qpc-hafs\">﴿وسَخَّرَ الشَّمْس والقَمَر كُلّ يَجْرِي﴾</span> فِي فُلْكه <span class=\"qpc-hafs\">﴿لِأَجَلٍ مُسَمّى﴾</span> لِيَوْمِ القِيامَة <span class=\"qpc-hafs\">﴿ألا هُوَ العَزِيز﴾</span> الغالِب عَلى أمْره المُنْتَقِم مِن أعْدائِهِ <span class=\"qpc-hafs\">﴿الغَفّار﴾</span> لِأَوْلِيائِهِ</p></div>",
+      "verses": {
+        "39:5": {
+          "id": 4063
+        }
+      }
+    },
+    "6": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿خَلَقَكُمْ مِن نَفْس واحِدَة﴾</span> أيْ آدَم <span class=\"qpc-hafs\">﴿ثُمَّ جَعَلَ مِنها زَوْجها﴾</span> حَوّاء <span class=\"qpc-hafs\">﴿وأَنْزَلَ لَكُمْ مِنَ الأَنْعام﴾</span> الإبِل والبَقَر والغَنَم الضَّأْن والمَعْز <span class=\"qpc-hafs\">﴿ثَمانِيَة أزْواج﴾</span> مِن كُلٍّ زَوْجانِ ذَكَر وأُنْثى كَما بَيَّنَ فِي سُورَة الأَنْعام <span class=\"qpc-hafs\">﴿يَخْلُقكُمْ فِي بُطُون أُمَّهاتكُمْ خَلْقًا مِن بَعْد خَلْق﴾</span> أيْ نُطَفًا ثُمَّ عُلَقًا ثُمَّ مُضَغًا <span class=\"qpc-hafs\">﴿فِي ظُلُمات ثَلاث﴾</span> هِيَ ظُلْمَة البَطْن وظُلْمَة الرَّحِم وظُلْمَة المَشِيمَة <span class=\"qpc-hafs\">﴿ذَلِكُمُ اللَّه رَبّكُمْ لَهُ المُلْك لا إلَه إلّا هُوَ فَأَنّى تُصْرَفُونَ﴾</span> عَنْ عِبادَته إلى عِبادَة غَيْره</p></div>",
+      "verses": {
+        "39:6": {
+          "id": 4064
+        }
+      }
+    },
+    "7": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنْ تَكْفُرُوا فَإنَّ اللَّه غَنِيّ عَنْكُمْ ولا يَرْضى لِعِبادِهِ الكُفْر﴾</span> وإنْ أرادَهُ مِن بَعْضهمْ <span class=\"qpc-hafs\">﴿وإنْ تَشْكُرُوا﴾</span> اللَّه فَتُؤْمِنُوا <span class=\"qpc-hafs\">﴿يَرْضَهْ﴾</span> بِسُكُونِ الهاء وضَمّها مَعَ إشْباع ودُونه: أيْ الشُّكْر <span class=\"qpc-hafs\">﴿لَكُمْ ولا تَزِر﴾</span> نَفْس <span class=\"qpc-hafs\">﴿وازِرَة وِزْر﴾</span> نَفْس <span class=\"qpc-hafs\">﴿أُخْرى﴾</span> أيْ لا تَحْمِلهُ <span class=\"qpc-hafs\">﴿ثُمَّ إلى رَبّكُمْ مَرْجِعكُمْ فَيُنَبِّئكُمْ بِما كُنْتُمْ تَعْمَلُونَ إنّهُ عَلِيم بِذاتِ الصُّدُور﴾</span> بِما فِي القُلُوب</p></div>",
+      "verses": {
+        "39:7": {
+          "id": 4065
+        }
+      }
+    },
+    "8": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وإذا مَسَّ الإنْسانَ﴾</span> أيْ الكافِرَ <span class=\"qpc-hafs\">﴿ضُرٌّ دَعا رَبّه﴾</span> تَضَرَّعَ <span class=\"qpc-hafs\">﴿مُنِيبًا﴾</span> راجِعًا <span class=\"qpc-hafs\">﴿إلَيْهِ ثُمَّ إذا خَوَّلَهُ نِعْمَة﴾</span> أعْطاهُ إنْعامًا <span class=\"qpc-hafs\">﴿مِنهُ نَسِيَ﴾</span> تَرَكَ <span class=\"qpc-hafs\">﴿ما كانَ يَدْعُو﴾</span> ما فِي مَوْضِع مَن يَتَضَرَّع <span class=\"qpc-hafs\">﴿إلَيْهِ مِن قَبْل﴾</span> وهُوَ اللَّه <span class=\"qpc-hafs\">﴿وجَعَلَ لِلَّهِ أنْدادًا﴾</span> شُرَكاء <span class=\"qpc-hafs\">﴿لِيُضِلّ﴾</span> بِفَتْحِ الياء وضَمّها <span class=\"qpc-hafs\">﴿عَنْ سَبِيله﴾</span> دِين الإسْلام <span class=\"qpc-hafs\">﴿قُلْ تَمَتَّعْ بِكُفْرِك قَلِيلًا﴾</span> بَقِيَّة أجَلك</p></div>",
+      "verses": {
+        "39:8": {
+          "id": 4066
+        }
+      }
+    },
+    "9": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أمَّنْ﴾</span> بِتَخْفِيفِ المِيم وفِي قِراءَة أمْ مَن فَأَمْ بِمَعْنى بَلْ والهَمْزَة <span class=\"qpc-hafs\">﴿هُوَ قانِت﴾</span> قائِم بِوَظائِف الطّاعات <span class=\"qpc-hafs\">﴿آناء اللَّيْل﴾</span> ساعاته <span class=\"qpc-hafs\">﴿ساجِدًا وقائِمًا﴾</span> فِي الصَّلاة <span class=\"qpc-hafs\">﴿يَحْذَر الآخِرَة﴾</span> أيْ يَخاف عَذابها <span class=\"qpc-hafs\">﴿ويَرْجُو رَحْمَة﴾</span> جَنَّة <span class=\"qpc-hafs\">﴿رَبّه﴾</span> كَمَن هُوَ عاصٍ بِالكُفْرِ أوْ غَيْره <span class=\"qpc-hafs\">﴿قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ والَّذِينَ لا يَعْلَمُونَ﴾</span> أيْ لا يَسْتَوِيانِ كَما لا يَسْتَوِي العالِم والجاهِل <span class=\"qpc-hafs\">﴿إنّما يَتَذَكَّر﴾</span> يَتَّعِظ <span class=\"qpc-hafs\">﴿أُولُو الأَلْباب﴾</span> أصْحاب العُقُول</p></div>",
+      "verses": {
+        "39:9": {
+          "id": 4067
+        }
+      }
+    },
+    "10": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ يا عِباد الَّذِينَ آمَنُوا اتَّقُوا رَبّكُمْ﴾</span> أيْ عَذابه بِأَنْ تُطِيعُوهُ <span class=\"qpc-hafs\">﴿لِلَّذِينَ أحْسَنُوا فِي هَذِهِ الدُّنْيا﴾</span> بِالطّاعَةِ <span class=\"qpc-hafs\">﴿حَسَنَة﴾</span> هِيَ الجَنَّة <span class=\"qpc-hafs\">﴿وأَرْض اللَّه واسِعَة﴾</span> فَهاجِرُوا إلَيْها مِن بَيْن الكُفّار ومُشاهَدَة المُنْكَرات <span class=\"qpc-hafs\">﴿إنّما يُوَفّى الصّابِرُونَ﴾</span> عَلى الطّاعَة وما يُبْتَلَوْنَ بِهِ <span class=\"qpc-hafs\">﴿أجْرهمْ بِغَيْرِ حِساب﴾</span> بِغَيْرِ مِكْيال ولا مِيزان</p></div>",
+      "verses": {
+        "39:10": {
+          "id": 4068
+        }
+      }
+    },
+    "11": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ إنِّي أُمِرْت أنْ أعْبُدَ اللَّهَ مُخْلِصًا لَهُ الدِّين﴾</span> مِنَ الشِّرْك</p></div>",
+      "verses": {
+        "39:11": {
+          "id": 4069
+        }
+      }
+    },
+    "12": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وأُمِرْت لِأَنْ﴾</span> أيْ بِأَنْ <span class=\"qpc-hafs\">﴿أكُونَ أوَّل المُسْلِمِينَ﴾</span> مِن هَذِهِ الأُمَّة</p></div>",
+      "verses": {
+        "39:12": {
+          "id": 4070
+        }
+      }
+    },
+    "13": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar></div>",
+      "verses": {
+        "39:13": {
+          "id": 4071
+        }
+      }
+    },
+    "14": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلِ اللَّه أعْبُد مُخْلِصًا لَهُ دِينِي﴾</span> مِنَ الشِّرْك</p></div>",
+      "verses": {
+        "39:14": {
+          "id": 4072
+        }
+      }
+    },
+    "15": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فاعْبُدُوا ما شِئْتُمْ مِن دُونه﴾</span> غَيْره فِيهِ تَهْدِيد لَهُمْ وإيذان بِأَنَّهُمْ لا يَعْبُدُونَ اللَّه تَعالى <span class=\"qpc-hafs\">﴿قُلْ إنّ الخاسِرِينَ الَّذِينَ خَسِرُوا أنْفُسهمْ وأَهْلِيهِمْ يَوْم القِيامَة﴾</span> بِتَخْلِيدِ الأَنْفُس فِي النّار وبِعَدَمِ وُصُولهمْ إلى الحُور المُعَدَّة لَهُمْ فِي الجَنَّة لَوْ آمَنُوا <span class=\"qpc-hafs\">﴿ألا ذَلِكَ هُوَ الخَسْران المُبِين﴾</span> البَيِّن</p></div>",
+      "verses": {
+        "39:15": {
+          "id": 4073
+        }
+      }
+    },
+    "16": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَهُمْ مِن فَوْقهمْ ظُلَل﴾</span> طِباق <span class=\"qpc-hafs\">﴿مِنَ النّار ومِن تَحْتهمْ ظُلَل﴾</span> مِنَ النّار <span class=\"qpc-hafs\">﴿ذَلِكَ يُخَوِّف اللَّه بِهِ عِباده﴾</span> أيْ المُؤْمِنِينَ لِيَتَّقُوهُ يَدُلّ عَلَيْهِ</p></div>",
+      "verses": {
+        "39:16": {
+          "id": 4074
+        }
+      }
+    },
+    "17": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿والَّذِينَ اجْتَنَبُوا الطّاغُوت﴾</span> الأَوْثان <span class=\"qpc-hafs\">﴿أنْ يَعْبُدُوها وأَنابُوا﴾</span> أقْبَلُوا <span class=\"qpc-hafs\">﴿إلى اللَّه لَهُمُ البُشْرى﴾</span> بِالجَنَّةِ</p></div>",
+      "verses": {
+        "39:17": {
+          "id": 4075
+        }
+      }
+    },
+    "18": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿الَّذِينَ يَسْتَمِعُونَ القَوْل فَيَتَّبِعُونَ أحْسَنَهُ﴾</span> وهُوَ ما فِيهِ صَلاحهمْ <span class=\"qpc-hafs\">﴿أُولَئِكَ الَّذِينَ هَداهُمْ اللَّه وأُولَئِكَ هُمُ أُولُو الأَلْباب﴾</span> أصْحاب العُقُول</p></div>",
+      "verses": {
+        "39:18": {
+          "id": 4076
+        }
+      }
+    },
+    "19": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أفَمَن حَقَّ عَلَيْهِ كَلِمَة العَذاب﴾</span> أيْ: <span class=\"qpc-hafs\">﴿لَأَمْلَأَن جَهَنَّم﴾</span> الآيَة <span class=\"qpc-hafs\">﴿أفَأَنْتَ تُنْقِذ﴾</span> تُخْرِج <span class=\"qpc-hafs\">﴿مَن فِي النّار﴾</span> جَواب الشَّرْط وأُقِيمَ فِيهِ الظّاهِر مَقام المُضْمَر والهَمْزَة لِلْإنْكارِ والمَعْنى لا تَقْدِر عَلى هِدايَته فَتُنْقِذهُ مِن النّار</p></div>",
+      "verses": {
+        "39:19": {
+          "id": 4077
+        }
+      }
+    },
+    "20": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَكِنِ الَّذِينَ اتَّقُوا رَبّهمْ﴾</span> بِأَنْ أطاعُوهُ <span class=\"qpc-hafs\">﴿لَهُمْ غُرَف مِن فَوْقها غُرَف مَبْنِيَّة تَجْرِي مِن تَحْتها الأَنْهار﴾</span> أيْ مِن تَحْت الغُرَف الفَوْقانِيَّة والتَّحْتانِيَّة <span class=\"qpc-hafs\">﴿وعْد اللَّه﴾</span> مَنصُوب بِفِعْلِهِ المُقَدَّر <span class=\"qpc-hafs\">﴿لا يُخْلِف اللَّه المِيعاد﴾</span> وعْده</p></div>",
+      "verses": {
+        "39:20": {
+          "id": 4078
+        }
+      }
+    },
+    "21": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ألَمْ تَرَ﴾</span> تَعْلَم <span class=\"qpc-hafs\">﴿أنَّ اللَّه أنْزَلَ مِنَ السَّماء ماء فَسَلَكَهُ يَنابِيع﴾</span> أدْخَلَهُ أمْكِنَة نَبْع <span class=\"qpc-hafs\">﴿فِي الأَرْض ثُمَّ يُخْرِج بِهِ زَرْعًا مُخْتَلِفًا ألْوانه ثُمَّ يَهِيج﴾</span> يَيْبَس <span class=\"qpc-hafs\">﴿فَتَراهُ﴾</span> بَعْد الخُضْرَة مَثَلًا <span class=\"qpc-hafs\">﴿مُصْفَرًّا ثُمَّ يَجْعَلهُ حُطامًا﴾</span> فُتاتًا <span class=\"qpc-hafs\">﴿إنّ فِي ذَلِكَ لَذِكْرى﴾</span> تَذْكِيرًا <span class=\"qpc-hafs\">﴿لِأُولِي الأَلْباب﴾</span> يَتَذَكَّرُونَ بِهِ لِدَلالَتِهِ عَلى وحْدانِيَّة اللَّه تَعالى وقُدْرَته</p></div>",
+      "verses": {
+        "39:21": {
+          "id": 4079
+        }
+      }
+    },
+    "22": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أفَمَن شَرَحَ اللَّه صَدْره لِلْإسْلامِ﴾</span> فاهْتَدى <span class=\"qpc-hafs\">﴿فَهُوَ عَلى نُور مِن رَبّه﴾</span> كَمَن طُبِعَ عَلى قَلْبه دَلَّ عَلى هَذا <span class=\"qpc-hafs\">﴿فَوَيْل﴾</span> كَلِمَة عَذاب <span class=\"qpc-hafs\">﴿لِلْقاسِيَةِ قُلُوبهمْ مِن ذِكْر اللَّه﴾</span> أيْ عَنْ قَبُول القُرْآن <span class=\"qpc-hafs\">﴿أُولَئِكَ فِي ضَلال مُبِين﴾</span> بَيِّن</p></div>",
+      "verses": {
+        "39:22": {
+          "id": 4080
+        }
+      }
+    },
+    "23": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿اللَّه نَزَّلَ أحْسَنَ الحَدِيث كِتابًا﴾</span> بَدَل مِن أحْسَن أيْ قُرْآنًا <span class=\"qpc-hafs\">﴿مُتَشابِهًا﴾</span> أيْ يُشْبِه بَعْضه بَعْضًا فِي النَّظْم وغَيْره <span class=\"qpc-hafs\">﴿مَثانِيَ﴾</span> ثُنِيَ فِيهِ الوَعْد والوَعِيد وغَيْرهما <span class=\"qpc-hafs\">﴿تَقْشَعِرّ مِنهُ﴾</span> تَرْتَعِد عِنْد ذِكْر وعِيده <span class=\"qpc-hafs\">﴿جُلُود الَّذِينَ يَخْشَوْنَ﴾</span> يَخافُونَ <span class=\"qpc-hafs\">﴿رَبّهمْ ثُمَّ تَلِينَ﴾</span> تَطْمَئِنّ <span class=\"qpc-hafs\">﴿جُلُودهمْ وقُلُوبهمْ إلى ذِكْر اللَّه﴾</span> أيْ عِنْد ذِكْر وعْده <span class=\"qpc-hafs\">﴿ذَلِكَ﴾</span> أيْ الكِتاب</p></div>",
+      "verses": {
+        "39:23": {
+          "id": 4081
+        }
+      }
+    },
+    "24": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أفَمَن يَتَّقِي﴾</span> يَلْقى <span class=\"qpc-hafs\">﴿بِوَجْهِهِ سُوء العَذاب يَوْم القِيامَة﴾</span> أيْ أشَدّه بِأَنْ يُلْقى فِي النّار مَغْلُولَة يَداهُ إلى عُنُقه كَمَن أمِنَ مِنهُ بِدُخُولِ الجَنَّة <span class=\"qpc-hafs\">﴿وقِيلَ لِلظّالِمِينَ﴾</span> أيْ كُفّار مَكَّة <span class=\"qpc-hafs\">﴿ذُوقُوا ما كُنْتُمْ تَكْسِبُونَ﴾</span> أيْ جَزاءَهُ</p></div>",
+      "verses": {
+        "39:24": {
+          "id": 4082
+        }
+      }
+    },
+    "25": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿كَذَّبَ الَّذِينَ مِن قَبْلهمْ﴾</span> رُسُلهمْ فِي إتْيان العَذاب <span class=\"qpc-hafs\">﴿فَأَتاهُمُ العَذاب مِن حَيْثُ لا يَشْعُرُونَ﴾</span> مِن جِهَة لا تَخْطِر بِبالِهِمْ</p></div>",
+      "verses": {
+        "39:25": {
+          "id": 4083
+        }
+      }
+    },
+    "26": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَأَذاقَهُمْ اللَّه الخِزْي﴾</span> الذُّلّ والهَوان مِن المَسْخ والقَتْل وغَيْره <span class=\"qpc-hafs\">﴿فِي الحَياة الدُّنْيا ولَعَذاب الآخِرَة أكْبَر لَوْ كانُوا﴾</span> أيْ المُكَذِّبُونَ <span class=\"qpc-hafs\">﴿يَعْلَمُونَ﴾</span> عَذابها ما كَذَّبُوا</p></div>",
+      "verses": {
+        "39:26": {
+          "id": 4084
+        }
+      }
+    },
+    "27": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولَقَدْ ضَرَبْنا﴾</span> جَعَلْنا <span class=\"qpc-hafs\">﴿لِلنّاسِ فِي هَذا القُرْآن مِن كُلّ مَثَل لَعَلَّهُمْ يَتَذَكَّرُونَ﴾</span> يَتَّعِظُونَ</p></div>",
+      "verses": {
+        "39:27": {
+          "id": 4085
+        }
+      }
+    },
+    "28": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُرْآنًا عَرَبِيًّا﴾</span> حال مُؤَكِّدَة <span class=\"qpc-hafs\">﴿غَيْر ذِي عِوَج﴾</span> أيْ لَبْس واخْتِلاف <span class=\"qpc-hafs\">﴿لَعَلَّهُمْ يَتَّقُونَ﴾</span> الكُفْر</p></div>",
+      "verses": {
+        "39:28": {
+          "id": 4086
+        }
+      }
+    },
+    "29": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ضَرَبَ اللَّه﴾</span> لِلْمُشْرِكِ والمُوَحِّد <span class=\"qpc-hafs\">﴿مَثَلًا رَجُلًا﴾</span> بَدَل مِن مَثَلًا <span class=\"qpc-hafs\">﴿فِيهِ شُرَكاء مُتَشاكِسُونَ﴾</span> مُتَنازِعُونَ سَيِّئَة أخْلاقهمْ <span class=\"qpc-hafs\">﴿ورَجُلًا سَلَمًا﴾</span> خالِصًا <span class=\"qpc-hafs\">﴿لِرَجُلٍ هَلْ يَسْتَوِيانِ مَثَلًا﴾</span> تَمْيِيز: أيْ لا يَسْتَوِي العَبْد لِجَماعَةٍ والعَبْد لِواحِدٍ فَإنَّ الأَوَّل إذا طَلَبَ مِنهُ كُلّ مِن مالِكَيْهِ خِدْمَته فِي وقْت واحِد تَحَيَّرَ فِيمَن يَخْدُمهُ مِنهُمْ وهَذا مَثَل لِلْمُشْرِكِ والثّانِي مَثَل لِلْمُوَحِّدِ <span class=\"qpc-hafs\">﴿الحَمْد لِلَّهِ﴾</span> وحْده <span class=\"qpc-hafs\">﴿بَلْ أكْثَرهمْ﴾</span> أيْ أهْل مَكَّة <span class=\"qpc-hafs\">﴿لا يَعْلَمُونَ﴾</span> ما يَصِيرُونَ إلَيْهِ مِن العَذاب فَيُشْرِكُونَ</p></div>",
+      "verses": {
+        "39:29": {
+          "id": 4087
+        }
+      }
+    },
+    "30": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنّك﴾</span> خِطاب لِلنَّبِيِّ ﷺ <span class=\"qpc-hafs\">﴿مَيِّت وإنَّهُمْ مَيِّتُونَ﴾</span> سَتَمُوتُ ويَمُوتُونَ فَلا شَماتَة بِالمَوْتِ نَزَلَتْ لَمّا اسْتَبْطَئُوا مَوْته ﷺ</p></div>",
+      "verses": {
+        "39:30": {
+          "id": 4088
+        }
+      }
+    },
+    "31": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ثُمَّ إنّكُمْ﴾</span> أيّها النّاس فِيما بَيْنكُمْ مِن المَظالِم</p></div>",
+      "verses": {
+        "39:31": {
+          "id": 4089
+        }
+      }
+    },
+    "32": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَمَن﴾</span> أيْ لا أحَد <span class=\"qpc-hafs\">﴿أظْلَم مِمَّنْ كَذَبَ عَلى اللَّه﴾</span> بِنِسْبَةِ الشَّرِيك والوَلَد إلَيْهِ <span class=\"qpc-hafs\">﴿وكَذَّبَ بِالصَّدْقِ﴾</span> بِالقُرْآنِ <span class=\"qpc-hafs\">﴿إذْ جاءَهُ ألَيْسَ فِي جَهَنَّم مَثْوًى﴾</span> مَأْوًى <span class=\"qpc-hafs\">﴿لِلْكافِرِينَ﴾</span> بَلى</p></div>",
+      "verses": {
+        "39:32": {
+          "id": 4090
+        }
+      }
+    },
+    "33": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿والَّذِي جاءَ بِالصِّدْقِ﴾</span> هُوَ النَّبِيُّ ﷺ <span class=\"qpc-hafs\">﴿وصَدَّقَ بِهِ﴾</span> هُمْ المُؤْمِنُونَ فالَّذِي بِمَعْنى الَّذِينَ <span class=\"qpc-hafs\">﴿أُولَئِكَ هُمُ المُتَّقُونَ﴾</span> الشِّرْك</p></div>",
+      "verses": {
+        "39:33": {
+          "id": 4091
+        }
+      }
+    },
+    "34": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَهُمْ ما يَشاءُونَ عِنْد رَبّهمْ ذَلِكَ جَزاء المُحْسِنِينَ﴾</span> لِأَنْفُسِهِمْ بِإيمانِهِمْ</p></div>",
+      "verses": {
+        "39:34": {
+          "id": 4092
+        }
+      }
+    },
+    "35": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لِيُكَفِّر اللَّه عَنْهُمْ أسْوَأ الَّذِي عَمِلُوا ويَجْزِيَهُمْ أجْرهمْ بِأَحْسَنِ الَّذِي كانُوا يَعْمَلُونَ﴾</span> أسْوَأ وأَحْسَن بِمَعْنى السَّيِّئ والحَسَن</p></div>",
+      "verses": {
+        "39:35": {
+          "id": 4093
+        }
+      }
+    },
+    "36": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ألَيْسَ اللَّه بِكافٍ عَبْده﴾</span> أيْ النَّبِيّ، بَلى <span class=\"qpc-hafs\">﴿ويُخَوِّفُونَك﴾</span> الخِطاب لَهُ <span class=\"qpc-hafs\">﴿بِالَّذِينَ مِن دُونه﴾</span> أيْ الأَصْنام أنْ تَقْتُلهُ أوْ تَخْبِلهُ</p></div>",
+      "verses": {
+        "39:36": {
+          "id": 4094
+        }
+      }
+    },
+    "37": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ومَن يَهْدِ اللَّه فَما لَهُ مِن مُضِلّ ألَيْسَ اللَّه بِعَزِيزٍ﴾</span> غالِب عَلى أمْره <span class=\"qpc-hafs\">﴿ذِي انْتِقام﴾</span> مِن أعْدائِهِ ؟ بَلى</p></div>",
+      "verses": {
+        "39:37": {
+          "id": 4095
+        }
+      }
+    },
+    "38": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولَئِنْ﴾</span> لام قَسَم <span class=\"qpc-hafs\">﴿سَأَلْتهمْ مَن خَلَقَ السَّمَوات والأَرْض لَيَقُولُنَّ اللَّه قُلْ أرَأَيْتُمْ ما تَدْعُونَ﴾</span> تَعْبُدُونَ <span class=\"qpc-hafs\">﴿مِن دُون اللَّه﴾</span> أيْ الأَصْنام <span class=\"qpc-hafs\">﴿إنْ أرادَنِي اللَّه بِضُرٍّ هَلْ هُنَّ كاشِفات ضُرّه﴾</span> لا <span class=\"qpc-hafs\">﴿أوْ أرادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكات رَحْمَته﴾</span> لا وفِي قِراءَة بِالإضافَةِ فِيهِما <span class=\"qpc-hafs\">﴿قُلْ حَسْبِيَ اللَّه عَلَيْهِ يَتَوَكَّل المُتَوَكِّلُونَ﴾</span> يَثِق الواثِقُونَ</p></div>",
+      "verses": {
+        "39:38": {
+          "id": 4096
+        }
+      }
+    },
+    "39": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ يا قَوْم اعْمَلُوا عَلى مَكانَتكُمْ﴾</span> حالَتكُمْ <span class=\"qpc-hafs\">﴿إنِّي عامِل﴾</span> عَلى حالَتِي</p></div>",
+      "verses": {
+        "39:39": {
+          "id": 4097
+        }
+      }
+    },
+    "40": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿مَن﴾</span> مَوْصُولَة مَفْعُول العِلْم <span class=\"qpc-hafs\">﴿يَأْتِيه عَذاب يُخْزِيه ويَحِلّ﴾</span> يَنْزِل <span class=\"qpc-hafs\">﴿عَلَيْهِ عَذاب مُقِيم﴾</span> دائِم هُوَ عَذاب النّار وقَدْ أخْزاهُمْ اللَّه بِبَدْرٍ</p></div>",
+      "verses": {
+        "39:40": {
+          "id": 4098
+        }
+      }
+    },
+    "41": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنّا أنْزَلْنا عَلَيْك الكِتاب لِلنّاسِ بِالحَقِّ﴾</span> مُتَعَلِّق بِأَنْزَلَ <span class=\"qpc-hafs\">﴿فَمَنِ اهْتَدى فَلِنَفْسِهِ﴾</span> اهْتِداؤُهُ <span class=\"qpc-hafs\">﴿ومَن ضَلَّ فَإنَّما يَضِلّ عَلَيْها وما أنْتَ عَلَيْهِمْ بِوَكِيلٍ﴾</span> فَتُجْبِرهُمْ عَلى الهُدى</p></div>",
+      "verses": {
+        "39:41": {
+          "id": 4099
+        }
+      }
+    },
+    "42": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p>يَتَوَفّى <span class=\"qpc-hafs\">﴿الَّتِي لَمْ تَمُتْ فِي مَنامها﴾</span> أيْ يَتَوَفّاها وقْت النَّوْم <span class=\"qpc-hafs\">﴿فَيُمْسِك الَّتِي قَضى عَلَيْها المَوْت ويُرْسِل الأُخْرى إلى أجَلٍ مُسَمًّى﴾</span> أيْ وقْت مَوْتها والمُرْسَلَة نَفْس التَّمْيِيز تَبْقى بِدُونِها نَفْس الحَياة بِخِلافِ العَكْس <span class=\"qpc-hafs\">﴿إنّ فِي ذَلِكَ﴾</span> المَذْكُور <span class=\"qpc-hafs\">﴿لَآيات﴾</span> دَلالات <span class=\"qpc-hafs\">﴿لِقَوْمٍ يَتَفَكَّرُونَ﴾</span> فَيَعْلَمُونَ أنَّ القادِر عَلى ذَلِكَ قادِر عَلى البَعْث وقُرَيْش لَمْ يَتَفَكَّرُوا فِي ذَلِكَ</p></div>",
+      "verses": {
+        "39:42": {
+          "id": 4100
+        }
+      }
+    },
+    "43": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أمْ﴾</span> بَلْ <span class=\"qpc-hafs\">﴿اتَّخَذُوا مِن دُون اللَّه﴾</span> أيْ الأَصْنام آلِهَة <span class=\"qpc-hafs\">﴿شُفَعاء﴾</span> عِنْد اللَّه بِزَعْمِهِمْ <span class=\"qpc-hafs\">﴿قُلْ﴾</span> لَهُمْ <span class=\"qpc-hafs\">﴿أوَلَوْ كانُوا لا يَمْلِكُونَ شَيْئًا﴾</span> يَشْفَعُونَ مِن الشَّفاعَة وغَيْرها <span class=\"qpc-hafs\">﴿ولا يَعْقِلُونَ﴾</span> أنَّكُمْ تَعْبُدُونَهُمْ ولا غَيْر ذَلِكَ ؟ لا</p></div>",
+      "verses": {
+        "39:43": {
+          "id": 4101
+        }
+      }
+    },
+    "44": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ لِلَّهِ الشَّفاعَة جَمِيعًا﴾</span> أيْ هُوَ مُخْتَصّ بِها فَلا يَشْفَع أحَد إلّا بِإذْنِهِ</p></div>",
+      "verses": {
+        "39:44": {
+          "id": 4102
+        }
+      }
+    },
+    "45": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وإذا ذُكِرَ اللَّه وحْده﴾</span> أيْ دُون آلِهَتهمْ <span class=\"qpc-hafs\">﴿اشْمَأَزَّتْ﴾</span> نَفَرَتْ وانْقَبَضَتْ <span class=\"qpc-hafs\">﴿قُلُوب الَّذِينَ لا يُؤْمِنُونَ بِالآخِرَةِ وإذا ذُكِرَ الَّذِينَ مِن دُونه﴾</span> أيْ الأَصْنام</p></div>",
+      "verses": {
+        "39:45": {
+          "id": 4103
+        }
+      }
+    },
+    "46": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ اللَّهُمَّ﴾</span> بِمَعْنى يا اللَّه <span class=\"qpc-hafs\">﴿فاطِر السَّماوات والأَرْض﴾</span> مُبْدِعهما <span class=\"qpc-hafs\">﴿عالِم الغَيْب والشَّهادَة﴾</span> ما غابَ وما شُوهِدَ <span class=\"qpc-hafs\">﴿أنْتَ تَحْكُم بَيْن عِبادك فِي ما كانُوا فِيهِ يَخْتَلِفُونَ﴾</span> مِن أمْر الدِّين اهْدِنِي لِما اخْتَلَفُوا فِيهِ مِن الحَقّ</p></div>",
+      "verses": {
+        "39:46": {
+          "id": 4104
+        }
+      }
+    },
+    "47": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولَوْ أنَّ لِلَّذِينَ ظَلَمُوا ما فِي الأَرْض جَمِيعًا ومِثْله مَعَهُ لافْتَدَوْا بِهِ مِن سُوء العَذاب يَوْم القِيامَة وبَدا﴾</span> ظَهَرَ <span class=\"qpc-hafs\">﴿لَهُمْ مِنَ اللَّه ما لَمْ يَكُونُوا يَحْتَسِبُونَ﴾</span> يَظُنُّونَ</p></div>",
+      "verses": {
+        "39:47": {
+          "id": 4105
+        }
+      }
+    },
+    "48": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وبَدا لَهُمْ سَيِّئات ما كَسَبُوا وحاقَ﴾</span> نَزَلَ <span class=\"qpc-hafs\">﴿بِهِمْ ما كانُوا به يَسْتَهْزِئُونَ﴾</span> أيْ العَذاب</p></div>",
+      "verses": {
+        "39:48": {
+          "id": 4106
+        }
+      }
+    },
+    "49": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَإذا مَسَّ الإنْسانَ﴾</span> الجِنْس <span class=\"qpc-hafs\">﴿ضُرٌّ دَعانا ثُمَّ  خَوَّلْناهُ﴾</span> أعْطَيْناهُ <span class=\"qpc-hafs\">﴿نِعْمَة﴾</span> إنْعامًا <span class=\"qpc-hafs\">﴿مِنّا قالَ إنّما أُوتِيته عَلى عِلْم﴾</span> مِن اللَّه بِأَنِّي لَهُ أهْل <span class=\"qpc-hafs\">﴿بَلْ هِيَ﴾</span> أيْ القَوْلَة <span class=\"qpc-hafs\">﴿فِتْنَة﴾</span> بَلِيَّة يُبْتَلى بِها العَبْد <span class=\"qpc-hafs\">﴿ولَكِنَّ أكْثَرهمْ لا يَعْلَمُونَ﴾</span> أنَّ التَّخْوِيل اسْتِدْراج وامْتِحان</p></div>",
+      "verses": {
+        "39:49": {
+          "id": 4107
+        }
+      }
+    },
+    "50": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قَدْ قالَها الَّذِينَ مِن قَبْلهمْ﴾</span> مِن الأُمَم كقارُون وقَوْمه الرّاضِينَ بِها</p></div>",
+      "verses": {
+        "39:50": {
+          "id": 4108
+        }
+      }
+    },
+    "51": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿فَأَصابَهُمْ سَيِّئات ما كَسَبُوا﴾</span> أيْ جَزاؤُها <span class=\"qpc-hafs\">﴿والَّذِينَ ظَلَمُوا مِن هَؤُلاءِ﴾</span> أيْ قُرَيْش <span class=\"qpc-hafs\">﴿سَيُصِيبُهُمْ سَيِّئات ما كَسَبُوا وما هُمْ بِمُعْجِزِينَ﴾</span> بِفائِتِينَ عَذابنا فَقُحِطُوا سَبْع سِنِينَ ثُمَّ وُسِّعَ عَلَيْهِمْ</p></div>",
+      "verses": {
+        "39:51": {
+          "id": 4109
+        }
+      }
+    },
+    "52": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أوَ لَمْ يَعْلَمُوا أنَّ اللَّه يَبْسُط الرِّزْق﴾</span> يُوَسِّعهُ <span class=\"qpc-hafs\">﴿لِمَن يَشاء﴾</span> امْتِحانًا <span class=\"qpc-hafs\">﴿ويَقْدِر﴾</span> يُضَيِّقهُ لِمَن يَشاء ابْتِلاء <span class=\"qpc-hafs\">﴿إنّ فِي ذَلِكَ لَآيات لِقَوْمٍ يُؤْمِنُونَ﴾</span> بِهِ</p></div>",
+      "verses": {
+        "39:52": {
+          "id": 4110
+        }
+      }
+    },
+    "53": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ يا عِبادِي الَّذِينَ أسْرَفُوا عَلى أنْفُسهمْ لا تَقْنَطُوا﴾</span> بِكَسْرِ النُّون وفَتْحها وقُرِئَ بِضَمِّها تَيْأَسُوا <span class=\"qpc-hafs\">﴿مِن رَحْمَة اللَّه إنّ اللَّه يَغْفِر الذُّنُوب جَمِيعًا﴾</span> لِمَن تابَ مِن الشِّرْك</p></div>",
+      "verses": {
+        "39:53": {
+          "id": 4111
+        }
+      }
+    },
+    "54": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وأَنِيبُوا﴾</span> ارْجِعُوا <span class=\"qpc-hafs\">﴿إلى رَبّكُمْ وأَسْلِمُوا﴾</span> أخْلِصُوا العَمَل <span class=\"qpc-hafs\">﴿لَهُ مِن قَبْل أنْ يَأْتِيكُمْ العَذاب ثُمَّ لا تُنْصَرُونَ﴾</span> بِمَنعِهِ إنْ لَمْ تَتُوبُوا</p></div>",
+      "verses": {
+        "39:54": {
+          "id": 4112
+        }
+      }
+    },
+    "55": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿واتَّبِعُوا أحْسَنَ ما أُنْزِلَ إلَيْكُمْ مِن رَبّكُمْ﴾</span> هُوَ القُرْآن <span class=\"qpc-hafs\">﴿مِن قَبْل أنْ يَأْتِيكُمْ العَذاب بَغْتَة وأَنْتُمْ لا تَشْعُرُونَ﴾</span> قَبْل إتْيانه بِوَقْتِهِ</p></div>",
+      "verses": {
+        "39:55": {
+          "id": 4113
+        }
+      }
+    },
+    "56": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p>فَبادِرُوا قَبْل <span class=\"qpc-hafs\">﴿أنْ تَقُول نَفْس يا حَسْرَتى﴾</span> أصْله يا حَسْرَتِي أيْ نَدامَتِي <span class=\"qpc-hafs\">﴿عَلى ما فَرَّطْت فِي جَنْب اللَّه﴾</span> أيْ طَعَته <span class=\"qpc-hafs\">﴿وإنْ﴾</span> مُخَفَّفَة مِن الثَّقِيلَة أيْ وإنِّي <span class=\"qpc-hafs\">﴿كُنْت لَمِنَ السّاخِرِينَ﴾</span> بِدِينِهِ وكِتابه</p></div>",
+      "verses": {
+        "39:56": {
+          "id": 4114
+        }
+      }
+    },
+    "57": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أوْ تَقُول لَوْ أنَّ اللَّه هَدانِي﴾</span> بِالطّاعَةِ فاهْتَدَيْت <span class=\"qpc-hafs\">﴿لَكُنْت مِنَ المُتَّقِينَ﴾</span> عَذابه</p></div>",
+      "verses": {
+        "39:57": {
+          "id": 4115
+        }
+      }
+    },
+    "58": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿أوْ تَقُول حِين تَرى العَذاب لَوْ أنَّ لِي كَرَّة﴾</span> رَجْعَة إلى الدُّنْيا <span class=\"qpc-hafs\">﴿فَأَكُون مِنَ المُحْسِنِينَ﴾</span> المُؤْمِنِينَ فَيُقال لَهُ مِن قِبَل اللَّه:</p></div>",
+      "verses": {
+        "39:58": {
+          "id": 4116
+        }
+      }
+    },
+    "59": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿بَلى قَدْ جاءَتْك آياتِي﴾</span> القُرْآن وهُوَ سَبَب الهِدايَة <span class=\"qpc-hafs\">﴿فَكَذَّبْت بِها واسْتَكْبَرْت﴾</span> تَكَبَّرْت عَنْ الإيمان بِها</p></div>",
+      "verses": {
+        "39:59": {
+          "id": 4117
+        }
+      }
+    },
+    "60": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ويَوْم القِيامَة تَرى الَّذِينَ كَذَبُوا عَلى اللَّه﴾</span> بِنِسْبَةِ الشَّرِيك والوَلَد إلَيْهِ <span class=\"qpc-hafs\">﴿وُجُوههمْ مُسَوَّدَة ألَيْسَ فِي جَهَنَّم مَثْوًى﴾</span> مَأْوًى <span class=\"qpc-hafs\">﴿لِلْمُتَكَبِّرِينَ﴾</span> عَنْ الإيمان ؟ بَلى</p></div>",
+      "verses": {
+        "39:60": {
+          "id": 4118
+        }
+      }
+    },
+    "61": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ويُنَجِّي اللَّه﴾</span> مِن جَهَنَّم <span class=\"qpc-hafs\">﴿الَّذِينَ اتَّقَوْا﴾</span> الشِّرْك <span class=\"qpc-hafs\">﴿بِمَفازَتِهِمْ﴾</span> أيْ بِمَكانِ فَوْزهمْ مِن الجَنَّة بِأَنْ يُجْعَلُوا فِيهِ</p></div>",
+      "verses": {
+        "39:61": {
+          "id": 4119
+        }
+      }
+    },
+    "62": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿اللَّه خالِقُ كُلّ شَيْء وهُوَ عَلى كُلّ شَيْء وكِيل﴾</span> مُتَصَرِّف فِيهِ كَيْفَ يَشاء</p></div>",
+      "verses": {
+        "39:62": {
+          "id": 4120
+        }
+      }
+    },
+    "63": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿لَهُ مَقالِيد السَّماوات والأَرْض﴾</span> أيْ مَفاتِيح خَزائِنهما مِن المَطَر والنَّبات وغَيْرهما <span class=\"qpc-hafs\">﴿والَّذِينَ كَفَرُوا بِآياتِ اللَّه﴾</span> القُرْآن <span class=\"qpc-hafs\">﴿أُولَئِكَ هُمُ الخاسِرُونَ﴾</span> مُتَّصِل بِقَوْلِهِ: <span class=\"qpc-hafs\">﴿ويُنَجِّي اللَّه الَّذِينَ اتَّقُوا﴾</span> إلَخْ وما بَيْنهما اعْتِراض</p></div>",
+      "verses": {
+        "39:63": {
+          "id": 4121
+        }
+      }
+    },
+    "64": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قُلْ أفَغَيْر اللَّه تَأْمُرُونِّي أعْبُد أيّها الجاهِلُونَ﴾</span> غَيْر مَنصُوب بِأَعْبُد المَعْمُول لِتَأْمُرُونِّي بِتَقْدِيرِ أنْ بِنُونٍ واحِدَة وبِنُونَيْنِ بِإدْغامٍ وفَكّ</p></div>",
+      "verses": {
+        "39:64": {
+          "id": 4122
+        }
+      }
+    },
+    "65": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ولَقَدْ أُوحِيَ إلَيْك وإلى الَّذِينَ مِن قَبْلك﴾</span> واللَّه <span class=\"qpc-hafs\">﴿لَئِنْ أشْرَكْت﴾</span> يا مُحَمَّد فَرْضًا</p></div>",
+      "verses": {
+        "39:65": {
+          "id": 4123
+        }
+      }
+    },
+    "66": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿بَلِ اللَّه﴾</span> وحْده <span class=\"qpc-hafs\">﴿فاعْبُدْ وكُنْ مِنَ الشّاكِرِينَ﴾</span> إنْعامه عَلَيْك</p></div>",
+      "verses": {
+        "39:66": {
+          "id": 4124
+        }
+      }
+    },
+    "67": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وما قَدَرُوا اللَّه حَقّ قَدْره﴾</span> ما عَرَفُوهُ حَقّ مَعْرِفَته أوْ ما عَظَّمُوهُ حَقّ عَظَمَته حِين أشْرَكُوا بِهِ غَيْره <span class=\"qpc-hafs\">﴿والأَرْض جَمِيعًا﴾</span> حال: أيْ السَّبْع <span class=\"qpc-hafs\">﴿قَبْضَته﴾</span> أيْ مَقْبُوضَة لَهُ: أيْ فِي مُلْكه وتَصَرُّفه <span class=\"qpc-hafs\">﴿يَوْم القِيامَة والسَّمَوات مَطْوِيّات﴾</span> مَجْمُوعات <span class=\"qpc-hafs\">﴿بِيَمِينِهِ﴾</span> بِقُدْرَتِهِ <span class=\"qpc-hafs\">﴿سُبْحانه وتَعالى عَمّا يُشْرِكُونَ﴾</span> مَعَهُ</p></div>",
+      "verses": {
+        "39:67": {
+          "id": 4125
+        }
+      }
+    },
+    "68": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ونُفِخَ فِي الصُّور﴾</span> النَّفْخَة الأُولى <span class=\"qpc-hafs\">﴿فَصَعِقَ﴾</span> ماتَ <span class=\"qpc-hafs\">﴿مَن فِي السَّمَوات والأَرْض إلّا مَن شاءَ اللَّه﴾</span> مِن الحُور والوِلْدان وغَيْرهما <span class=\"qpc-hafs\">﴿ثُمَّ نُفِخَ فِيهِ أُخْرى فَإذا هُمْ﴾</span> أيْ جَمِيع الخَلائِق المَوْتى <span class=\"qpc-hafs\">﴿قِيام يَنْظُرُونَ﴾</span> يَنْتَظِرُونَ ما يُفْعَل بِهِمْ</p></div>",
+      "verses": {
+        "39:68": {
+          "id": 4126
+        }
+      }
+    },
+    "69": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وأَشْرَقَتِ الأَرْض﴾</span> أضاءَتْ <span class=\"qpc-hafs\">﴿بِنُورِ رَبّها﴾</span> حِين يَتَجَلّى اللَّه لِفَصْلِ القَضاء <span class=\"qpc-hafs\">﴿ووُضِعَ الكِتاب﴾</span> كِتاب الأَعْمال لِلْحِسابِ <span class=\"qpc-hafs\">﴿وجِيءَ بِالنَّبِيِّينَ والشُّهَداء﴾</span> أيْ بِمُحَمَّدٍ ﷺ وأُمَّته يَشْهَدُونَ لِلرُّسُلِ بِالبَلاغِ <span class=\"qpc-hafs\">﴿وقُضِيَ بَيْنهمْ بِالحَقِّ﴾</span> أيْ العَدْل <span class=\"qpc-hafs\">﴿وهُمْ لا يُظْلَمُونَ﴾</span> شَيْئًا</p></div>",
+      "verses": {
+        "39:69": {
+          "id": 4127
+        }
+      }
+    },
+    "70": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿ووُفِّيَتْ كُلّ نَفْس ما عَمِلَتْ﴾</span> أيْ جَزاءَهُ <span class=\"qpc-hafs\">﴿وهُوَ أعْلَم﴾</span> عالِم <span class=\"qpc-hafs\">﴿بِما يَفْعَلُونَ﴾</span> فَلا يَحْتاج إلى شاهِد</p></div>",
+      "verses": {
+        "39:70": {
+          "id": 4128
+        }
+      }
+    },
+    "71": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وسِيق الَّذِينَ كَفَرُوا﴾</span> بِعُنْفٍ <span class=\"qpc-hafs\">﴿إلى جَهَنَّم زُمَرًا﴾</span> جَماعات مُتَفَرِّقَة <span class=\"qpc-hafs\">﴿حَتّى إذا جاءُوها فُتِحَتْ أبْوابها﴾</span> جَواب إذا <span class=\"qpc-hafs\">﴿وقالَ لَهُمْ خَزَنَتها ألَمْ يَأْتِكُمْ رُسُل مِنكُمْ يَتْلُونَ عَلَيْكُمْ آيات رَبّكُمْ﴾</span> القُرْآن وغَيْره <span class=\"qpc-hafs\">﴿ويُنْذِرُونَكُمْ لِقاء يَوْمكُمْ هَذا قالُوا بَلى ولَكِنْ حَقَّتْ كَلِمَة العَذاب﴾</span> أيْ: <span class=\"qpc-hafs\">﴿لَأَمْلَأَن جَهَنَّم﴾</span> الآيَة</p></div>",
+      "verses": {
+        "39:71": {
+          "id": 4129
+        }
+      }
+    },
+    "72": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿قِيلَ اُدْخُلُوا أبْواب جَهَنَّم خالِدِينَ فِيها﴾</span> مُقَدِّرِينَ الخُلُود <span class=\"qpc-hafs\">﴿فَبِئْسَ مَثْوى﴾</span> مَأْوى <span class=\"qpc-hafs\">﴿المُتَكَبِّرِينَ﴾</span> جَهَنَّم</p></div>",
+      "verses": {
+        "39:72": {
+          "id": 4130
+        }
+      }
+    },
+    "73": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وسِيق الَّذِينَ اتَّقَوْا رَبّهمْ﴾</span> بِلُطْفٍ <span class=\"qpc-hafs\">﴿إلى الجَنَّة زُمَرًا حَتّى إذا جاءُوها وفُتِحَتْ أبْوابها﴾</span> الواو فِيهِ لِلْحالِ بِتَقْدِيرِ قَدْ <span class=\"qpc-hafs\">﴿وقالَ لَهُمْ خَزَنَتها سَلام عَلَيْكُمْ طِبْتُمْ﴾</span> حال <span class=\"qpc-hafs\">﴿فادْخُلُوها خالِدِينَ﴾</span> مُقَدِّرِينَ الخُلُود فِيها وجَواب إذا مُقَدَّر أيْ دُخُولها وسَوْقهمْ وفَتْح الأَبْواب قَبْل مَجِيئِهِمْ تَكْرِمَة لَهُمْ وسَوْق الكُفّار وفَتْح أبْواب جَهَنَّم عِنْد مَجِيئِهِمْ لِيَبْقى حَرّها إلَيْهِمْ إهانَة لَهُمْ</p></div>",
+      "verses": {
+        "39:73": {
+          "id": 4131
+        }
+      }
+    },
+    "74": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وقالُوا﴾</span> عُطِفَ عَلى دُخُولها المُقَدَّر <span class=\"qpc-hafs\">﴿الحَمْد لِلَّهِ الَّذِي صَدَقَنا وعْده﴾</span> بِالجَنَّةِ <span class=\"qpc-hafs\">﴿وأَوْرَثَنا الأَرْض﴾</span> أيْ أرْض الجَنَّة <span class=\"qpc-hafs\">﴿نَتَبَوَّأ﴾</span> نَنْزِل <span class=\"qpc-hafs\">﴿مِن الجَنَّة حَيْثُ نَشاء﴾</span> لِأَنَّها كُلّها لا يُخْتار فِيها مَكان عَلى مَكان <span class=\"qpc-hafs\">﴿فَنِعْمَ أجْر العامِلِينَ﴾</span> الجَنَّة</p></div>",
+      "verses": {
+        "39:74": {
+          "id": 4132
+        }
+      }
+    },
+    "75": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿وتَرى المَلائِكَة حافِّينَ﴾</span> حال <span class=\"qpc-hafs\">﴿مِن حَوْل العَرْش﴾</span> مِن كُلّ جانِب مِنهُ <span class=\"qpc-hafs\">﴿يُسَبِّحُونَ﴾</span> حال مِن ضَمِير حافِّينَ <span class=\"qpc-hafs\">﴿بِحَمْدِ رَبّهمْ﴾</span> مُلابِسِينَ لِلْحَمْدِ: أيْ يَقُولُونَ: سُبْحان اللَّه وبِحَمْدِهِ <span class=\"qpc-hafs\">﴿وقُضِيَ بَيْنهمْ﴾</span> بَيْن جَمِيع الخَلائِق <span class=\"qpc-hafs\">﴿بِالحَقِّ﴾</span> أيْ العَدْل فَيَدْخُل المُؤْمِنُونَ الجَنَّة والكافِرُونَ النّار <span class=\"qpc-hafs\">﴿وقِيلَ الحَمْد لِلَّهِ رَبّ العالَمِينَ﴾</span> خَتْم اسْتِقْرار الفَرِيقَيْنِ بِالحَمْدِ مِن المَلائِكَة</p></div>",
+      "verses": {
+        "39:75": {
+          "id": 4133
+        }
+      }
+    }
+  }
+}

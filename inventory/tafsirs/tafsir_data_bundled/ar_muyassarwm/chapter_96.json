@@ -1,0 +1,309 @@
+{
+    "chapter": 96,
+    "verses": {
+        "1": {
+            "verses": {
+                "96:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱقۡرَأۡ﴾: اقْرَأْ -أيُّها النَّبِيُّ- ما أُنِزلَ إلَيكَ مِن القُرآنِ.</p>\n<h2>﴿بِٱسۡمِ رَبِّكَ﴾: مُفْتَتِحاً باسْمِ رَبِّكَ.</h2>\n<h2>﴿ٱلَّذِي خَلَقَ﴾: المُتَفَرِّدِ بالخَلْقِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "96:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عَلَقٍ﴾: قِطْعَةِ دَمٍ غَلِيظٍ أَحْمَرَ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "96:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلۡأَكۡرَمُ﴾: الكثِيرُ الإحسانِ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "96:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِٱلۡقَلَمِ﴾: الكِتابة بالقَلَمِ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "96:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "96:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَلَّآ﴾: حَقّاً.</h2>\n<h2>﴿لَيَطۡغَىٰٓ﴾: لَيتَجَاوَزُ حُدُودَ اللهِ.</h2>"
+        },
+        "7": {
+            "verses": {
+                "96:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ﴾: لِأَجْلِ أَنَّهُ وَجَدَ نَفْسَه مُسْتَغْنِياً شَدِيدَ الْغِنَى.</p>"
+        },
+        "8": {
+            "verses": {
+                "96:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلرُّجۡعَىٰٓ﴾: المَصِيرَ.</h2>"
+        },
+        "9": {
+            "verses": {
+                "96:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ﴾: أرأيتَ أَعْجَبَ مِن طُغيانِ هذا الرَّجُلِ -وهو أبو جَهْلٍ- الَّذِي يَنْهَى.</p>"
+        },
+        "10": {
+            "verses": {
+                "96:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عَبۡدًا﴾: هو مُحَمَّدٌ ﷺ.</h2>"
+        },
+        "11": {
+            "verses": {
+                "96:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ﴾: أرأيت إن كَان المَنْهِيُّ عَنِ الصَّلاةِ عَلَى الهُدَى فَكَيفَ يَنْهاهُ؟</p>"
+        },
+        "12": {
+            "verses": {
+                "96:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "13": {
+            "verses": {
+                "96:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَتَوَلَّىٰٓ﴾: وَأَعْرَضَ عَنْهُ.</h2>"
+        },
+        "14": {
+            "verses": {
+                "96:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "15": {
+            "verses": {
+                "96:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَلَّا﴾: لَيسَ الأمرُ كَما يَزْعُمُ أبو جَهْلٍ.</h2>\n<p>﴿لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ﴾: لَنَأْخُذَنَّ بِمُقَدَّمِ رَأْسِهِ أَخْذاً عَنِيفاً، وليُطْرَحَنَّ في النَّارِ.</p>"
+        },
+        "16": {
+            "verses": {
+                "96:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "17": {
+            "verses": {
+                "96:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلۡيَدۡعُ نَادِيَهُۥ﴾: فليُحْضِرْ أَهْلَ نادِيهِ الَّذِين يَسْتَنْصِرُ بِهِم.</p>"
+        },
+        "18": {
+            "verses": {
+                "96:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَنَدۡعُ ٱلزَّبَانِيَةَ﴾: سَنَدعُو ملائِكةَ العذابِ.</h2>"
+        },
+        "19": {
+            "verses": {
+                "96:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَلَّا﴾: لَيس الأمرُ على ما يَظُنُّ. إنُّه لَن يَنالَكَ -أيُّها الرَّسُولُ- بِسُوءٍ.</p>\n<h2>﴿لَا تُطِعۡهُ﴾: فلا تُطِعْهُ فيما دَعَاكَ إِلَيهِ.</h2>\n<h2>﴿وَٱقۡتَرِب﴾: واجْتَهِدْ في القُربِ مِن اللهِ.</h2>"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "chapter": 103,
+  "verses": {
+    "1": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿والعَصْر﴾</span> الدَّهْر أوْ ما بَعْد الزَّوال إلى الغُرُوب أوْ صَلاة العَصْر</p></div>",
+      "verses": {
+        "103:1": {
+          "id": 6177
+        }
+      }
+    },
+    "2": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إنَّ الإنْسان﴾</span> الجِنْس <span class=\"qpc-hafs\">﴿لَفِي خُسْر﴾</span> فِي تِجارَته</p></div>",
+      "verses": {
+        "103:2": {
+          "id": 6178
+        }
+      }
+    },
+    "3": {
+      "slug": "ar_tafsir-jalalayn",
+      "translated_name": {
+        "language_name": "english",
+        "name": ""
+      },
+      "text": "<div class=ar lang=ar><p><span class=\"qpc-hafs\">﴿إلّا الَّذِينَ آمَنُوا وعَمِلُوا الصّالِحات﴾</span> فَلَيْسُوا فِي خُسْران <span class=\"qpc-hafs\">﴿وتَواصَوْا﴾</span> أوْصى بَعْضهمْ بَعْضًا <span class=\"qpc-hafs\">﴿بِالحَقِّ﴾</span> الإيمان <span class=\"qpc-hafs\">﴿وتَواصَوْا بِالصَّبْرِ﴾</span> عَلى الطّاعَة وعَنْ المَعْصِيَة</p></div>",
+      "verses": {
+        "103:3": {
+          "id": 6179
+        }
+      }
+    }
+  }
+}

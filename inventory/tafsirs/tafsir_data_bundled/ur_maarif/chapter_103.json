@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>قسم ہے عصر کی</h2>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>مقرر انسان ٹوٹے میں ہے</h2>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>مگر جو لوگ کہ یقین لائے اور کئے بھلے کام اور آپس میں تاکید کرتے رہے سچے دین کی اور آپس میں تاکید کرتے رہے تحمل کی۔</p>"
+        }
+    }
+}

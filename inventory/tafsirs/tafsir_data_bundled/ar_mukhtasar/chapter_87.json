@@ -1,0 +1,309 @@
+{
+    "chapter": 87,
+    "verses": {
+        "1": {
+            "verses": {
+                "87:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الأعلى مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>تذكير النفوس بمِنَّة الله الأعلى، وتعليقها بالحياة الأخرى، وتخليصها من التعلُّقات الدنيا.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<p>نَزِّه ربك الذي علا على خلقه ناطقًا باسمه عند ذكرك إياه وتعظيمك له</p>"
+        },
+        "2": {
+            "verses": {
+                "87:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذي خلق الإنسان سويًّا، وعدل قامته.</h2>"
+        },
+        "3": {
+            "verses": {
+                "87:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والذي قَدَّر الخلائق أجناسها وأنواعها وصفاتها، وهدى كل مخلوق إلى ما يناسبه ويوائمه.</p>"
+        },
+        "4": {
+            "verses": {
+                "87:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>والذي أخرج من الأرض ما ترعاه دوابكم.</h2>"
+        },
+        "5": {
+            "verses": {
+                "87:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فصيّره هشيمًا يابسًا مائلًا للسواد بعد أن كان أخضر غضًّا.</h2>"
+        },
+        "6": {
+            "verses": {
+                "87:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>سنقرئك - أيها الرسول - القرآن، ونجمعه في صدرك ولن تنساه، فلا تسابق جبريل في القراءة كما كنت تفعل حرصًا على ألا تنساه.</p>"
+        },
+        "7": {
+            "verses": {
+                "87:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا ما شاء الله أن تنساه منه لحكمة، إنه سبحانه يعلم ما يُعْلَن وما يُخْفى، لا يَخْفى عليه شيء من ذلك.</p>"
+        },
+        "8": {
+            "verses": {
+                "87:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ونهوّن عليك العمل بما يرضي الله من الأعمال التي تدخل الجنة.</h2>"
+        },
+        "9": {
+            "verses": {
+                "87:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فعظ الناس بما نوحيه إليك من القرآن، وذكّرهم ما دامت الذكرى مسموعة.</p>"
+        },
+        "10": {
+            "verses": {
+                "87:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>سيتعظ بمواعظك من يخاف الله، لأنه الذي ينتفع بالموعظة.</h2>\n<h2>* من فوائد الآيات:</h2>\n<h2>• تحفظ الملائكة الإنسان وأعماله خيرها وشرها ليحاسب عليها.</h2>\n<h2>• ضعف كيد الكفار إذا قوبل بكيد الله سبحانه.</h2>\n<h2>• خشية الله تبعث على الاتعاظ.</h2>"
+        },
+        "11": {
+            "verses": {
+                "87:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويبتعد عن الموعظة وينفر منها الكافر، لأنه أشد الناس شقاءً في الآخرة لدخوله في النار.</p>"
+        },
+        "12": {
+            "verses": {
+                "87:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذي يدخل نار الآخرة الكبرى يقاسي حرّها ويعانيه أبدًا.</h2>"
+        },
+        "13": {
+            "verses": {
+                "87:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم يخلد في النار بحيث لا يموت فيها فيستريح مما يقاسيه من العذاب، ولا يحيا حياة طيبة كريمة.</p>"
+        },
+        "14": {
+            "verses": {
+                "87:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>قد فاز بالمطلوب من تطهّر من الشرك والمعاصي.</h2>"
+        },
+        "15": {
+            "verses": {
+                "87:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وذكر ربه بما شرع من أنواع الذكر، وأدى الصلاة بالصفة المطلوبة لأدائها.</p>"
+        },
+        "16": {
+            "verses": {
+                "87:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>بل تقدمون الحياة الدنيا، وتفضلونها على الآخرة على ما بينهما من تفاوت عظيم.</p>"
+        },
+        "17": {
+            "verses": {
+                "87:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولَلآْخرة خير وأفضل من الدنيا وما فيها من متع ولذات وأدوم، لأن ما فيها من نعيم لا ينقطع أبدًا.</p>"
+        },
+        "18": {
+            "verses": {
+                "87:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنّ هذا الذي ذكرنا لكم من الأوامر والأخبار لفي الصحف المنزلة من قبلك.</p>"
+        },
+        "19": {
+            "verses": {
+                "87:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هي الصحف المنزلة على إبراهيم وموسى عليهما السلام.</h2>"
+        }
+    }
+}

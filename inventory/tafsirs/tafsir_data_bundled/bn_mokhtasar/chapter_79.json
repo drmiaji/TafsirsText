@@ -1,0 +1,741 @@
+{
+    "chapter": 79,
+    "verses": {
+        "1": {
+            "verses": {
+                "79:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১. আল্লাহ ওই সব ফিরিশতার শপথ করলেন যারা নির্মমভাবে সজোরে কাফিরদের প্রাণ টেনে বের করেন।</p>"
+        },
+        "2": {
+            "verses": {
+                "79:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২. তিনি ওই সব ফিরিশতাদেরও শপথ করলেন যারা মৃদুভাবে মুমিনদের প্রাণ গ্রহণ করেন।</p>"
+        },
+        "3": {
+            "verses": {
+                "79:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩. তিনি সে সব ফিরিশতাদেরও শপথ করলেন যারা আল্লাহর নির্দেশে আসমান থেকে যমীনে সন্তরণ করেন।</p>"
+        },
+        "4": {
+            "verses": {
+                "79:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪. তিনি আরো শপথ করলেন সে সব ফিরিশতার যারা আল্লাহর নির্দেশ পালনে তীব্র গতিতে অগ্রসর হোন।</p>"
+        },
+        "5": {
+            "verses": {
+                "79:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৫. অতঃপর শপথ করলেন সে সব ফিরিশতার যারা আল্লাহর নির্দেশিত সকল ফায়সালা নির্বাহ করেন তথা বান্দাদের আমলনামার উদ্দেশ্যে নিয়োজিত ফিরিশতাগণ। তিনি এ সবের নামে শপথ করলেন এ মর্মে যে, তিনি তাদের সবাইকে হিসাব ও প্রতিদানের উদ্দেশ্যে অবশ্যই পুনরুত্থিত করবেন।</p>"
+        },
+        "6": {
+            "verses": {
+                "79:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৬. সে দিন শিঙ্গায় প্রথম ফুৎকারে যমীন প্রকম্পিত হবে।</h2>"
+        },
+        "7": {
+            "verses": {
+                "79:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৭. এরপর আসবে দ্বিতীয় শিঙ্গাধ্বনি।</h2>"
+        },
+        "8": {
+            "verses": {
+                "79:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৮. সে দিন কিছু মানুষের অন্তর হবে ভীত-সন্ত্রস্ত।</h2>"
+        },
+        "9": {
+            "verses": {
+                "79:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৯. তাদের দৃষ্টিসমূহে অপমানের ছাপ পরিদৃষ্ট হবে।</h2>"
+        },
+        "10": {
+            "verses": {
+                "79:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১০. তারা বলতো, আমরা মারা যাওয়ার পর কি আবার নতুন জীবনে ফিরে যাবো?!</p>"
+        },
+        "11": {
+            "verses": {
+                "79:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>১১. জরাজীর্ণ ও বিলুপ্তপ্রায় অস্থিতে পরিণত হওয়ার পরও?!</h2>"
+        },
+        "12": {
+            "verses": {
+                "79:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১২. তারা বলে, যদি আমরা প্রত্যাবর্তন করি তাহলে এটি হবে এমন ক্ষতিকর প্রত্যাবর্তন যার ভাগী হবে সত্যিই ক্ষতিগ্রস্ত।</p>"
+        },
+        "13": {
+            "verses": {
+                "79:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৩. পুনরুত্থানের বিষয়টি অতি সহজ। কেননা, তা শিঙ্গাধ্বনির দায়িত্বে নিয়োজিত ফিরিশতার একটি মহা গর্জন মাত্র।</p>"
+        },
+        "14": {
+            "verses": {
+                "79:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৪. ফলে তাৎক্ষণিক সবাই মাটির নীচে মৃত অবস্থা থেকে ভুপৃষ্ঠে জীবিত অবস্থায় ফিরে আসবে।</p>"
+        },
+        "15": {
+            "verses": {
+                "79:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৫. হে রাসূল! আপনার নিকট কি মূসা (আলাইহিস-সালাম) এর প্রতিপালকের সাথে ঘটে যাওয়া তাঁর ও তাঁর শত্রæ ফিরআউনের বৃত্তান্ত পৌঁছেছে?!</p>"
+        },
+        "16": {
+            "verses": {
+                "79:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৬. যখন তাঁর প্রতিপালক পবিত্র তুয়া উপত্যকায় তাঁকে আহŸান করেছিলেন।</p>"
+        },
+        "17": {
+            "verses": {
+                "79:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৭. তখন তিনি বলেছিলেন, আপনি ফিরআউনের নিকট গমন করুন। কেননা, সে যুলুম ও অহঙ্কারে সীমালঙ্ঘন করেছে।</p>"
+        },
+        "18": {
+            "verses": {
+                "79:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৮. অতঃপর তাকে বলুন: হে ফিরআউন! তুমি কি কুফরী ও পাপাচার থেকে পবিত্র হতে চাও?</p>"
+        },
+        "19": {
+            "verses": {
+                "79:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১৯. আমি কি তোমাকে নিজ স্রষ্টা ও রক্ষক রবের সন্ধান দেবো। ফলে তুমি তাঁকে ভয় করবে ও তাঁর সন্তুষ্টির কাজ করবে এবং তাঁর অসন্তুষ্টির কাজ থেকে বিরত থাকবে?</p>"
+        },
+        "20": {
+            "verses": {
+                "79:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২০. এ বলে মূসা (আলাইহিস-সালাম) তার সামনে আল্লাহ কর্তৃক রাসূল হিসেবে তাঁর প্রেরিত হওয়ার বড় নিদর্শন তথা হাত ও লাঠি প্রকাশ করলেন।</p>"
+        },
+        "21": {
+            "verses": {
+                "79:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২১. কিন্তু ফিরআউন মূসা (আলাইহিস-সালাম) এর এ নিদর্শনগুলোর প্রতি মিথ্যারোপ করলো এবং মূসা (আলাইহিস-সালাম) এর নির্দেশ অমান্য করলো।</p>"
+        },
+        "22": {
+            "verses": {
+                "79:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২২. অতঃপর সে মূসা (আলাইহিস-সালাম) যা নিয়ে আগমন করেছেন সেটির উপর ঈমান আনয়ন থেকে বিমুখ হলো।</p>"
+        },
+        "23": {
+            "verses": {
+                "79:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৩. উপরন্তু সে মূসা (আলাইহিস-সালাম) কে পরাজিত করার উদ্দেশ্যে তার বাহিনীকে এ বলে ডাক দিয়ে সমবেত করলো যে,</p>"
+        },
+        "24": {
+            "verses": {
+                "79:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৪. আমি তোমাদের সর্বশ্রেষ্ঠ প্রতিপালক। তাই আমি ছাড়া তোমরা অন্য কারো আনুগত্য করো না।</p>"
+        },
+        "25": {
+            "verses": {
+                "79:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৫. তখন আল্লাহ তাকে দুনিয়াতে সাগরে ডুবিয়ে এবং পরকালে কঠিন ভোগান্তিতে প্রবিষ্ট করে শাস্তি দিলেন।</p>"
+        },
+        "26": {
+            "verses": {
+                "79:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৬. আমি ফিরআউনকে ইহকাল ও পরকালে যে শাস্তি প্রদান করেছি তাতে অবশ্যই আল্লাহভীরুর জন্য রয়েছে বিশেষ উপদেশ। কেননা, সে-ই তো কেবল উপদেশাবলী দ্বারা উপকৃত হয়ে থাকে।</p>"
+        },
+        "27": {
+            "verses": {
+                "79:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৭. হে পুনরুত্থান অস্বীকারকারীরা! তোমাদেরকে সৃষ্টি করা আল্লাহর নিকট কঠিনতর, না কি তাঁর নির্মিত আসমান?!</p>"
+        },
+        "28": {
+            "verses": {
+                "79:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৮. তিনি এর ছাদকে সুউচ্চ করতঃ একে এমনভাবে সুবিন্যস্ত করেছেন যে, তাতে কোনরূপ খুঁত, ফাটল কিংবা ত্রæটি নেই।</p>"
+        },
+        "29": {
+            "verses": {
+                "79:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২৯. সূর্য অস্ত গেলে রাত্রি অন্ধকারাচ্ছন্ন হয়। আর সূর্য উদিত হলে দিন আলোকিত হয়।</p>"
+        },
+        "30": {
+            "verses": {
+                "79:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩০. আসমান সৃষ্টির পর তিনি যমীনকে বিস্তৃত করেছেন এবং তথায় এর উপকারী সম্পদসমূহ সুপ্ত রেখেছেন।</p>"
+        },
+        "31": {
+            "verses": {
+                "79:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩১. তিনি তা থেকে পানিকে ঝর্নার আকৃতিতে প্রবাহিত করেছেন এবং সেখানে পশু চরে খাওয়ার নিমিত্তে তৃণলতা উৎপন্ন করেছেন।</p>"
+        },
+        "32": {
+            "verses": {
+                "79:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৩২. তিনি পর্বতমালাকে যমীনের উপর স্থির করেছেন।</h2>"
+        },
+        "33": {
+            "verses": {
+                "79:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩৩. হে মানব সমাজ! এ সব কিছু তোমাদের এবং তোমাদের পশুজগতের উপকরার্থেই তৈরি করা হয়েছে। বস্তুতঃ যিনি এ সৃষ্টিকুল সৃষ্টি করলেন তিনি এদের সৃষ্টির কাজকে নতুনভাবে পুনর্বার সম্পন্ন করতে অপারগ নন।</p>"
+        },
+        "34": {
+            "verses": {
+                "79:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩৪. অতঃপর যখন দ্বিতীয়বার শিঙ্গাধ্বনি শোনা যাবে যার আগ্রাসন সব কিছুতেই পরিব্যাপ্ত হবে এবং কিয়ামত সংঘটিত হবে।</p>"
+        },
+        "35": {
+            "verses": {
+                "79:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৩৫. সে দিন মানুষ যা কিছু ভালো বা মন্দ করেছে তা স্মরণ করবে।</h2>"
+        },
+        "36": {
+            "verses": {
+                "79:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৩৬. জাহান্নামকে নিয়ে এসে দর্শকদের সম্মুখে উপস্থিত করা হবে।</h2>"
+        },
+        "37": {
+            "verses": {
+                "79:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৩৭. অতএব, যে ব্যক্তি ভ্রষ্টতায় সীমালঙ্ঘন করেছে।</h2>"
+        },
+        "38": {
+            "verses": {
+                "79:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩৮. উপরন্তু দুনিয়ার ক্ষণস্থায়ী জীবনকে পরকালীন চিরস্থায়ী জীবনের উপর প্রাধান্য দিয়েছে।</p>"
+        },
+        "39": {
+            "verses": {
+                "79:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৩৯. তার আশ্রয়স্থল হবে জাহান্নামের আগুন।</h2>"
+        },
+        "40": {
+            "verses": {
+                "79:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪০-৪১. পক্ষান্তরে যে ব্যক্তি স্বীয় প্রতিপালকের সামনে দÐায়মান হওয়ার কথা ভয় করে স্বীয় আত্মাকে তাঁর পক্ষ থেকে হারামকৃত মনোবৃত্তি চরিতার্থ করা থেকে বিরত রেখেছে তার আশ্রয়স্থল হবে জান্নাত।</p>"
+        },
+        "41": {
+            "verses": {
+                "79:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪০-৪১. পক্ষান্তরে যে ব্যক্তি স্বীয় প্রতিপালকের সামনে দÐায়মান হওয়ার কথা ভয় করে স্বীয় আত্মাকে তাঁর পক্ষ থেকে হারামকৃত মনোবৃত্তি চরিতার্থ করা থেকে বিরত রেখেছে তার আশ্রয়স্থল হবে জান্নাত।</p>"
+        },
+        "42": {
+            "verses": {
+                "79:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪২. হে রাসূল! এ সব পুনরুত্থানে অবিশ্বাসীরা আপনাকে জিজ্ঞেস করবে, কিয়ামত কখন হবে?</p>"
+        },
+        "43": {
+            "verses": {
+                "79:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪৩. এ ব্যাপারে আপনার এমন কোন জ্ঞান নেই যে, আপনি তাদেরকে তা অবগত করতে পারেন। আর না এটি আপনার কোন বিষয়। বরং আপনার দায়িত্ব হলো কেবল সে দিনের উদ্দেশ্যে প্রস্তুতি নেয়া।</p>"
+        },
+        "44": {
+            "verses": {
+                "79:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৪৪. আপনার প্রতিপালকের নিকট এককভাবে কিয়ামতের জ্ঞান সীমাবদ্ধ।</h2>"
+        },
+        "45": {
+            "verses": {
+                "79:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪৫. আপনি কেবল তাকেই ভীতি প্রদর্শন করতে পারেন যে কিয়ামত সম্পর্কে ভীত-সন্ত্রস্ত। কেননা, সেই এ ভীতি প্রদর্শনে উপকৃত হবে।</p>"
+        },
+        "46": {
+            "verses": {
+                "79:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৪৬. তারা যে দিন কিয়ামত দিবসকে চাক্ষুষ দেখবে সে দিন তাদের নিকট মনে হবে, তারা যেন দুনিয়ার জীবনে কেবল এক সকাল কিংবা এক বিকাল অবস্থান করেছিলো।</p>"
+        }
+    }
+}

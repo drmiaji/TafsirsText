@@ -1,0 +1,869 @@
+{
+    "chapter": 41,
+    "verses": {
+        "1": {
+            "verses": {
+                "41:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة فصلت مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>بيان كيفية معالجة المعرضين عن القرآن برفق، ببيان أن القرآن هو الحق، وعاقبة الإعراض.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>﴿حم﴾ تقدم الكلام على نظائرها في بداية سورة البقرة.</h2>"
+        },
+        "2": {
+            "verses": {
+                "41:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هذا القرآن تنزيل من الله الرحمن الرحيم.</h2>"
+        },
+        "3": {
+            "verses": {
+                "41:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كتاب بُيِّنت آياته أتمّ تبيين وأكمله، وجُعِل قرآنًا عربيًّا لقوم يعلمون، لأنهم الذين ينتفعون بمعانيه، وبما فيه من الهداية إلى الحق.</p>"
+        },
+        "4": {
+            "verses": {
+                "41:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>مبشرًا المؤمنين بما أعدّ الله لهم من الجزاء الجزيل، ومخوِّفًا الكافرين من عذاب الله الأليم، فأعرضَ معظمهم عنه، فهم لا يسمعون ما فيه من الهدى سماع قَبُول.</p>"
+        },
+        "5": {
+            "verses": {
+                "41:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقالوا: قلوبنا مغطاة بأغلفة فلا تعقل ما تَدْعُونا إليه، وفي آذاننا صَمَم فلا تسمعه، ومن بيننا وبينك ستر فلا يصل إلينا شيء مما تقول، فاعمل أنت على طريقتك، إنا عاملون على طريقتنا، ولن نتبعك.</p>"
+        },
+        "6": {
+            "verses": {
+                "41:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل - أيها الرسول - لهؤلاء المعاندين: إنما أنا بشر مثلكم يوحي إلي الله أنما معبودكم بحق معبود واحد هو الله، فاسلكوا الطريق الموصل إليه، واطلبوا منه المغفرة لذنوبكم، وهلاك وعذاب للمشركين الذين يعبدون غير الله أو يشركون معه أحدًا.</p>"
+        },
+        "7": {
+            "verses": {
+                "41:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>الذين لا يعطون زكاة أموالهم، وهم بالآخرة - وما فيها من نعيم مقيم وعذاب أليم - كافرون.</p>"
+        },
+        "8": {
+            "verses": {
+                "41:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن الذين آمنوا بالله وبرسله، وعملوا الأعمال الصالحات لهم ثواب خالد غير مقطوع وهو الجنة.</p>"
+        },
+        "9": {
+            "verses": {
+                "41:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل - أيها الرسول - موبِّخًا المشركين: لماذا أنتم تكفرون بالله الذي خلق الأرض في يومين: يوم الأحد والاثنين، وتجعلون له نظراء تعبدونهم من دونه؟! ذلك رب المخلوقات كلهم.</p>"
+        },
+        "10": {
+            "verses": {
+                "41:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجعل فيها جبالًا ثوابت من فوقها تثبتها لئلا تضطرب، وقدّر فيها أقوات الناس والبهائم في أربعة أيام متمَّة لليومين السابقين هما: يوم الثلاثاء ويوم الأربعاء سواء لمن أراد أن يسأل عنها.</p>"
+        },
+        "11": {
+            "verses": {
+                "41:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم قصد سبحانه إلى خلق السماء، وهي يومئذ دخان فقال لها وللأرض: انقادا لأمري مختارتين، أو مكرهتين، لا مَحِيد لكما عن ذلك، قالتا: أتينا طائعتين، فلا إرادة لنا دون إرادتك يا ربنا.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• تعطيل الكافرين لوسائل الهداية عندهم يعني بقاءهم على الكفر.</p>\n<h2>• بيان منزلة الزكاة، وأنها ركن من أركان الإسلام.</h2>\n<h2>• استسلام الكون لله وانقياده لأمره سبحانه بكل ما فيه.</h2>"
+        },
+        "12": {
+            "verses": {
+                "41:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأتمّ الله خلق السماوات في يومين: يوم الخميس ويوم الجمعة، وبهما تم خلق السماوات والأرض في ستة أيام، وأوحى الله في كل سماء ما يقدره فيها، وما يأمر به من طاعة وعبادة، وزيّنّا السماء الدنيا بالنجوم، وحفظنا بها السماء من استراق الشياطين السمع، ذلك المذكور كله تقدير العزيز الذي لا يغلبه أحد، العليم بخلقه.</p>"
+        },
+        "13": {
+            "verses": {
+                "41:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإن أعرض هؤلاء عن الإيمان بما جئت به فقل لهم - أيها الرسول -: خوّفتكم عذابًا يقع عليكم مثل العذاب الذي وقع على عاد قوم هود، وثمود قوم صالح لما كذبوهما.</p>"
+        },
+        "14": {
+            "verses": {
+                "41:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>حين جاءتهم رسلهم يتبع بعضهم بعضًا بدعوة واحدة يأمرونهم ألا يعبدوا إلا الله وحده، قال الكفار منهم: لو شاء ربنا إنزال ملائكة إلينا رسلًا لأنزلهم، فإنا كافرون بما أرسلتم به، لأنكم بشر مثلنا.</p>"
+        },
+        "15": {
+            "verses": {
+                "41:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأما عاد قوم هود فمع كفرهم بالله تكبّروا في الأرض بغير الحق، وظلموا من حولهم، وقالوا وهم مخدوعون بقوتهم: من أشدّ منا قوة؟! لا أحد أشد منهم قوة بزعمهم، فردّ الله عليهم: أفلا يعلم هؤلاء ويشاهدون أن الله الذي خلقهم وأودع فيهم القوة التي أطغتهم هو أشدّ منهم قوة؟! وكانوا يكفرون بآيات الله التي جاء بها هود عليه السلام.</p>"
+        },
+        "16": {
+            "verses": {
+                "41:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فبعثنا عليهم ريحًا ذات صوت مزعج في أيام مشؤومات عليهم لما فيها من العذاب، لنذيقهم عذاب الذل والمهانة لهم في الحياة الدنيا، ولعذاب الآخرة الذي ينتظرهم أشدّ إذلالًا لهم، وهم لا يجدون من ينصرهم بإنقاذهم من العذاب.</p>"
+        },
+        "17": {
+            "verses": {
+                "41:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأما ثمود قوم صالح فقد هديناهم بتبيين طريق الحق لهم، ففضلوا الضلال على الهداية إلى الحق، فأخذهم العذاب المذل بسبب ما كانوا يكسبونه من الكفر والمعاصي.</p>"
+        },
+        "18": {
+            "verses": {
+                "41:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأنجينا الذين آمنوا بالله ورسله، وكانوا يتقون الله بامتثال أوامره واجتناب نواهيه، أنجيناهم من العذاب الذي حلّ بقومهم.</p>"
+        },
+        "19": {
+            "verses": {
+                "41:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ويوم يحشر الله أعداءه إلى النار، تردّ الزبانية أولهم إلى آخرهم، لا يستطيعون الهرب من النار.</p>"
+        },
+        "20": {
+            "verses": {
+                "41:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>حتى إذا ما جاؤوا النار التي سيقوا إليها، وتنكّروا لما كانوا يعملون في الدنيا، شهدت عليهم أسماعهم وأبصارهم وجلودهم بما كانوا يعملونه في الدنيا من الكفر والمعاصي.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• الإعراض عن الحق سبب المهالك في الدنيا والآخرة.</h2>\n<h2>• التكبر والاغترار بالقوة مانعان من الإذعان للحق.</h2>\n<h2>• الكفار يُجْمَع لهم بين عذاب الدنيا وعذاب الآخرة.</h2>\n<h2>• شهادة الجوارح يوم القيامة على أصحابها.</h2>"
+        },
+        "21": {
+            "verses": {
+                "41:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقال الكفار لجلودهم: لِمَ شهدتم علينا بما كنا نعمل في الدنيا؟! قالت الجلود جوابًا لأصحابها: أنطقنا الله الذي أنطق كل شيء، وهو خلقكم أول مرة عندما كنتم في الدنيا، وإليه وحده ترجعون في الآخرة للحساب والجزاء.</p>"
+        },
+        "22": {
+            "verses": {
+                "41:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما كنتم تَسْتَخْفُون حين ترتكبون المعاصي حتى لا تشهد عليكم أسماعكم ولا أبصاركم ولا جلودكم، لأنكم لا تؤمنون بحساب ولا عقاب ولا ثواب بعد الموت، ولكن ظننتم أن الله سبحانه لا يعلم كثيرًا مما تعملونه، بل يخفى عليه، فاغتررتم.</p>"
+        },
+        "23": {
+            "verses": {
+                "41:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وذلكم الظن السيئ الذي ظننتم بربكم أهلككم، فأصبحتم بسبب ذلك من الخاسرين الذين خسروا الدنيا والآخرة.</p>"
+        },
+        "24": {
+            "verses": {
+                "41:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإن يصبر هؤلاء الذين شهد عليهم سمعهم وأبصارهم وجلودهم، فالنار مستقر لهم، ومأوى يأوون إليه، وإن يطلبوا رفع العذاب ورضا الله عنهم، فما هم بنائلين رضاه ولا داخلين الجنة أبدًا.</p>"
+        },
+        "25": {
+            "verses": {
+                "41:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وهيأنا لهؤلاء الكفار قرناء من الشياطين يلازمونهم، فحسَّنوا لهم سوء أعمالهم في الدنيا، وحسَّنوا لهم ما خلفهم من أمر الآخرة فأنسوهم تذكرها والعمل لها، ووجب عليهم العذاب في جملة أمم قد مضت من قبلهم من الجن والإنس، إنهم كانوا خاسرين حيث خسروا أنفسهم وأهليهم يوم القيامة بدخولهم النار.</p>"
+        },
+        "26": {
+            "verses": {
+                "41:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقال الكفار متواصين فيما بينهم لما عجزوا عن مواجهة الحجة بالحجة: لا تسمعوا لهذا القرآن الذي يقرؤه عليكم محمد، ولا تنقادوا لما فيه، وصيحوا وارفعوا أصواتكم عند قراءته له، لعلكم بذلك تنتصرون عليه، فيترك تلاوته والدعوة إليه، فنستريح منه.</p>"
+        },
+        "27": {
+            "verses": {
+                "41:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فلنذيقنّ الذين كفروا بالله وكذّبوا رسله عذابًا شديدًا يوم القيامة، ولنجزينّهم أسوأ الذي كانوا يعملون من الشرك والمعاصي عقابًا لهم عليها.</p>"
+        },
+        "28": {
+            "verses": {
+                "41:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ذلك الجزاء المذكور جزاء أعداء الله الذين كفروا به وكذّبوا رسله: النار، لهم فيها خلود لا ينقطع أبدًا، جزاءً على جحدهم لآيات الله، وعدم إيمانهم بها مع وضوحها وقوة حجتها.</p>"
+        },
+        "29": {
+            "verses": {
+                "41:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وقال الذين كفروا بالله وكذبوا رسله: ربنا، أرنا اللذَينِ أضَلّانا من الجن والإنس: إبليس الذي سنّ الكفر والدعوة إليه، وابن آدم الذي سنّ سفك الدماء، نجعلهما في النار تحت أقدامنا، ليكونا من الأسفلين الذين هم أشد أهل النار عذابًا.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• سوء الظن بالله صفة من صفات الكفر.</h2>\n<h2>• الكفر والمعاصي سبب تسليط الشياطين على الإنسان.</h2>\n<h2>• تمنّي الأتباع أن ينال متبوعوهم أشدّ العذاب يوم القيامة.</h2>"
+        },
+        "30": {
+            "verses": {
+                "41:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولمّا ذكر الله جزاء أعدائه ذكر جزاء أوليائه، فقال:</h2>\n<p>إن الذين قالوا: ربنا الله، لا رب لنا غيره، واستقاموا على امتثال أوامره، واجتناب نواهيه، تتنزل عليهم الملائكة عند احتضارهم قائلين لهم: لا تخافوا من الموت ولا مما بعده، ولا تحزنوا على ما خلّفتم في الدنيا، وأبشروا بالجنة التي كنتم توعدون بها في الدنيا على إيمانكم بالله وعملكم الصالح.</p>"
+        },
+        "31": {
+            "verses": {
+                "41:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>نحن أولياؤكم في الحياة الدنيا، فقد كنا نسددكم ونحفظكم، ونحن أولياؤكم في الآخرة، فولايتنا لكم مستمرة، ولكم في الجنة ما تشتهيه أنفسكم من الملذات والشهوات، ولكم فيها كل ما تطلبونه مما تشتهونه.</p>"
+        },
+        "32": {
+            "verses": {
+                "41:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>رزقًا مُهيَّأً لضيافتكم من ربٍّ غفور لذنوب من تاب إليه من عباده، رحيم بهم.</p>"
+        },
+        "33": {
+            "verses": {
+                "41:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا أحد أحسن قولًا ممن دعا إلى توحيد الله والعمل بشرعه، وعمل عملًا صالحًا يرضي ربه، وقال: إنني من المستسلمين المنقادين لله، فمن فعل ذلك كله فهو أحسن الناس قولًا.</p>"
+        },
+        "34": {
+            "verses": {
+                "41:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا يستوي فعل الحسنات والطاعات التي ترضي الله، ولا فعل السيئات والمعاصي التي تسخطه، ادفع بالخصلة التي هي أحسنُ إساءةَ من أساء إليك من الناس، فإذا الذي بينك وبينه عداوة سابقة - إذا دفعتَ إساءته بالإحسان إليه - كأنه قريب شفيق.</p>"
+        },
+        "35": {
+            "verses": {
+                "41:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولا يُوفَّق لهذه الخصلة الحميدة إلا الذين صبروا على الإيذاء، وما يلاقونه من الناس من السوء، ولا يُوفَّق لها إلا ذو نصيب عظيم، لما فيها من الخير الكثير، والنفع الوفير.</p>"
+        },
+        "36": {
+            "verses": {
+                "41:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن وسوس لك الشيطان في أي وقت بشرّ فاعتصم بالله والجأ إليه، إنه هو السميع لما تقوله، العليم بحالك.</p>"
+        },
+        "37": {
+            "verses": {
+                "41:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ومن آيات الله الدالة على عظمته وتوحيده الليل والنهار في تعاقبهما، والشمس والقمر، لا تسجدوا - أيها الناس - للشمس، ولا تسجدوا للقمر، واسجدوا لله وحده الذي خلقهنّ إن كنتم تعبدونه حقًّا.</p>"
+        },
+        "38": {
+            "verses": {
+                "41:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإن استكبروا وأعرضوا، ولم يسجدوا لله الخالق، فالملائكة الذين هم عند الله يسبِّحونه ويحمدونه سبحانه في الليل والنهار معًا، وهم لا يملّون من عبادته.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• منزلة الاستقامة عند الله عظيمة.</h2>\n<p>• كرامة الله لعباده المؤمنين وتولِّيه شؤونهم وشؤون مَن خلفهم.</p>\n<h2>• مكانة الدعوة إلى الله، وأنها أفضل الأعمال.</h2>\n<p>• الصبر على الإيذاء والدفع بالتي هي أحسن خُلُقان لا غنى للداعي إلى الله عنهما.</p>"
+        },
+        "39": {
+            "verses": {
+                "41:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ومن آياته الدالة على عظمته وتوحيده وعلى قدرته على البعث أنك تعاين الأرض لا نبات فيها، فإذا أنزلنا عليها ماء المطر تحركت بسبب نمو المخبوء فيها من بذور، وارتفعت، إن الذي أحيا هذه الأرض الميتة بالنبات، لمحيي الموتى وباعثهم للحساب والجزاء، إنه على كل شيء قدير، لا يعجزه إحياء أرض بعد موتها، ولا إحياء الموتى وبعثهم من قبورهم.</p>"
+        },
+        "40": {
+            "verses": {
+                "41:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن الذين يميلون في آيات الله عن الصواب بإنكارها والتكذيب بها وتحريفها لا يخفى حالهم علينا، فنحن نعلمهم، أفمن يُلْقى في النار أفضل أم من يأتي يوم القيامة آمنًا من العذاب؟ اعملوا - أيها الناس - ما شئتم من خير وشرّ، فقد بيَّنا لكم الخير والشر، إن الله بما تعملون منهما بصير، لا يخفى عليه شيء من أعمالكم.</p>"
+        },
+        "41": {
+            "verses": {
+                "41:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن الذين كفروا بالقرآن لما جاءهم من عند الله لمعذبون يوم القيامة، وإنه لكتاب عزيز منيع، لا يستطيع مُحَرِّف أن يحرّفه، ولا مُبَدِّل أن يبدله.</p>"
+        },
+        "42": {
+            "verses": {
+                "41:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا يأتيه الباطل من بين يديه ولا من خلفه بنقص أو زيادة أو تبديل أو تحريف، تنزيل من حكيم في خلقه وتقديره وتشريعه، محمود على كل حال.</p>"
+        },
+        "43": {
+            "verses": {
+                "41:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولما ذكر الله حال المكذبين بالكتاب صبّر رسوله وسلّاه بما كان يلقاه من قبله إخوانه من الرسل من التكذيب والسخرية والافتراء، فقال:</h2>\n<p>ما يقال لك - أيها الرسول - من التكذيب إلا ما قد قيل للرسل من قبلك فاصبر، فإن ربك لذو مغفرة لمن تاب إليه من عباده، وذو عقاب موجع لمن أصرّ على ذنوبه ولم يتب.</p>"
+        },
+        "44": {
+            "verses": {
+                "41:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولو أنزلنا هذا القرآن بغير لغة العرب لقال الكفار منهم: لولا بُيِّنت آياته حتى نفهمها، أيكون القرآن أعجميًّا، والذي جاء به عربي؟ قل - أيها الرسول - لهؤلاء: القرآن - للذين آمنوا بالله وصدقوا رسله - هداية من الضلال وشفاء لما في الصدور من الجهل وما يتبعه، والذين لا يؤمنون بالله في آذانهم صمم، وهو عليهم عمى لا يفهمونه، أولئك الموصوفون بتلك الصفات كمن ينادون من مكان بعيد، فكيف لهم أن يسمعوا صوت المنادي!</p>"
+        },
+        "45": {
+            "verses": {
+                "41:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد أعطينا موسى التوراة فاختلف فيها، فمنهم من آمن بها، ومنهم من كفر بها، ولولا وعد من الله أن يفصل بين العباد يوم القيامة فيما اختلفوا فيه لحكم بين المختلفين في التوراة، فبيّن المحق والمبطل، فأكرم المحق وأهان المبطل، وإن الكفار لفي شك من أمر القرآن مريب.</p>"
+        },
+        "46": {
+            "verses": {
+                "41:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>من عمل عملًا صالحًا فنفْعُ عمله الصالح عائد إليه، فالله لا ينفعه العمل الصالح من أحد، ومن عمل عملًا سيئًا فضرر ذلك راجع إليه، فالله لا تضرّه معصية أحد من خلقه، وسيجازي كلًّا بما يستحقه، وما ربك - أيها الرسول - بظلّام لعبيده، فلن ينقصهم حسنة، ولن يزيدهم سيئة.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• حَفِظ الله القرآن من التبديل والتحريف، وتَكَفَّل سبحانه بهذا الحفظ، بخلاف الكتب السابقة له.</p>\n<h2>• قطع الحجة على مشركي العرب بنزول القرآن بلغتهم.</h2>\n<h2>• نفي الظلم عن الله، وإثبات العدل له.</h2>"
+        },
+        "47": {
+            "verses": {
+                "41:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلى الله وحده يُردُّ علم الساعة، فهو وحده يعلم متى تقع، فلا يعلم ذلك غيره، وما تخرج من ثمرات من أوعيتها التي تحفظها، وما تحمل من أنثى ولا تلد إلا بعلمه، لا يفوته من ذلك شيء، ويوم ينادي الله المشركين الذين كانوا يعبدون معه الأصنام، مُوبِّخًا إياهم على عبادتهم لهم: أين شركائي الذين كنتم تزعمون أنهم شركاء؟ قال المشركون: اعترفنا أمامك، لا أحد منا يشهد الآن أن لك شريكًا.</p>"
+        },
+        "48": {
+            "verses": {
+                "41:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وغاب عنهم ما كانوا يدعونه من الأصنام، وأيقنوا أنهم لا مهرب لهم من عذاب الله ولا مَحِيد.</p>"
+        },
+        "49": {
+            "verses": {
+                "41:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا يملّ الإنسان من طلب الصحة والمال والولد وغير ذلك من النعم، وإن أصابه فقر أو مرض ونحو ذلك فهو كثير اليأس والقنوط من رحمة الله.</p>"
+        },
+        "50": {
+            "verses": {
+                "41:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولئن أذقناه منا صحة وغنى وعافية بعد بلاء ومرض أصابه ليقولنّ: هذا لي، لأني أهل له ومستحق، وما أظن الساعة قائمة، ولئن فُرِض أن الساعة قائمة فإن لي عند الله الغنى والمال، فكما أنعم عليَّ في الدنيا لاستحقاقي ذلك ينعم عليَّ في الآخرة، فلنخبرنّ الذين كفروا بالله بما عملوا من الكفر والمعاصي، ولنذيقنّهم من عذاب بالغ في الشدة.</p>"
+        },
+        "51": {
+            "verses": {
+                "41:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا أنعمنا على الإنسان بنعمة الصحة والعافية ونحوها غفل عن ذكر الله وطاعته، وأعرض بجانبه تكبرًا، وإذا مسّه مرض وفقر ونحوه فهو ذو دعاء لله كثير، يشكو إليه ما مسّه منه ليكشفه عنه، فهو لا يشكر ربه إذا أنعم عليه، ولا يصبر على بلائه إذا ابتلاه.</p>"
+        },
+        "52": {
+            "verses": {
+                "41:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل - أيها الرسول - لهؤلاء المشركين المكذبين: أخبروني إن كان هذا القرآن من عند الله، ثم كفرتم به وكذبتموه، فكيف سيكون حالكم؟! ومن أضلّ ممن هو في عناد للحق مع ظهوره ووضوح حجته وقوتها؟!</p>"
+        },
+        "53": {
+            "verses": {
+                "41:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>سنري كفار قريش آياتنا في آفاق الأرض مما يفتحه الله للمسلمين، ونريهم آياتنا في أنفسهم بفتح مكة، حتى يتضح لهم بما يرفع الشك أن هذا القرآن هو الحق الذي لا مِرْية فيه، أوَلم يكف هؤلاء المشركين أن القرآن حق بشهادة الله أنه من عنده؟! ومَن أعظمُ شهادة من الله؟! فلو كانوا يريدون الحق لاكتفوا بشهادة ربهم.</p>"
+        },
+        "54": {
+            "verses": {
+                "41:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ألا إن المشركين في شك من لقاء ربهم يوم القيامة لإنكارهم البعث، فهم لا يؤمنون بالآخرة، لذلك لا يستعدّون لها بالعمل الصالح، ألا إن الله بكل شيء محيط علمًا وقدرة.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• علم الساعة عند الله وحده.</h2>\n<h2>• تعامل الكافر مع نعم الله ونقمه فيه تخبط واضطراب.</h2>\n<h2>• إحاطة الله بكل شيء علمًا وقدرة.</h2>"
+        }
+    }
+}

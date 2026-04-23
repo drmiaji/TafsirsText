@@ -1,0 +1,485 @@
+{
+    "chapter": 89,
+    "verses": {
+        "1": {
+            "verses": {
+                "89:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sumumpa si Allāh – kaluwalhatian sa Kanya – sa madaling-araw.</p>"
+        },
+        "2": {
+            "verses": {
+                "89:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sumumpa Siya sa Unang Sampung Gabi ng Dhulḥijjah.</h2>"
+        },
+        "3": {
+            "verses": {
+                "89:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sumumpa Siya sa magkapares at bukod-tangi sa mga bagay.</h2>"
+        },
+        "4": {
+            "verses": {
+                "89:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sumumpa Siya sa gabi kapag dumating ito, nagpatuloy ito, at lumisan ito. Ang sagot sa mga panunumpang ito ay: talagang gagantihan nga kayo sa mga gawa ninyo.</p>"
+        },
+        "5": {
+            "verses": {
+                "89:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sa nabanggit na iyon kaya ay may panunumpang kukumbinsi sa may pang-unawa?</p>"
+        },
+        "6": {
+            "verses": {
+                "89:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi mo ba napag-alaman, O Sugo, kung papaano ang ginawa ng Panginoon mo sa [liping] `Ād, na mga kalipi ni Hūd, noong nagpasinungaling sila sa sugo nito,</p>"
+        },
+        "7": {
+            "verses": {
+                "89:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>na lipi ng `Ād na nakaugnay sa lolo nitong si Irām na may mga haliging mahaba,</p>"
+        },
+        "8": {
+            "verses": {
+                "89:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>na hindi lumikha si Allāh ng tulad ng mga iyon sa bayan;</h2>"
+        },
+        "9": {
+            "verses": {
+                "89:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi mo ba napag-alaman kung papaano ang ginawa ng Panginoon mo sa [liping] Thamūd, na mga kalipi ni Ṣāliḥ, na mga bumiyak ng mga malaking bato ng mga bundok at gumawa mula sa mga ito ng mga bahay sa bato.</p>"
+        },
+        "10": {
+            "verses": {
+                "89:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi mo ba napag-alaman kung papaano ang ginawa ng Panginoon mo kay Paraon na dati ay may mga tulos na pinagdurusa niya sa pamamagitan ng mga ito ang mga tao?</p>"
+        },
+        "11": {
+            "verses": {
+                "89:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang lahat ng mga ito ay lumampas sa hangganan sa paniniil at kawalang-katarungan; bawat isa ay lumampas dito sa bayan niya</p>"
+        },
+        "12": {
+            "verses": {
+                "89:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>saka nagparami sila sa mga iyon ng katiwalian dahil sa ipinalaganap nila na kawalang-pananampalataya at mga pagsuway,</p>"
+        },
+        "13": {
+            "verses": {
+                "89:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>kaya nagpalasap sa kanila si Allāh ng matinding pagdurusang dulot Niya at pumuksa Siya sa kanila sa lupain.</p>"
+        },
+        "14": {
+            "verses": {
+                "89:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang Panginoon mo, O Sugo, ay talagang tumatambang sa mga gawa ng mga tao at nagmamatyag sa mga ito upang gumanti ng Paraiso sa sinumang gumawa ng maganda at ng Impiyerno sa sinumang gumawa ng masagwa.</p>"
+        },
+        "15": {
+            "verses": {
+                "89:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya tungkol naman sa tao, bahagi ng kalikasan nito na kapag sumubok dito ang Panginoon nito, nagparangal Siya rito, at nagbiyaya Siya rito ng yaman, mga anak, at impluwensiya, ay nagpapalagay ito na iyon ay dahil sa isang karangalan para rito sa ganang kay Allāh kaya nagsasabi ito: \"Ang Panginoon ko ay nagparangal sa akin dahil sa pagiging karapat-dapat ko sa pagpaparangal Niya.\"</p>"
+        },
+        "16": {
+            "verses": {
+                "89:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tungkol naman sa kapag sumulit Siya rito at gumipit Siya rito sa panustos dito, tunay na ito ay nagpapalagay na iyon ay talagang pagkahamak nito sa Panginoon nito kaya nagsasabi ito: \"Ang Panginoon ko ay humamak sa akin.\"</p>"
+        },
+        "17": {
+            "verses": {
+                "89:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang usapin ay hindi gaya ng ginuniguni ng taong ito na ang mga biyaya ay patunay sa pagkalugod ni Allāh sa lingkod Niya at na ang mga kawalang-biyaya ay patunay sa pagkahamak ng tao sa ganang Panginoon nito. Bagkus ang reyalidad ay na kayo ay hindi nagpaparangal sa ulila mula sa ibinigay sa inyo ni Allāh na panustos.</p>"
+        },
+        "18": {
+            "verses": {
+                "89:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi nag-uudyok ang isa't isa sa inyo sa pagpapakain sa maralitang hindi nakatatagpo ng makakain niya.</p>"
+        },
+        "19": {
+            "verses": {
+                "89:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kumakain kayo ng mga karapatan ng mahihina kabilang sa mga babae at mga ulila nang pagkaing matindi nang walang pagsasaalang-alang sa pagkaipinahihintulot nito.</p>"
+        },
+        "20": {
+            "verses": {
+                "89:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Umiibig kayo sa yaman nang pag-ibig na sobra sapagkat nagmamaramot kayo sa paggugol nito sa landas ni Allāh dala ng kasakiman dito.</p>"
+        },
+        "21": {
+            "verses": {
+                "89:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi nararapat na ito ay maging gawain ninyo. Tandaan ninyo, kapag pinagalaw ang lupa nang pagpapagalaw na matindi at pinalindol,</p>"
+        },
+        "22": {
+            "verses": {
+                "89:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at dumating ang Panginoon mo, O Sugo, para magpasya sa pagitan ng mga lingkod Niya, at dumating ang mga anghel na mga nakahanay sa mga hanay,</p>"
+        },
+        "23": {
+            "verses": {
+                "89:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at ihahatid sa Araw na iyon ang Impiyerno na may pitumpung libong panghatak, na kasama ng bawat panghatak ay pitumpung libong anghel na hihila niyon. Sa Araw na iyon ay magsasaalaala ang tao sa anumang nagpabaya siya sa nauugnay kay Allāh, at paano ukol sa kanya na magpakinabang sa kanya ang pagsasaalaala sa Araw na iyon dahil iyon ay araw ng pagganti, hindi araw ng paggawa?</p>"
+        },
+        "24": {
+            "verses": {
+                "89:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magsasabi siya dala ng tindi ng pagsisisi: \"O kung sana ako ay nagpauna ng mga gawang maayos para sa buhay ko na pangkabilang-buhay na siyang buhay na tunay.\"</p>"
+        },
+        "25": {
+            "verses": {
+                "89:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya sa araw na iyon ay walang isang magpaparusa tulad ng pagdurusang dulot ni Allāh dahil ang pagdurusang dulot ni Allāh ay pinakamatindi at pinakanananatili,</p>"
+        },
+        "26": {
+            "verses": {
+                "89:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at walang isang gagapos sa mga tanikala tulad ng paggapos Niya roon sa mga tagatangging sumampalataya.</p>"
+        },
+        "27": {
+            "verses": {
+                "89:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tungkol naman sa kaluluwa ng mananampalataya, sasabihin sa kanya sa sandali ng kamatayan at sa Araw ng Pagbangon: \"O kaluluwang napapanatag sa pananampalataya at gawang maayos,</p>"
+        },
+        "28": {
+            "verses": {
+                "89:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>bumalik ka sa Panginoon mo nang nalulugod sa Kanya dahil sa makakamit mo na gantimpalang masagana, na kinalulugdan sa ganang Kanya – kaluwalhatian sa Kanya – dahil sa taglay mo na gawang maayos,</p>"
+        },
+        "29": {
+            "verses": {
+                "89:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>saka pumasok ka sa kabuuan ng mga lingkod Kong maaayos,</h2>"
+        },
+        "30": {
+            "verses": {
+                "89:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at pumasok ka kasama sa kanila sa Paraiso Ko na inihanda Ko para sa kanila.\"</p>"
+        }
+    }
+}

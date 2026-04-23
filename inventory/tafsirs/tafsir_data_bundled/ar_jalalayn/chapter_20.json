@@ -1,0 +1,2165 @@
+{
+    "chapter": 20,
+    "verses": {
+        "1": {
+            "verses": {
+                "20:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿طه ۝١﴾ اللَّه أَعْلَم بِمُرَادِهِ بِذَلِكَ</h2>"
+        },
+        "2": {
+            "verses": {
+                "20:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَاۤ أَنزَلۡنَا عَلَیۡكَ ٱلۡقُرۡءَانَ﴾ يَا مُحَمَّد ﴿لِتَشۡقَىٰۤ ۝٢﴾ لِتَتْعَب بِمَا فَعَلْت بَعْد نُزُوله مِنْ طُول قِيَامك بِصَلَاةِ اللَّيْل أَيْ خَفِّفْ عَنْ نَفْسك</p>"
+        },
+        "3": {
+            "verses": {
+                "20:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِلَّا﴾ لَكِنْ أَنْزَلْنَاهُ ﴿تَذۡكِرَةࣰ﴾ بِهِ ﴿لِّمَن یَخۡشَىٰ ۝٣﴾ يخاف الله</p>"
+        },
+        "4": {
+            "verses": {
+                "20:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿تَنزِیلࣰا﴾ بَدَل مِنْ اللَّفْظ بِفِعْلِهِ النَّاصِب لَهُ ﴿مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَـٰوَ ٰ⁠تِ ٱلۡعُلَى ۝٤﴾ جَمْع عُلْيَا كَكُبْرَى وَكُبَر</p>"
+        },
+        "5": {
+            "verses": {
+                "20:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>هُوَ ﴿ٱلرَّحۡمَـٰنُ عَلَى ٱلۡعَرۡشِ﴾ وَهُوَ فِي اللُّغَة سَرِير الْمُلْك ﴿ٱسۡتَوَىٰ ۝٥﴾ اسْتِوَاء يَلِيق بِهِ</p>"
+        },
+        "6": {
+            "verses": {
+                "20:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا﴾ مِنْ الْمَخْلُوقَات ﴿وَمَا تَحۡتَ ٱلثَّرَىٰ ۝٦﴾ هُوَ التُّرَاب النَّدِيّ وَالْمُرَاد الْأَرَضُونَ السَّبْع لِأَنَّهَا تحته</p>"
+        },
+        "7": {
+            "verses": {
+                "20:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَإِن تَجۡهَرۡ بِٱلۡقَوۡلِ﴾ فِي ذِكْر أَوْ دُعَاء فَاَللَّه غَنِيّ عَنْ الْجَهْر بِهِ ﴿فَإِنَّهُۥ یَعۡلَمُ ٱلسِّرَّ وَأَخۡفَى ۝٧﴾ مِنْهُ أَيْ مَا حَدَّثْت بِهِ النَّفْس وَمَا خَطَرَ وَلَمْ تُحَدِّث بِهِ فَلَا تُجْهِد نَفْسك بِالْجَهْرِ</p>"
+        },
+        "8": {
+            "verses": {
+                "20:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَاۤءُ ٱلۡحُسۡنَىٰ ۝٨﴾ التِّسْعَة وَالتِّسْعُونَ الْوَارِد بِهَا الْحَدِيث وَالْحُسْنَى مؤنث الأحسن</p>"
+        },
+        "9": {
+            "verses": {
+                "20:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَهَلۡ﴾ قد ﴿أَتَىٰكَ حَدِیثُ مُوسَىٰۤ ۝٩﴾</h2>"
+        },
+        "10": {
+            "verses": {
+                "20:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِذۡ رَءَا نَارࣰا فَقَالَ لِأَهۡلِهِ﴾ لِامْرَأَتِهِ ﴿ٱمۡكُثُوۤا۟﴾ هُنَا وَذَلِكَ فِي مَسِيره مِنْ مَدَيْنَ طَالِبًا مِصْر ﴿إِنِّیۤ ءَانَسۡتُ﴾ أَبْصَرْت ﴿نَارࣰا لَّعَلِّیۤ ءَاتِیكُم مِّنۡهَا بِقَبَسٍ﴾ بِشُعْلَةٍ فِي رَأْس فَتِيلَة أَوْ عود ﴿أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدࣰى ۝١٠﴾ أَيْ هَادِيًا يَدُلّنِي عَلَى الطَّرِيق وَكَانَ أَخْطَأَهَا لِظُلْمَةِ اللَّيْل وقال لعل لعدم الجزم بوفاء الوعد</p>"
+        },
+        "11": {
+            "verses": {
+                "20:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلَمَّاۤ أَتَىٰهَا﴾ وهي شجرة عوسج ﴿نُودِیَ یَـٰمُوسَىٰۤ ۝١١﴾</p>"
+        },
+        "12": {
+            "verses": {
+                "20:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنِّیۤ﴾ بِكَسْرِ الْهَمْزَة بِتَأْوِيلِ نُودِيَ بِقِيلَ وَبِفَتْحِهَا بِتَقْدِيرِ الْبَاء ﴿أَنَا۠﴾ تَأْكِيد لِيَاءِ الْمُتَكَلِّم ﴿رَبُّكَ فَٱخۡلَعۡ نَعۡلَیۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ﴾ الْمُطَهَّر أَوْ الْمُبَارَك ﴿طُوࣰى ۝١٢﴾ بَدَل أَوْ عَطْف بَيَان بِالتَّنْوِينِ وَتَرْكه مَصْرُوف بِاعْتِبَارِ الْمَكَان وَغَيْر مَصْرُوف لِلتَّأْنِيثِ بِاعْتِبَارِ الْبُقْعَة مَعَ الْعِلْمِيَّة</p>"
+        },
+        "13": {
+            "verses": {
+                "20:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَنَا ٱخۡتَرۡتُكَ﴾ مِنْ قَوْمك ﴿فَٱسۡتَمِعۡ لِمَا یُوحَىٰۤ ۝١٣﴾ إليك مني</p>"
+        },
+        "14": {
+            "verses": {
+                "20:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّنِیۤ أَنَا ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّاۤ أَنَا۠ فَٱعۡبُدۡنِی وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِیۤ ۝١٤﴾ فيها</p>"
+        },
+        "15": {
+            "verses": {
+                "20:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّ ٱلسَّاعَةَ ءَاتِیَةٌ أَكَادُ أُخۡفِیهَا﴾ عَنْ النَّاس وَيَظْهَر لَهُمْ قُرْبهَا بِعَلَامَاتِهَا ﴿لِتُجۡزَىٰ﴾ فِيهَا ﴿كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ ۝١٥﴾ بِهِ مِنْ خَيْر أَوْ شر</p>"
+        },
+        "16": {
+            "verses": {
+                "20:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلَا یَصُدَّنَّكَ﴾ يَصْرِفَنَّك ﴿عَنۡهَا﴾ أَيْ عَنْ الْإِيمَان بِهَا ﴿مَن لَّا یُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ﴾ فِي إنْكَارهَا ﴿فَتَرۡدَىٰ ۝١٦﴾ أَيْ فَتَهْلِك إنْ صَدَدْت عنها</p>"
+        },
+        "17": {
+            "verses": {
+                "20:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَا تِلۡكَ﴾ كائنة ﴿بِیَمِینِكَ یَـٰمُوسَىٰ ۝١٧﴾ الِاسْتِفْهَام لِلتَّقْرِيرِ لِيُرَتِّب عَلَيْهِ الْمُعْجِزَة فِيهَا</p>"
+        },
+        "18": {
+            "verses": {
+                "20:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ هِیَ عَصَایَ أَتَوَكَّؤُا۟﴾ أَعْتَمِد ﴿عَلَیۡهَا﴾ عِنْد الْوُثُوب وَالْمَشْي ﴿وَأَهُشُّ﴾ أَخْبِط وَرَق الشَّجَر ﴿بِهَا﴾ لِيَسْقُط ﴿عَلَىٰ غَنَمِی﴾ فَتَأْكُلهُ ﴿وَلِیَ فِیهَا مَـَٔارِبُ﴾ جَمْع مَأْرُبَة مُثَلَّث الرَّاء أَيْ حَوَائِج ﴿أُخۡرَىٰ ۝١٨﴾ كَحَمْلِ الزَّاد وَالسِّقَاء وَطَرْد الْهَوَامّ زَادَ فِي الجواب بيان حاجاته بها</p>"
+        },
+        "19": {
+            "verses": {
+                "20:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿قَالَ أَلۡقِهَا یَـٰمُوسَىٰ ۝١٩﴾</h2>"
+        },
+        "20": {
+            "verses": {
+                "20:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَلۡقَىٰهَا فَإِذَا هِیَ حَیَّةࣱ﴾ ثُعْبَان عَظِيم ﴿تَسۡعَىٰ ۝٢٠﴾ تَمْشِي عَلَى بَطْنهَا سَرِيعًا كَسُرْعَةِ الثُّعْبَان الصَّغِير الْمُسَمَّى بِالْجَانِّ الْمُعَبَّر بِهِ فِيهَا فِي آيَة أخرى</p>"
+        },
+        "21": {
+            "verses": {
+                "20:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ خُذۡهَا وَلَا تَخَفۡۖ﴾ مِنْهَا ﴿سَنُعِیدُهَا سِیرَتَهَا﴾ مَنْصُوب بِنَزْعِ الْخَافِض أَيْ إلَى حَالَتهَا ﴿ٱلۡأُولَىٰ ۝٢١﴾ فَأَدْخَلَ يَده فِي فَمهَا فَعَادَتْ عَصًا فَتَبَيَّنَ أَنَّ مَوْضِع الْإِدْخَال مَوْضِع مَسْكهَا بَيْن شُعْبَتَيْهَا وَأُرِيَ ذَلِكَ السَّيِّد مُوسَى لِئَلَّا يَجْزَع إذَا انْقَلَبَتْ حَيَّة لَدَى فِرْعَوْن</p>"
+        },
+        "22": {
+            "verses": {
+                "20:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱضۡمُمۡ یَدَكَ﴾ الْيُمْنَى بِمَعْنَى الْكَفّ ﴿إِلَىٰ جَنَاحِكَ﴾ أَيْ جَنْبك الْأَيْسَر تَحْت الْعَضُد إلَى الْإِبِط وَأَخْرِجْهَا ﴿تَخۡرُجۡ﴾ خِلَاف مَا كَانَتْ عَلَيْهِ مِنْ الْأَدَمَة ﴿بَیۡضَاۤءَ مِنۡ غَیۡرِ سُوۤءٍ﴾ أَيْ بَرَص تُضِيء كَشُعَاعِ الشَّمْس تَغْشَى الْبَصَر ﴿ءَایَةً أُخۡرَىٰ ۝٢٢﴾ وَهِيَ بَيْضَاء حَالَانِ مِنْ ضَمِير تَخْرُج</p>"
+        },
+        "23": {
+            "verses": {
+                "20:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لِنُرِیَكَ﴾ بِهَا إذَا فَعَلْت ذَلِكَ لِإِظْهَارِهَا ﴿مِنۡ ءَایَـٰتِنَا﴾ الْآيَة ﴿ٱلۡكُبۡرَى ۝٢٣﴾ أَيْ الْعُظْمَى عَلَى رِسَالَتك وَإِذَا أَرَادَ عَوْدهَا إلَى حَالَتهَا الْأُولَى ضَمَّهَا إلَى جَنَاحه كَمَا تَقَدَّمَ وَأَخْرَجَهَا</p>"
+        },
+        "24": {
+            "verses": {
+                "20:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱذۡهَبۡ﴾ رَسُولًا ﴿إِلَىٰ فِرۡعَوۡنَ﴾ وَمَنْ مَعَهُ ﴿إِنَّهُۥ طَغَىٰ ۝٢٤﴾ جَاوَزَ الْحَدّ فِي كُفْره إلَى ادِّعَاء الإلهية</p>"
+        },
+        "25": {
+            "verses": {
+                "20:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ رَبِّ ٱشۡرَحۡ لِی صَدۡرِی ۝٢٥﴾ وَسِّعْهُ لِتَحَمُّلِ الرسالة</p>"
+        },
+        "26": {
+            "verses": {
+                "20:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَیَسِّرۡ﴾ سَهِّلْ ﴿لِیۤ أَمۡرِی ۝٢٦﴾ لِأُبَلِّغهَا</h2>"
+        },
+        "27": {
+            "verses": {
+                "20:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱحۡلُلۡ عُقۡدَةࣰ مِّن لِّسَانِی ۝٢٧﴾ حَدَثَتْ مِنْ احْتِرَاقه بِجَمْرَةٍ وَضَعَهَا بِفِيهِ وَهُوَ صَغِير</p>"
+        },
+        "28": {
+            "verses": {
+                "20:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَفۡقَهُوا۟﴾ يَفْهَمُوا ﴿قَوۡلِی ۝٢٨﴾ عِنْد تَبْلِيغ الرِّسَالَة</p>"
+        },
+        "29": {
+            "verses": {
+                "20:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱجۡعَل لِّی وَزِیرࣰا﴾ معينا عليها ﴿مِّنۡ أَهۡلِی ۝٢٩﴾</h2>"
+        },
+        "30": {
+            "verses": {
+                "20:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿هَـٰرُونَ﴾ مفعول ثاني ﴿أَخِی ۝٣٠﴾ عطف بيان</h2>"
+        },
+        "31": {
+            "verses": {
+                "20:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱشۡدُدۡ بِهِۦۤ أَزۡرِی ۝٣١﴾ ظهري</h2>"
+        },
+        "32": {
+            "verses": {
+                "20:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَشۡرِكۡهُ فِیۤ أَمۡرِی ۝٣٢﴾ أَيْ الرِّسَالَة وَالْفِعْلَانِ بِصِيغَتِي الْأَمْر وَالْمُضَارِع الْمَجْزُوم وَهُوَ جَوَاب الطَّلَب</p>"
+        },
+        "33": {
+            "verses": {
+                "20:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَیۡ نُسَبِّحَكَ﴾ تسبيحا ﴿كَثِیرࣰا ۝٣٣﴾</h2>"
+        },
+        "34": {
+            "verses": {
+                "20:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَنَذۡكُرَكَ﴾ ذكرا ﴿كَثِیرًا ۝٣٤﴾</h2>"
+        },
+        "35": {
+            "verses": {
+                "20:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّكَ كُنتَ بِنَا بَصِیرࣰا ۝٣٥﴾ عَالِمًا فَأَنْعَمْت بِالرِّسَالَةِ</p>"
+        },
+        "36": {
+            "verses": {
+                "20:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿قَالَ قَدۡ أُوتِیتَ سُؤۡلَكَ یَـٰمُوسَىٰ ۝٣٦﴾ مِنَّا عليك</h2>"
+        },
+        "37": {
+            "verses": {
+                "20:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَلَقَدۡ مَنَنَّا عَلَیۡكَ مَرَّةً أُخۡرَىٰۤ ۝٣٧﴾</h2>"
+        },
+        "38": {
+            "verses": {
+                "20:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِذۡ﴾ لِلتَّعْلِيلِ ﴿أَوۡحَیۡنَاۤ إِلَىٰۤ أُمِّكَ﴾ مَنَامًا أَوْ إلْهَامًا لَمَّا وَلَدَتْك وَخَافَتْ أَنْ يَقْتُلك فِرْعَوْن فِي جُمْلَة مَنْ يُولَد ﴿مَا یُوحَىٰۤ ۝٣٨﴾ فِي أَمْرك وَيُبْدَل مِنْهُ</p>"
+        },
+        "39": {
+            "verses": {
+                "20:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَنِ ٱقۡذِفِیهِ﴾ أَلْقِيهِ ﴿فِی ٱلتَّابُوتِ فَٱقۡذِفِیهِ﴾ بِالتَّابُوتِ ﴿فِی ٱلۡیَمِّ﴾ بَحْر النِّيل ﴿فَلۡیُلۡقِهِ ٱلۡیَمُّ بِٱلسَّاحِلِ﴾ أَيْ شَاطِئِهِ وَالْأَمْر بِمَعْنَى الْخَبَر ﴿یَأۡخُذۡهُ عَدُوࣱّ لِّی وَعَدُوࣱّ لَّهُۥۚ﴾ وَهُوَ فِرْعَوْن ﴿وَأَلۡقَیۡتُ﴾ بَعْد أَنْ أَخَذَك ﴿عَلَیۡكَ مَحَبَّةࣰ مِّنِّی﴾ لِتُحَبّ فِي النَّاس فَأَحَبَّك فِرْعَوْن وَكُلّ مَنْ رَآك ﴿وَلِتُصۡنَعَ عَلَىٰ عَیۡنِیۤ ۝٣٩﴾ تُرَبَّى عَلَى رِعَايَتِي وَحِفْظِي لَك</p>"
+        },
+        "40": {
+            "verses": {
+                "20:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِذۡ﴾ لِلتَّعْلِيلِ ﴿تَمۡشِیۤ أُخۡتُكَ﴾ مَرْيَم لِتَتَعَرَّف مِنْ خَبَرك وَقَدْ أَحْضَرُوا مَرَاضِع وَأَنْتَ لَا تَقْبَل ثَدْي وَاحِدَة مِنْهُنَّ ﴿فَتَقُولُ هَلۡ أَدُلُّكُمۡ عَلَىٰ مَن یَكۡفُلُهُۥۖ﴾ فأجيت فَجَاءَتْ بِأُمِّهِ فَقَبِلَ ثَدْيهَا ﴿فَرَجَعۡنَـٰكَ إِلَىٰۤ أُمِّكَ كَیۡ تَقَرَّ عَیۡنُهَا﴾ بِلِقَائِك ﴿وَلَا تَحۡزَنَۚ﴾ حِينَئِذٍ ﴿وَقَتَلۡتَ نَفۡسࣰا﴾ هُوَ الْقِبْطِيّ بِمِصْرَ فَاغْتَمَمْت لِقَتْلِهِ مِنْ جِهَة فِرْعَوْن ﴿فَنَجَّیۡنَـٰكَ مِنَ ٱلۡغَمِّ وَفَتَنَّـٰكَ فُتُونࣰاۚ﴾ اخْتَبَرْنَاك بِالْإِيقَاعِ فِي غَيْر ذَلِكَ وَخَلَّصْنَاك مِنْهُ ﴿فَلَبِثۡتَ سِنِینَ﴾ عَشْرًا ﴿فِیۤ أَهۡلِ مَدۡیَنَ﴾ بَعْد مَجِيئِك إلَيْهَا مِنْ مِصْر عِنْد شُعَيْب النَّبِيّ وَتَزَوُّجك بِابْنَتِهِ ﴿ثُمَّ جِئۡتَ عَلَىٰ قَدَرࣲ﴾ فِي عِلْمِي بِالرِّسَالَةِ وَهُوَ أَرْبَعُونَ سَنَة مِنْ عمرك ﴿یَـٰمُوسَىٰ ۝٤٠﴾</p>"
+        },
+        "41": {
+            "verses": {
+                "20:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱصۡطَنَعۡتُكَ﴾ اخْتَرْتُك ﴿لِنَفۡسِی ۝٤١﴾ بِالرِّسَالَةِ</h2>"
+        },
+        "42": {
+            "verses": {
+                "20:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱذۡهَبۡ أَنتَ وَأَخُوكَ﴾ إلَى النَّاس ﴿بِـَٔایَـٰتِی﴾ التِّسْع ﴿وَلَا تَنِیَا﴾ تَفْتُرَا ﴿فِی ذِكۡرِی ۝٤٢﴾ بِتَسْبِيحٍ وَغَيْره</p>"
+        },
+        "43": {
+            "verses": {
+                "20:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱذۡهَبَاۤ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ ۝٤٣﴾ بِادِّعَائِهِ الرُّبُوبِيَّة</p>"
+        },
+        "44": {
+            "verses": {
+                "20:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَقُولَا لَهُۥ قَوۡلࣰا لَّیِّنࣰا﴾ فِي رُجُوعه عَنْ ذلك ﴿لَّعَلَّهُۥ یَتَذَكَّرُ﴾ يتعظ ﴿أَوۡ یَخۡشَىٰ ۝٤٤﴾ الله فيرجع وَالتَّرَجِّي بِالنِّسْبَةِ إلَيْهِمَا لِعِلْمِهِ تَعَالَى بِأَنَّهُ لَا يرجع</p>"
+        },
+        "45": {
+            "verses": {
+                "20:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَا رَبَّنَاۤ إِنَّنَا نَخَافُ أَن یَفۡرُطَ عَلَیۡنَاۤ﴾ أَيْ يَعْجَل بِالْعُقُوبَةِ ﴿أَوۡ أَن یَطۡغَىٰ﴾ علينا أي يتكبر</p>"
+        },
+        "46": {
+            "verses": {
+                "20:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ لَا تَخَافَاۤۖ إِنَّنِی مَعَكُمَاۤ﴾ بِعَوْنِي ﴿أَسۡمَعُ﴾ مَا يَقُول ﴿وَأَرَىٰ ۝٤٦﴾ مَا يَفْعَل</p>"
+        },
+        "47": {
+            "verses": {
+                "20:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأۡتِیَاهُ فَقُولَاۤ إِنَّا رَسُولَا رَبِّكَ فَأَرۡسِلۡ مَعَنَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ﴾ إلَى الشَّام ﴿وَلَا تُعَذِّبۡهُمۡۖ﴾ أَيْ خَلِّ عَنْهُمْ مِنْ اسْتِعْمَالك إيَّاهُمْ فِي أَشْغَالك الشَّاقَّة كَالْحَفْرِ وَالْبِنَاء وَحَمْل الثَّقِيل ﴿قَدۡ جِئۡنَـٰكَ بِـَٔایَةࣲ﴾ بِحُجَّةٍ ﴿مِّن رَّبِّكَۖ﴾ عَلَى صِدْقنَا بِالرِّسَالَةِ ﴿وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلۡهُدَىٰۤ ۝٤٧﴾ أَيْ السَّلَامَة لَهُ مِنْ الْعَذَاب</p>"
+        },
+        "48": {
+            "verses": {
+                "20:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّا قَدۡ أُوحِیَ إِلَیۡنَاۤ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ﴾ مَا جِئْنَا بِهِ ﴿وَتَوَلَّىٰ ۝٤٨﴾ أَعْرَضَ عَنْهُ فَأَتَيَاهُ وَقَالَا جَمِيع مَا ذُكِرَ</p>"
+        },
+        "49": {
+            "verses": {
+                "20:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ فَمَن رَّبُّكُمَا یَـٰمُوسَىٰ ۝٤٩﴾ اقْتَصَرَ عَلَيْهِ لِأَنَّهُ الْأَصْل وَلِإِدْلَالِهِ عَلَيْهِ بِالتَّرْبِيَةِ</p>"
+        },
+        "50": {
+            "verses": {
+                "20:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ رَبُّنَا ٱلَّذِیۤ أَعۡطَىٰ كُلَّ شَیۡءٍ﴾ مِنْ الْخَلْق ﴿خَلۡقَهُۥ﴾ الَّذِي هُوَ عَلَيْهِ مُتَمَيِّز بِهِ عَنْ غَيْره ﴿ثُمَّ هَدَىٰ ۝٥٠﴾ الْحَيَوَان مِنْهُ إلَى مَطْعَمه وَمَشْرَبه وَمَنْكَحِهِ وَغَيْر ذَلِكَ</p>"
+        },
+        "51": {
+            "verses": {
+                "20:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ فِرْعَوْن ﴿فَمَا بَالُ﴾ حَال ﴿ٱلۡقُرُونِ﴾ الْأُمَم ﴿ٱلۡأُولَىٰ ۝٥١﴾ كَقَوْمِ نُوح وَهُود وَلُوط وَصَالِح فِي عبادتهم الأوثان</p>"
+        },
+        "52": {
+            "verses": {
+                "20:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ مُوسَى ﴿عِلۡمُهَا﴾ أَيْ عِلْم حَالهمْ مَحْفُوظ ﴿عِندَ رَبِّی فِی كِتَـٰبࣲۖ﴾ هُوَ اللَّوْح الْمَحْفُوظ يُجَازِيهِمْ عَلَيْهَا يَوْم الْقِيَامَة ﴿لَّا یَضِلُّ﴾ يَغِيب ﴿رَبِّی﴾ عَنْ شَيْء ﴿وَلَا یَنسَى ۝٥٢﴾ رَبِّي شَيْئًا</p>"
+        },
+        "53": {
+            "verses": {
+                "20:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>هو ﴿ٱلَّذِی جَعَلَ لَكُمُ﴾ فِي جُمْلَة الْخَلْق ﴿ٱلۡأَرۡضَ مهادا﴾ فِرَاشًا ﴿وَسَلَكَ﴾ سَهَّلَ ﴿لَكُمۡ فِیهَا سُبُلࣰا﴾ طُرُقًا ﴿وَأَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ﴾ مَطَرًا قَالَ تَعَالَى تَتْمِيمًا لِمَا وَصَفَهُ بِهِ مُوسَى وَخِطَابًا لِأَهْلِ مَكَّة ﴿فَأَخۡرَجۡنَا بِهِۦۤ أَزۡوَ ٰ⁠جࣰا﴾ أَصْنَافًا ﴿مِّن نَّبَاتࣲ شَتَّىٰ ۝٥٣﴾ صِفَة أَزْوَاجًا أَيْ مُخْتَلِفَة الْأَلْوَان وَالطُّعُوم وَغَيْرهمَا وَشَتَّى جَمْع شَتِيت كَمَرِيضٍ وَمَرْضَى مِنْ شَتَّ الْأَمْر تَفَرَّقَ</p>"
+        },
+        "54": {
+            "verses": {
+                "20:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كُلُوا۟﴾ مِنْهَا ﴿وَٱرۡعَوۡا۟ أَنۡعَـٰمَكُمۡۚ﴾ فِيهَا جَمْع نَعَم وَهِيَ الْإِبِل وَالْبَقَر وَالْغَنَم يُقَال رَعَتْ الْأَنْعَام وَرَعَيْتهَا وَالْأَمْر لِلْإِبَاحَةِ وَتَذْكِير النِّعْمَة وَالْجُمْلَة حَال مِنْ ضَمِير أَخْرَجْنَا أَيْ مُبِيحِينَ لَكُمْ الْأَكْل وَرَعْي الْأَنْعَام ﴿إِنَّ فِی ذَ ٰ⁠لِكَ﴾ الْمَذْكُور هُنَا ﴿لَـَٔایَـٰتࣲ﴾ لَعِبَرًا ﴿لِّأُو۟لِی ٱلنُّهَىٰ ۝٥٤﴾ لِأَصْحَابِ الْعُقُول جَمْع نُهْيَة كَغُرْفَةٍ وَغُرَف سُمِّيَ بِهِ الْعَقْل لِأَنَّهُ يَنْهَى صَاحِبه عَنْ ارْتِكَاب الْقَبَائِح</p>"
+        },
+        "55": {
+            "verses": {
+                "20:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مِنۡهَا﴾ أَيْ مِنْ الْأَرْض ﴿خَلَقۡنَـٰكُمۡ﴾ بِخَلْقِ أَبِيكُمْ آدَم مِنْهَا ﴿وَفِیهَا نُعِیدُكُمۡ﴾ مَقْبُورِينَ بَعْد الْمَوْت ﴿وَمِنۡهَا نُخۡرِجُكُمۡ﴾ عِنْد الْبَعْث ﴿تَارَةً﴾ مَرَّة ﴿أُخۡرَىٰ ۝٥٥﴾ كَمَا أَخْرَجْنَاكُمْ عِنْد ابْتِدَاء خَلْقكُمْ</p>"
+        },
+        "56": {
+            "verses": {
+                "20:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَقَدۡ أَرَیۡنَـٰهُ﴾ أَيْ أَبْصَرْنَا فِرْعَوْن ﴿ءَایَـٰتِنَا كُلَّهَا﴾ التِّسْع ﴿فَكَذَّبَ﴾ بِهَا وَزَعَمَ أَنَّهَا سِحْر ﴿وَأَبَىٰ ۝٥٦﴾ أَنْ يُوَحِّد اللَّه تَعَالَى</p>"
+        },
+        "57": {
+            "verses": {
+                "20:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ أَجِئۡتَنَا لِتُخۡرِجَنَا مِنۡ أَرۡضِنَا﴾ مِصْر وَيَكُون لك الملك فيها ﴿بِسِحۡرِكَ یَـٰمُوسَىٰ ۝٥٧﴾</p>"
+        },
+        "58": {
+            "verses": {
+                "20:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلَنَأۡتِیَنَّكَ بِسِحۡرࣲ مِّثۡلِهِۦ﴾ يُعَارِضُهُ ﴿فَٱجۡعَلۡ بَیۡنَنَا وَبَیۡنَكَ مَوۡعِدࣰا﴾ لِذَلِكَ ﴿لَّا نُخۡلِفُهُۥ نَحۡنُ وَلَاۤ أَنتَ مَكَانࣰا﴾ مَنْصُوب بِنَزْعِ الْخَافِض فِي ﴿سِوࣰى ۝٥٨﴾ بِكَسْرِ أَوَّله وَضَمّه أَيْ وَسَطًا تَسْتَوِي إلَيْهِ مَسَافَة الْجَائِي مِنْ الطَّرَفَيْنِ</p>"
+        },
+        "59": {
+            "verses": {
+                "20:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ مُوسَى ﴿مَوۡعِدُكُمۡ یَوۡمُ ٱلزِّینَةِ﴾ يَوْم عِيد لَهُمْ يَتَزَيَّنُونَ فِيهِ وَيَجْتَمِعُونَ ﴿وَأَن یُحۡشَرَ ٱلنَّاسُ﴾ يُجْمَع أَهْل مِصْر ﴿ضُحࣰى ۝٥٩﴾ وَقَّتَهُ لِلنَّظَرِ فِيمَا يقع</p>"
+        },
+        "60": {
+            "verses": {
+                "20:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَتَوَلَّىٰ فِرۡعَوۡنُ﴾ أَدْبَرَ ﴿فَجَمَعَ كَیۡدَهُۥ﴾ أَيْ ذَوِي كَيْده مِنْ السَّحَرَة ﴿ثُمَّ أَتَىٰ ۝٦٠﴾ بِهِمْ الْمَوْعِد</p>"
+        },
+        "61": {
+            "verses": {
+                "20:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ لَهُم مُّوسَىٰ﴾ وَهُمْ اثْنَانِ وَسَبْعُونَ مَعَ كُلّ وَاحِد حَبْل وَعَصًا ﴿وَیۡلَكُمۡ﴾ أَيْ أَلْزَمَكُمْ اللَّه الْوَيْل ﴿لَا تَفۡتَرُوا۟ عَلَى ٱللَّهِ كَذِبࣰا﴾ بِإِشْرَاكِ أَحَد مَعَهُ ﴿فَیُسۡحِتَكُم﴾ بِضَمِّ الْيَاء وَكَسْر الْحَاء وَبِفَتْحِهِمَا أَيْ يُهْلِككُمْ ﴿بِعَذَابࣲۖ﴾ مِنْ عِنْده ﴿وَقَدۡ خَابَ﴾ خَسِرَ ﴿مَنِ ٱفۡتَرَىٰ ۝٦١﴾ كَذَبَ عَلَى الله</p>"
+        },
+        "62": {
+            "verses": {
+                "20:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَتَنَـٰزَعُوۤا۟ أَمۡرَهُم بَیۡنَهُمۡ﴾ فِي مُوسَى وَأَخِيهِ ﴿وَأَسَرُّوا۟ ٱلنَّجۡوَىٰ ۝٦٢﴾ أَيْ الْكَلَام بَيْنهمْ فِيهِمَا</p>"
+        },
+        "63": {
+            "verses": {
+                "20:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالُوۤا۟﴾ لِأَنْفُسِهِمْ ﴿إِنۡ هَـٰذَ ٰ⁠نِ﴾ وَهُوَ مُوَافِق لِلُغَةِ من يأتي في المثنى بالألف في أحواله الثلاثة وَلِأَبِي عَمْرو {هَـٰذَۦۡنِ} ﴿لَسَـٰحِرَ ٰ⁠نِ یُرِیدَانِ أَن یُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَیَذۡهَبَا بِطَرِیقَتِكُمُ ٱلۡمُثۡلَىٰ ۝٦٣﴾ مُؤَنَّث أَمْثَل بِمَعْنَى أَشْرَف أَيْ بِأَشْرَافِكُمْ بِمَيْلِهِمْ إلَيْهِمَا لغلبتهما</p>"
+        },
+        "64": {
+            "verses": {
+                "20:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَاجۡمَعُوا۟ كَیۡدَكُمۡ﴾ مِنْ السِّحْر بِهَمْزَةِ وَصْل وَفَتْح الْمِيم مِنْ جَمَعَ أَيْ لَمَّ وَبِهَمْزَةِ قَطْع وَكَسْر الْمِيم مِنْ أَجْمَعَ أَحْكَمَ ﴿ثُمَّ ٱئۡتُوا۟ صَفࣰّاۚ﴾ حَال أَيْ مُصْطَفِّينَ ﴿وَقَدۡ أَفۡلَحَ﴾ فَازَ ﴿ٱلۡیَوۡمَ مَنِ ٱسۡتَعۡلَىٰ ۝٦٤﴾ غَلَبَ</p>"
+        },
+        "65": {
+            "verses": {
+                "20:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالُوا۟ یَـٰمُوسَىٰۤ﴾ اخْتَرْ ﴿إِمَّاۤ أَن تُلۡقِیَ﴾ عَصَاك أَوَّلًا ﴿وَإِمَّاۤ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ ۝٦٥﴾ عصاه</p>"
+        },
+        "66": {
+            "verses": {
+                "20:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ بَلۡ أَلۡقُوا۟ۖ﴾ فَأَلْقَوْا ﴿فَإِذَا حِبَالُهُمۡ وَعِصِیُّهُمۡ﴾ أَصْله عُصُوو قُلِبَتْ الْوَاوَانِ يَاءَيْنِ وَكُسِرَتْ الْعَيْن وَالصَّاد ﴿یُخَیَّلُ إِلَیۡهِ مِن سِحۡرِهِمۡ أَنَّهَا﴾ حَيَّات ﴿تَسۡعَىٰ ۝٦٦﴾ عَلَى بُطُونهَا</p>"
+        },
+        "67": {
+            "verses": {
+                "20:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَوۡجَسَ﴾ أَحَسَّ ﴿فِی نَفۡسِهِۦ خِیفَةࣰ مُّوسَىٰ ۝٦٧﴾ أَيْ خَافَ مِنْ جِهَة أَنَّ سِحْرهمْ مِنْ جِنْس مُعْجِزَته أَنْ يَلْتَبِس أَمْره عَلَى النَّاس فَلَا يؤمنوا به</p>"
+        },
+        "68": {
+            "verses": {
+                "20:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قُلۡنَا﴾ لَهُ ﴿لَا تَخَفۡ إِنَّكَ أَنتَ ٱلۡأَعۡلَىٰ ۝٦٨﴾ عليهم بالغلبة</p>"
+        },
+        "69": {
+            "verses": {
+                "20:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَلۡقِ مَا فِی یَمِینِكَ﴾ وَهِيَ عَصَاهُ ﴿تَلۡقَفۡ﴾ تَبْتَلِع ﴿مَا صَنَعُوۤا۟ۖ إِنَّمَا صَنَعُوا۟ كَیۡدُ سَـٰحِرࣲۖ﴾ أَيْ جِنْسه ﴿وَلَا یُفۡلِحُ ٱلسَّاحِرُ حَیۡثُ أَتَىٰ ۝٦٩﴾ بِسِحْرِهِ فَأَلْقَى مُوسَى عَصَاهُ فَتَلَقَّفَتْ كُلّ مَا صنعوه</p>"
+        },
+        "70": {
+            "verses": {
+                "20:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأُلۡقِیَ ٱلسَّحَرَةُ سُجَّدࣰا﴾ خَرُّوا سَاجِدِينَ لِلَّهِ تَعَالَى ﴿قَالُوۤا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ ۝٧٠﴾</p>"
+        },
+        "71": {
+            "verses": {
+                "20:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ فرعون ﴿أآمنتم﴾ بِتَحْقِيقِ الْهَمْزَتَيْنِ وَإِبْدَال الثَّانِيَة أَلِفًا ﴿لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ﴾ أَنَا ﴿لَكُمۡۖ إِنَّهُۥ لَكَبِیرُكُمُ﴾ مُعَلِّمكُمْ ﴿ٱلَّذِی عَلَّمَكُمُ ٱلسِّحۡرَۖ فَلَأُقَطِّعَنَّ أَیۡدِیَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَـٰفࣲ﴾ حَال بِمَعْنَى مُخْتَلِفَة أَيْ الْأَيْدِي الْيُمْنَى وَالْأَرْجُل الْيُسْرَى ﴿وَلَأُصَلِّبَنَّكُمۡ فِی جُذُوعِ ٱلنَّخۡلِ﴾ أَيْ عَلَيْهَا ﴿وَلَتَعۡلَمُنَّ أَیُّنَاۤ﴾ يَعْنِي نَفْسه وَرَبّ مُوسَى ﴿أَشَدُّ عَذَابࣰا وَأَبۡقَىٰ ۝٧١﴾ أَدْوَم عَلَى مُخَالَفَته</p>"
+        },
+        "72": {
+            "verses": {
+                "20:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالُوا۟ لَن نُّؤۡثِرَكَ﴾ نَخْتَارك ﴿عَلَىٰ مَا جَاۤءَنَا مِنَ ٱلۡبَیِّنَـٰتِ﴾ الدَّالَّة عَلَى صِدْق مُوسَى ﴿وَٱلَّذِی فَطَرَنَاۖ﴾ خَلَقَنَا قَسَم أَوْ عَطْف عَلَى مَا ﴿فَٱقۡضِ مَاۤ أَنتَ قَاضٍۖ﴾ أَيْ اصْنَعْ مَا قُلْته ﴿إِنَّمَا تَقۡضِی هَـٰذِهِ ٱلۡحَیَوٰةَ ٱلدُّنۡیَاۤ ۝٧٢﴾ النَّصْب عَلَى الِاتِّسَاع أَيْ فِيهَا وَتُجْزَى عَلَيْهِ فِي الآخرة</p>"
+        },
+        "73": {
+            "verses": {
+                "20:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّاۤ ءَامَنَّا بِرَبِّنَا لِیَغۡفِرَ لَنَا خَطَـٰیَـٰنَا﴾ مِنْ الْإِشْرَاك وَغَيْره ﴿وَمَاۤ أَكۡرَهۡتَنَا عَلَیۡهِ مِنَ ٱلسِّحۡرِۗ﴾ تَعَلُّمًا وَعَمَلًا لِمُعَارَضَةِ مُوسَى ﴿وَٱللَّهُ خَیۡرࣱ﴾ مِنْك ثَوَابًا إذَا أُطِيعَ ﴿وَأَبۡقَىٰۤ ۝٧٣﴾ مِنْك عَذَابًا إذَا عصي</p>"
+        },
+        "74": {
+            "verses": {
+                "20:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>قال تعالى ﴿إِنَّهُۥ مَن یَأۡتِ رَبَّهُۥ مُجۡرِمࣰا﴾ كَافِرًا كَفِرْعَوْن ﴿فَإِنَّ لَهُۥ جَهَنَّمَ لَا یَمُوتُ فِیهَا﴾ فَيَسْتَرِيح ﴿وَلَا یَحۡیَىٰ ۝٧٤﴾ حياة تنفعه</p>"
+        },
+        "75": {
+            "verses": {
+                "20:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَن یَأۡتِهِۦ مُؤۡمِنࣰا قَدۡ عَمِلَ ٱلصَّـٰلِحَـٰتِ﴾ الْفَرَائِض وَالنَّوَافِل ﴿فَأُو۟لَـٰۤىِٕكَ لَهُمُ ٱلدَّرَجَـٰتُ ٱلۡعُلَىٰ ۝٧٥﴾ جَمْع عُلْيَا مؤنث أعلى</p>"
+        },
+        "76": {
+            "verses": {
+                "20:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿جَنَّـٰتُ عَدۡنࣲ﴾ أي إقامة بيان له ﴿تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۚ وَذَ ٰ⁠لِكَ جَزَاۤءُ مَن تَزَكَّىٰ ۝٧٦﴾ تَطَهَّرَ مِنْ الذُّنُوب</p>"
+        },
+        "77": {
+            "verses": {
+                "20:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَقَدۡ أَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَسۡرِ بِعِبَادِی﴾ بِهَمْزَةِ قَطْع مِنْ أَسْرَى وَبِهَمْزَةِ وَصْل وَكَسْر النُّون مِنْ سَرَى لُغَتَانِ أَيْ سِرْ بِهِمْ لَيْلًا مِنْ أَرْض مِصْر ﴿فَٱضۡرِبۡ لَهُمۡ﴾ اجْعَلْ لَهُمْ بِالضَّرْبِ بِعَصَاك ﴿طَرِیقࣰا فِی ٱلۡبَحۡرِ یَبَسࣰا﴾ أَيْ يَابِسًا فَامْتَثَلَ مَا أُمِرَ بِهِ وَأَيْبَسَ اللَّه الْأَرْض فَمَرُّوا فيها ﴿لَّا تَخَـٰفُ دَرَكࣰا﴾ أَيْ أَنْ يُدْرِكك فِرْعَوْن ﴿وَلَا تَخۡشَىٰ ۝٧٧﴾ غَرَقًا</p>"
+        },
+        "78": {
+            "verses": {
+                "20:78": {
+                    "id": 78
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ﴾ وَهُوَ مَعَهُمْ ﴿فَغَشِیَهُم مِّنَ ٱلۡیَمِّ﴾ أي البحر ﴿مَا غَشِیَهُمۡ ۝٧٨﴾ أغرقهم</p>"
+        },
+        "79": {
+            "verses": {
+                "20:79": {
+                    "id": 79
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَضَلَّ فِرۡعَوۡنُ قَوۡمَهُۥ﴾ بِدُعَائِهِمْ إلَى عِبَادَته ﴿وَمَا هَدَىٰ ۝٧٩﴾ بَلْ أَوْقَعَهُمْ فِي الْهَلَاك خِلَاف قَوْله {وَمَاۤ أَهۡدِیكُمۡ إِلَّا سَبِیلَ ٱلرَّشَادِ}</p>"
+        },
+        "80": {
+            "verses": {
+                "20:80": {
+                    "id": 80
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَـٰبَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ قَدۡ أَنجَیۡنَـٰكُم مِّنۡ عَدُوِّكُمۡ﴾ فِرْعَوْن بِإِغْرَاقِهِ ﴿وَوَ ٰ⁠عَدۡنَـٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَیۡمَنَ﴾ فَنُؤْتِي مُوسَى التَّوْرَاة لِلْعَمَلِ بِهَا ﴿وَنَزَّلۡنَا عَلَیۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ ۝٨٠﴾ هُمَا الترنجبين وَالطَّيْر السُّمَانَى بِتَخْفِيفِ الْمِيم وَالْقَصْر وَالْمُنَادَى مَنْ وُجِدَ مِنْ الْيَهُود زَمَن النَّبِيّ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ وَخُوطِبُوا بِمَا أَنْعَمَ اللَّه بِهِ عَلَى أَجْدَادهمْ زَمَن النَّبِيّ مُوسَى تَوْطِئَة لِقَوْلِهِ تَعَالَى لَهُمْ</p>"
+        },
+        "81": {
+            "verses": {
+                "20:81": {
+                    "id": 81
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كُلُوا۟ مِن طَیِّبَـٰتِ مَا رَزَقۡنَـٰكُمۡ﴾ أَيْ الْمُنْعَم بِهِ عَلَيْكُمْ ﴿وَلَا تَطۡغَوۡا۟ فِیهِ﴾ بِأَنْ تَكْفُرُوا النِّعْمَة بِهِ ﴿فَیَحِلَّ عَلَیۡكُمۡ غَضَبِیۖ﴾ بِكَسْرِ الْحَاء أَيْ يَجِب وَبِضَمِّهَا أَيْ يَنْزِل ﴿وَمَن یَحۡلِلۡ عَلَیۡهِ غَضَبِی﴾ بِكَسْرِ اللَّام وَضَمّهَا ﴿فَقَدۡ هَوَىٰ ۝٨١﴾ سَقَطَ فِي النَّار</p>"
+        },
+        "82": {
+            "verses": {
+                "20:82": {
+                    "id": 82
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَإِنِّی لَغَفَّارࣱ لِّمَن تَابَ﴾ مِنْ الشِّرْك ﴿وَءَامَنَ﴾ وَحَّدَ اللَّه ﴿وَعَمِلَ صَـٰلِحࣰا﴾ يَصْدُق بِالْفَرْضِ وَالنَّفْل ﴿ثُمَّ ٱهۡتَدَىٰ ۝٨٢﴾ بِاسْتِمْرَارِهِ عَلَى مَا ذُكِرَ إلَى موته</p>"
+        },
+        "83": {
+            "verses": {
+                "20:83": {
+                    "id": 83
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَاۤ أَعۡجَلَكَ عَن قَوۡمِكَ﴾ لِمَجِيءِ مِيعَاد أَخْذ التوراة ﴿یَـٰمُوسَىٰ ۝٨٣﴾</p>"
+        },
+        "84": {
+            "verses": {
+                "20:84": {
+                    "id": 84
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ هُمۡ أُو۟لَاۤءِ﴾ أَيْ بِالْقُرْبِ مِنِّي يَأْتُونَ ﴿عَلَىٰۤ أَثَرِی وَعَجِلۡتُ إِلَیۡكَ رَبِّ لِتَرۡضَىٰ ۝٨٤﴾ عَنِّي أَيْ زِيَادَة فِي رِضَاك وَقَبْل الْجَوَاب أَتَى بِالِاعْتِذَارِ حَسَب ظَنّه وَتَخَلُّف الْمَظْنُون لَمَّا</p>"
+        },
+        "85": {
+            "verses": {
+                "20:85": {
+                    "id": 85
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ تَعَالَى ﴿فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ﴾ أَيْ بَعْد فِرَاقك لَهُمْ ﴿وَأَضَلَّهُمُ ٱلسَّامِرِیُّ ۝٨٥﴾ فعبدوا العجل</p>"
+        },
+        "86": {
+            "verses": {
+                "20:86": {
+                    "id": 86
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَرَجَعَ مُوسَىٰۤ إِلَىٰ قَوۡمِهِۦ غَضۡبَـٰنَ﴾ مِنْ جِهَتهمْ ﴿أَسِفࣰاۚ﴾ شَدِيد الْحُزْن ﴿قَالَ یَـٰقَوۡمِ أَلَمۡ یَعِدۡكُمۡ رَبُّكُمۡ وَعۡدًا حَسَنًاۚ﴾ أَيْ صِدْقًا أَنَّهُ يُعْطِيكُمْ التَّوْرَاة ﴿أَفَطَالَ عَلَیۡكُمُ ٱلۡعَهۡدُ﴾ مُدَّة مُفَارَقَتِي إياكم ﴿أَمۡ أَرَدتُّمۡ أَن یَحِلَّ﴾ يجب ﴿عَلَیۡكُمۡ غَضَبࣱ مِّن رَّبِّكُمۡ﴾ بِعِبَادَتِكُمْ الْعِجْل ﴿فَأَخۡلَفۡتُم مَّوۡعِدِی ۝٨٦﴾ وَتَرَكْتُمْ الْمَجِيء بَعْدِي</p>"
+        },
+        "87": {
+            "verses": {
+                "20:87": {
+                    "id": 87
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالُوا۟ مَاۤ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا﴾ مُثَلَّث الْمِيم أَيْ بِقُدْرَتِنَا أَوْ أَمْرنَا ﴿وَلَـٰكِنَّا حَمَلۡنَاۤ﴾ بِفَتْحِ الْحَاء مُخَفَّفًا وَبِضَمِّهَا وَكَسْر الْمِيم مُشَدَّدًا ﴿أَوۡزَارࣰا﴾ أَثْقَالًا ﴿مِّن زِینَةِ ٱلۡقَوۡمِ﴾ أَيْ حُلِيّ قَوْم فِرْعَوْن اسْتَعَارَهَا مِنْهُمْ بَنُو إسْرَائِيل بِعِلَّةِ عُرْس فَبَقِيَتْ عِنْدهمْ ﴿فَقَذَفۡنَـٰهَا﴾ طَرَحْنَاهَا فِي النَّار بِإِمْرِ السَّامِرِيّ ﴿فَكَذَ ٰ⁠لِكَ﴾ كَمَا أَلْقَيْنَا ﴿أَلۡقَى ٱلسَّامِرِیُّ ۝٨٧﴾ مَا مَعَهُ مِنْ حُلِيّهمْ وَمِنْ التُّرَاب الَّذِي أَخَذَهُ مِنْ أَثَر حَافِر فَرَس جِبْرِيل عَلَى الْوَجْه الآتي</p>"
+        },
+        "88": {
+            "verses": {
+                "20:88": {
+                    "id": 88
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَخۡرَجَ لَهُمۡ عِجۡلࣰا﴾ صَاغَهُ مِنْ الْحُلِيّ ﴿جَسَدࣰا﴾ لَحْمًا وَدَمًا ﴿لَّهُۥ خُوَارࣱ﴾ أَيْ صَوْت يُسْمَع أَيْ انْقَلَبَ كَذَلِكَ بِسَبَبِ التُّرَاب الَّذِي أَثَرُهُ الْحَيَاةُ فِيمَا يُوضَع فِيهِ وَوَضَعَهُ بَعْد صَوْغه فِي فَمه ﴿فَقَالُوا۟﴾ أَيْ السَّامِرِيّ وَأَتْبَاعه ﴿هَـٰذَاۤ إِلَـٰهُكُمۡ وَإِلَـٰهُ مُوسَىٰ فَنَسِیَ ۝٨٨﴾ مُوسَى رَبّه هُنَا وذهب يطلبه</p>"
+        },
+        "89": {
+            "verses": {
+                "20:89": {
+                    "id": 89
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>قال تعالى ﴿أَفَلَا یَرَوۡنَ أَ﴾نْ مُخَفَّفَة مِنْ الثَّقِيلَة وَاسْمهَا مَحْذُوف أَيْ أَنَّهُ ﴿لَّا یَرۡجِعُ﴾ الْعِجْل ﴿إِلَیۡهِمۡ قَوۡلࣰا﴾ أَيْ لَا يَرُدّ لَهُمْ جَوَابًا ﴿وَلَا یَمۡلِكُ لَهُمۡ ضَرࣰّا﴾ أَيْ دَفْعه ﴿وَلَا نَفۡعࣰا ۝٨٩﴾ أَيْ جَلْبه أَيْ فَكَيْفَ يَتَّخِذ إلَهًا</p>"
+        },
+        "90": {
+            "verses": {
+                "20:90": {
+                    "id": 90
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَقَدۡ قَالَ لَهُمۡ هَـٰرُونُ مِن قَبۡلُ﴾ أَيْ قَبْل أَنْ يَرْجِع مُوسَى ﴿یَـٰقَوۡمِ إِنَّمَا فُتِنتُم بِهِۦۖ وَإِنَّ رَبَّكُمُ ٱلرَّحۡمَـٰنُ فَٱتَّبِعُونِی﴾ فِي عِبَادَته ﴿وَأَطِیعُوۤا۟ أَمۡرِی ۝٩٠﴾ فِيهَا</p>"
+        },
+        "91": {
+            "verses": {
+                "20:91": {
+                    "id": 91
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالُوا۟ لَن نَّبۡرَحَ﴾ نَزَال ﴿عَلَیۡهِ عَـٰكِفِینَ﴾ عَلَى عبادته مقيمين ﴿حَتَّىٰ یَرۡجِعَ إِلَیۡنَا مُوسَىٰ ۝٩١﴾</p>"
+        },
+        "92": {
+            "verses": {
+                "20:92": {
+                    "id": 92
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ مُوسَى بَعْد رُجُوعه ﴿یَـٰهَـٰرُونُ مَا مَنَعَكَ إِذۡ رَأَیۡتَهُمۡ ضَلُّوۤا۟ ۝٩٢﴾ بِعِبَادَتِهِ</p>"
+        },
+        "93": {
+            "verses": {
+                "20:93": {
+                    "id": 93
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَ﴾ن ﴿لَّا تَتَّبِعَنِۖ﴾ لَا زَائِدَة ﴿أَفَعَصَیۡتَ أَمۡرِی ۝٩٣﴾ بِإِقَامَتِك بَيْن مَنْ يعبد غير الله تعالى</p>"
+        },
+        "94": {
+            "verses": {
+                "20:94": {
+                    "id": 94
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ هارون ﴿یَبۡنَؤُمِّ﴾ بِكَسْرِ الْمِيم وَفَتْحهَا أَرَادَ أُمِّي وَذِكْرهَا أَعْطَف لِقَلْبِهِ ﴿لَا تَأۡخُذۡ بِلِحۡیَتِی﴾ وَكَانَ أَخَذَهَا بِشِمَالِهِ ﴿وَلَا بِرَأۡسِیۤۖ﴾ وَكَانَ أَخَذَ شَعَره بِيَمِينِهِ غَضَبًا ﴿إِنِّی خَشِیتُ﴾ لَوْ اتَّبَعْتُك وَلَا بُدّ أَنْ يَتَّبِعَنِي جَمْع مِمَّنْ لَمْ يَعْبُدُوا الْعِجْل ﴿أَن تَقُولَ فَرَّقۡتَ بَیۡنَ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ﴾ وَتَغْضَب عَلَيَّ ﴿وَلَمۡ تَرۡقُبۡ﴾ تَنْتَظِر ﴿قَوۡلِی ۝٩٤﴾ فِيمَا رَأَيْته فِي ذلك</p>"
+        },
+        "95": {
+            "verses": {
+                "20:95": {
+                    "id": 95
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ فَمَا خَطۡبُكَ﴾ شَأْنك الدَّاعِي إلَى مَا صنعت ﴿یَـٰسَـٰمِرِیُّ ۝٩٥﴾</p>"
+        },
+        "96": {
+            "verses": {
+                "20:96": {
+                    "id": 96
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ بَصُرۡتُ بِمَا لَمۡ یَبۡصُرُوا۟ بِهِۦ﴾ بِالْيَاءِ وَالتَّاء أَيْ عَلِمْت مَا لَمْ يَعْلَمُوهُ ﴿فَقَبَضۡتُ قَبۡضَةࣰ مِّنۡ﴾ تُرَاب ﴿أَثَرِ﴾ حَافِر فَرَس ﴿ٱلرَّسُولِ﴾ جِبْرِيل ﴿فَنَبَذۡتُهَا﴾ أَلْقَيْتهَا فِي صُورَة الْعِجْل الْمُصَاغ ﴿وَكَذَ ٰ⁠لِكَ سَوَّلَتۡ﴾ زَيَّنَتْ ﴿لِی نَفۡسِی ۝٩٦﴾ وَأُلْقِيَ فِيهَا أَنَّ آخِذ قَبْضَة مِنْ تُرَاب مَا ذُكِرَ وَأُلْقِيهَا عَلَى مَا لَا رُوح لَهُ يَصِير لَهُ رُوح وَرَأَيْت قَوْمك طَلَبُوا مِنْك أَنْ تَجْعَل لَهُمْ إلَهًا فَحَدَّثَتْنِي نَفْسِي أَنْ يَكُون ذَلِكَ الْعِجْل إلَههمْ</p>"
+        },
+        "97": {
+            "verses": {
+                "20:97": {
+                    "id": 97
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ لَهُ مُوسَى ﴿فَٱذۡهَبۡ﴾ مِنْ بَيْننَا ﴿فَإِنَّ لَكَ فِی ٱلۡحَیَوٰةِ﴾ أَيْ مُدَّة حَيَاتك ﴿أَن تَقُولَ﴾ لِمَنْ رَأَيْته ﴿لَا مِسَاسَۖ﴾ أَيْ لَا تَقْرَبنِي فَكَانَ يَهِيم فِي الْبَرِيَّة وَإِذَا مَسَّ أَحَدًا أَوْ مَسَّهُ أَحَد حُمَّا جَمِيعًا ﴿وَإِنَّ لَكَ مَوۡعِدࣰا﴾ لِعَذَابِك ﴿لَّن تُخۡلِفَهُۥۖ﴾ بِكَسْرِ اللَّام أَيْ لَنْ تَغِيب عَنْهُ وَبِفَتْحِهَا أَيْ بَلْ تُبْعَث إلَيْهِ ﴿وَٱنظُرۡ إِلَىٰۤ إِلَـٰهِكَ ٱلَّذِی ظَلۡتَ﴾ أَصْله ظَلِلْت بِلَامَيْنِ أُولَاهُمَا مَكْسُورَة حُذِفَتْ تَخْفِيفًا أَيْ دُمْت ﴿عَلَیۡهِ عَاكِفࣰاۖ﴾ أَيْ مُقِيمًا تَعْبُدهُ ﴿لَّنُحَرِّقَنَّهُۥ﴾ بِالنَّارِ ﴿ثُمَّ لَنَنسِفَنَّهُۥ فِی ٱلۡیَمِّ نَسۡفًا ۝٩٧﴾ نُذْرِيَنَّهُ فِي هَوَاء الْبَحْر وَفَعَلَ مُوسَى بَعْد ذَبْحه مَا ذَكَرَهُ</p>"
+        },
+        "98": {
+            "verses": {
+                "20:98": {
+                    "id": 98
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِنَّمَاۤ إِلَـٰهُكُمُ ٱللَّهُ ٱلَّذِی لَاۤ إِلَـٰهَ إِلَّا هُوَۚ وَسِعَ كُلَّ شَیۡءٍ عِلۡمࣰا ۝٩٨﴾ تَمْيِيز مُحَوَّل عَنْ الْفَاعِل أَيْ وَسِعَ عِلْمه كُلّ شَيْء</p>"
+        },
+        "99": {
+            "verses": {
+                "20:99": {
+                    "id": 99
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَذَ ٰ⁠لِكَ﴾ أَيْ كَمَا قَصَصْنَا عَلَيْك يَا مُحَمَّد هَذِهِ الْقِصَّة ﴿نَقُصُّ عَلَیۡكَ مِنۡ أَنۢبَاۤءِ﴾ أَخْبَار ﴿مَا قَدۡ سَبَقَۚ﴾ مِنْ الْأُمَم ﴿وَقَدۡ ءَاتَیۡنَـٰكَ﴾ أَعْطَيْنَاك ﴿مِن لَّدُنَّا﴾ مِنْ عِنْدنَا ﴿ذِكۡرࣰا ۝٩٩﴾ قُرْآنًا</p>"
+        },
+        "100": {
+            "verses": {
+                "20:100": {
+                    "id": 100
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَّنۡ أَعۡرَضَ عَنۡهُ﴾ فَلَمْ يُؤْمِن بِهِ ﴿فَإِنَّهُۥ یَحۡمِلُ یَوۡمَ ٱلۡقِیَـٰمَةِ وِزۡرًا ۝١٠٠﴾ حِمْلًا ثَقِيلًا مِنْ الإثم</p>"
+        },
+        "101": {
+            "verses": {
+                "20:101": {
+                    "id": 101
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿خَـٰلِدِینَ فِیهِۖ﴾ أَيْ فِي عَذَاب الْوِزْر ﴿وَسَاۤءَ لَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ حِمۡلࣰا ۝١٠١﴾ تَمْيِيز مُفَسِّر لِلضَّمِيرِ فِي سَاءَ وَالْمَخْصُوص بِالذَّمِّ مَحْذُوف تَقْدِيره وِزْرهمْ وَاللَّام لِلْبَيَانِ وَيُبْدَل مِنْ يَوْم الْقِيَامَة</p>"
+        },
+        "102": {
+            "verses": {
+                "20:102": {
+                    "id": 102
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَوۡمَ یُنفَخُ فِی ٱلصُّورِۚ﴾ الْقَرْن النَّفْخَة الثَّانِيَة ﴿وَنَحۡشُرُ ٱلۡمُجۡرِمِینَ﴾ الْكَافِرِينَ ﴿یَوۡمَىِٕذࣲ زُرۡقࣰا ۝١٠٢﴾ عُيُونهمْ مَعَ سَوَاد وُجُوههمْ</p>"
+        },
+        "103": {
+            "verses": {
+                "20:103": {
+                    "id": 103
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَتَخَـٰفَتُونَ بَیۡنَهُمۡ﴾ يَتَسَارُّونَ ﴿إِن﴾ مَا ﴿لَّبِثۡتُمۡ﴾ فِي الدُّنْيَا ﴿إِلَّا عَشۡرࣰا ۝١٠٣﴾ مِنْ اللَّيَالِي بِأَيَّامِهَا</p>"
+        },
+        "104": {
+            "verses": {
+                "20:104": {
+                    "id": 104
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿نَّحۡنُ أَعۡلَمُ بِمَا یَقُولُونَ﴾ فِي ذَلِكَ أَيْ لَيْسَ كَمَا قَالُوا ﴿إِذۡ یَقُولُ أَمۡثَلُهُمۡ﴾ أَعْدَلهمْ ﴿طَرِیقَةً﴾ فِيهِ ﴿إِن لَّبِثۡتُمۡ إِلَّا یَوۡمࣰا ۝١٠٤﴾ يَسْتَقِلُّونَ لُبْثهمْ فِي الدُّنْيَا جِدًّا لِمَا يُعَايِنُونَهُ فِي الْآخِرَة مِنْ أَهْوَالهَا</p>"
+        },
+        "105": {
+            "verses": {
+                "20:105": {
+                    "id": 105
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَیَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ﴾ كَيْفَ تَكُون يَوْم الْقِيَامَة ﴿فَقُلۡ﴾ لَهُمْ ﴿یَنسِفُهَا رَبِّی نَسۡفࣰا ۝١٠٥﴾ بِأَنْ يُفَتِّتهَا كَالرَّمْلِ السَّائِل ثُمَّ يُطِيرهَا بِالرِّيَاحِ</p>"
+        },
+        "106": {
+            "verses": {
+                "20:106": {
+                    "id": 106
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَیَذَرُهَا قَاعࣰا﴾ مُنْبَسِطًا ﴿صَفۡصَفࣰا ۝١٠٦﴾ مُسْتَوِيًا</p>"
+        },
+        "107": {
+            "verses": {
+                "20:107": {
+                    "id": 107
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَّا تَرَىٰ فِیهَا عِوَجࣰا﴾ انْخِفَاضًا ﴿وَلَاۤ أَمۡتࣰا ۝١٠٧﴾ إرتفاعا</p>"
+        },
+        "108": {
+            "verses": {
+                "20:108": {
+                    "id": 108
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَوۡمَىِٕذࣲ﴾ أَيْ يَوْم إذْ نُسِفَتْ الْجِبَال ﴿یَتَّبِعُونَ﴾ أَيْ النَّاس بَعْد الْقِيَام مِنْ الْقُبُور ﴿ٱلدَّاعِیَ﴾ إلَى الْمَحْشَر بِصَوْتِهِ وَهُوَ إسْرَافِيل يَقُول هَلُمُّوا إلَى عَرْض الرَّحْمَن ﴿لَا عِوَجَ لَهُۥۖ﴾ أَيْ لِاتِّبَاعِهِمْ أَيْ لَا يَقْدِرُونَ أَنْ لَا يَتَّبِعُوا ﴿وَخَشَعَتِ﴾ سَكَنَتْ ﴿ٱلۡأَصۡوَاتُ لِلرَّحۡمَـٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسࣰا ۝١٠٨﴾ صَوْت وَطْء الْأَقْدَام فِي نَقْلهَا إلَى الْمَحْشَر كَصَوْتِ أَخْفَاف الْإِبِل فِي مَشْيهَا</p>"
+        },
+        "109": {
+            "verses": {
+                "20:109": {
+                    "id": 109
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَوۡمَىِٕذࣲ لَّا تَنفَعُ ٱلشَّفَـٰعَةُ﴾ أَحَدًا ﴿إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَـٰنُ﴾ أَنْ يَشْفَع لَهُ ﴿وَرَضِیَ لَهُۥ قَوۡلࣰا ۝١٠٩﴾ بِأَنْ يَقُول لَا إلَه إلَّا اللَّه</p>"
+        },
+        "110": {
+            "verses": {
+                "20:110": {
+                    "id": 110
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿یَعۡلَمُ مَا بَیۡنَ أَیۡدِیهِمۡ﴾ مِنْ أُمُور الْآخِرَة ﴿وَمَا خَلۡفَهُمۡ﴾ مِنْ أُمُور الدُّنْيَا ﴿وَلَا یُحِیطُونَ بِهِۦ عِلۡمࣰا ۝١١٠﴾ لَا يَعْلَمُونَ ذَلِكَ</p>"
+        },
+        "111": {
+            "verses": {
+                "20:111": {
+                    "id": 111
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَعَنَتِ ٱلۡوُجُوهُ﴾ خَضَعَتْ ﴿لِلۡحَیِّ ٱلۡقَیُّومِۖ﴾ أَيْ اللَّه ﴿وَقَدۡ خَابَ﴾ خَسِرَ ﴿مَنۡ حَمَلَ ظُلۡمࣰا ۝١١١﴾ أَيْ شركا</p>"
+        },
+        "112": {
+            "verses": {
+                "20:112": {
+                    "id": 112
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَن یَعۡمَلۡ مِنَ ٱلصَّـٰلِحَـٰتِ﴾ الطَّاعَات ﴿وَهُوَ مُؤۡمِنࣱ فَلَا یَخَافُ ظُلۡمࣰا﴾ بِزِيَادَةٍ فِي سَيِّئَاته ﴿وَلَا هَضۡمࣰا ۝١١٢﴾ بِنَقْصٍ مِنْ حَسَنَاته</p>"
+        },
+        "113": {
+            "verses": {
+                "20:113": {
+                    "id": 113
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَكَذَ ٰ⁠لِكَ﴾ مَعْطُوف عَلَى كَذَلِكَ نَقُصّ أَيْ مِثْل إنْزَال مَا ذُكِرَ ﴿أَنزَلۡنَـٰهُ﴾ أَيْ الْقُرْآن ﴿قُرۡءَانًا عَرَبِیࣰّا وَصَرَّفۡنَا﴾ كَرَّرْنَا ﴿فِیهِ مِنَ ٱلۡوَعِیدِ لَعَلَّهُمۡ یَتَّقُونَ﴾ الشرك ﴿أَوۡ یُحۡدِثُ﴾ الْقُرْآن ﴿لَهُمۡ ذِكۡرࣰا ۝١١٣﴾ بِهَلَاكِ مَنْ تَقَدَّمَهُمْ مِنْ الْأُمَم فَيَعْتَبِرُونَ</p>"
+        },
+        "114": {
+            "verses": {
+                "20:114": {
+                    "id": 114
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَتَعَـٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ﴾ عَمَّا يَقُول الْمُشْرِكُونَ ﴿وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ﴾ أَيْ بِقِرَاءَتِهِ ﴿مِن قَبۡلِ أَن یُقۡضَىٰۤ إِلَیۡكَ وَحۡیُهُۥۖ﴾ أَيْ يَفْرُغ جِبْرِيل مِنْ إبْلَاغه ﴿وَقُل رَّبِّ زِدۡنِی عِلۡمࣰا ۝١١٤﴾ أَيْ بِالْقُرْآنِ فَكُلَّمَا أُنْزِلَ عَلَيْهِ شَيْء مِنْهُ زَادَ به علمه</p>"
+        },
+        "115": {
+            "verses": {
+                "20:115": {
+                    "id": 115
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَقَدۡ عَهِدۡنَاۤ إِلَىٰۤ ءَادَمَ﴾ وَصَّيْنَاهُ أَنْ لَا يَأْكُل مِنْ الشَّجَرَة ﴿مِن قَبۡلُ﴾ أَيْ قَبْل أَكْله مِنْهَا ﴿فَنَسِیَ﴾ تَرَكَ عَهْدنَا ﴿وَلَمۡ نَجِدۡ لَهُۥ عَزۡمࣰا ۝١١٥﴾ حَزْمًا وَصَبْرًا عَمَّا نَهَيْنَاهُ عَنْهُ</p>"
+        },
+        "116": {
+            "verses": {
+                "20:116": {
+                    "id": 116
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَ﴾ اذْكُرْ ﴿إِذۡ قُلۡنَا لِلۡمَلَـٰۤىِٕكَةِ ٱسۡجُدُوا۟ لِـَٔادَمَ فَسَجَدُوۤا۟ إِلَّاۤ إِبۡلِیسَ﴾ وَهُوَ أَبُو الْجِنّ كَانَ يَصْحَب الْمَلَائِكَة وَيَعْبُد اللَّه مَعَهُمْ ﴿أَبَىٰ ۝١١٦﴾ عَنْ السُّجُود لِآدَم {قَالَ أَنَا۠ خَیۡرࣱ مِّنۡهُ}</p>"
+        },
+        "117": {
+            "verses": {
+                "20:117": {
+                    "id": 117
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَقُلۡنَا یَـٰۤـَٔادَمُ إِنَّ هَـٰذَا عَدُوࣱّ لَّكَ وَلِزَوۡجِكَ﴾ حَوَّاء بِالْمَدِّ ﴿فَلَا یُخۡرِجَنَّكُمَا مِنَ ٱلۡجَنَّةِ فَتَشۡقَىٰۤ ۝١١٧﴾ تَتْعَب بِالْحَرْثِ وَالزَّرْع وَالْحَصْد وَالطَّحْن وَالْخَبْز وَغَيْر ذَلِكَ وَاقْتَصَرَ عَلَى شَقَائِهِ لِأَنَّ الرَّجُل يَسْعَى عَلَى زَوْجَته</p>"
+        },
+        "118": {
+            "verses": {
+                "20:118": {
+                    "id": 118
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِنَّ لَكَ أَ﴾ن ﴿لَّا تَجُوعَ فِیهَا وَلَا تَعۡرَىٰ ۝١١٨﴾</h2>"
+        },
+        "119": {
+            "verses": {
+                "20:119": {
+                    "id": 119
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَنَّكَ﴾ بِفَتْحِ الْهَمْزَة وَكَسْرهَا عَطْف عَلَى اسْم إنَّ وَجُمْلَتهَا ﴿لَا تَظۡمَؤُا۟ فِیهَا﴾ تَعْطَش ﴿وَلَا تَضۡحَىٰ ۝١١٩﴾ لَا يَحْصُل لَك حَرّ شَمْس الضُّحَى لِانْتِفَاءِ الشَّمْس فِي الْجَنَّة</p>"
+        },
+        "120": {
+            "verses": {
+                "20:120": {
+                    "id": 120
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَوَسۡوَسَ إِلَیۡهِ ٱلشَّیۡطَـٰنُ قَالَ یَـٰۤـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ﴾ أَيْ الَّتِي يُخَلَّد مَنْ يَأْكُل مِنْهَا ﴿وَمُلۡكࣲ لَّا یَبۡلَىٰ ۝١٢٠﴾ لَا يَفْنَى وَهُوَ لَازِم الْخُلْد</p>"
+        },
+        "121": {
+            "verses": {
+                "20:121": {
+                    "id": 121
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَأَكَلَا﴾ أَيْ آدَم وَحَوَّاء ﴿مِنۡهَا فَبَدَتۡ لَهُمَا سَوۡءَ ٰ⁠ تُهُمَا﴾ أَيْ ظَهَرَ لِكُلٍّ مِنْهُمَا قُبُله وَقُبُل الْآخَر وَدُبُره وَسُمِّيَ كُلّ مِنْهُمَا سَوْأَة لِأَنَّ انْكِشَافه يَسُوء صَاحِبه ﴿وَطَفِقَا یَخۡصِفَانِ﴾ أَخَذَا يُلْزِقَانِ ﴿عَلَیۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۚ﴾ لِيَسْتَتِرَا بِهِ ﴿وَعَصَىٰۤ ءَادَمُ رَبَّهُۥ فَغَوَىٰ ۝١٢١﴾ بِالْأَكْلِ مِنْ الشَّجَرَة</p>"
+        },
+        "122": {
+            "verses": {
+                "20:122": {
+                    "id": 122
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ثُمَّ ٱجۡتَبَـٰهُ رَبُّهُۥ﴾ قَرَّبَهُ ﴿فَتَابَ عَلَیۡهِ﴾ قَبْل تَوْبَته ﴿وَهَدَىٰ ۝١٢٢﴾ أَيْ هَدَاهُ إلَى الْمُدَاوَمَة عَلَى التوبة</p>"
+        },
+        "123": {
+            "verses": {
+                "20:123": {
+                    "id": 123
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ ٱهۡبِطَا﴾ أَيْ آدَم وَحَوَّاء بِمَا اشْتَمَلْتُمَا عَلَيْهِ مِنْ ذُرِّيَّتكُمَا ﴿مِنۡهَا﴾ مِنْ الْجَنَّة ﴿جَمِیعَۢاۖ بَعۡضُكُمۡ﴾ بَعْض الذُّرِّيَّة ﴿لِبَعۡضٍ عَدُوࣱّۖ﴾ مِنْ ظُلْم بَعْضهمْ بَعْضًا ﴿فَإِمَّا﴾ فِيهِ إدْغَام نُون إنْ الشَّرْطِيَّة فِي مَا الْمَزِيدَة ﴿یَأۡتِیَنَّكُم مِّنِّی هُدࣰى فَمَنِ ٱتَّبَعَ هُدَایَ﴾ الْقُرْآن ﴿فَلَا یَضِلُّ﴾ فِي الدُّنْيَا ﴿وَلَا یَشۡقَىٰ ۝١٢٣﴾ فِي الْآخِرَة</p>"
+        },
+        "124": {
+            "verses": {
+                "20:124": {
+                    "id": 124
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَنۡ أَعۡرَضَ عَن ذِكۡرِی﴾ الْقُرْآن فَلَمْ يُؤْمِن بِهِ ﴿فَإِنَّ لَهُۥ مَعِیشَةࣰ ضَنكࣰا﴾ بِالتَّنْوِينِ مَصْدَر بِمَعْنَى ضَيِّقَة وَفُسِّرَتْ فِي حَدِيث بِعَذَابِ الْكَافِر فِي قَبْره ﴿وَنَحۡشُرُهُۥ﴾ أَيْ الْمُعْرِض عَنْ الْقُرْآن ﴿یَوۡمَ ٱلۡقِیَـٰمَةِ أَعۡمَىٰ ۝١٢٤﴾ أَعْمَى الْبَصَر</p>"
+        },
+        "125": {
+            "verses": {
+                "20:125": {
+                    "id": 125
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ رَبِّ لِمَ حَشَرۡتَنِیۤ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِیرࣰا ۝١٢٥﴾ فِي الدُّنْيَا وَعِنْد الْبَعْث</p>"
+        },
+        "126": {
+            "verses": {
+                "20:126": {
+                    "id": 126
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قَالَ﴾ الأمر ﴿كَذَ ٰ⁠لِكَ أَتَتۡكَ ءَایَـٰتُنَا فَنَسِیتَهَاۖ﴾ تَرَكْتهَا وَلَمْ تُؤْمِن بِهَا ﴿وَكَذَ ٰ⁠لِكَ﴾ مِثْل نِسْيَانك آيَاتنَا ﴿ٱلۡیَوۡمَ تُنسَىٰ ۝١٢٦﴾ تُتْرَك فِي النَّار</p>"
+        },
+        "127": {
+            "verses": {
+                "20:127": {
+                    "id": 127
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَكَذَ ٰ⁠لِكَ﴾ وَمِثْل جَزَائِنَا مَنْ أَعْرَضَ عَنْ الْقُرْآن ﴿نَجۡزِی مَنۡ أَسۡرَفَ﴾ أَشْرَكَ ﴿وَلَمۡ یُؤۡمِنۢ بِـَٔایَـٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡـَٔاخِرَةِ أَشَدُّ﴾ مِنْ عَذَاب الدُّنْيَا وَعَذَاب الْقَبْر ﴿وَأَبۡقَىٰۤ ۝١٢٧﴾ أَدْوَم</p>"
+        },
+        "128": {
+            "verses": {
+                "20:128": {
+                    "id": 128
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَفَلَمۡ یَهۡدِ﴾ يَتَبَيَّن ﴿لَهُمۡ﴾ لِكُفَّارِ مَكَّة ﴿كَمۡ﴾ خَبَرِيَّة مَفْعُول ﴿أَهۡلَكۡنَا﴾ أَيْ كَثِيرًا إهْلَاكنَا ﴿قَبۡلَهُم مِّنَ ٱلۡقُرُونِ﴾ أَيْ الْأُمَم الْمَاضِيَة بِتَكْذِيبِ الرُّسُل ﴿یَمۡشُونَ﴾ حَال مِنْ ضَمِير لَهُمْ ﴿فِی مَسَـٰكِنِهِمۡۚ﴾ فِي سَفَرهمْ إلَى الشَّام وَغَيْرهَا فَيَعْتَبِرُوا وَمَا ذُكِرَ مِنْ أَخْذ إهْلَاك مِنْ فِعْله الْخَالِي عَنْ حَرْف مَصْدَرِيّ لِرِعَايَةِ الْمَعْنَى لَا مَانِع مِنْهُ ﴿إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ﴾ لَعِبَرًا ﴿لِّأُو۟لِی ٱلنُّهَىٰ ۝١٢٨﴾ لِذَوِي الْعُقُول</p>"
+        },
+        "129": {
+            "verses": {
+                "20:129": {
+                    "id": 129
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ مِن رَّبِّكَ﴾ بِتَأْخِيرِ الْعَذَاب عَنْهُمْ إلَى الْآخِرَة ﴿لَكَانَ﴾ الْإِهْلَاك ﴿لِزَامࣰا﴾ لَازِمًا لَهُمْ فِي الدُّنْيَا ﴿وَأَجَلࣱ مُّسَمࣰّى ۝١٢٩﴾ مَضْرُوب لَهُمْ مَعْطُوف عَلَى الضَّمِير الْمُسْتَتِر فِي كَانَ وَقَامَ الْفَصْل بِخَبَرِهَا مَكَان التَّأْكِيد</p>"
+        },
+        "130": {
+            "verses": {
+                "20:130": {
+                    "id": 130
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ﴾ مَنْسُوخ بِآيَةِ الْقِتَال ﴿وَسَبِّحۡ﴾ صَلِّ ﴿بِحَمۡدِ رَبِّكَ﴾ حَال أَيْ مُلْتَبِسًا بِهِ ﴿قَبۡلَ طُلُوعِ ٱلشَّمۡسِ﴾ صَلَاة الصُّبْح ﴿وَقَبۡلَ غُرُوبِهَاۖ﴾ صَلَاة الْعَصْر ﴿وَمِنۡ ءَانَاۤىِٕ ٱلَّیۡلِ﴾ سَاعَاته ﴿فَسَبِّحۡ﴾ صَلِّ الْمَغْرِب وَالْعِشَاء ﴿وَأَطۡرَافَ ٱلنَّهَارِ﴾ عَطْف عَلَى مَحَلّ مِنْ آنَاء الْمَنْصُوب أَيْ صَلِّ الظُّهْر لِأَنَّ وَقْتهَا يَدْخُل بِزَوَالِ الشَّمْس فَهُوَ طَرَف النِّصْف الْأَوَّل وَطَرَف النِّصْف الثَّانِي ﴿لَعَلَّكَ تَرۡضَىٰ ۝١٣٠﴾ بِمَا تُعْطَى مِنْ الثَّوَاب</p>"
+        },
+        "131": {
+            "verses": {
+                "20:131": {
+                    "id": 131
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَا تَمُدَّنَّ عَیۡنَیۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦۤ أَزۡوَ ٰ⁠جࣰا﴾ أَصْنَافًا ﴿مِّنۡهُمۡ زَهۡرَةَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا﴾ زِينَتهَا وَبَهْجَتهَا ﴿لِنَفۡتِنَهُمۡ فِیهِۚ﴾ بِأَنْ يَطْغَوْا ﴿وَرِزۡقُ رَبِّكَ﴾ فِي الْجَنَّة ﴿خَیۡرࣱ﴾ مِمَّا أُوتُوهُ فِي الدُّنْيَا ﴿وَأَبۡقَىٰ ۝١٣١﴾ أدوم</p>"
+        },
+        "132": {
+            "verses": {
+                "20:132": {
+                    "id": 132
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ﴾ اصْبِرْ ﴿عَلَیۡهَاۖ لَا نَسۡـَٔلُكَ﴾ نُكَلِّفك ﴿رِزۡقࣰاۖ﴾ لِنَفْسِك وَلَا لِغَيْرِك ﴿نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَـٰقِبَةُ﴾ الْجَنَّة ﴿لِلتَّقۡوَىٰ ۝١٣٢﴾ لِأَهْلِهَا</p>"
+        },
+        "133": {
+            "verses": {
+                "20:133": {
+                    "id": 133
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَقَالُوا۟﴾ الْمُشْرِكُونَ ﴿لَوۡلَا﴾ هَلَّا ﴿یَأۡتِینَا﴾ مُحَمَّد ﴿بِـَٔایَةࣲ مِّن رَّبِّهِۦۤۚ﴾ مما يقترحونه ﴿أَوَلَمۡ تَأۡتِهِم﴾ بِالتَّاءِ وَالْيَاء ﴿بَیِّنَةُ﴾ بَيَان ﴿مَا فِی ٱلصُّحُفِ ٱلۡأُولَىٰ ۝١٣٣﴾ الْمُشْتَمِل عَلَيْهِ الْقُرْآن مِنْ أَنْبَاء الْأُمَم الْمَاضِيَة وَإِهْلَاكهمْ بِتَكْذِيبِ الرُّسُل</p>"
+        },
+        "134": {
+            "verses": {
+                "20:134": {
+                    "id": 134
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَوۡ أَنَّاۤ أَهۡلَكۡنَـٰهُم بِعَذَابࣲ مِّن قَبۡلِهِۦ﴾ قَبْل مُحَمَّد الرَّسُول ﴿لَقَالُوا۟﴾ يَوْم الْقِيَامَة ﴿رَبَّنَا لَوۡلَاۤ﴾ هَلَّا ﴿أَرۡسَلۡتَ إِلَیۡنَا رَسُولࣰا فَنَتَّبِعَ ءَایَـٰتِكَ﴾ الْمُرْسَل بِهَا ﴿مِن قَبۡلِ أَن نَّذِلَّ﴾ فِي الْقِيَامَة ﴿وَنَخۡزَىٰ ۝١٣٤﴾ فِي جَهَنَّم</p>"
+        },
+        "135": {
+            "verses": {
+                "20:135": {
+                    "id": 135
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿قُلۡ﴾ لَهُمْ ﴿كُلࣱّ﴾ مِنَّا وَمِنْكُمْ ﴿مُّتَرَبِّصࣱ﴾ مُنْتَظِر ما يؤول إلَيْهِ الْأَمْر ﴿فَتَرَبَّصُوا۟ۖ فَسَتَعۡلَمُونَ﴾ فِي الْقِيَامَة ﴿مَنۡ أَصۡحَـٰبُ ٱلصِّرَ ٰ⁠طِ﴾ الطَّرِيق ﴿ٱلسَّوِیِّ﴾ الْمُسْتَقِيم ﴿وَمَنِ ٱهۡتَدَىٰ ۝١٣٥﴾ مِنْ الضَّلَالَة أَنَحْنُ أَمْ أَنْتُمْ</p>"
+        }
+    }
+}

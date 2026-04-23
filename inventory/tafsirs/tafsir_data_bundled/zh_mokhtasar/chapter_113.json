@@ -1,0 +1,85 @@
+{
+    "chapter": 113,
+    "verses": {
+        "1": {
+            "verses": {
+                "113:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你说：“我求护曙光的主，我祈求祂保护我，</p>"
+        },
+        "2": {
+            "verses": {
+                "113:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>免遭被造物的毒害，</p>"
+        },
+        "3": {
+            "verses": {
+                "113:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我求护于真主，护佑我免遭夜间出现的动物和强盗的毒害，</p>"
+        },
+        "4": {
+            "verses": {
+                "113:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我求护于祂，使我免遭摧毁信仰的妖术家的毒害。</p>"
+        },
+        "5": {
+            "verses": {
+                "113:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我求护于祂，使我免遭使嫉妒者产生嫉妒的毒害。”</p>"
+        }
+    }
+}

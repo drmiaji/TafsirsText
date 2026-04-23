@@ -1,0 +1,149 @@
+{
+    "chapter": 104,
+    "verses": {
+        "1": {
+            "verses": {
+                "104:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الهمزة مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>وعيد المتعالين الساخرين بالدين وأهله.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>وبال وشدة عذاب لكثير الاغتياب للناس، والطعن فيهم.</h2>"
+        },
+        "2": {
+            "verses": {
+                "104:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذي همّه جمع المال وإحصاؤه، لا همَّ له غير ذلك.</h2>"
+        },
+        "3": {
+            "verses": {
+                "104:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يظن أن ماله الذي جمعه سينجيه من الموت، فيبقى خالدًا في الحياة الدنيا.</p>"
+        },
+        "4": {
+            "verses": {
+                "104:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كما تصوّر هذا الجاهل، ليطرحنّ في نار جهنم التي تدق وتكسر كل ما طُرِح فيها لشدة بأسها.</p>"
+        },
+        "5": {
+            "verses": {
+                "104:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما أعلمك - أيها الرسول - ما هذه النار التي تحطم كل ما طُرِح فيها؟!</p>"
+        },
+        "6": {
+            "verses": {
+                "104:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنها نار الله المستعرة.</h2>"
+        },
+        "7": {
+            "verses": {
+                "104:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>التي تنفذ من أجسام الناس إلى قلوبهم.</h2>"
+        },
+        "8": {
+            "verses": {
+                "104:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنها على المُعَذَّبين فيها مغلقة.</h2>"
+        },
+        "9": {
+            "verses": {
+                "104:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>بعَمَد ممتدة طويلة حتى لا يخرجوا منها.</h2>"
+        }
+    }
+}

@@ -1,0 +1,709 @@
+{
+    "chapter": 70,
+    "verses": {
+        "1": {
+            "verses": {
+                "70:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<h2>سُورَةُ الْمَعَارِجِ</h2>\n<h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</h2>\n<p>قَوْلُهُ عَزَّ وَجَلَّ : ﴿سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ﴾ [سُورَةُ المَعَارِجِ : ١].</p>\n<p>[[أخرج النسائي (تفسير ابن كثير: ٤ / ٤١٨) وابن أبي حاتم وعبد بن حميد والفريابي (الدر المنثور: ٨/٢٧٧) من طريق المنهال بن عمرو عن سعيد بن جبير عن ابن عباس رضي الله عنهما قال: نزلت في النضر بن الحارث بن كلدة, وإسناده صحيح, وأخرجه الحاكم (المستدرك: ٢/٥٠٢) عن سعيد بن جبير مرسلا.]] نَزَلَتْ فِي النَّضْرِ بْنِ الْحَارِثِ حِينَ قَالَ : اللَّهُمَّ إِنْ كَانَ هَذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ. فَدَعَا عَلَى نَفْسِهِ وَسَأَلَ الْعَذَابَ، فَنَزَلَ بِهِ مَا سَأَلَ يَوْمَ بَدْرٍ فَقُتِلَ صَبْرًا، وَنَزَلَ فِيهِ : ﴿سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ﴾ [سُورَةُ المَعَارِجِ : ١]، الْآيَةَ.</p>"
+        },
+        "2": {
+            "verses": {
+                "70:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "70:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "4": {
+            "verses": {
+                "70:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "5": {
+            "verses": {
+                "70:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "70:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "7": {
+            "verses": {
+                "70:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "8": {
+            "verses": {
+                "70:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "9": {
+            "verses": {
+                "70:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "10": {
+            "verses": {
+                "70:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "11": {
+            "verses": {
+                "70:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "12": {
+            "verses": {
+                "70:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "13": {
+            "verses": {
+                "70:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "14": {
+            "verses": {
+                "70:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "15": {
+            "verses": {
+                "70:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "16": {
+            "verses": {
+                "70:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "17": {
+            "verses": {
+                "70:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "18": {
+            "verses": {
+                "70:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "19": {
+            "verses": {
+                "70:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "20": {
+            "verses": {
+                "70:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "21": {
+            "verses": {
+                "70:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "22": {
+            "verses": {
+                "70:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "23": {
+            "verses": {
+                "70:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "24": {
+            "verses": {
+                "70:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "25": {
+            "verses": {
+                "70:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "26": {
+            "verses": {
+                "70:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "27": {
+            "verses": {
+                "70:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "28": {
+            "verses": {
+                "70:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "29": {
+            "verses": {
+                "70:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "30": {
+            "verses": {
+                "70:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "31": {
+            "verses": {
+                "70:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "32": {
+            "verses": {
+                "70:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "33": {
+            "verses": {
+                "70:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "34": {
+            "verses": {
+                "70:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "35": {
+            "verses": {
+                "70:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "36": {
+            "verses": {
+                "70:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "37": {
+            "verses": {
+                "70:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "38": {
+            "verses": {
+                "70:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>قَوْلُهُ عَزَّ وَجَلَّ : ﴿أَيَطْمَعُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ﴾ [سُورَةُ المَعَارِجِ : ٣٨].</p>\n<p>قَالَ الْمُفَسِّرُونَ : كَانَ الْمُشْرِكُونَ يَجْتَمِعُونَ حَوْلَ النَّبِيِّ ﷺ وَيَسْتَمِعُونَ كَلَامَهُ وَلَا يَنْتَفِعُونَ بِهِ، بَلْ يُكَذِّبُونَ بِهِ وَيَسْتَهْزِئُونَ، وَيَقُولُونَ : لَئِنْ دَخَلَ هَؤُلَاءِ الْجَنَّةَ لَنَدْخُلَنَّهَا قَبْلَهُمْ، وَلَيَكُونَنَّ لَنَا فِيهَا أَكْثَرُ مِمَّا لَهُمْ. فَأَنْزَلَ اللَّهُ تَعَالَى هَذِهِ الْآيَةَ.</p>"
+        },
+        "39": {
+            "verses": {
+                "70:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "40": {
+            "verses": {
+                "70:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "41": {
+            "verses": {
+                "70:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "42": {
+            "verses": {
+                "70:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "43": {
+            "verses": {
+                "70:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "44": {
+            "verses": {
+                "70:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        }
+    }
+}

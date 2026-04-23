@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱلۡمُرۡسَلَٰتِ﴾: أُقسِمُ بالرِّياحِ حِينَ تَهُبُّ.</h2>\n<p>﴿عُرۡفٗا﴾: مُتَتابِعةً يَتْبَعُ بَعْضُها بَعْضاً كعُرْفِ الفَرَسِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱلۡعَٰصِفَٰتِ﴾: وبالرِّياحِ الشَّديدَةِ الهُبُوبِ المُهْلِكَةِ.</p>\n<h2>﴿عَصۡفٗا﴾: هُبُوباً شَدِيدًا.</h2>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱلنَّٰشِرَٰتِ نَشۡرٗا﴾: وبالملائِكةِ المُوَكَّلِينَ بالسُّحُبِ يَسُوقُونَها حَيثُ شَاء اللهُ.</p>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱلۡفَٰرِقَٰتِ فَرۡقٗا﴾: وبالملائِكةِ الَّتِي تَنْزِلُ مِنْ عِندِ اللهِ بما يَفْرُقُ بَينَ الحقِّ والباطِلِ والحَلالِ والحَرامِ.</p>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا﴾: وبالملائِكةِ الَّتِي تَتَلَقَّى الوَحْيَ مِنْ عِنْدِ اللهِ وتُبَلِّغُهُ رُسُلَهُ.</p>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿عُذۡرًا أَوۡ نُذۡرًا﴾: إعْذَارًا وإِنْذاراً مِنَ اللهِ إِلى خَلْقِهِ.</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لَوَٰقِعٞ﴾: لَنازِلٌ بِكُم لا مَحالَةَ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿طُمِسَتۡ﴾: ذَهَبَ ضِياؤُها.</h2>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فُرِجَتۡ﴾: تَصَدَّعتْ.</h2>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نُسِفَتۡ﴾: تَطايَرَتْ وتَناثَرَتْ.</h2>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أُقِّتَتۡ﴾: عُيِّنَ لَهُم وَقْتٌ لِلْفَصْلِ بَينَهُم وبَينَ أَقْوامِهِمْ.</p>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لِيَوۡمِ ٱلۡفَصۡلِ﴾: لِيومِ القضَاءِ بين الخلائِقِ.</h2>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمَآ أَدۡرَىٰكَ﴾: وما أَعْلَمَكَ.</h2>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيۡلٞ﴾: هَلَاكٌ عَظِيمٌ.</h2>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلۡأَوَّلِينَ﴾: السابِقِينَ مِنَ الأُمَم الماضِيةِ.</h2>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ﴾: ثم نُلحِقُ بِهِمُ المُتَأخِّرِينَ المُكَذِّبِينَ.</p>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَذَٰلِكَ﴾: مِثلَ ذلِك الإِهْلاكِ الفَظِيعِ.</h2>\n<h2>﴿بِٱلۡمُجۡرِمِينَ﴾: مِنْ كُفَّارِ «مكَّةَ».</h2>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيۡلٞ﴾: هَلَاكٌ وعَذَابٌ شَدِيدٌ.</h2>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿مَآءٖ مَّهِينٖ﴾: ماءٍ ضَعِيفٍ حَقِيرٍ، وهو النُّطْفَةُ.</h2>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِي قَرَارٖ مَّكِينٍ﴾: في مَكانٍ حَصِينٍ، وهو رَحِمُ المرأَةِ.</p>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿إِلَىٰ قَدَرٖ مَّعۡلُومٖ﴾: وَقتٍ مَعْلُومٍ عِندَ اللهِ تَعالى.</p>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَقَدَرۡنَا﴾: فَقَدَرْنا على خَلْقِهِ وتَصْوِيرهِ وإِخْرَاجِهِ.</p>\n<h2>﴿ٱلۡقَٰدِرُونَ﴾: على الأشياءِ.</h2>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيۡلٞ﴾: هَلَاكٌ وعَذابٌ شَدِيدٌ.</h2>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كِفَاتًا﴾: وِعاءً جامِعاً.</h2>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَحۡيَآءٗ﴾: تَضُمُّ على ظَهْرِها أحياءً.</h2>\n<h2>﴿وَأَمۡوَٰتٗا﴾: وَ تَضُمُّ في بَطْنِهاَ أَمْواتاً.</h2>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَوَٰسِيَ﴾: جِبالاً ثَوابِتَ.</h2>\n<h2>﴿شَٰمِخَٰتٖ﴾: عالياتٍ.</h2>\n<h2>﴿فُرَاتٗا﴾: عَذْباً سائِغاً.</h2>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيۡلٞ﴾: هَلَاكٌ وعذابٌ شَدِيدٌ.</h2>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ﴾: يُقال لِلْكافِرينَ يومَ القيامةِ: سيرُوا إلى عذابِ جَهَنَّم الَّذِي كُنْتُم بِهِ تُكَذِّبُونَ في الدُّنيا.</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ﴾: سِيرُوا، فاسْتَظِلُّوا بِدُخانِ جَهَنَّمَ.</p>\n<h2>﴿شُعَبٖ﴾: قِطَعٍ.</h2>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَا ظَلِيلٖ﴾: لا يُظِلُّ ذلك الظِّلُّ مِنْ حَرِّ ذَلِكَ اليومِ.</p>\n<p>﴿وَلَا يُغۡنِي مِنَ ٱللَّهَبِ﴾: وَلَا يَدْفَعُ مِن حرِّ اللَّهبِ شيئاً.</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِنَّهَا﴾: إنَّ جَهَنَّمَ.</h2>\n<p>﴿بِشَرَرٖ﴾: اسْمِ جَمْعِ شَرَرَةٍ، وهي القِطعَةُ المشْتَعِلَةُ مِن دَقِيقِ الحَطَبِ يَدْفَعُها لَهَبُ النَّارِ في الهواءِ.</p>\n<h2>﴿كَٱلۡقَصۡرِ﴾: كالبِناءِ العَظِيمِ العالِي.</h2>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿جِمَٰلَتٞ﴾: جمعُ جَمَلٍ، طَائِفَةٌ مِنَ الْإِبِلِ الذُّكُورِ لَا إِنَاثَ فيهَا.</p>\n<h2>﴿صُفۡرٞ﴾: سُودٌ يمِيلُ لونُها إِلَى الصُّفْرةِ.</h2>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَيۡلٞ﴾: هَلَاكٌ وعذابٌ شَدِيدٌ.</h2>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَا يَنطِقُونَ﴾: لا يَنْطِقُ فيه المُكَذِّبُونَ بِكَلامٍ يَنْفَعُهُم.</p>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَوۡمُ ٱلۡفَصۡلِ﴾: يومٌ يَفْصِلُ اللهُ فِيهِ بَينَ الخلائِقِ.</p>\n<p>﴿جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ﴾: جَمَعْناكُم مَعَ الكُفَّارِ مِنَ الأُمَمِ الماضِيةِ.</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَيۡدٞ﴾: حِيلةٌ في الخلاصِ مِنَ العذابِ.</h2>\n<p>﴿فَكِيدُونِ﴾: فَاحْتالُوا، وأَنْقِذوا أَنفُسَكُم مِن بَطْشِ اللهِ وانتِقامِهِ.</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَعُيُونٖ﴾: وَعُيُونِ الماءِ الجاريةِ.</h2>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿هَنِيٓـَٔۢا﴾: سائِغاً.</h2>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَبِأَيِّ حَدِيثِۭ﴾: فبأيِّ كِتابٍ وكَلامٍ.</h2>"
+        }
+    }
+}

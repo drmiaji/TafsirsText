@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>ٹوٹ گئے ہاتھ ابی لہب کے اور ٹوٹ گیا وہ آپ</h2>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>کام نہ آیا اس کو مال اس کا اور نہ جو اس نے کمایا</h2>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اب پڑے گا ڈیگ مارتی آگ میں</h2>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور اس کی جورو جو سر پر لئے پھرتی ہے ایندھن</h2>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اس کی گردن میں رسی ہے مونجھ کی۔</h2>"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！“我”确已赐福你很多的福利，其中就包括乐园中的多福之河。</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>为了感谢真主给予的恩惠，你应只为祂礼拜和宰献牲，这有别于以物配主者为了接近他们的偶像而为其宰献牲。</p>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>的确，怨恨你者确是远离一切福利的。凡以任何不良语言提到你的，都归于怨恨你者。</p>"
+        }
+    }
+}

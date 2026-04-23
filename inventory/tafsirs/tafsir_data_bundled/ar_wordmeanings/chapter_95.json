@@ -1,0 +1,133 @@
+{
+    "chapter": 95,
+    "verses": {
+        "1": {
+            "verses": {
+                "95:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "2": {
+            "verses": {
+                "95:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَطُورِ سِينِينَ﴾ جَبَلِ طُورِ سَيْنَاءَ الَّذِي كَلَّمَ اللهُ عَلَيْهِ مُوسَى عليه السلام.</p>"
+        },
+        "3": {
+            "verses": {
+                "95:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَهَذَا الْبَلَدِ﴾ مَكَّةَ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "95:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿تَقْوِيمٍ﴾ صُورَةٍ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "95:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَسْفَلَ سَافِلِينَ﴾ النَّارَ؛ إِنْ لَمْ يُطِعِ اللهَ.</h2>"
+        },
+        "6": {
+            "verses": {
+                "95:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿غَيْرُ مَمْنُونٍ﴾ غَيْرُ مَقْطُوعٍ، وَلاَ مَنْقُوصٍ.</h2>"
+        },
+        "7": {
+            "verses": {
+                "95:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِالدِّينِ﴾ بِالبَعْثِ، وَالجَزَاءِ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "95:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        }
+    }
+}

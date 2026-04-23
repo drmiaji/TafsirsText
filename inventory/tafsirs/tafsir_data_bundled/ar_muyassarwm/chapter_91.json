@@ -1,0 +1,245 @@
+{
+    "chapter": 91,
+    "verses": {
+        "1": {
+            "verses": {
+                "91:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَضُحَىٰهَا﴾: أَقْسَمَ اللهُ بإشْرَاقِ الشَّمْسِ ضُحىً.</h2>"
+        },
+        "2": {
+            "verses": {
+                "91:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿تَلَىٰهَا﴾: تَبِعَها في الطُّلُوعِ والأُفُول.</h2>"
+        },
+        "3": {
+            "verses": {
+                "91:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿جَلَّىٰهَا﴾: جَلَّى الظُّلْمةَ وكَشَفَها.</h2>"
+        },
+        "4": {
+            "verses": {
+                "91:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَغۡشَىٰهَا﴾: يُغَطِّي الأَرْضَ فيكُونُ ما عَلَيها مُظْلِماً.</p>"
+        },
+        "5": {
+            "verses": {
+                "91:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمَا بَنَىٰهَا﴾: وَبِنائِها المُحْكَمِ.</h2>"
+        },
+        "6": {
+            "verses": {
+                "91:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَمَا طَحَىٰهَا﴾: وبَسْطِها.</h2>"
+        },
+        "7": {
+            "verses": {
+                "91:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمَا سَوَّىٰهَا﴾: وَإِكْمالِ اللهِ خَلْقَها لأداءِ مُهِمَّتِها.</p>"
+        },
+        "8": {
+            "verses": {
+                "91:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَأَلۡهَمَهَا﴾: فَبيَّنَ لَها.</h2>\n<h2>﴿فُجُورَهَا﴾: طَرِيقَ الشَّرِّ.</h2>\n<h2>﴿وَتَقۡوَىٰهَا﴾: وَطَرِيقَ الخيرِ.</h2>"
+        },
+        "9": {
+            "verses": {
+                "91:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَفۡلَحَ﴾: فاز.</h2>\n<h2>﴿زَكَّىٰهَا﴾: طَهَّرَها، ونَمَّاها بالخيرِ.</h2>"
+        },
+        "10": {
+            "verses": {
+                "91:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿خَابَ﴾: خَسِرَ.</h2>\n<h2>﴿دَسَّىٰهَا﴾: أَخْفَى نَفْسَهُ في المعاصِي.</h2>"
+        },
+        "11": {
+            "verses": {
+                "91:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِطَغۡوَىٰهَآ﴾: بِبُلُوغِها الغايةَ في العِصْيانِ.</h2>"
+        },
+        "12": {
+            "verses": {
+                "91:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱنۢبَعَثَ﴾: نَهَضَ لِعَقْرِ النَّاقةِ.</h2>\n<h2>﴿أَشۡقَىٰهَا﴾: أَكْثَرُ القبيلةِ شَقاوَةً.</h2>"
+        },
+        "13": {
+            "verses": {
+                "91:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿نَاقَةَ ٱللَّهِ﴾: احْذَرُوا أَن تَمَسُّوا النَّاقَةَ بسُوءٍ.</p>\n<h2>﴿وَسُقۡيَٰهَا﴾: واحذَرُوا أن تَعْتَدُوا على سَقْيِها.</h2>"
+        },
+        "14": {
+            "verses": {
+                "91:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَعَقَرُوهَا﴾: فَنَحَرُوها.</h2>\n<h2>﴿فَدَمۡدَمَ عَلَيۡهِمۡ﴾: فَأَطْبَقَ عليهِم العُقُوبةَ.</h2>\n<p>﴿فَسَوَّىٰهَا﴾: فَجَعَلَها عَلَيهِم على السَّواءِ، فلم يُفْلِتْ مِنهُم أَحَدٌ.</p>"
+        },
+        "15": {
+            "verses": {
+                "91:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عُقۡبَٰهَا﴾: تَبِعةَ ما أَنزَلَهُ بِهِم مِنَ العِقابِ.</h2>"
+        }
+    }
+}

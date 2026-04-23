@@ -1,0 +1,181 @@
+{
+    "chapter": 100,
+    "verses": {
+        "1": {
+            "verses": {
+                "100:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة العاديات مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>بيان صفات الإنسان في اهتماماته الدنيوية، تذكيرًا له بمآله، وبعثًا له على تصحيح مساره.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<p>أقسم الله بالخيل التي تجري حتى يُسْمَع لنَفَسِها صوتٌ من شدة الجري.</p>"
+        },
+        "2": {
+            "verses": {
+                "100:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقسم بالخيل التي تُوقِد بحوافرها النار إذا لامست بها الصخور لشدة وقعها عليها.</p>"
+        },
+        "3": {
+            "verses": {
+                "100:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالخيل التي تُغِير على الأعداء وقت الصباح.</h2>"
+        },
+        "4": {
+            "verses": {
+                "100:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فحركن بجريهنّ غبارًا.</h2>"
+        },
+        "5": {
+            "verses": {
+                "100:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فتوسّطن بفوارسهنّ جَمْعًا من الأعداء.</h2>\n<h2>* من فوائد الآيات:</h2>\n<h2>• خشية الله سبب في رضاه عن عبده.</h2>\n<h2>• شهادة الأرض على أعمال بني آدم.</h2>"
+        },
+        "6": {
+            "verses": {
+                "100:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إن الإنسان لمَنُوع للخير الذي يريده منه ربه.</h2>"
+        },
+        "7": {
+            "verses": {
+                "100:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإنه على منعه للخير لشاهد، لا يستطيع إنكار ذلك لوضوحه.</h2>"
+        },
+        "8": {
+            "verses": {
+                "100:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإنه لفرط حبه للمال يبخل به.</h2>"
+        },
+        "9": {
+            "verses": {
+                "100:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أفلا يعلم هذا الإنسان المغترّ بالحياة الدنيا إذا بعث الله ما في القبور من الأموات وأخرجهم من الأرض للحساب والجزاء أن الأمر لم يكن كما كان يتوهم؟!</p>"
+        },
+        "10": {
+            "verses": {
+                "100:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأُبْرِز وبُيِّن ما في القلوب من النيات والاعتقادات وغيرها.</h2>"
+        },
+        "11": {
+            "verses": {
+                "100:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن ربهم بهم في ذلك اليوم لخبير، لا يخفى عليه من أمر عباده شيء، وسيجازيهم على ذلك.</p>"
+        }
+    }
+}

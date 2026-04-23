@@ -1,0 +1,741 @@
+{
+    "chapter": 79,
+    "verses": {
+        "1": {
+            "verses": {
+                "79:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة النازعات مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>قَرْع القلوب المكذبة بالبعث والجزاء، من خلال عرض مشاهد الموت والبعث والحشر والقيامة.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>أقسم الله بالملائكة التي تجذب أرواح الكفار بشدة وعنف.</h2>"
+        },
+        "2": {
+            "verses": {
+                "79:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة التي تستلُّ أرواح المؤمنين بسهولة ويسر.</h2>"
+        },
+        "3": {
+            "verses": {
+                "79:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة التي تَسْبَح من السماء إلى الأرض بأمر الله.</h2>"
+        },
+        "4": {
+            "verses": {
+                "79:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالملائكة التي تسبق بعضها في أداء أمر الله.</h2>"
+        },
+        "5": {
+            "verses": {
+                "79:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقسم بالملائكة التي تنفذ ما أمرهم الله به من قضائه مثل الملائكة الموكلين بأعمال العباد، أقسم بذلك كله ليبعثنَّهم للحساب والجزاء.</p>"
+        },
+        "6": {
+            "verses": {
+                "79:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم تهتزّ الأرض عند النفخة الأولى.</h2>"
+        },
+        "7": {
+            "verses": {
+                "79:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تتبع هذه النفخة نفخة ثانية.</h2>"
+        },
+        "8": {
+            "verses": {
+                "79:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>قلوب بعض الناس في ذلك اليوم خائفة.</h2>"
+        },
+        "9": {
+            "verses": {
+                "79:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يظهر على أبصارها أثر الذلة.</h2>"
+        },
+        "10": {
+            "verses": {
+                "79:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وكانوا يقولون: هل نرجع إلى الحياة بعد أن متنا؟!</h2>"
+        },
+        "11": {
+            "verses": {
+                "79:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أإذا كنا عظامًا بالية فارغة نرجع بعد ذلك؟!</h2>"
+        },
+        "12": {
+            "verses": {
+                "79:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>قالوا: إذا رجعنا تكون تلك الرجعة خاسرة، مغبونًا صاحبها.</h2>"
+        },
+        "13": {
+            "verses": {
+                "79:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أمْر البعث يسير، فإنما هي صيحة واحدة من الملك الموكل بالنفخ.</p>"
+        },
+        "14": {
+            "verses": {
+                "79:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإذا الجميع أحياء على وجه الأرض بعد أن كانوا أمواتًا في بطنها.</p>"
+        },
+        "15": {
+            "verses": {
+                "79:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هل جاءك - أيها الرسول - خبر موسى مع ربه ومع عدوّه فرعون؟!</h2>"
+        },
+        "16": {
+            "verses": {
+                "79:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>حين ناداه ربه سبحانه بوادي طُوى المطهر.</h2>\n<h2>* من فوائد الآيات:</h2>\n<h2>• التقوى سبب دخول الجنة.</h2>\n<h2>• تذكر أهوال القيامة دافع للعمل الصالح.</h2>\n<h2>• قبض روح الكافر بشدّة وعنف، وقبض روح المؤمن برفق ولين.</h2>"
+        },
+        "17": {
+            "verses": {
+                "79:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قال له فيما قال: سرْ إلى فرعون، إنه تجاوز الحد في الظلم والاستكبار.</p>"
+        },
+        "18": {
+            "verses": {
+                "79:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فقل له: هل لك - يا فرعون - أن تتطهر من الكفر والمعاصي؟</h2>"
+        },
+        "19": {
+            "verses": {
+                "79:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأرشدك إلى ربك الذي خلقك ورعاك فتخشاه، فتعمل بما يرضيه، وتتجنب ما يسخطه؟</p>"
+        },
+        "20": {
+            "verses": {
+                "79:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأظهر له موسى عليه السلام العلامة العظمى الدالة على أنه رسول من ربه، وهي اليد والعصا.</p>"
+        },
+        "21": {
+            "verses": {
+                "79:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فما كان من فرعون إلا أنه كذّب بهذه العلامة، وعصى ما أمره به موسى عليه السلام.</p>"
+        },
+        "22": {
+            "verses": {
+                "79:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم أعرض عن الإيمان بما جاء به موسى.</h2>"
+        },
+        "23": {
+            "verses": {
+                "79:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ورجع يجمع جنوده لمغالبة موسى، فنادى قومه قائلًا:</h2>"
+        },
+        "24": {
+            "verses": {
+                "79:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أنا ربكم الأعلى، فلا طاعة لغيري عليكم.</h2>"
+        },
+        "25": {
+            "verses": {
+                "79:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأخذه الله فعاقبه في الدنيا بالغرق في البحر، وعاقبه في الآخرة بإدخاله في أشدّ العذاب.</p>"
+        },
+        "26": {
+            "verses": {
+                "79:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن فيما عاقبنا به فرعون في الدنيا والآخرة لموعظة لمن يخشى الله، فهو الذي ينتفع بالمواعظ.</p>"
+        },
+        "27": {
+            "verses": {
+                "79:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أإيجادكم على الله - أيها المكذبون بالبعث - أصعب، أم إيجاد السماء التي بناها؟!</p>"
+        },
+        "28": {
+            "verses": {
+                "79:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>جعل سَمْتها في جهة العلوّ رفيعًا، فجعلها مستوية، لا فطور فيها ولا شقوق ولا عيب.</p>"
+        },
+        "29": {
+            "verses": {
+                "79:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأظلم ليلها إذا غربت شمسها، وأظهر نورها إذا أشرقت.</h2>"
+        },
+        "30": {
+            "verses": {
+                "79:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>والأرض بعد أن خلق السماء بسطها، وأودع فيها منافعها.</h2>"
+        },
+        "31": {
+            "verses": {
+                "79:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أخرج منها ماءها عيونًا تجري، وأنبت فيها من النبات ما ترعاه الدواب.</p>"
+        },
+        "32": {
+            "verses": {
+                "79:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>والجبال جعلها ثابتة على الأرض.</h2>"
+        },
+        "33": {
+            "verses": {
+                "79:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كل ذلك منافع لكم - أيها الناس - ولأنعامكم، فالذي خلق هذا كله لا يعجز عن إعادة خلقهم من جديد.</p>"
+        },
+        "34": {
+            "verses": {
+                "79:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإذا جاءت النفخة الثانية التي تغمر كل شيء بهولها، وقامت القيامة.</p>"
+        },
+        "35": {
+            "verses": {
+                "79:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم تجيء يتذكر الإنسان ما قدم من عمل، خيرًا كان أو شرًّا.</h2>"
+        },
+        "36": {
+            "verses": {
+                "79:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وجيء بجهنم وأُظْهِرت عيانًا لمن يبصرها.</h2>"
+        },
+        "37": {
+            "verses": {
+                "79:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأما من تجاوز الحدّ في الضلال.</h2>"
+        },
+        "38": {
+            "verses": {
+                "79:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفضّل الحياة الدنيا الفانية على الحياة الأخرى الباقية.</h2>"
+        },
+        "39": {
+            "verses": {
+                "79:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإن النار هي مستقرّه الذي يأوي إليه.</h2>"
+        },
+        "40": {
+            "verses": {
+                "79:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأما من خاف قيامه بين يدي ربه، وكفّ نفسه عن اتباع ما تهواه مما حرّمه الله، فإن الجنة هي مستقرّه الذي يأوي إليه.</p>"
+        },
+        "41": {
+            "verses": {
+                "79:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 40</h2>"
+        },
+        "42": {
+            "verses": {
+                "79:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يسألك - أيها الرسول - هؤلاء المكذبون بالبعث: متى تقع الساعة؟</p>"
+        },
+        "43": {
+            "verses": {
+                "79:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس لك علم بها حتى تذكرها لهم، وليس من شأنك ذلك، إنما شأنك الاستعداد لها.</p>"
+        },
+        "44": {
+            "verses": {
+                "79:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إلى ربك وحده مُنْتهى علم الساعة.</h2>"
+        },
+        "45": {
+            "verses": {
+                "79:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنما أنت منذر من يخشى الساعة، لأنه الذي ينتفع بإنذارك.</h2>"
+        },
+        "46": {
+            "verses": {
+                "79:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كأنهم يوم يرون الساعة مشاهدة، لم يلبثوا في حياتهم الدنيا إلا عشية يوم واحد أو بكرته.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• وجوب الرفق عند خطاب المدعوّ.</h2>\n<h2>• الخوف من الله وكفّ النفس عن الهوى من أسباب دخول الجنة.</h2>\n<h2>• علم الساعة من الغيب الذي لا يعلمه إلا الله.</h2>\n<h2>• بيان الله لتفاصيل خلق السماء والأرض.</h2>"
+        }
+    }
+}

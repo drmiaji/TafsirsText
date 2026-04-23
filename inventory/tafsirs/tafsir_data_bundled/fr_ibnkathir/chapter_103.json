@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 129,
+            "resource_name": "Tafsir Fr Ibnkathir",
+            "language_id": 38,
+            "slug": "fr_ibnkathir",
+            "translated_name": {
+                "name": "Tafsir Fr Ibnkathir",
+                "language_name": "english"
+            },
+            "text": "<p>On a dit que le siècle signifie le temps durant lequel les hommes accomplissent leurs œuvres bonnes soient-elles ou mauvaises.</p>\n<p>Mais Zaïd Ben Aslam a précisé qu'il s 'agit de la période de l'après midi «Al- 'sr».</p>\n<p>Il s 'avère que la première interprétation est la plus logique.</p>\n<p>Dieu jure par ce temps-même pour affirmer que les hommes vont à leur perte à l'exception de ceux qui ont la foi et qui font les bonnes œuvres.</p>\n<p>Ceux-ci s'encouragent mutuellement à rechercher la vérité en s'acquittant de toutes les obligations cultuelles et s 'interdisant de tout ce que Dieu a prohibé.</p>\n<p>Ils s 'encouragent aussi mutuellement à la patience en supportant les calamités et en endurant les méfaits de ceux qu'ils exhortent à faire le bien et à s'interdire du repréhensible.</p>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 129,
+            "resource_name": "Tafsir Fr Ibnkathir",
+            "language_id": 38,
+            "slug": "fr_ibnkathir",
+            "translated_name": {
+                "name": "Tafsir Fr Ibnkathir",
+                "language_name": "english"
+            },
+            "text": "<p>6177</p>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 129,
+            "resource_name": "Tafsir Fr Ibnkathir",
+            "language_id": 38,
+            "slug": "fr_ibnkathir",
+            "translated_name": {
+                "name": "Tafsir Fr Ibnkathir",
+                "language_name": "english"
+            },
+            "text": "<p>6177</p>"
+        }
+    }
+}

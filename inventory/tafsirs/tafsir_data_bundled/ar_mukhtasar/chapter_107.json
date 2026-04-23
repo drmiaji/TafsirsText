@@ -1,0 +1,117 @@
+{
+    "chapter": 107,
+    "verses": {
+        "1": {
+            "verses": {
+                "107:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الماعون مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>بيان أخلاق المكذبين بالدين والآخرة، تحذيرًا للمؤمنين، وتشنيعًا على الكافرين.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>هل عرفت الذي يكذب بالجزاء يوم القيامة؟!</h2>"
+        },
+        "2": {
+            "verses": {
+                "107:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهو ذلك الذي يدفع اليتيم بغلظة عن حاجته.</h2>"
+        },
+        "3": {
+            "verses": {
+                "107:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولا يحثّ نفسه، ولا يحث غيره على إطعام الفقير.</h2>"
+        },
+        "4": {
+            "verses": {
+                "107:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهلاك وعذاب للمصلِّين.</h2>"
+        },
+        "5": {
+            "verses": {
+                "107:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذين هم عن صلاتهم لاهون، لا يبالون بها حتى ينقضي وقتها.</h2>"
+        },
+        "6": {
+            "verses": {
+                "107:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>الذين هم يراؤون بصلاتهم وأعمالهم، لا يخلصون العمل لله.</h2>"
+        },
+        "7": {
+            "verses": {
+                "107:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويمنعون إعانة غيرهم بما لا ضرر في الإعانة به.</h2>"
+        }
+    }
+}

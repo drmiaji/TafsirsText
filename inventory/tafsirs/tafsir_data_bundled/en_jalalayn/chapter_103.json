@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>By Time! — or [it `asr can mean the period] from the declining of the sun to sunset, or [it may denote] the afternoon prayer.</p>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Verily man (al-insn: the generic) is in [a state of] loss, in all his bargaining,</p>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>except those who believe and perform righteous deeds, they are not in [a state of] loss, and enjoin one another to [follow] the truth, faith, and enjoin one another to patience, in [maintaining] obedience and in refraining from [acts of] disobedience. Meccan or Medinese, consisting of 9 verses.</p>"
+        }
+    }
+}

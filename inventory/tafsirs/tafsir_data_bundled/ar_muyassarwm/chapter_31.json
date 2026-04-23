@@ -1,0 +1,549 @@
+{
+    "chapter": 31,
+    "verses": {
+        "1": {
+            "verses": {
+                "31:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿الٓمٓ﴾: سَبَقَ الكَلَامُ على الحُرُوفِ المُقَطَّعةِ في أوَّلِ سُورَةِ البَقَرةِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "31:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "31:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "4": {
+            "verses": {
+                "31:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يُؤۡتُونَ﴾: يُعْطُونَ.</h2>\n<h2>﴿يُوقِنُونَ﴾: يُؤْمِنُونَ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "31:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلۡمُفۡلِحُونَ﴾: الفائِزُونَ.</h2>"
+        },
+        "6": {
+            "verses": {
+                "31:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لَهۡوَ ٱلۡحَدِيثِ﴾: هُوَ كلُّ ما يُلْهِي عَن طَاعةِ اللهِ.</h2>\n<h2>﴿بِغَيۡرِ عِلۡمٖ﴾: جَهْلاً بِعاقِبَةِ ذَلِكَ.</h2>\n<h2>﴿وَيَتَّخِذَهَا﴾: وَيَتَّخِذَ سَبيلَ اللهِ وآياتِ كِتابِه.</h2>\n<h2>﴿هُزُوًا﴾: مُسْتهْزَأً بِها.</h2>"
+        },
+        "7": {
+            "verses": {
+                "31:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَلَّىٰ﴾: أَعْرَضَ وأَدْبَرَ.</h2>\n<h2>﴿مُسۡتَكۡبِرٗا﴾: مُتَكبِّراً.</h2>\n<h2>﴿وَقۡرٗا﴾: ثِقَلاً أو صَمَماً فلا يَنْتَفِعُ بِما يَسْمَعُ.</h2>"
+        },
+        "8": {
+            "verses": {
+                "31:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "9": {
+            "verses": {
+                "31:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حَقّٗا﴾: أي: وَعْداً حَقّاً ثابِتاً لا شَكَّ فيه ولا خُلْفَ له.</p>"
+        },
+        "10": {
+            "verses": {
+                "31:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عَمَدٖ﴾: دَعائِمَ، مُفْرَدُه: عِمادٌ.</h2>\n<h2>﴿رَوَٰسِيَ﴾: أي: جِبالاً ثَوَابِتَ.</h2>\n<p>﴿أَن تَمِيدَ بِكُمۡ﴾: أي: لِئلا تَتَحَرَّكَ الأرْضُ وتَضْطَرِبَ بِكم.</p>\n<h2>﴿بَثَّ﴾: نَشَر وفَرَّقَ.</h2>\n<h2>﴿زَوۡجٖ كَرِيمٍ﴾: صِنْفٍ حَسَنٍ كَثِيرِ المَنْفَعَةِ.</h2>"
+        },
+        "11": {
+            "verses": {
+                "31:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ضَلَٰلٖ مُّبِينٖ﴾: عُدُولٍ واضِحٍ عَنِ الطَّرِيقِ المُسْتَقِيمِ.</p>"
+        },
+        "12": {
+            "verses": {
+                "31:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لُقۡمَٰنَ﴾: هو رَجُلٌ صالِحٌ، كَانَ مِنْ حُكَماءِ بني إسْرائِيلَ.</p>\n<h2>﴿ٱلۡحِكۡمَةَ﴾: العقلَ والفهمَ وإصابةَ القولِ.</h2>\n<h2>﴿كَفَرَ﴾: أي: جَحَدَ نِعَمَ اللهِ بِعَدَمِ شُكْرِها.</h2>"
+        },
+        "13": {
+            "verses": {
+                "31:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "14": {
+            "verses": {
+                "31:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَصَّيۡنَا﴾: أمَرْنا.</h2>\n<h2>﴿وَهۡنًا﴾: ضَعْفاً.</h2>\n<h2>﴿وَفِصَٰلُهُۥ﴾: تمامُ فِطامِه عَنِ الرَّضاعَةِ.</h2>\n<h2>﴿ٱلۡمَصِيرُ﴾: المَرْجِعُ.</h2>"
+        },
+        "15": {
+            "verses": {
+                "31:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿جَٰهَدَاكَ﴾: بَذَلا الجُهْدَ وحاوَلَا أن يُجْبِرَاكَ.</h2>\n<h2>﴿وَصَاحِبۡهُمَا﴾: عاشِرْهُما.</h2>\n<h2>﴿أَنَابَ إِلَيَّ﴾: رَجَع إليّ بالإخْلاصِ والتَّوبة.</h2>\n<h2>﴿مَرۡجِعُكُمۡ﴾: مَصِيرُكُم.</h2>\n<h2>﴿فَأُنَبِّئُكُم﴾: فَأُخْبِرُكُم.</h2>"
+        },
+        "16": {
+            "verses": {
+                "31:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِنَّهَآ﴾: أي: السَّيِّئةَ أو الحَسَنَةَ.</h2>\n<h2>﴿مِثۡقَالَ حَبَّةٖ﴾: وَزْنَ حَبَّةٍ.</h2>\n<h2>﴿خَرۡدَلٖ﴾: وَهُوَ أصْغَرُ الحُبُوبِ، والمرادُ أصغرُ شيءٍ.</h2>\n<h2>﴿فِي صَخۡرَةٍ﴾: في باطِنِ جَبَلٍ.</h2>"
+        },
+        "17": {
+            "verses": {
+                "31:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿بِٱلۡمَعۡرُوفِ﴾: المعْرُوفُ كُلُّ فِعْلٍ يُعْرَفُ حُسْنُه بالشَّرْعِ أو العَقْلِ.</p>\n<p>﴿ٱلۡمُنكَرِ﴾: وَهُوَ كُلُّ فِعْلٍ يُنكِرُه الشَّرعُ أوِ العَقْلُ.</p>\n<p>﴿مِنۡ عَزۡمِ ٱلۡأُمُورِ﴾: أي: مِنَ الأمُورِ الَّتي يَنْبَغِي العَزْمُ والحِرْصُ عليها.</p>"
+        },
+        "18": {
+            "verses": {
+                "31:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَا تُصَعِّرۡ خَدَّكَ﴾: أي: لا تُمِلْه عُجْباً واسْتِكْباراً.</p>\n<h2>﴿مَرَحًا﴾: فَرَحاً وبَطَراً.</h2>\n<h2>﴿مُخۡتَالٖ﴾: مُتَكَبِّرٍ.</h2>\n<h2>﴿فَخُورٖ﴾: مُتَباهٍ بنفسه.</h2>"
+        },
+        "19": {
+            "verses": {
+                "31:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱقۡصِدۡ فِي مَشۡيِكَ﴾: أي: تَوَسَّطْ فِيه مَعَ تَوَاضُعٍ وَسَكِينَةٍ.</p>\n<h2>﴿وَٱغۡضُضۡ﴾: واخْفِضْ.</h2>\n<h2>﴿أَنكَرَ ٱلۡأَصۡوَٰتِ﴾: أي: أقبَحَها.</h2>"
+        },
+        "20": {
+            "verses": {
+                "31:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَخَّرَ لَكُم﴾: ذَلَّلَ لَكُم.</h2>\n<h2>﴿وَأَسۡبَغَ﴾: عَمَّ وأَتَمَّ.</h2>\n<h2>﴿يُجَٰدِلُ﴾: يُخاصِمُ.</h2>\n<h2>﴿فِي ٱللَّهِ﴾: أي: في تَوحِيدِه وإخْلاصِ العِبادَةِ لَهُ.</h2>"
+        },
+        "21": {
+            "verses": {
+                "31:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿عَذَابِ ٱلسَّعِيرِ﴾: عَذَابِ جَهَنَّمَ المُسْتَعِرَةِ.</h2>"
+        },
+        "22": {
+            "verses": {
+                "31:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يُسۡلِمۡ وَجۡهَهُۥٓ إِلَى ٱللَّهِ﴾: يُفوِّضْ إِلِيهِ أَمْرَهُ، ويُخلِصْ لَهُ عِبادَتَه.</p>\n<h2>﴿مُحۡسِنٞ﴾: مُطِيعٌ للهِ في أَمْرِهِ وَنَهْيِهِ.</h2>\n<h2>﴿ٱسۡتَمۡسَكَ﴾: تمسَّكَ واعْتَصَمَ.</h2>\n<p>﴿بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ﴾: العَهْدِ الأوْثَقِ، والسَّبَبِ الأقْوَى.</p>\n<h2>﴿عَٰقِبَةُ ٱلۡأُمُورِ﴾: مَرْجِعُها.</h2>"
+        },
+        "23": {
+            "verses": {
+                "31:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَنُنَبِّئُهُم﴾: فَنُخْبِرُهُم.</h2>"
+        },
+        "24": {
+            "verses": {
+                "31:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نَضۡطَرُّهُمۡ﴾: نُلْجِئُهُم وَنَسُوقُهُم.</h2>\n<p>﴿عَذَابٍ غَلِيظٖ﴾: أي: فَظِيعٍ وثَقِيلٍ؛ وَهُوَ عَذَابُ جَهَنَّمَ.</p>"
+        },
+        "25": {
+            "verses": {
+                "31:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "26": {
+            "verses": {
+                "31:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "27": {
+            "verses": {
+                "31:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَمُدُّهُۥ﴾: أي: يَزِيدُه، فَيَصِيرُ ما في البِحارِ كلِّها مِداداً.</p>\n<h2>﴿مَا نَفِدَتۡ﴾: ما فَنِيَتْ.</h2>"
+        },
+        "28": {
+            "verses": {
+                "31:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَنَفۡسٖ وَٰحِدَةٍ﴾: أي: كَخَلْقِ نَفْسٍ وَاحِدَةٍ وبَعْثِها.</p>"
+        },
+        "29": {
+            "verses": {
+                "31:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يُولِجُ﴾: يُدخِلُ.</h2>\n<h2>﴿سَخَّرَ﴾: ذلَّلَ.</h2>\n<h2>﴿مُسَمّٗى﴾: مَعْلُومٍ مُحدَّدٍ.</h2>"
+        },
+        "30": {
+            "verses": {
+                "31:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "31": {
+            "verses": {
+                "31:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلۡفُلۡكَ﴾: السُّفُنَ.</h2>\n<h2>﴿لِيُرِيَكُم﴾: ليُظْهِرَ لَكُم.</h2>\n<p>﴿مِنۡ ءَايَٰتِهِۦٓ﴾: أي: مِنْ آياتِه الدَّالَّةِ عَلَى قُدْرَتِه.</p>\n<h2>﴿لَأٓيَٰتٖ﴾: لدَلالَاتٍ.</h2>\n<p>﴿صَبَّارٖ شَكُورٖ﴾: أي: صَبَّارٍ عَلَى الضَّرَّاءِ، وشَكُورٍ عَلَى السَّرَّاءِ.</p>"
+        },
+        "32": {
+            "verses": {
+                "31:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿غَشِيَهُم﴾: عَلاهُم وغَطَّاهُم.</h2>\n<p>﴿كَٱلظُّلَلِ﴾: أي: جَمْعُ ظُلَّة: ما أَظَلَّ من جِبَال أو سَحَاب.</p>\n<h2>﴿مُقۡتَصِدٞ﴾: مُتَوَسِّطٌ في عَمَلِهِ وعِبادَتِه.</h2>\n<h2>﴿يَجۡحَدُ﴾: يُنكِرُ.</h2>\n<h2>﴿بِـَٔايَٰتِنَآ﴾: بحُجَجِنا.</h2>\n<h2>﴿خَتَّارٖ﴾: غَدَّارٍ ناقِضٍ لِلْعهَدِ.</h2>\n<h2>﴿كَفُورٖ﴾: جَحُودٍ للنِّعَمِ لا يَشْكُرُها.</h2>"
+        },
+        "33": {
+            "verses": {
+                "31:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَٱخۡشَوۡاْ يَوۡمٗا﴾: أي: خافُوه واسْتَعِدُّوا لَهُ.</h2>\n<h2>﴿لَا يَجۡزِي﴾: لا يُغْنِي.</h2>\n<h2>﴿فَلَا تَغُرَّنَّكُمُ﴾: فلا تَخْدَعَنَّكُم.</h2>\n<h2>﴿ٱلۡغَرُورُ﴾: ما يَغُرُّ ويَخْدَعُ مِن شَيطانٍ وَغَيرِهِ.</h2>"
+        },
+        "34": {
+            "verses": {
+                "31:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿ٱلۡغَيۡثَ﴾: المَطَرَ.</h2>\n<h2>﴿تَدۡرِي﴾: تَعْلَمُ.</h2>"
+        }
+    }
+}

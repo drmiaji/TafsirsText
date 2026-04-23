@@ -1,0 +1,245 @@
+{
+    "chapter": 91,
+    "verses": {
+        "1": {
+            "verses": {
+                "91:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>By the sun and her morning light,</h2>"
+        },
+        "2": {
+            "verses": {
+                "91:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and [by] the moon when it follows her, rising after she has set,</p>"
+        },
+        "3": {
+            "verses": {
+                "91:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>and [by] the day when it reveals her, as it rises [high],</h2>"
+        },
+        "4": {
+            "verses": {
+                "91:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and [by] the night when it enshrouds her, covering her up with its darkness (idh, `when', in all three instances is an absolute adverbial, operated by the verbal action of the oath).</p>"
+        },
+        "5": {
+            "verses": {
+                "91:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>By the heaven and the One Who built it,</h2>"
+        },
+        "6": {
+            "verses": {
+                "91:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and [by] the earth and the One Who spread it, laid out flat.</p>"
+        },
+        "7": {
+            "verses": {
+                "91:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and [by] the soul, that is to say, [by] all souls, and the One Who proportioned it, in its created form (m in all three instances relates to the verbal action, or functions as man, `the one who'),</p>"
+        },
+        "8": {
+            "verses": {
+                "91:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and inspired to discern its vices and piety, He pointed out to it the path of good and that of evil (the placing of taqw, `piety', second takes into account the [rhyme] endings of the verses; the response to the oath is [the following:])</p>"
+        },
+        "9": {
+            "verses": {
+                "91:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Successful indeed (qad: the lm [of laqad, `indeed'] has been omitted from it for the sake of brevity) will be the one who purifies it, purges it of sins,</p>"
+        },
+        "10": {
+            "verses": {
+                "91:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and he will indeed have failed he who eclipses it, he who obscures it with [acts of] disobedience (dassh is actually dassasah, but the second sn has been replaced with an alif for [phonetic] ease).</p>"
+        },
+        "11": {
+            "verses": {
+                "91:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Thamd denied, their messenger Slih, because of their rebellious nature,</p>"
+        },
+        "12": {
+            "verses": {
+                "91:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>when the most wretched of them, whose name was Qudr, was dispatched, [when] he hastened, in order to hamstring the she-camel with their approval.</p>"
+        },
+        "13": {
+            "verses": {
+                "91:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>But then the messenger of God, Slih, said to them, `[This is] the she-camel of God, so let her have her drink!', her drink on her day — one day was hers, the next theirs.</p>"
+        },
+        "14": {
+            "verses": {
+                "91:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>But they denied him, with regard to his saying this [as being a command] from God — which if they contravened would immediately result in chastisement being sent down on them — then hamstrung her, they slew it in order to appropriate her [share of the] drinking water. So their Lord closed in on them, the chastisement, because of their sin, and meted it equally [among them], that is, the closing in on them, in other words, He subsumed them all by it, so that not one of them escaped.</p>"
+        },
+        "15": {
+            "verses": {
+                "91:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>And He does not (read wa-l, or fa-l) fear the consequence of it. Meccan, consisting of 21 verses.</p>"
+        }
+    }
+}

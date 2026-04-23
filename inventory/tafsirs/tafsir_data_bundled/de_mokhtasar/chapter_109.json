@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sag - o Gesandter -: „O ihr Ungläubigen gegenüber Allah!</h2>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Weder heute noch in Zukunft werde ich das anbeten, was ihr an Götzen anbetet.</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und ihr werdet nicht anbeten, Wen ich anbete; Allah allein!</h2>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und ich werde nicht das anbeten, was ihr an Götzen anbetet!</h2>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und ihr werdet nicht anbeten, Wen ich anbete; Allah allein!</h2>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Euch eure Religion, die ihr für euch selbst erfunden habt, und mir meine Religion, die Allah zu mir hinabgesandt hat.“</p>"
+        }
+    }
+}

@@ -1,0 +1,901 @@
+{
+    "chapter": 74,
+    "verses": {
+        "1": {
+            "verses": {
+                "74:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة المدثر مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>الأمر بالنهوض للدعوة، وتوعد المكذبين بها.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>يا أيها المُتَغَشِّي بثيابه (وهو النبي ﷺ).</h2>"
+        },
+        "2": {
+            "verses": {
+                "74:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انهض وخوِّف من عذاب الله.</h2>"
+        },
+        "3": {
+            "verses": {
+                "74:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وعَظِّمْ ربك.</h2>"
+        },
+        "4": {
+            "verses": {
+                "74:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وطهِّر نفسك من الذنوب وثيابك من النجاسات.</h2>"
+        },
+        "5": {
+            "verses": {
+                "74:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وابتعد عن عبادة الأوثان.</h2>"
+        },
+        "6": {
+            "verses": {
+                "74:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولا تمنن على ربك بأن تستكثر عملك الصالح.</h2>"
+        },
+        "7": {
+            "verses": {
+                "74:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>واصبر لله على ما تلاقيه من الأذى.</h2>"
+        },
+        "8": {
+            "verses": {
+                "74:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فإذا نُفِخَ في القرن النفخة الثانية.</h2>"
+        },
+        "9": {
+            "verses": {
+                "74:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فذلك اليوم يوم شديد.</h2>"
+        },
+        "10": {
+            "verses": {
+                "74:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>على الكافرين بالله وبرسله غير سهل.</h2>"
+        },
+        "11": {
+            "verses": {
+                "74:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>اتركني - أيها الرسول - ومن خلقته وحيدًا في بطن أمه دون مال أو ولد (وهو الوليد بن المُغِيرة).</p>"
+        },
+        "12": {
+            "verses": {
+                "74:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وجعلت له مالًا كثيرًا.</h2>"
+        },
+        "13": {
+            "verses": {
+                "74:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وجعلت له بنين حاضرين معه ويشهدون المحافل معه لا يفارقونه لسفر لكثرة ماله.</p>"
+        },
+        "14": {
+            "verses": {
+                "74:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وبسطت له في العيش والرزق والولد بسطًا.</h2>"
+        },
+        "15": {
+            "verses": {
+                "74:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم يطمع مع كفره بي أن أزيده بعد ما أعطيته من ذلك كله.</h2>"
+        },
+        "16": {
+            "verses": {
+                "74:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كما تصوّر، إنه كان معاندًا لآياتنا المنزلة على رسولنا مكذبًا بها.</p>"
+        },
+        "17": {
+            "verses": {
+                "74:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>سأكلفه مشقة من العذاب لا يستطيع تحمّلها.</h2>"
+        },
+        "18": {
+            "verses": {
+                "74:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن هذا الكافر الذي أنعمت عليه بتلك النعم فكّر فيما يقوله في القرآن لإبطاله، وقدّر ذلك في نفسه.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• المشقة تجلب التيسير.</h2>\n<h2>• وجوب الطهارة من الخَبَث الظاهر والباطن.</h2>\n<h2>• الإنعام على الفاجر استدراج له وليس إكرامًا.</h2>"
+        },
+        "19": {
+            "verses": {
+                "74:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فلُعِن وعُذِّب كيف قَدَّر.</h2>"
+        },
+        "20": {
+            "verses": {
+                "74:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم لعن وعذّب كيف قَدَّر.</h2>"
+        },
+        "21": {
+            "verses": {
+                "74:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم أعاد النظر والتروِّي فيما يقول.</h2>"
+        },
+        "22": {
+            "verses": {
+                "74:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم قَطَّب وجهه وكَلَح حين لم يجد ما يطعن به في القرآن.</h2>"
+        },
+        "23": {
+            "verses": {
+                "74:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم أدبر عن الإيمان، واستكبر عن اتباع النبي ﷺ.</h2>"
+        },
+        "24": {
+            "verses": {
+                "74:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فقال: ليس هذا الذي جاء به محمد كلام الله، بل هو سحر يرويه عن غيره.</p>"
+        },
+        "25": {
+            "verses": {
+                "74:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليس هذا كلام الله، بل هو كلام الإنس.</h2>"
+        },
+        "26": {
+            "verses": {
+                "74:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>سأدخل هذا الكافر طبقة من طبقات النار، وهي سَقَر يقاسي حرّها.</p>"
+        },
+        "27": {
+            "verses": {
+                "74:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وما أعلمك - يا محمد - ما سَقَر؟!</h2>"
+        },
+        "28": {
+            "verses": {
+                "74:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا تُبْقِي شيئًا من المُعَذَّب فيها إلا أتت عليه، ولا تتركه، ثم يعود كما كان، ثم تأتي عليه، وهكذا دَوالَيْك.</p>"
+        },
+        "29": {
+            "verses": {
+                "74:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>شديدة الإحراق والتغيير للجلود.</h2>"
+        },
+        "30": {
+            "verses": {
+                "74:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>عليها تسعة عشر ملكًا، وهم خَزَنتها.</h2>"
+        },
+        "31": {
+            "verses": {
+                "74:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما جعلنا خَزَنة النار إلا ملائكة، فلا طاقة للبشر بهم، وقد كذب أبو جهل حين ادّعى أنه وقومه يقدرون على البطش بهم، ثمّ يخرجون من النار، وما جعلنا عددهم هذا إلا اختبارًا للذين كفروا بالله، ليقولوا ما قالوا فيُضاعَف عليهم العذاب، وليتيقّن اليهود الذين أعطوا التوراة، والنصارى الذين أعطوا الإنجيل حين نزل القرآن مصدقًا لما في كتابيهم، وليزداد المؤمنون إيمانًا عندما يوافقهم أهل الكتاب، ولا يرتاب اليهود والنصارى والمؤمنون، وليقول المترددون في الإيمان، والكافرون: أي شيء أراده الله بهذا العدد الغريب؟! مثل إضلال مُنْكِر هذا العدد وهداية المُصَدِّق به، يُضِلُّ الله من شاء أن يضلّه ويهدي من شاء أن يهديه، وما يعلم جنود ربك من كثرتها إلا هو سبحانه، فليعلم بذلك أبو جهل القائل: (أما لمحمد أعوان إلا تسعة عشر؟!) استخفافًا وتكذيبًا، وما النار إلا تذكرة للبشر يعلمون بها عظمة الله سبحانه.</p>"
+        },
+        "32": {
+            "verses": {
+                "74:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس القول كما يزعم بعض المشركين أنه يكفي أصحابه خَزَنة جهنم حتى يُجْهِضهم عنها، أقسم الله بالقمر.</p>"
+        },
+        "33": {
+            "verses": {
+                "74:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالليل حين ولّى.</h2>"
+        },
+        "34": {
+            "verses": {
+                "74:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالصبح إذا أضاء.</h2>"
+        },
+        "35": {
+            "verses": {
+                "74:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنّ نار جهنم لإحدى البلايا العظيمة.</h2>"
+        },
+        "36": {
+            "verses": {
+                "74:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ترهيبًا وتخويفًا للناس.</h2>"
+        },
+        "37": {
+            "verses": {
+                "74:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لمن شاء منكم - أيها الناس - أن يتقدم بالإيمان بالله والعمل الصالح، أو يتأخر بالكفر والمعاصي.</p>"
+        },
+        "38": {
+            "verses": {
+                "74:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>كل نفس بما كسبته من الأعمال مأخوذة، فإما أن توبقها أعمالها، وإما أن تخلِّصها وتنقذها من الهلاك.</p>"
+        },
+        "39": {
+            "verses": {
+                "74:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا المؤمنين فإنهم لا يُؤْخذون بذنوبهم، بل يتجاوز عنها لما لهم من عمل صالح</p>"
+        },
+        "40": {
+            "verses": {
+                "74:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وهم يوم القيامة في جنات يسأل بعضهم بعضًا.</h2>"
+        },
+        "41": {
+            "verses": {
+                "74:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>عن الكافرين الذين أهلكوا أنفسهم بما عملوا من المعاصي.</h2>"
+        },
+        "42": {
+            "verses": {
+                "74:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يقولون لهم: ما أدخلكم في جهنم؟</h2>"
+        },
+        "43": {
+            "verses": {
+                "74:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فيجيبهم الكفار قائلين: لم نكن من الذين يؤدون الصلاة الواجبة في الحياة الدنيا.</p>"
+        },
+        "44": {
+            "verses": {
+                "74:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولم نكن نطعم الفقير مما أعطانا الله.</h2>"
+        },
+        "45": {
+            "verses": {
+                "74:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وكنا مع أهل الباطل ندور معهم أينما داروا، ونتحدث مع أهل الضلال والغواية.</p>"
+        },
+        "46": {
+            "verses": {
+                "74:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وكنا نكذب بيوم الجزاء.</h2>"
+        },
+        "47": {
+            "verses": {
+                "74:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وتمادينا في التكذيب به حتى جاءنا الموت، فحال بيننا وبين التوبة.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• خطورة الكبر حيث صرف الوليد بن المغيرة عن الإيمان بعدما تبين له الحق.</p>\n<h2>• مسؤولية الإنسان عن أعماله في الدنيا والآخرة.</h2>\n<h2>• عدم إطعام المحتاج سبب من أسباب دخول النار.</h2>"
+        },
+        "48": {
+            "verses": {
+                "74:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فما تنفعهم يوم القيامة وساطة الشافعين من الملائكة والنبيين والصالحين، لأن من شرط قَبول الشفاعة الرضا عن المشفوع.</p>"
+        },
+        "49": {
+            "verses": {
+                "74:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أي شيء جعل هؤلاء المشركين معرضين عن القرآن؟!</h2>"
+        },
+        "50": {
+            "verses": {
+                "74:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>كأنهم في إعراضهم ونفورهم منه حُمُر وحْش شديدة النفور.</h2>"
+        },
+        "51": {
+            "verses": {
+                "74:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>نفرت من أسد خوفًا منه.</h2>"
+        },
+        "52": {
+            "verses": {
+                "74:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>بل يريد كل واحد من هؤلاء المشركين أن يصبح عند رأسه كتاب منشور يخبره أن محمدًا رسول من الله، وليس سبب ذلك قلة البراهين أو ضعف الحجج، وإنما هو العناد والاستكبار.</p>"
+        },
+        "53": {
+            "verses": {
+                "74:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كذلك، بل السبب في تماديهم في ضلالهم أنهم لا يؤمنون بعذاب الآخرة، فبقوا على كفرهم.</p>"
+        },
+        "54": {
+            "verses": {
+                "74:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ألا إن هذا القرآن موعظة وتذكير.</h2>"
+        },
+        "55": {
+            "verses": {
+                "74:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمن شاء أن يقرأ القرآن ويتعظ به قرأه واتعظ به.</h2>"
+        },
+        "56": {
+            "verses": {
+                "74:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما يتعظون إلا أن يشاء الله أن يتعظوا، هو سبحانه أهل لأن يُتَّقى بامتثال أوامره واجتناب نواهيه، وأهل لأن يغفر ذنوب عباده إذا تابوا إليه.</p>"
+        }
+    }
+}

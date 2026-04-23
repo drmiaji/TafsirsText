@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah -Subhânehu ve Teâlâ-, asır/ikindi vaktine yemin etmiştir.</p>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Şüphesiz insan, bir çöküş ve yok oluş içindedir.</h2>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ancak, Allah’a ve Rasûlüne iman eden, salih ameller işleyen, birbirlerine hakkı ve hak üzerinde sabırlı olmayı tavsiye edenler bundan müstesnadır. Bu vasıflarla nitelenen kimseler, dünya ve ahiret hayatlarında kurtuluşa ermiş olanlardır.</p>"
+        }
+    }
+}

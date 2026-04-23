@@ -1,0 +1,85 @@
+{
+    "chapter": 113,
+    "verses": {
+        "1": {
+            "verses": {
+                "113:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 147,
+            "resource_name": "Tafsir Ur Junagarhi",
+            "language_id": 38,
+            "slug": "ur_junagarhi",
+            "translated_name": {
+                "name": "Tafsir Ur Junagarhi",
+                "language_name": "english"
+            },
+            "text": ""
+        },
+        "2": {
+            "verses": {
+                "113:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 147,
+            "resource_name": "Tafsir Ur Junagarhi",
+            "language_id": 38,
+            "slug": "ur_junagarhi",
+            "translated_name": {
+                "name": "Tafsir Ur Junagarhi",
+                "language_name": "english"
+            },
+            "text": ""
+        },
+        "3": {
+            "verses": {
+                "113:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 147,
+            "resource_name": "Tafsir Ur Junagarhi",
+            "language_id": 38,
+            "slug": "ur_junagarhi",
+            "translated_name": {
+                "name": "Tafsir Ur Junagarhi",
+                "language_name": "english"
+            },
+            "text": ""
+        },
+        "4": {
+            "verses": {
+                "113:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 147,
+            "resource_name": "Tafsir Ur Junagarhi",
+            "language_id": 38,
+            "slug": "ur_junagarhi",
+            "translated_name": {
+                "name": "Tafsir Ur Junagarhi",
+                "language_name": "english"
+            },
+            "text": ""
+        },
+        "5": {
+            "verses": {
+                "113:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 147,
+            "resource_name": "Tafsir Ur Junagarhi",
+            "language_id": 38,
+            "slug": "ur_junagarhi",
+            "translated_name": {
+                "name": "Tafsir Ur Junagarhi",
+                "language_name": "english"
+            },
+            "text": ""
+        }
+    }
+}

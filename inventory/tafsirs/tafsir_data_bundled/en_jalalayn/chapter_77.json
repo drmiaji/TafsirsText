@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>By those sent in succession (`urfan), that is, [by] the winds that follow [one another] in succession, like the mane (`urf) of a horse, one part [of hair] coming after the other (`urfan is in the accusative because it is a circumstantial qualifier);</p>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>by the raging hurricanes, the violent winds;</h2>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>by the sweeping spreaders, [by] the winds that scatter the rains;</p>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>by the decisive discriminators, that is, [by] the verses of the Qur'n, which discriminate between truth and falsehood, and between what is lawful and what is unlawful;</p>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>by the casters of the remembrance, that is, [by] angels that descend with the revelation upon the prophets and messengers, casting the revelation onto the [various] communities [of mankind],</p>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>to excuse or to warn, that is to say, in order to excuse or to warn on behalf of God, exalted be He (a variant reading [for nudhran and `udhran] has nudhuran and `udhuran).</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Surely that which you are promised, O disbelievers of Mecca, in the way of resurrection and chastisement, will befall: it will be, without any doubt.</p>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>So when the stars are obliterated, [when] their light is extinguished,</p>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>and when the heaven is rent asunder,</h2>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and when the mountains are blown away, crushed to pieces and blown in the air,</p>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and when the time is set for the [testimony of the] messengers (read uqqitat or wuqqitat), that is to say, [when] they are gathered to an appointed time,</p>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>For what day — for a tremendous day — has it been appointed?, [it has been appointed] for witnessing [of the messengers] against their communities [to the effect] that they delivered [their messages from God].</p>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>For the Day of Decision, for creatures (from this one may infer the response to [the clauses beginning with] idh, `when', in other words, `[when ...], the decision will be made for [all] creatures').</p>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>And how would you know what the Day of Decision is? — emphasising the enormity of its terror.</p>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Woe to the deniers on that day! — a threat of chastisement for them.</p>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Did We not destroy the ancients, for their denial, in other words, We certainly destroyed them,</p>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>then made the latter folk follow them?, [the latter folk] of those who denied, such as the disbelievers of Mecca, whom We will destroy.</p>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>So, just as We dealt with those who denied, will We deal with the guilty, with every individual who will be guilty in the future, and destroy them.</p>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Woe to the deniers on that day! — [reiterated] for emphasis.</p>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Did We not create you from a base fluid, one that is delicate — and this is semen,</p>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>then lodged it in a secure abode, that is, the womb,</h2>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>for a known span?, namely, the time for delivery.</h2>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Thus We were able, to do this; so [how] excellent able ones We are!</p>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Have We not made the earth a receptacle (kiftan is a verbal noun, from kafata, meaning damma, `enclosed'), that is, an enclosure,</p>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>for the living, on its surface, and the dead, inside it,</h2>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and set therein soaring mountains and give you sweet water to drink?</p>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>And on the Day of Resurrection it will be said to the deniers: Depart to that, chastisement, which you used to deny!</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Depart to a triple-forked shadow — this is the smoke of Hell, which, as it rises, splits into three parts because of its magnitude —</p>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>which is neither shady, [neither] protective, [unable] to shade them from the heat of that Day, nor of any avail against, [nor] wards off from them anything of, the flame, the Fire.</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Indeed it, that is, the Fire, throws up sparks, namely, those [flame] that are thrown by it into the air, [huge] like palace edifices, in terms of their enormity and vertical extension,</p>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>as if they were [dark] yellow camels (jimltun is the plural of jimalatun, the plural of jamalun; a variant reading has jimlatun), in terms of their shape and colour. In hadth [it is stated], `The sparks of humans [thrown into the air by the Fire] are black as pitch (qr)'; the Arabs call dark camels sufr, `yellow', because a touch of yellow is mixed with their blackish colour, and therefore it is said that `yellow' in this verse [actually] means `black', on account of what has been mentioned; but some say no [to this interpretation]; (sharar is the plural of sharra; qr is qr, `pitch').</p>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>This, namely, the Day of Resurrection, is the day in which they will not utter, anything,</p>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>nor will they be given permission, to offer excuses, and so offer excuses (fa-ya`tadhirna is a supplement to yu'dhanu, `given permission', but without being a direct result of it, since it belongs within the confines of the [general] denial [of permission], in other words, `there will be no permission, hence no excuses').</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>`This is the Day of Decision. We have brought you, O deniers from this community, and the ancients together, [the ancients] from among the deniers before you, so that you will [all] be reckoned with and chastised together;</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>So if you have any stratagems, any ploy to ward off your chastisement, try your strategems against Me!' — put them into effect!</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Truly the God-fearing will be amid shades, that is, amid clusters of trees, since there is no sun therein from whose heat to seek shade, and springs, issuing forth with water,</p>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>and fruits such as they desire: this is meant to point out that eating and drinking in Paradise is [done] according to their desires, in contrast to [the case in] this world, where it is predominantly determined by what people are able to procure. It will also be said to them:</h2>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>`Eat and drink in [full] enjoyment (han'an is a circumstantial qualifier, in other words, mutahanni'na) for what you used to do', in the way of obedience.</p>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Indeed so, in the same way that We reward the God-fearing, do We reward the virtuous.</p>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>`Eat and enjoy — addressing the disbelievers in this world — for a little, time, at the end of which comes death — this is meant as a threat for them. Indeed you are guilty!'</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>For when it is said to them, `Bow down!', perform prayer, they do not bow down, they do not perform prayer.</p>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Woe to the deniers on that day!</h2>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>In what discourse, then, after this, namely, the Qur'n, will they believe? In other words, they cannot believe in any other of God's Scriptures after having denied this [Qur'n], since it comprises that inimitability (i`jz) which none of the others do. Meccan, consisting of 40 or 41 verses.</p>"
+        }
+    }
+}

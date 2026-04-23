@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>We have assuredly given you, O Muhammad (s), Abundance — [the name of] a river in Paradise and his [the Prophet's] pool around which his community shall gather; al-kawthar also means the abundant good [that has been given to the Prophet], such as prophethood, the Qur'n, intercession, and the like.</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>So pray to your Lord, the prayer of the Festival of Immolation (`d al-nahr), and sacrifice, your offering.</p>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Indeed it is your antagonist, your hater, who is the severed one, refraining from all [acts of] good, or the one whose line of offspring will be severed [by his not having any]: this was revealed regarding al-`s b. W'il, who called the Prophet (s) al-abtar, `the severed one', when his son al-Qsim died. Meccan or Medinese, consisting of 6 verses; this was revealed when a band of idolaters said to the Prophet (s), `What if you worship our gods for one year, and we worship your God the next?'</p>"
+        }
+    }
+}

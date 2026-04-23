@@ -1,0 +1,677 @@
+{
+    "chapter": 80,
+    "verses": {
+        "1": {
+            "verses": {
+                "80:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة عبس مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>حقيقة دعوة القرآن، وكرامة من ينتفع بها، وحقارة من يعرض عنها.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>قطّب رسول الله ﷺ وجهه وأعرض.</h2>"
+        },
+        "2": {
+            "verses": {
+                "80:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لأجل مجيء عبد الله بن أم مكتوم يسترشده، وكان أعمى، جاء والرسول ﷺ منشغل بأكابر المشركين أملًا في هدايتهم.</p>"
+        },
+        "3": {
+            "verses": {
+                "80:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما يُعْلِمُكَ - أيها الرسول - لعل هذا الأعمى يتطهر من ذنوبه؟!</p>"
+        },
+        "4": {
+            "verses": {
+                "80:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أو يتعظ بما يسمع منك من المواعظ، فينتفع بها.</h2>"
+        },
+        "5": {
+            "verses": {
+                "80:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أما من استغنى بنفسه بما لديه من المال عن الإيمان بما جئت به.</p>"
+        },
+        "6": {
+            "verses": {
+                "80:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأنت تَتَعرَّض له، وتُقبل إليه.</h2>"
+        },
+        "7": {
+            "verses": {
+                "80:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأي شيء يلحقك إذا لم يتطهر من ذنوبه بالتوبة إلى الله.</h2>"
+        },
+        "8": {
+            "verses": {
+                "80:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأما من جاءك يسعى بحثًا عن الخير.</h2>"
+        },
+        "9": {
+            "verses": {
+                "80:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وهو يخشى ربه.</h2>"
+        },
+        "10": {
+            "verses": {
+                "80:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأنت تتشاغل عنه بغيره من أكابر المشركين.</h2>"
+        },
+        "11": {
+            "verses": {
+                "80:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليس الأمر كذلك، إنما هي موعظة وتذكير لمن يقبل.</h2>"
+        },
+        "12": {
+            "verses": {
+                "80:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمن شاء أن يذكر الله ذكره، واتعظ بما في هذا القرآن.</h2>"
+        },
+        "13": {
+            "verses": {
+                "80:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهذا القرآن في صحف شريفة عند الملائكة.</h2>"
+        },
+        "14": {
+            "verses": {
+                "80:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>مرفوعة في مكان عال، مطهرة لا يصيبها دَنَس ولا رِجْس.</h2>"
+        },
+        "15": {
+            "verses": {
+                "80:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وهي بأيدي رسل من الملائكة.</h2>"
+        },
+        "16": {
+            "verses": {
+                "80:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>كرام عند ربهم، كثيري فعل الخير والطاعات.</h2>"
+        },
+        "17": {
+            "verses": {
+                "80:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لُعِن الإنسان الكافر، ما أشدّ كفره بالله!</h2>"
+        },
+        "18": {
+            "verses": {
+                "80:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>من أيّ شيء خلقه الله حتى يتكبّر في الأرض ويَكْفُرَهُ؟!</h2>"
+        },
+        "19": {
+            "verses": {
+                "80:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>من ماء قليل خلقه، فَقَدَّر خلقه طورًا بعد طور.</h2>"
+        },
+        "20": {
+            "verses": {
+                "80:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم يسّر له بعد هذه الأطوار الخروج من بطن أمه.</h2>"
+        },
+        "21": {
+            "verses": {
+                "80:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم بعد ما قَدَّر له من عمر في الحياة أماته، وجعل له قبرًا يبقى فيه إلى أن يبعث.</p>"
+        },
+        "22": {
+            "verses": {
+                "80:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم إذا شاء بَعَثَهُ للحساب والجزاء.</h2>"
+        },
+        "23": {
+            "verses": {
+                "80:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ليس الأمر كما يتوهم هذا الكافر أنه أدى ما عليه لربه من حق، فهو لم يؤدّ ما أوجب الله عليه من الفرائض.</p>"
+        },
+        "24": {
+            "verses": {
+                "80:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فلينظر الإنسان الكافر بالله إلى طعامه الذي يأكله كيف حصل؟!</h2>"
+        },
+        "25": {
+            "verses": {
+                "80:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأصله من المطر النازل من السماء بقوة وغزارة.</h2>"
+        },
+        "26": {
+            "verses": {
+                "80:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ثم فَتَقْنا الأرض فانشقت عن النبات.</h2>"
+        },
+        "27": {
+            "verses": {
+                "80:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأنبتنا فيها الحبوب من قمح وذرة وغيرهما.</h2>"
+        },
+        "28": {
+            "verses": {
+                "80:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأنبتنا فيها عنبًا وقتًّا رطبًا، ليكون علفًا لدوابهم.</h2>"
+        },
+        "29": {
+            "verses": {
+                "80:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأنبتنا فيها زيتونًا ونخلًا.</h2>"
+        },
+        "30": {
+            "verses": {
+                "80:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأنبتنا فيها بساتين كثيرة الأشجار.</h2>"
+        },
+        "31": {
+            "verses": {
+                "80:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأنبتنا فيها فاكهة، وأنبتنا فيها ما ترعاه بهائمكم.</h2>"
+        },
+        "32": {
+            "verses": {
+                "80:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لانتفاعكم، وانتفاع بهائمكم.</h2>"
+        },
+        "33": {
+            "verses": {
+                "80:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فإذا جاءت الصيحة العظيمة التي تصخ الآذان وهي النفخة الثانية.</p>"
+        },
+        "34": {
+            "verses": {
+                "80:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يوم يهرب المرء من أخيه.</h2>"
+        },
+        "35": {
+            "verses": {
+                "80:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويفرّ من أمه وأبيه.</h2>"
+        },
+        "36": {
+            "verses": {
+                "80:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويفرّ من زوجته وأولاده.</h2>"
+        },
+        "37": {
+            "verses": {
+                "80:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لكلّ واحد منهم ما يشغله عن الآخر من شدّة الكرب في ذلك اليوم.</p>"
+        },
+        "38": {
+            "verses": {
+                "80:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وجوه السعداء في ذلك اليوم مضيئة.</h2>"
+        },
+        "39": {
+            "verses": {
+                "80:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ضاحكة فرحة بما أعدّ الله لها من رحمته.</h2>"
+        },
+        "40": {
+            "verses": {
+                "80:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ووجوه الأشقياء في ذلك اليوم عليها غبار.</h2>\n<h2>* من فوائد الآيات:</h2>\n<p>• عتاب الله نبيَّه في شأن عبد الله بن أم مكتوم دل على أن القرآن من عند الله.</p>\n<h2>• الاهتمام بطالب العلم والمُسْتَرْشِد.</h2>\n<p>• شدة أهوال يوم القيامة حيث لا ينشغل المرء إلا بنفسه، حتى الأنبياء يقولون: نفسي نفسي.</p>"
+        },
+        "41": {
+            "verses": {
+                "80:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تغشاها ظلمة.</h2>"
+        },
+        "42": {
+            "verses": {
+                "80:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أولئك الموصوفون بتلك الحال هم الذين جمعوا بين الكفر والفجور.</p>"
+        }
+    }
+}

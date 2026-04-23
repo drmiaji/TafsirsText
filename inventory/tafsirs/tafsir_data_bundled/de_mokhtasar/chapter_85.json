@@ -1,0 +1,357 @@
+{
+    "chapter": 85,
+    "verses": {
+        "1": {
+            "verses": {
+                "85:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah schwört beim Himmel, der die (verschiedenen) Stufen von Sonne, Mond etc. beinhaltet.</p>"
+        },
+        "2": {
+            "verses": {
+                "85:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Er schwört beim Tag der Auferstehung, über den Er versprochen hat, dass Er die Geschöpfe darin versammeln wird.</p>"
+        },
+        "3": {
+            "verses": {
+                "85:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Er schwört bei allen Zeugen, wie der Propheten, der für seine Gemeinschaft bezeugt, und alle Bezeugten, wie die Gemeinschaft, die von ihrem Propheten bezeugt wird.</p>"
+        },
+        "4": {
+            "verses": {
+                "85:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Verflucht seien diejenigen, die im Boden einen gewaltigen Graben gegraben haben.</p>"
+        },
+        "5": {
+            "verses": {
+                "85:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie haben dort ein Feuer entfacht und die Gläubigen darin bei lebendigem Leibe hineingeworfen,</p>"
+        },
+        "6": {
+            "verses": {
+                "85:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>als sie an diesem, mit Feuer gefüllten, Graben saßen.</h2>"
+        },
+        "7": {
+            "verses": {
+                "85:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie waren Zeugen dessen, was sie den Gläubigen an Quälerei und Bestrafung antaten, da sie anwesend waren.</p>"
+        },
+        "8": {
+            "verses": {
+                "85:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diese Ungläubigen tadelten die Gläubigen nur dafür, dass sie an Allah, den Allmächtigen, Den keiner bezwingen kann, Der in allen Bereichen Lobenswerte, glaubten.</p>"
+        },
+        "9": {
+            "verses": {
+                "85:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah allein gehört die Herrschaft der Himmel und der Erde. Er weiß über alles Bescheid und nichts von den Angelegenheiten Seiner Diener bleibt Ihm verborgen.</p>"
+        },
+        "10": {
+            "verses": {
+                "85:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die die gläubigen Männer und die gläubigen Frauen mit dem Feuer quälten, um sie vom Glauben an Allah allein abzubringen, und hierauf nicht reumütig zu Allah zurückgekehrt sind, für sie wird es am Tag der Auferstehung die Strafe des Höllenfeuers geben, das sie verbrennen wird, als Vergeltung dessen, was sie den Gläubigen an Verbrennungen angetan haben.</p>"
+        },
+        "11": {
+            "verses": {
+                "85:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die an Allah glauben und rechtschaffene Werke tun, für sie wird es Gärten geben, unter deren Schlösser und Bäumen Bäche fließen. Dieser Lohn, den Er ihnen versprochen hat, ist der große Sieg, dem kein anderer Sieg gleichkommt.</p>"
+        },
+        "12": {
+            "verses": {
+                "85:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O Gesandter, das Zupacken des Unterdrückers durch deinen Herrn ist fürwahr hart, auch wenn Er ihm für eine Zeit Aufschub gewährt.</p>"
+        },
+        "13": {
+            "verses": {
+                "85:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er macht ja den Anfang der Schöpfung und der Strafe und lässt dies wiederholen.</p>"
+        },
+        "14": {
+            "verses": {
+                "85:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er ist der Allvergebende, Der die Sünden all Seiner Diener, die zu Ihm reumütig zurückkehren, vergibt. Und Er liebt fürwahr die Gefolgsleute unter den Gottesfürchtigen.</p>"
+        },
+        "15": {
+            "verses": {
+                "85:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er ist der Besitzer des edlen Thrones.</h2>"
+        },
+        "16": {
+            "verses": {
+                "85:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er tut alles, was Er will. Er vergibt die Sünden, von wem Er will, und bestraft, wen Er will. Niemand kann Ihn - gepriesen sei Er - (zu etwas) zwingen.</p>"
+        },
+        "17": {
+            "verses": {
+                "85:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O Gesandter, ist zu dir die Geschichte der Heerscharen gekommen, die aufgerüstet haben, um die Wahrheit zu bekämpfen?</p>"
+        },
+        "18": {
+            "verses": {
+                "85:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Von Fir'aun und Thamud, das Volk von Salih - Frieden sei auf ihm.</p>"
+        },
+        "19": {
+            "verses": {
+                "85:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Das Hindernis zwischen ihnen und dem Glauben war nicht, dass die Geschichten der Nationen, die (ihre Propheten) der Lüge bezichtigten, und wie sie zugrunde gingen, sie nicht erreicht haben. Vielmehr haben sie an das, womit ihre Gesandten kamen, nicht geglaubt, weil sie ihren Gelüsten folgten.</p>"
+        },
+        "20": {
+            "verses": {
+                "85:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah umfasst ihre Taten und kennt ihre Anzahl, nichts davon entgeht Ihm und Er wird ihnen dafür vergelten.</p>"
+        },
+        "21": {
+            "verses": {
+                "85:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Der Quran ist weder ein Gedicht noch eine Reimprosa, so wie es die Leugner sagen. Vielmehr ist es ein edler Quran.</p>"
+        },
+        "22": {
+            "verses": {
+                "85:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er ist auf einer Tafel, die vor jedweder Veränderung, Verfälschung, Verminderung und Hinzufügung wohlbehütet ist.</p>"
+        }
+    }
+}

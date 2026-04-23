@@ -1,0 +1,741 @@
+{
+    "chapter": 79,
+    "verses": {
+        "1": {
+            "verses": {
+                "79:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah, Đấng Tối Cao thề bởi các vị Thiên Thần rút mạnh linh hồn của những kẻ vô đức tin.</p>"
+        },
+        "2": {
+            "verses": {
+                "79:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngài thề bởi các vị Thiên Thần rút nhẹ linh hồn của những người có đức tin.</p>"
+        },
+        "3": {
+            "verses": {
+                "79:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngài thề bởi các Thiên Thần lên xuống giữa các tầng trời và trái đất như bơi theo lệnh của Allah.</p>"
+        },
+        "4": {
+            "verses": {
+                "79:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngài thề bởi các Thiên Thần luôn tiên phong và nhanh chóng thi hành mệnh lệnh của Allah.</p>"
+        },
+        "5": {
+            "verses": {
+                "79:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngài thề bởi các Thiên Thần phụng mệnh Allah chẳng hạn như các Thiên Thần trông coi các việc làm của đám bề tôi của Ngài; Ngài thề như thế để khẳng định rằng tất cả nhân loại sẽ được phục sinh và được xét xử thưởng phạt công minh.</p>"
+        },
+        "6": {
+            "verses": {
+                "79:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Vào Ngày tiếng còi thứ nhất Ra-jifah được hú lên làm kết thúc mọi sự tồn tại của thế giới trần gian.</p>"
+        },
+        "7": {
+            "verses": {
+                "79:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tiếp theo là tiếng còi thứ hai Ra-difah, tiếng còi cho sự Phục Sinh.</p>"
+        },
+        "8": {
+            "verses": {
+                "79:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Vào Ngày đó, trái tim của một số người sẽ đập mạnh vì sợ hãi.</p>"
+        },
+        "9": {
+            "verses": {
+                "79:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Nỗi lo sợ hiện rõ trên cặp mắt của họ.</h2>"
+        },
+        "10": {
+            "verses": {
+                "79:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Những kẻ phủ nhận sự Phục Sinh thường nói: Há chúng tôi sẽ được sống lại sau khi chúng tôi đã chết ư?</p>"
+        },
+        "11": {
+            "verses": {
+                "79:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kể cả khi xương cốt chúng tôi đã bị rã mục nhưng vẫn có thể sống lại lần nửa ư?</p>"
+        },
+        "12": {
+            "verses": {
+                "79:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Họ nói giễu cợt: Nếu như vậy thì chúng tôi thực sự đã thất bại thảm hại rồi.</p>"
+        },
+        "13": {
+            "verses": {
+                "79:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật, sự Phục Sinh rất đơn giản chỉ cần một tiếng còi duy nhất được hụ lên do Thiên Thần thổi còi đảm nhận.</p>"
+        },
+        "14": {
+            "verses": {
+                "79:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngay lúc đó, tất cả những ai từng sống trên mặt đất sống trở lại sau khi chúng đã ở trong lòng đất.</p>"
+        },
+        "15": {
+            "verses": {
+                "79:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngươi - hỡi Thiên Sứ - có nghe về câu chuyện của Musa với Thượng Đế Y và với kẻ thù của Y là Fir'awn chưa?</p>"
+        },
+        "16": {
+            "verses": {
+                "79:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Tại thung lũng linh thiêng Tuwa, Allah đã gọi Musa.</h2>"
+        },
+        "17": {
+            "verses": {
+                "79:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngươi hãy đi gặp Fir’awn (bạo chúa Pharaon), quả thật hắn đã vượt quá mức giới hạn trong tội lỗi và ngạo mạn.</p>"
+        },
+        "18": {
+            "verses": {
+                "79:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngươi hãy nói với hắn: Ngài - hỡi Fir'awn - có muốn được tẩy sạch tội lỗi không?</p>"
+        },
+        "19": {
+            "verses": {
+                "79:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ta sẽ hướng dẫn bệ hạ trở về gặp Thượng Đế của mình, Đấng đã tạo ra bệ hạ, nuôi dưỡng bệ hạ. Sự hướng dẫn sẽ khiến bệ hạ biết kính sợ Thượng Đế mà biết làm Ngài hài lòng và biết tránh xa điều làm Ngài giận dữ.</p>"
+        },
+        "20": {
+            "verses": {
+                "79:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Musa đã cho Fir’awn thấy các phép lạ vĩ đại chứng minh sứ mạng của Y, đó là cây gậy và bàn tay.</p>"
+        },
+        "21": {
+            "verses": {
+                "79:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nhưng tên bạo chúa Fir’awn đã phủ nhận các dấu lạ này và không theo điều mà Musa mời gọi.</p>"
+        },
+        "22": {
+            "verses": {
+                "79:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Không những thế, hắn còn tìm đủ mọi cách để chống lại với Musa.</p>"
+        },
+        "23": {
+            "verses": {
+                "79:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Fir’awn, hắn đã triệu tập người dân cùng với quân thần của hắn lại để thể hiện trước Musa.</p>"
+        },
+        "24": {
+            "verses": {
+                "79:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hắn nói: Ta chính là thượng đế của các ngươi, không được tuân lệnh ai khác ngoài ta.</p>"
+        },
+        "25": {
+            "verses": {
+                "79:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Thế là Allah đã trừng phạt hắn trên thế gian, đó là Ngài nhấn chìm hắn trong biển; còn ở Đời Sau, Ngài sẽ tống hắn vào hình phạt khủng khiếp.</p>"
+        },
+        "26": {
+            "verses": {
+                "79:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật, qua việc trừng phạt Fir'awn ở trần gian và Đời Sau là bài học cho những ai biết kính sợ sự trừng phạt của Allah.</p>"
+        },
+        "27": {
+            "verses": {
+                "79:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Việc mà Allah làm cho các ngươi - hỡi những người phủ nhận sự Phục Sinh - sống lại sau cái chết khó hay việc TA đã tạo dựng bầu trời khó hơn?</p>"
+        },
+        "28": {
+            "verses": {
+                "79:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA đã nâng bầu trời lên cao bên trên các ngươi và cái trần của nó làm không khí không có một lỗ thủng nào.</p>"
+        },
+        "29": {
+            "verses": {
+                "79:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA làm cho nó thành đêm tối khi mặt trời lặn khuất và làm cho nó sáng trở lại khi mặt trời mọc.</p>"
+        },
+        "30": {
+            "verses": {
+                "79:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và trái đất, TA làm cho nó bằng phẳng và đặt trong nó nhiều điều hồng phúc.</p>"
+        },
+        "31": {
+            "verses": {
+                "79:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA làm nước phún ra và làm mọc ra đủ loại cây trái và hoa màu từ nó, phục vụ việc chăn nuôi.</p>"
+        },
+        "32": {
+            "verses": {
+                "79:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và TA cho những quả núi nhô lên như những trụ cột kiên cố giữ cho nó không bị rung chuyển.</p>"
+        },
+        "33": {
+            "verses": {
+                "79:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Với tất cả nguồn lợi đó là cho các ngươi đó - hỡi con người - và cho cả gia súc của các ngươi. Há lẽ nào Đấng đã tạo hóa ra tất cả những thứ đó lại bất lực trong việc làm cho tất cả các ngươi sống lại lần nữa ư?!</p>"
+        },
+        "34": {
+            "verses": {
+                "79:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Khi tiếng còi thứ hai được thổi lên thì đại họa xảy đến, mọi thứ sẽ bị hủy diệt và Sự Phục Sinh được dựng lên.</p>"
+        },
+        "35": {
+            "verses": {
+                "79:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngày đó, con người sẽ được cho thấy tất cả các việc làm và mọi hành động tốt xấu của mình.</p>"
+        },
+        "36": {
+            "verses": {
+                "79:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Và Hỏa Ngục sẽ được mang ra phơi bày trước mặt.</h2>"
+        },
+        "37": {
+            "verses": {
+                "79:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Đối với người nào vượt quá mức giới hạn cho phép trong lầm lạc.</p>"
+        },
+        "38": {
+            "verses": {
+                "79:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và yêu thích cuộc sống trần gian tạm bợ này hơn cuộc sống vĩnh cửu ở Đời Sau.</p>"
+        },
+        "39": {
+            "verses": {
+                "79:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Thì Hỏa Ngục sẽ là nơi cư ngụ mãi mãi của y.</h2>"
+        },
+        "40": {
+            "verses": {
+                "79:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Đối với ai luôn lo sợ bị thanh toán trước Allah vào Ngày Phán Xét mà luôn giữ gìn bản thân tránh xa những dục vọng thấp hèn tội lỗi.</p>"
+        },
+        "41": {
+            "verses": {
+                "79:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>- 41, Đối với ai luôn lo sợ bị thanh toán trước Allah vào Ngày Phán Xét mà luôn giữ gìn bản thân tránh xa những dục vọng thấp hèn tội lỗi thì Thiên Đàng sẽ là nơi ở mãi mãi của họ.</p>"
+        },
+        "42": {
+            "verses": {
+                "79:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Những người phủ nhận sự Phục Sinh thường hỏi Ngươi – hỡi Thiên Sứ – bao giờ thời khắc của Ngày Phục Sinh xảy đến?</p>"
+        },
+        "43": {
+            "verses": {
+                "79:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Điều đó không nằm trong kiến thức của Ngươi, vả lại Ngươi cũng không có thẩm quyền, Ngươi chỉ có bổn phận chuẩn bị mà thôi.</p>"
+        },
+        "44": {
+            "verses": {
+                "79:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Chỉ một mình Thượng Đế của Ngươi mới biết được bao giờ thời khắc Phục Sinh sẽ đến.</p>"
+        },
+        "45": {
+            "verses": {
+                "79:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Thật ra Ngươi chỉ là người truyền đạt và cảnh tỉnh những ai biết sợ Ngày ấy.</p>"
+        },
+        "46": {
+            "verses": {
+                "79:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và khi chúng nhìn thấy giờ khắc tận thế đã đến thì chúng cứ tưởng như chúng chỉ ở trần gian mới chỉ được một buổi chiều hay một buổi sáng ngắn ngủi.</p>"
+        }
+    }
+}

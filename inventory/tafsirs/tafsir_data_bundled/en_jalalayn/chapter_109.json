@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>Say: `O disbelievers!</h2>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<h2>I do not worship, at present, what you worship, of idols,</h2>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>and you do not worship, at present, what I worship, and that is God, exalted be He, alone,</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>nor will I worship, in the future, what you have worshipped,</p>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>nor will you worship, in the future, what I worship: God knew that they would never become believers (the use of [the inanimate] m, `what', to refer to God is meant to counter [the reference to `what thing' they worship]).</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>You have your religion, idolatry, and I have a religion', Islam: this was [revealed] before he was commanded to wage war [against the idolaters] (all seven Qur'nic readers omit the y' of the genitive possessive construction [in wa-liya dni] whether with a pause or without; Ya`qb, however, retains it in both cases). This was revealed at Min during the Farewell Pilgrimage, hence it is considered Medinese: it was the last sra to be revealed; it consists of 3 verses.</p>"
+        }
+    }
+}

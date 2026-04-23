@@ -1,0 +1,101 @@
+{
+    "chapter": 114,
+    "verses": {
+        "1": {
+            "verses": {
+                "114:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sabihin mo, O sugo: \"Nagpapasanggalang ako sa Panginoon ng mga tao at nagpapakalinga ako sa Kanya,</p>"
+        },
+        "2": {
+            "verses": {
+                "114:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>na Hari ng mga tao, na gumagawa Siya sa kanila ng anumang niloloob Niya, na walang hari para sa kanila na iba pa sa Kanya,</p>"
+        },
+        "3": {
+            "verses": {
+                "114:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>na sinasamba nila ayon sa karapatan, na walang sinasamba para sa kanila ayon sa karapatan na iba pa sa Kanya,</p>"
+        },
+        "4": {
+            "verses": {
+                "114:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>laban sa kasamaan ng demonyo na nagpupukol ng pasaring niya sa tao kapag nalingat ito sa pag-alaala kay Allāh at nagpapahuli naman palayo rito kapag nakaalaala ito kay Allāh,</p>"
+        },
+        "5": {
+            "verses": {
+                "114:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>na nagpupukol ng pasaring niya sa mga puso ng mga tao,</h2>"
+        },
+        "6": {
+            "verses": {
+                "114:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>na siya ay nagiging kabilang sa mga tao at nagiging kabilang sa mga jinn.\"</p>"
+        }
+    }
+}

@@ -1,0 +1,789 @@
+{
+    "chapter": 52,
+    "verses": {
+        "1": {
+            "verses": {
+                "52:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主以祂曾与穆萨（愿主赐其平安）谈话的山盟誓，</p>"
+        },
+        "2": {
+            "verses": {
+                "52:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以被书写的经典盟誓，</p>"
+        },
+        "3": {
+            "verses": {
+                "52:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>写于被展开的纸张之上，如下降的经典。</p>"
+        },
+        "4": {
+            "verses": {
+                "52:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主以众天使在天空中为敬拜真主而建造的房子盟誓，</p>"
+        },
+        "5": {
+            "verses": {
+                "52:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以笼罩大地的被升起的天空盟誓，</p>"
+        },
+        "6": {
+            "verses": {
+                "52:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以充满水的海洋盟誓，</p>"
+        },
+        "7": {
+            "verses": {
+                "52:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你的主对不信道者的惩罚毋庸置疑将会到来。</p>"
+        },
+        "8": {
+            "verses": {
+                "52:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>任何人不能替他们抵挡和阻止那惩罚的来临，</p>"
+        },
+        "9": {
+            "verses": {
+                "52:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>天体剧烈晃动之日，</p>"
+        },
+        "10": {
+            "verses": {
+                "52:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>众山从其位移动行走，</p>"
+        },
+        "11": {
+            "verses": {
+                "52:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>按照真主给不信道者承诺的刑罚，在那一日，否认真理者得不偿失，全军覆灭。</p>"
+        },
+        "12": {
+            "verses": {
+                "52:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们沉溺于荒谬的游戏之中，他们对复活和集合毫不关心，</p>"
+        },
+        "13": {
+            "verses": {
+                "52:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那日，他们将被粗暴地投进火狱，</p>"
+        },
+        "14": {
+            "verses": {
+                "52:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>有个声音谴责他们说：“这就是当你们的众使者警告你们，而你们曾否认的火狱。”</p>"
+        },
+        "15": {
+            "verses": {
+                "52:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们看到的惩罚是魔术，还是你们不曾看见呢？</p>"
+        },
+        "16": {
+            "verses": {
+                "52:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们品尝和感受火狱的灼热吧！你们能忍受其灼热的艰难与否，无论你们忍受或不能忍受，你们都会受到今世的不信道和作恶的惩罚。</p>"
+        },
+        "17": {
+            "verses": {
+                "52:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>“遵循真主命令、远离其禁令的敬畏者会在恩典永不枯竭的乐园之中，</p>"
+        },
+        "18": {
+            "verses": {
+                "52:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们享受真主赐予他们的吃、喝和妻室，清高的主使他们免遭火狱的惩罚，他们以获得自己所欲的享受和免于忧愁而获胜。</p>"
+        },
+        "19": {
+            "verses": {
+                "52:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>有个声音对他们说：‘你们随意吃、饮吧！祝福你们！你们不用担心吃饮带来的不利和伤害，这都是对你们今世善行的报酬。’</p>"
+        },
+        "20": {
+            "verses": {
+                "52:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们面对面倚靠在装饰华美的床榻上，我以肤若凝脂，目似秋波的女人做他们的配偶。”</p>"
+        },
+        "21": {
+            "verses": {
+                "52:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>信道且子嗣也追随信道的人们，即便他们子嗣的善功不及他们，我也使他们的子嗣跟随他们进入乐园，成为他们的慰藉，他们善功的报酬丝毫不被减少。而每个人都困于自身的恶行中，他人不可替代。</p>"
+        },
+        "22": {
+            "verses": {
+                "52:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我为乐园的居民提供他们喜好的各式水果，我又为他们提供所欲的肉食，</p>"
+        },
+        "23": {
+            "verses": {
+                "52:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们在乐园相互传递杯盏，他们不会因杯中之物而出现今世所出现因醉酒引起的作恶和妄言。</p>"
+        },
+        "24": {
+            "verses": {
+                "52:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>侍从在他们间穿梭往来，为他们服务，侍从皮肤亮透白皙，犹如藏在贝壳中的珍珠。</p>"
+        },
+        "25": {
+            "verses": {
+                "52:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>乐园里的居民相对而坐，相互间询问曾经在今世的情景，</p>"
+        },
+        "26": {
+            "verses": {
+                "52:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们回答说：“在今世，我们和家人在一起曾是惧怕真主惩罚的人，</p>"
+        },
+        "27": {
+            "verses": {
+                "52:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>故真主赐予我们伊斯兰正道，并使我们免遭炙热的酷刑。</p>"
+        },
+        "28": {
+            "verses": {
+                "52:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在今世我们曾崇拜祂，祈祷祂使我们免遭火狱的惩罚，祂确是善待众仆且实现许诺的主、对于众仆至慈的主，祂对我们的善待和怜悯就是赐予了我们信仰，使我们进入乐园，远离火狱。</p>"
+        },
+        "29": {
+            "verses": {
+                "52:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你当以《古兰经》教诲，凭借真主赐予你的信仰和智慧，你并不是一个与精灵有联系的占卜者，也不是一个疯子。</p>"
+        },
+        "30": {
+            "verses": {
+                "52:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>不然，那些否认使者的人又说：“穆罕默德不是使者，是一位诗人，我们等他死后，就轻松了。”</p>"
+        },
+        "31": {
+            "verses": {
+                "52:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你对他们说：“你们等待我的死亡，我等待你们因否认我而遭受的惩罚。”</p>"
+        },
+        "32": {
+            "verses": {
+                "52:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们的理智命令他们说穆罕默德是个占卜士和疯子吗？他们硬是把不能集于一人之身的集于一人，不然，他们确是僭越法度之人，他们不循规蹈矩，也不遵循理智。</p>"
+        },
+        "33": {
+            "verses": {
+                "52:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们说穆罕默德捏造了这部《古兰经》，而非启示给他的吗？不然，他没有捏造《古兰经》，而是他们自大不信，故他们说是穆罕默德捏造的。</p>"
+        },
+        "34": {
+            "verses": {
+                "52:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果《古兰经》是捏造的，那么就让他们作出类似的言辞吧！如果他们相信自己所捏造的。</p>"
+        },
+        "35": {
+            "verses": {
+                "52:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们是没有造物主创造的被造物吗？难道他们是自身创造的呢？没有造物者就绝无被造物存在，更不会有任何被造物被造，他们为什么不崇拜他们的创造者呢？</p>"
+        },
+        "36": {
+            "verses": {
+                "52:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道是他们创造了诸天和大地吗？他们不确信真主是他们的创造者，如果他们确信，必认主独一，必信仰其使者。</p>"
+        },
+        "37": {
+            "verses": {
+                "52:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们拥有你的主的给养宝藏，故他们可以随意赐予他人吗？随意将预言给予他们所欲之人吗？难道他们是可以随意行为的掌权者吗？</p>"
+        },
+        "38": {
+            "verses": {
+                "52:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们有通往天上的梯子，故他们可以上去聆听真主的启示，那启示说他们是正确的吗？让他们中聆听启示者拿出能证实他们所说的是真理的明显的证据吧！</p>"
+        },
+        "39": {
+            "verses": {
+                "52:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道清高真主独有你们厌恶的女儿，而你们拥有自己喜欢的男儿吗？</p>"
+        },
+        "40": {
+            "verses": {
+                "52:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊!难道你向他们传达主的教诲而要求他们支付报酬，故他们因此负担不堪呢？</p>"
+        },
+        "41": {
+            "verses": {
+                "52:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道他们有幽玄的消息，故为人们记录他们所预见的幽玄，并随心所欲告知人们呢？</p>"
+        },
+        "42": {
+            "verses": {
+                "52:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道这些否认你的人欲使用计谋对付你和你的宗教吗？你当坚信真主，那些否认真主和其使者之人必是蛊惑之人而不是你。</p>"
+        },
+        "43": {
+            "verses": {
+                "52:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道舍真主外，还有一个真正受拜的神灵吗？真主超越和圣洁于他们所匹配的，</p>"
+        },
+        "44": {
+            "verses": {
+                "52:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果他们看见一块天掉下，就说，这只是象平常一样相互叠起的云。他们不觉悟，也不信道。</p>"
+        },
+        "45": {
+            "verses": {
+                "52:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你放任他们于固执之中吧！直到他们遭遇所受惩罚之日，那是复活日。</p>"
+        },
+        "46": {
+            "verses": {
+                "52:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那日，他们的计谋丝毫不益于他们，也得不到拯救他们脱离惩罚的援助者。</p>"
+        },
+        "47": {
+            "verses": {
+                "52:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以物配主和作恶而自欺的人，在后世的惩罚前，他们在今世将遭受杀戮和被俘的惩罚，在去世后复活前遭受坟墓的惩罚。但他们大部分人不知道，故执拗于不信道。</p>"
+        },
+        "48": {
+            "verses": {
+                "52:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>“使者啊！你当坚忍你的主的决议和教法判定，你确是处在我的观测和呵护中，你当在睡起时赞美你的主，</p>"
+        },
+        "49": {
+            "verses": {
+                "52:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>当在夜间赞颂你的主，敬拜祂，当白昼之光到来而星辰退去之时，你当礼晨拜。”</p>"
+        }
+    }
+}

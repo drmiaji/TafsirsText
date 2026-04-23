@@ -1,0 +1,469 @@
+{
+    "chapter": 81,
+    "verses": {
+        "1": {
+            "verses": {
+                "81:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة التكوير مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>تصوير القيامة بانفراط الكون بعد إحكامه.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>إذا الشمس جُمِع جِرْمها، وذهب ضوؤها.</h2>"
+        },
+        "2": {
+            "verses": {
+                "81:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الكواكب تساقطت ومُحِي ضوؤها.</h2>"
+        },
+        "3": {
+            "verses": {
+                "81:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الجبال حُرِّكت من مكانها.</h2>"
+        },
+        "4": {
+            "verses": {
+                "81:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا النُّوق الحوامل التي هي أنْفَسُ أموالهم أُهْمِلت بترك أهلها لها.</p>"
+        },
+        "5": {
+            "verses": {
+                "81:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الوحوش جُمِعت مع البشر في صعيد واحد.</h2>"
+        },
+        "6": {
+            "verses": {
+                "81:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا البحار أُوقِدت حتى تصير نارًا.</h2>"
+        },
+        "7": {
+            "verses": {
+                "81:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإذا النفوس قُرِنت بمن يماثلها، فَيُقْرن الفاجر بالفاجر، والتقي بالتقي.</p>"
+        },
+        "8": {
+            "verses": {
+                "81:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الطفلة المدفونة وهي حيّة سألها الله.</h2>"
+        },
+        "9": {
+            "verses": {
+                "81:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>بأي جريمة قتلك من قتلك؟!</h2>"
+        },
+        "10": {
+            "verses": {
+                "81:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا صحف أعمال العباد نُشِرت، ليقرأ كل واحد صحيفة أعماله.</h2>"
+        },
+        "11": {
+            "verses": {
+                "81:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا السماء نُزِعت كما يُنْزَع الجلد عن الشاة.</h2>"
+        },
+        "12": {
+            "verses": {
+                "81:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا النار أُوقِدت.</h2>"
+        },
+        "13": {
+            "verses": {
+                "81:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وإذا الجنة قُرِّبت للمتقين.</h2>"
+        },
+        "14": {
+            "verses": {
+                "81:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>عندما يحصل ذلك تعلم كل نفس ما قدمت من الأعمال لذلك اليوم.</h2>"
+        },
+        "15": {
+            "verses": {
+                "81:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أقسم الله بالنجوم الخفية قبل بزوغها في الليل.</h2>"
+        },
+        "16": {
+            "verses": {
+                "81:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>الجاريات في أفلاكها التي تغيب عند بزوغ الصبح مثل الظباء تدخل كِناسها، أي: بيتها.</p>"
+        },
+        "17": {
+            "verses": {
+                "81:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بأول الليل إذا أقبل، وبآخره إذا أدبر.</h2>"
+        },
+        "18": {
+            "verses": {
+                "81:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بالصبح إذا بزغ نوره.</h2>"
+        },
+        "19": {
+            "verses": {
+                "81:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن القرآن المنزل على محمد ﷺ لكلام الله بلّغه ملك أمين، وهو جبريل عليه السلام، ائتمنه الله عليه.</p>"
+        },
+        "20": {
+            "verses": {
+                "81:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>صاحب قوة، ذي منزلة عظيمة عند رب العرش سبحانه.</h2>"
+        },
+        "21": {
+            "verses": {
+                "81:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يطيعه أهل السماء، مُؤْتَمن على ما يبلغه من الوحي.</h2>"
+        },
+        "22": {
+            "verses": {
+                "81:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما محمد ﷺ الملازم لكم الذي تعرفون عقله وأمانته وصدقه بمجنون كما تدّعون بهتانًا.</p>"
+        },
+        "23": {
+            "verses": {
+                "81:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد رأى صاحبكم جبريل على صورته التي خُلِقَ عليها بأفق السماء الواضح.</p>"
+        },
+        "24": {
+            "verses": {
+                "81:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وليس صاحبكم ببخيل عليكم يبخل أن يبلغكم ما أُمِر بتبلغيه إليكم، ولا يأخذ أجرًا كما يأخذه الكهنة.</p>"
+        },
+        "25": {
+            "verses": {
+                "81:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وليس هذا القرآن من كلام شيطان مطرود من رحمة الله.</h2>"
+        },
+        "26": {
+            "verses": {
+                "81:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأي طريق تسلكونها لإنكار أنه من الله بعد هذه الحجج؟!</h2>"
+        },
+        "27": {
+            "verses": {
+                "81:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليس القرآن إلا تذكيرًا وموعظة للجن والإنس.</h2>"
+        },
+        "28": {
+            "verses": {
+                "81:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لمن شاء منكم أن يستقيم على طريق الحق.</h2>"
+        },
+        "29": {
+            "verses": {
+                "81:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وما تشاؤون استقامة ولا غيرها إلا أن يشاء الله ذلك، رب الخلائق كلها.</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• حَشْر المرء مع من يماثله في الخير أو الشرّ.</h2>\n<p>• إذا كانت الموءُودة تُسأل فما بالك بالوائد؟ وهذا دليل على عظم الموقف.</p>\n<h2>• مشيئة العبد تابعة لمشيئة الله.</h2>"
+        }
+    }
+}

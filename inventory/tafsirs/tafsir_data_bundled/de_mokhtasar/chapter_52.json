@@ -1,0 +1,789 @@
+{
+    "chapter": 52,
+    "verses": {
+        "1": {
+            "verses": {
+                "52:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah schwört bei dem Berg, auf dem Er zu Musa - Frieden sei auf ihm - gesprochen hat.</p>"
+        },
+        "2": {
+            "verses": {
+                "52:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er schwört bei dem Buch, das niedergeschrieben wurde</h2>"
+        },
+        "3": {
+            "verses": {
+                "52:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>auf ausgebreiteten Blättern, wie die hinabgesandten Bücher.</h2>"
+        },
+        "4": {
+            "verses": {
+                "52:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er schwört bei dem Haus im Himmel, das die Engel viel besuchen, um Allah anzubeten.</p>"
+        },
+        "5": {
+            "verses": {
+                "52:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er schwört bei dem erhöhten Himmel, der das Dach der Erde ist.</p>"
+        },
+        "6": {
+            "verses": {
+                "52:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er schwört beim Meer, das mit Wasser gefüllt ist.</h2>"
+        },
+        "7": {
+            "verses": {
+                "52:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Strafe deines Herrn - o Gesandter - wird sicherlich und unausweichlich über die Ungläubigen hereinbrechen.</p>"
+        },
+        "8": {
+            "verses": {
+                "52:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es gibt niemanden, der sie abwehren und ihren Einbruch verhindern könnte.</p>"
+        },
+        "9": {
+            "verses": {
+                "52:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Am Tag, da der Himmel sich heftig bewegen wird und wegen der Ankündigung der Auferstehung unruhig ist.</p>"
+        },
+        "10": {
+            "verses": {
+                "52:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und sich die Berge von ihren Stellen bewegen werden.</h2>"
+        },
+        "11": {
+            "verses": {
+                "52:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zugrunde gehen und verlieren sollen an diesem Tag jene, die das für Lüge erklärten, was Allah den Ungläubigen an Strafe angedroht hat;</p>"
+        },
+        "12": {
+            "verses": {
+                "52:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>diejenigen, die in der Falschheit versunkend zerstreut sind und sich um die Auferstehung nicht kümmern.</p>"
+        },
+        "13": {
+            "verses": {
+                "52:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Am Tag, da sie gewaltsam zum Feuer der Hölle gestoßen werden.</p>"
+        },
+        "14": {
+            "verses": {
+                "52:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tadelnd wird zu ihnen gesagt: „Das ist das Höllenfeuer, das ihr stets für Lüge erklärt habt, als eure Gesandten euch davor Angst einflößen wollten.</p>"
+        },
+        "15": {
+            "verses": {
+                "52:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ist diese Strafe, die ihr mit eigenen Augen gesehen habt, etwa Zauberei, oder könnt ihr sie nicht sehen?</p>"
+        },
+        "16": {
+            "verses": {
+                "52:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kostet die Hitze dieses Höllenfeuers und leidet unter ihr und ertragt ihre Hitze geduldig oder nicht. Es ist gleichgültig, ob ihr geduldig seid oder nicht; euch werden heute nur der Unglaube und die Sünden vergolten, die ihr im Diesseits zu tun pflegtet.</p>"
+        },
+        "17": {
+            "verses": {
+                "52:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nachdem Allah den Lohn der Leugner erwähnte, nannte Er den Lohn der Gottesfürchtigen, die daran glaubten. So sagte Er: <br/> Diejenigen, die ihrem Herrn gegenüber gottesfürchtig sind, indem sie Seinen Geboten nachkommen und sich von Seinen Verboten fernhalten, werden fürwahr in Paradiesgärten und einer gewaltigen Wonne, die nicht enden wird, sein.</p>"
+        },
+        "18": {
+            "verses": {
+                "52:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie genießen alles, was Allah ihnen an Genüssen des Essens, Trinkens und Heiratens gegeben hat. Ihr Herr - gepriesen sei Er - bewahrt sie vor der Strafe des Höllenbrandes. So haben sie gewonnen, indem sie die Genüsse erlangt haben, nach denen sie strebten, und weil sie vor Dingen, die Trauer und Sorgen bereiten, bewahrt wurden.</p>"
+        },
+        "19": {
+            "verses": {
+                "52:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Zu ihnen wird gesagt: „Esst und trinkt von dem, was eure Seelen begehren, als wohlbekömmlich! Ihr sollt weder Schaden noch Nachteil von dem, was ihr esst und trinkt, fürchten. Dies, als Lohn für eure guten Taten im Diesseits.</p>"
+        },
+        "20": {
+            "verses": {
+                "52:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Indem ihr auf verzierten Liegen lehnt, die voreinander gereiht sind.“ Und Wir geben ihnen als Gattinnen weiße Frauen mit großen Augen.</p>"
+        },
+        "21": {
+            "verses": {
+                "52:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Denjenigen, die glauben und denen ihre Kinder im Glauben nachfolgen, lassen Wir ihre Kinder sich ihnen anschließen, damit sie sich über sie freuen, auch wenn diese ihre Taten nicht erreichen würden. Wir verringern ihnen gar nichts von ihren Taten. Jeder Mensch ist ein Gefangener für jede schlechte Tat, die er begangen hat, niemand trägt für ihn irgendeine seiner Taten.</p>"
+        },
+        "22": {
+            "verses": {
+                "52:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir versorgen diese Paradiesbewohner mit verschiedenen Arten von Früchten und Wir versorgen sie mit allen Fleischsorten, die sie begehren.</p>"
+        },
+        "23": {
+            "verses": {
+                "52:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie nehmen im Paradiesgarten einen Becher ein, der nicht die Folgen hat, die er im Diesseits hat, wenn sie daraus trinken - wie falsche Rede und Sünden durch die Trunkenheit.</p>"
+        },
+        "24": {
+            "verses": {
+                "52:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Um sie laufen Jünglinge, die für ihren Dienst vorbereitet wurden, als wären sie aufgrund ihrer reinen und weißen Haut wohlverwahrte Perlen in ihren Muscheln.</p>"
+        },
+        "25": {
+            "verses": {
+                "52:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Einige Paradiesbewohner wenden sich zu den anderen und fragen sich gegenseitig über ihren Zustand im Diesseits.</p>"
+        },
+        "26": {
+            "verses": {
+                "52:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So antworten sie ihnen: „Wir waren ja im Diesseits unter unseren Angehörigen und fürchteten Allahs Strafe.</p>"
+        },
+        "27": {
+            "verses": {
+                "52:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Da erwies Allah uns die Gunst der Rechtleitung zum Islam und bewahrte uns vor der Strafe mit ihrer schweren Hitze.</p>"
+        },
+        "28": {
+            "verses": {
+                "52:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir pflegten Ihn in unserem diesseitigen Leben anzubeten und sprachen Bittgebete zu Ihm, dass Er uns vor der Strafe des Höllenfeuers bewahrt. Er ist fürwahr der Gütige, der Wahrhaftige, wenn Er Seinen Dienern etwas verspricht, und der Barmherzige mit ihnen. Und zu Seiner Güte und Barmherzigkeit mit uns gehört, dass Er uns zum Glauben leitete, in den Paradiesgarten eintreten ließ und uns vor dem Höllenfeuer entfernte.“</p>"
+        },
+        "29": {
+            "verses": {
+                "52:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So ermahne - o Gesandter - mit dem Quran, du bist ja durch die Gunst des Glaubens und des Verstandes, die dir Allah erwiesen hat, weder ein Wahrsager, auf den die Jinn zurückgreifen, noch bist du ein Besessener.</p>"
+        },
+        "30": {
+            "verses": {
+                "52:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder sagen diese Leugner etwa: „Muhammad ist kein Gesandter, sondern ein Dichter! Wir warten nur ab, dass ihn der Tod fortreißt, sodass wir uns von ihm ausruhen können.“</p>"
+        },
+        "31": {
+            "verses": {
+                "52:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sag zu ihnen - o Gesandter -: „Wartet meinen Tod ab! Ich warte nur die Strafe ab, die euch heimsuchen wird, weil ihr mich für einen Lügner erklärt!“</p>"
+        },
+        "32": {
+            "verses": {
+                "52:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder befiehlt ihnen etwa ihr Verstand zu sagen, dass er ein Wahrsager und Besessener sei? So einen sie das, was in keiner Person zusammentrifft. Sie sind vielmehr Leute, die die Grenzen überschreiten, so werden sie weder auf einer Gesetzgebung noch einem Verstand zurückgehen.</p>"
+        },
+        "33": {
+            "verses": {
+                "52:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder sagen sie etwa: „Muhammad hat sich diesen Quran ausgedacht und er wurde ihm nie offenbart?“ Er hat ihn nicht erfunden! Vielmehr sind sie dem Glauben gegenüber hochmütig und sagen, dass er sich ihn ausgedacht hätte.</p>"
+        },
+        "34": {
+            "verses": {
+                "52:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So sollen sie doch eine Aussage (Erzählung, Bericht) gleicher Art herbringen, auch wenn sie erfunden ist, wenn sie in ihre Behauptung, dass er sich ihn ausgedacht hätte, wahrhaftig sind.</p>"
+        },
+        "35": {
+            "verses": {
+                "52:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder sind sie etwa ohne einen Schöpfer erschaffen worden? Oder sind sie die Schöpfer? Weder kann ein Geschöpf ohne Schöpfer existieren noch kann es ein Geschöpf erschaffen! Warum also beten sie ihren Schöpfer nicht an?</p>"
+        },
+        "36": {
+            "verses": {
+                "52:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder haben sie etwa die Himmel und die Erde erschaffen? Nein! Vielmehr haben sie keine Gewissheit darüber, dass Allah ihr Schöpfer ist, denn wenn sie davon überzeugt wären, dann hätten sie Ihn allein angebetet und an Seinen Gesandten geglaubt.</p>"
+        },
+        "37": {
+            "verses": {
+                "52:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder besitzen sie etwa die Schatzkammern deines Herrn, wie die Versorgung, sodass sie diese schenken, wem sie wollen, und das Prophetentum, sodass sie dieses geben und verwehren, wem sie wollen? Oder beherrschen und lenken sie alles so, wie sie wollen?</p>"
+        },
+        "38": {
+            "verses": {
+                "52:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder haben sie eine Treppe, mit der sie zum Himmel hinaufsteigen und der Offenbarung Allahs zuhören, dass (Er sagt, dass) sie auf der Wahrheit sind? So soll derjenige, der dieser Offenbarung zugehört hat, mit einem klaren Argument kommen, dass eure Behauptung, ihr wärt auf der Wahrheit, bewahrheitet.</p>"
+        },
+        "39": {
+            "verses": {
+                "52:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder hat Er - gepriesen und erhaben ist Er - etwa Töchter, die ihr verabscheut, und ihr habt Söhne, die ihr liebt?</p>"
+        },
+        "40": {
+            "verses": {
+                "52:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder verlangst du - o Gesandter - etwa von ihnen einen Lohn für das, was du über deinen Herrn übermittelst?Aus diesem Grund belastet sie eine Last, die sie nicht tragen können.</p>"
+        },
+        "41": {
+            "verses": {
+                "52:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder verfügen sie über das Wissen des Verborgenen und verbergen dies vor den Menschen und berichten ihnen nicht dieses Verborgene und nennen ihnen nur das, was sie davon (berichten) möchten?</p>"
+        },
+        "42": {
+            "verses": {
+                "52:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder wollen diese Leugner gegen dich und deiner Religion eine List anwenden? Vertraue auf Allah, denn diejenigen, die nicht an Allah und Seinen Gesandten glauben, sind es, die der List erliegen, nicht du.</p>"
+        },
+        "43": {
+            "verses": {
+                "52:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Oder haben sie etwa einen anderen, der zu Recht angebetet wird, außer Allah? Allah ist frei von Partnern, die sie Ihm zuschreiben. All das, was erwähnt wurde, ist nie geschehen und ist unter keinen Umständen vorstellbar!</p>"
+        },
+        "44": {
+            "verses": {
+                "52:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wenn sie Stücke vom Himmel herabfallen sähen, würden sie darüber sagen: „Das sind aufeinander aufgeschichtete Wolken, wie üblich.“ So lassen sie sich weder ermahnen noch glauben sie.</p>"
+        },
+        "45": {
+            "verses": {
+                "52:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>So lasse sie - o Gesandter - nur in ihrem Trotz und ihrer Leugnung, bis sie ihrem Tag begegnen, an dem sie bestraft werden. Dieser ist der Tag der Auferstehung.</p>"
+        },
+        "46": {
+            "verses": {
+                "52:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ein Tag, an dem ihre List ihnen nichts nützt - ob wenig oder viel -, und ihnen keine Hilfe zuteilwerden wird, um sie vor der Strafe zu retten.</p>"
+        },
+        "47": {
+            "verses": {
+                "52:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Für diejenigen, die sich durch Götzenanbetung und Sünden selbst unrecht tun, wird es fürwahr eine Strafe vor der Strafe im Jenseits geben: im Diesseits, indem sie getötet und gefangen genommen werden, und im Barzakh (der Zwischenwelt zwischen Dies- und Jenseits) durch die Strafe im Grab; doch die meisten von ihnen wissen es nicht, und deshalb bestehen sie auf ihren Unglauben.</p>"
+        },
+        "48": {
+            "verses": {
+                "52:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nachdem Allah die Falschheit der Götzendiener verdeutlichte, ordnete Er Seinem Gesandten an, ihnen keine Beachtung zu schenken und geduldig hinsichtlich ihrer Verleugnung zu sein. So sagte Er: <br/> Sei standhaft - o Gesandter - gegenüber der Bestimmung und dem islamischen Urteil deines Herrn. Wir sehen und beschützen dich sicherlich. Und lobpreise deinen Herrn, wenn du vom Schlaf aufstehst.</p>"
+        },
+        "49": {
+            "verses": {
+                "52:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und in der Nacht, da preise deinen Herrn, bete zu Ihm und bete das Morgengebet, wenn die Sterne schwinden, indem sie durch das Tageslicht untergehen.</p>"
+        }
+    }
+}

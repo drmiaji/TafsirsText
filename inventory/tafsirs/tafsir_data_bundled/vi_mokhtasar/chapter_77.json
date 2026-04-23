@@ -1,0 +1,805 @@
+{
+    "chapter": 77,
+    "verses": {
+        "1": {
+            "verses": {
+                "77:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah thề bởi những luồng gió được lùa đi, luồng này tiếp theo sau luồng kia.</p>"
+        },
+        "2": {
+            "verses": {
+                "77:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah thề bởi những trận gió mạnh mang sự tàn phá và hủy diệt.</p>"
+        },
+        "3": {
+            "verses": {
+                "77:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah thề bởi các luồng gió gieo mưa (đến nơi nào Ngài muốn).</p>"
+        },
+        "4": {
+            "verses": {
+                "77:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah thề bởi các Thiên Thần mang những điều phân biệt giữa chân lý và sự ngụy tạo.</p>"
+        },
+        "5": {
+            "verses": {
+                "77:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah thề bởi các Thiên Thần mang Lời Mặc Khải của Ngài phổ biến khắp nơi.</p>"
+        },
+        "6": {
+            "verses": {
+                "77:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Các Lời Mặc Khải của Allah được ban xuống như một cái cớ từ nơi Allah đến với nhân loại và như một sự cảnh báo về sự trừng phạt của Ngài.</p>"
+        },
+        "7": {
+            "verses": {
+                "77:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật những gì mà các ngươi đã được hứa từ việc phục sinh, phán xét và thưởng phạt chắc chắn sẽ diễn ra đúng như vậy.</p>"
+        },
+        "8": {
+            "verses": {
+                "77:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Khi các vì sao mất đi ánh sáng.</h2>"
+        },
+        "9": {
+            "verses": {
+                "77:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Khi bầu trời bị chẻ làm đôi để các Thiên Thần đi xuống.</h2>"
+        },
+        "10": {
+            "verses": {
+                "77:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và khi những quả núi bị bứng đi khỏi vị trí của nó và bị thổi bay tứ tán như những hạt bụi.</p>"
+        },
+        "11": {
+            "verses": {
+                "77:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và Khi các vị Thiên Sứ được tập hợp trong một thời điểm được ấn định.</p>"
+        },
+        "12": {
+            "verses": {
+                "77:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cho một ngày vĩ đại đã được ấn định để làm chứng cho các cộng đồng của họ.</p>"
+        },
+        "13": {
+            "verses": {
+                "77:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cho Ngày phân loại giữa đám bề tôi, ai thực sự theo chân lý và ai thực sự đi theo điều ngụy tạo, ai thực sự hạnh phúc và ai thực sự là những kẻ bất hạnh.</p>"
+        },
+        "14": {
+            "verses": {
+                "77:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và điều gì cho Ngươi - hỡi Thiên Sứ Muhammad - biết về Ngày Phân Loại?!</p>"
+        },
+        "15": {
+            "verses": {
+                "77:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngày hôm đó là ngày của sự hủy diệt, trừng phạt và sự thất bại thảm hại cho những kẻ phủ nhận những điều mà các vị Thiên Sứ mang đến.</p>"
+        },
+        "16": {
+            "verses": {
+                "77:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Chẳng phải TA (Allah) đã hủy diệt những cộng đồng trước đây bởi chúng đã vô đức tin nơi Allah và phủ nhận các vị Thiên Sứ của Ngài đó sao?!</p>"
+        },
+        "17": {
+            "verses": {
+                "77:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sau đó, TA tiếp tục trừng phạt những kẻ phủ nhận sau này, TA sẽ tiêu diệt chúng giống như đã tiêu diệt những người trước.</p>"
+        },
+        "18": {
+            "verses": {
+                "77:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA sẽ tiêu diệt những kẻ phủ nhận những gì Muhammad -cầu xin Allah bang sự bình an đến Người- mang đến giống như TA đã tiêu diệt những kẻ tội lỗi của các cộng đồng trước.</p>"
+        },
+        "19": {
+            "verses": {
+                "77:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận lời cảnh báo và đe dọa của Allah về sự trừng phạt những kẻ tội lỗi.</p>"
+        },
+        "20": {
+            "verses": {
+                "77:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hỡi con người, chẳng phải TA đã tạo các ngươi từ một loại chất dịch ít ỏi đáng khinh - tinh dịch của người đàn ông và tinh dịch của người phụ nữ - đó sao?!</p>"
+        },
+        "21": {
+            "verses": {
+                "77:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA (Allah) đã đặt loại dung dịch đó tại một nơi an toàn, đó là tử cung của người phụ nữ.</p>"
+        },
+        "22": {
+            "verses": {
+                "77:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Đến một kỳ hạn ấn định, đó là thời gian mang thai.</h2>"
+        },
+        "23": {
+            "verses": {
+                "77:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>TA đã định đoạt các thuộc tính của đứa trẻ, TA qui định cho nó màu da và những đặc điểm khác. Bởi quả thật TA là Đấng định đoạt tất cả mọi thứ.</p>"
+        },
+        "24": {
+            "verses": {
+                "77:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận quyền năng của Allah.</p>"
+        },
+        "25": {
+            "verses": {
+                "77:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Chẳng phải TA đã làm cho trái đất như một chiếc túi chứa tất cả nhân loại đó sao?</p>"
+        },
+        "26": {
+            "verses": {
+                "77:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Trái đất chứa đựng toàn nhân loại: chứa đựng người sống bằng những chỗ trú ngụ trên bề mặt (nhà cửa) và chứa đựng người chết bởi sự chôn cất vào trong lòng đất.</p>"
+        },
+        "27": {
+            "verses": {
+                "77:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và TA (Allah) đã tạo ra những quả núi cao vững chắc để giữ cho mặt đất không bị rung chuyển, và TA đã ban cho các ngươi - hỡi con người - nguồn nước ngọt. Cho nên, Đấng đã tạo ra điều đó sẽ không bất lực trước việc phục sinh các ngươi.</p>"
+        },
+        "28": {
+            "verses": {
+                "77:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận hồng ân của Allah.</p>"
+        },
+        "29": {
+            "verses": {
+                "77:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và có tiếng bảo dành cho những kẻ phủ nhận những điều mà các vị Thiên Sứ của Allah mang đến: Hỡi những kẻ phủ nhận, các ngươi hãy đi đến sự trừng phạt (Hỏa Ngục) cái mà các ngươi đã phủ nhận!</p>"
+        },
+        "30": {
+            "verses": {
+                "77:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Các ngươi hãy đi đến bóng tối của khói Hỏa Ngục từ ba ống trụ.</p>"
+        },
+        "31": {
+            "verses": {
+                "77:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Trong đó, không có sự mát dịu của bóng râm và cũng không có gì để làm dịu cơn nóng.</p>"
+        },
+        "32": {
+            "verses": {
+                "77:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật, Hỏa Ngục hà lửa ra và mỗi ngọn lửa được Nó hà ra giống như chiến pháo đài khổng lồ.</p>"
+        },
+        "33": {
+            "verses": {
+                "77:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Mỗi ngọn lửa được Hỏa Ngục hà ra, màu đen vàng của nó giống như con là đà đen.</p>"
+        },
+        "34": {
+            "verses": {
+                "77:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận hình phạt của Allah.</p>"
+        },
+        "35": {
+            "verses": {
+                "77:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngày hôm đó, chúng sẽ không còn khả năng nói chuyện bất cứ điều gì.</p>"
+        },
+        "36": {
+            "verses": {
+                "77:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Họ sẽ không được phép khiếu nại với Thượng Đế của họ bất cứ điều gì cho sự vô đức tin và việc làm tội lỗi của họ.</p>"
+        },
+        "37": {
+            "verses": {
+                "77:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận những thông tin của Ngày này.</p>"
+        },
+        "38": {
+            "verses": {
+                "77:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Đây là Ngày phân loại giữa nhân loại, nhóm của các ngươi và cả các cộng đồng trước đây tại cùng một nơi triệu tập.</p>"
+        },
+        "39": {
+            "verses": {
+                "77:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nếu các ngươi có mưu định nào đó thì các ngươi hãy dùng nó cứu rỗi các ngươi khỏi sự trừng phạt của Allah, các ngươi hãy mưu định với TA đi!</p>"
+        },
+        "40": {
+            "verses": {
+                "77:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận Ngày Phân Loại.</p>"
+        },
+        "41": {
+            "verses": {
+                "77:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật những người ngoan đạo sợ Allah, luôn chấp hành các mệnh lệnh của Ngài cũng như tránh xa những điều cấm của Ngài, sẽ ở nơi bóng mát của Ngôi Vườn Thiên Đàng cùng với các dòng suối nước ngọt.</p>"
+        },
+        "42": {
+            "verses": {
+                "77:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Có đủ loại trái cây mà họ ưa thích để họ ăn hả hê.</h2>"
+        },
+        "43": {
+            "verses": {
+                "77:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và có tiếng bảo họ: Các ngươi hãy ăn những thức ăn tốt lành, hãy uống những thức uống thơm ngon một cách thỏa thích bởi những việc làm thiện tốt mà các ngươi đã làm trên thế gian.</p>"
+        },
+        "44": {
+            "verses": {
+                "77:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Quả thật, giống như phần thưởng mà TA dùng làm phần thưởng cho các ngươi như thế này, TA sẽ trọng thưởng cho những ai làm những việc tốt đẹp đúng như thế.</p>"
+        },
+        "45": {
+            "verses": {
+                "77:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận những gì mà Allah đã chuẩn bị cho những người ngoan đạo.</p>"
+        },
+        "46": {
+            "verses": {
+                "77:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Những kẻ phủ nhận được bảo: các ngươi cứ ăn uống và hưởng thụ cuộc đời thế tục trong một thời gian ngắn ngủi, rồi đây chắc chắn các ngươi sẽ là những kẻ tội lỗi vì đã phủ nhận Allah và các vị Thiên Sứ của Ngài.</p>"
+        },
+        "47": {
+            "verses": {
+                "77:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sự hủy diệt, sự trừng phạt và sự thất bại thảm hại trong Ngày hôm đó là dành cho những kẻ phủ nhận sự ban thưởng của Ngày này.</p>"
+        },
+        "48": {
+            "verses": {
+                "77:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và khi những kẻ phủ nhận này được bảo hãy dâng lễ nguyện Salah thờ phượng Allah thì chúng không chịu lễ nguyện Salah thờ phượng Ngài.</p>"
+        },
+        "49": {
+            "verses": {
+                "77:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ngày hôm đó là ngày của sự hủy diệt, trừng phạt và sự thất bại thảm hại cho những kẻ phủ nhận những điều mà các vị Thiên Sứ mang đến.</p>"
+        },
+        "50": {
+            "verses": {
+                "77:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nếu họ không tin Qur'an này được ban xuống từ Thượng Đế của họ thì họ sẽ tin vào lời lẽ nào sau Nó nữa chứ?!</p>"
+        }
+    }
+}

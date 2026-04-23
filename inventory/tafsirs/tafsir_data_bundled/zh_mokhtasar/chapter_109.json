@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你说“不信真主的人们啊！</p>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我现在和将来都不崇拜你们所崇拜的偶像，</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们也不崇拜我所崇拜的独一的真主，</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我不崇拜你们崇拜的偶像，</p>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们也不崇拜我所崇拜的独一的真主，</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你们有你们为自己创造的宗教，我有由真主降示给我的宗教。”</p>"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die beiden Hände vom Onkel des Propheten - Allahs Segen und Frieden auf ihm -, Abu Lahab, sollen verkommen, denn seine Taten sind verkommen, da er dem Propheten - Allahs Segen und Frieden auf ihm - Schaden zufügte; und sein Weg ist gescheitert.</p>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was haben ihm sein Vermögen oder seine Kinder gebracht? Sie werden die Strafe nicht von ihm abwehren können oder ihm eine Barmherzigkeit bringen.</p>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Am Tag der Auferstehung wird er in ein Höllenfeuer, voller Flammen, eintreten, dessen Hitze er erleiden muss.</p>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Seine Frau, Umm Jamil, die dem Propheten - Allahs Segen und Frieden auf ihm - ebenso Schaden zufügte, indem sie Stacheln auf seinen Weg warf, wird auch das Höllenfeuer betreten.</p>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Um ihren Hals wird ein festes Seil sein, welches sie ins Höllenfeuer zerrt.</p>"
+        }
+    }
+}

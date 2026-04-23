@@ -1,0 +1,677 @@
+{
+    "chapter": 80,
+    "verses": {
+        "1": {
+            "verses": {
+                "80:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>先知（愿主福安之）皱起眉头且转过了脸避开，</p>"
+        },
+        "2": {
+            "verses": {
+                "80:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>因为阿卜杜拉•本•麦克图穆来到他面前请求指引正道。他是位盲人，而先知（愿主福安之）正忙于以物配主者的贵族们，期望他们获得引导。</p>"
+        },
+        "3": {
+            "verses": {
+                "80:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！你怎能知道，或许这个盲人忏悔自己的罪过，</p>"
+        },
+        "4": {
+            "verses": {
+                "80:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>或觉悟于从你这里聆听的教诲并受益呢？</p>"
+        },
+        "5": {
+            "verses": {
+                "80:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>以自己拥有的钱财为满足，认为无需信仰你带来的教诲者，</p>"
+        },
+        "6": {
+            "verses": {
+                "80:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你却迎上前去为他布道。</p>"
+        },
+        "7": {
+            "verses": {
+                "80:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>如果那人没有为自己的罪过向真主忏悔你又会损失什么呢？</p>"
+        },
+        "8": {
+            "verses": {
+                "80:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>难道寻求至善的人来到你这里，</p>"
+        },
+        "9": {
+            "verses": {
+                "80:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他是位畏惧真主的人，</p>"
+        },
+        "10": {
+            "verses": {
+                "80:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>你却不屑于他而忙于以物配主的贵族吗？</p>"
+        },
+        "11": {
+            "verses": {
+                "80:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>事情不应是这样的，教诲和劝诫只对接受者有益。</p>"
+        },
+        "12": {
+            "verses": {
+                "80:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>谁欲纪念真主，就让他诵读《古兰经》并从中觉悟。</p>"
+        },
+        "13": {
+            "verses": {
+                "80:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>这部《古兰经》被记录在众天使那里的贵重的册页之中，</p>"
+        },
+        "14": {
+            "verses": {
+                "80:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>它被升高至一个崇高的位置，是被涤洁的，任何泥污和污秽不得侵入它，</p>"
+        },
+        "15": {
+            "verses": {
+                "80:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>它在众天使的使者手中，</p>"
+        },
+        "16": {
+            "verses": {
+                "80:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那些天使使者在他们的主那里是尊贵的，多行善和顺从的。</p>"
+        },
+        "17": {
+            "verses": {
+                "80:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>不信道的人被弃绝！他们是多么悖逆真主啊！</p>"
+        },
+        "18": {
+            "verses": {
+                "80:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主用什么创造了他，以至于他在大地上自大且悖逆祂呢？</p>"
+        },
+        "19": {
+            "verses": {
+                "80:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主从一滴精液、一个阶段一个阶段地创造了他。</p>"
+        },
+        "20": {
+            "verses": {
+                "80:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后在这些阶段后使他容易地从他的母腹中出来，</p>"
+        },
+        "21": {
+            "verses": {
+                "80:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在为他前定的生命之后，使他死亡，并为他设置了坟墓，使他在坟墓中逗留直至被复活的时刻。</p>"
+        },
+        "22": {
+            "verses": {
+                "80:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后，真主的意欲到达，使他复活以清算和报酬。</p>"
+        },
+        "23": {
+            "verses": {
+                "80:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>事情不是这个不信道者所猜想的，他已经履行了他的主责成他的义务那样。他还没有履行真主责成他的各项命令。</p>"
+        },
+        "24": {
+            "verses": {
+                "80:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>让这个不信真主的人观测他所吃的食物发生了什么？</p>"
+        },
+        "25": {
+            "verses": {
+                "80:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>食物的本质源自天空降下的大量的和丰富的雨水，</p>"
+        },
+        "26": {
+            "verses": {
+                "80:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>然后我破开大地，大地为植物而裂开，</p>"
+        },
+        "27": {
+            "verses": {
+                "80:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我在其中生出大麦和玉米等的种子</p>"
+        },
+        "28": {
+            "verses": {
+                "80:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我在其中生出葡萄和柔嫩的苜宿草，以其成为你们牲畜的粮食。</p>"
+        },
+        "29": {
+            "verses": {
+                "80:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我在其中生出橄榄和枣椰树，</p>"
+        },
+        "30": {
+            "verses": {
+                "80:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我在其中生出很多茂密的果园。</p>"
+        },
+        "31": {
+            "verses": {
+                "80:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>我在其中生出水果，我在其中生出你们喂养牲畜所需的。</p>"
+        },
+        "32": {
+            "verses": {
+                "80:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>为了使你们和你们的牲畜受益。</p>"
+        },
+        "33": {
+            "verses": {
+                "80:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那重大的震耳欲聋呐喊，即号角第二响声来临时，</p>"
+        },
+        "34": {
+            "verses": {
+                "80:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那是人们逃离兄弟的日子；</p>"
+        },
+        "35": {
+            "verses": {
+                "80:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>逃离自己母亲和父亲的日子；</p>"
+        },
+        "36": {
+            "verses": {
+                "80:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>逃离自己妻子和孩子的日子；</p>"
+        },
+        "37": {
+            "verses": {
+                "80:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>在那日，他们每个人都有自己忙碌的事情而无暇顾及他人。</p>"
+        },
+        "38": {
+            "verses": {
+                "80:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那日，幸福者的脸是发亮的。</p>"
+        },
+        "39": {
+            "verses": {
+                "80:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>因为真主为他所预备的恩慈而喜笑颜开，欢欣鼓舞。</p>"
+        },
+        "40": {
+            "verses": {
+                "80:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>那日，不幸者的脸上布满灰尘。</p>"
+        },
+        "41": {
+            "verses": {
+                "80:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>他们的脸上被黑暗笼罩着。</p>"
+        },
+        "42": {
+            "verses": {
+                "80:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>被描述成此等状态的人是不信道和放荡集一身者。</p>"
+        }
+    }
+}

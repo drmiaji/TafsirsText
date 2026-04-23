@@ -1,0 +1,101 @@
+{
+    "chapter": 114,
+    "verses": {
+        "1": {
+            "verses": {
+                "114:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَعُوذُ﴾ أَعْتَصِمُ، وَأَلْتَجِئُ.</h2>\n<p>﴿بِرَبِّ النَّاسِ﴾ مُرَبِّيهِمْ، وَخَالِقِهِمْ، وَمُدَبِّرِ أَحْوَالِهِمْ.</p>"
+        },
+        "2": {
+            "verses": {
+                "114:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "114:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِلَهِ النَّاسِ﴾ مَعْبُودِهِمُ الحَقِّ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "114:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿الْوَسْوَاسِ﴾ الشَّيْطَانِ الَّذِي يُلْقِي شُكُوكَهُ وَأَبَاطِيلَهُ فِي القُلُوبِ عِنْدَ الغَفْلَةِ.</p>\n<p>﴿الْخَنَّاسِ﴾ الَّذَي يَخْتَفِي وَيَهْرُبُ عِنْدَ ذِكْرِ اللهِ.</p>"
+        },
+        "5": {
+            "verses": {
+                "114:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "114:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مِنَ الْجِنَّةِ وَالنَّاسِ﴾ المُوَسْوِسُ يَكُونُ جِنِّيًّا وَإِنْسِيًّا، أَوِ المُوَسْوَسُ فِيهِمْ مِنَ الجِنَّةِ وَالنَّاسِ.</p>"
+        }
+    }
+}

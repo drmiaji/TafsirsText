@@ -1,0 +1,53 @@
+{
+    "chapter": 110,
+    "verses": {
+        "1": {
+            "verses": {
+                "110:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿نَصۡرُ ٱللَّهِ﴾: النَّصْرُ عَلى كُفَّارِ قُرَيشٍ.</h2>\n<h2>﴿وَٱلۡفَتۡحُ﴾: وَتَمَّ لَكَ فَتْحُ «مَكَّةَ».</h2>"
+        },
+        "2": {
+            "verses": {
+                "110:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَفۡوَاجٗا﴾: جَماعاتٍ جَماعاتٍ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "110:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَسَبِّحۡ﴾: فنزِّهْ رَبَّكَ.</h2>\n<h2>﴿بِحَمۡدِ رَبِّكَ﴾: مُتلَبِّساً بِحَمْدِ رَبّكَ.</h2>"
+        }
+    }
+}

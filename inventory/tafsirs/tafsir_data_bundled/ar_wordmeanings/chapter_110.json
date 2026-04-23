@@ -1,0 +1,53 @@
+{
+    "chapter": 110,
+    "verses": {
+        "1": {
+            "verses": {
+                "110:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَالْفَتْحُ﴾ فَتْحُ مَكَّةَ، وَكَانَ ذَلِكَ فِي العَامِ الثَّامِنِ الهِجْرِيِّ.</p>"
+        },
+        "2": {
+            "verses": {
+                "110:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَفْوَاجًا﴾ جَمَاعَاتٍ كَثِيرَةً تِلْوَ جَمَاعَاتٍ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "110:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَسَبِّحْ بِحَمْدِ رَبِّكَ﴾ نَزِّهْ رَبَّكَ تَنْزِيهًا مَصْحُوبًا بِحَمْدِهِ.</p>\n<p>﴿تَوَّابًا﴾ يَرْجِعُ عَلَى المُسْتَغْفِرِ بِالرَّحْمَةِ، وَيَقْبَلُ التَّوْبَةَ مِمَّنْ تَابَ.</p>"
+        }
+    }
+}

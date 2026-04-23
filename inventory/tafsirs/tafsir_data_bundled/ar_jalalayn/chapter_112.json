@@ -1,0 +1,69 @@
+{
+    "chapter": 112,
+    "verses": {
+        "1": {
+            "verses": {
+                "112:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>سُئِلَ النَّبِيّ صَلَّى اللَّه عَلَيْهِ وَسَلَّمَ عَنْ رَبّه فَنَزَلَ ﴿قُلۡ هُوَ ٱللَّهُ أَحَدٌ ۝١﴾ فَاَللَّه خَبَر هُوَ وَأَحَد بَدَل مِنْهُ أَوْ خَبَر ثَانٍ</p>"
+        },
+        "2": {
+            "verses": {
+                "112:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱللَّهُ ٱلصَّمَدُ ۝٢﴾ مُبْتَدَأ وَخَبَر أَيْ الْمَقْصُود فِي الْحَوَائِج عَلَى الدَّوَام</p>"
+        },
+        "3": {
+            "verses": {
+                "112:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَمۡ یَلِدۡ﴾ لِانْتِفَاءِ مُجَانَسَته ﴿وَلَمۡ یُولَدۡ ۝٣﴾ لِانْتِفَاءِ الحدوث عنه</p>"
+        },
+        "4": {
+            "verses": {
+                "112:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 106,
+            "resource_name": "Tafsir Ar Jalalayn",
+            "language_id": 38,
+            "slug": "ar_jalalayn",
+            "translated_name": {
+                "name": "Tafsir Ar Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ ۝٤﴾ أَيْ مُكَافِئًا وَمُمَاثِلًا وَلَهُ مُتَعَلِّق بِكُفُوًا وَقُدِّمَ عَلَيْهِ لِأَنَّهُ مَحَطّ الْقَصْد بِالنَّفْيِ وَأُخِّرَ أَحَد وَهُوَ اِسْم يكن عن خبرها رعاية للفاصلة</p>"
+        }
+    }
+}

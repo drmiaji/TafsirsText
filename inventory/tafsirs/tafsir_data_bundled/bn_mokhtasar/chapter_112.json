@@ -1,0 +1,69 @@
+{
+    "chapter": 112,
+    "verses": {
+        "1": {
+            "verses": {
+                "112:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>১. হে রাসূল! আপনি বলুন: আল্লাহ উলূহিয়্যাতে একক। তিনি ব্যতীত অন্য কোন মা’বূদ নেই।</p>"
+        },
+        "2": {
+            "verses": {
+                "112:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>২. তিনি এমন নেতা যাঁর পর্যন্ত পূর্ণতা ও সৌন্দর্যের নেতৃত্ব শেষ হয়ে গিয়েছে এবং তাঁর প্রতি গোটা সৃষ্টি জীব মুখাপেক্ষী।</p>"
+        },
+        "3": {
+            "verses": {
+                "112:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>৩. যাঁকে কেউ জন্ম দেয়নি এবং তিনিও কাউকে জন্মাননি। তথা না তাঁর কোন সন্তান আছে এবং না কোন পিতা।</p>"
+        },
+        "4": {
+            "verses": {
+                "112:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 120,
+            "resource_name": "Tafsir Bn Mokhtasar",
+            "language_id": 38,
+            "slug": "bn_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Bn Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>৪. না তাঁর সৃষ্টিতে তাঁর কোন সমতুল্য রয়েছে।</h2>"
+        }
+    }
+}

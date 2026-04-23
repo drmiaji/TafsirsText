@@ -1,0 +1,101 @@
+{
+    "chapter": 114,
+    "verses": {
+        "1": {
+            "verses": {
+                "114:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sag - o Gesandter -: „Ich halte an dem Herrn der Menschen fest und suche Schutz bei Ihm,</p>"
+        },
+        "2": {
+            "verses": {
+                "114:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dem König der Menschen, Der mit ihnen umgeht, wie Er es will - sie haben außer Ihm keinen anderen König.</p>"
+        },
+        "3": {
+            "verses": {
+                "114:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er ist Der zu Recht von ihnen Angebetete - außer Ihm gibt es niemanden, Der das Recht hat angebetet zu werden.</p>"
+        },
+        "4": {
+            "verses": {
+                "114:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Vor dem Übel des Satans, der Einflüsterungen in den Menschen sät, wenn er das Gedenken Allahs vernachlässigt, und er (also der Satan) bleibt von ihm fern, wenn er Ihm gedenkt.</p>"
+        },
+        "5": {
+            "verses": {
+                "114:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er flüstert in die Herzen der Menschen ein.</h2>"
+        },
+        "6": {
+            "verses": {
+                "114:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er (der Einflüsterer oder der, dem eingeflüstert wird) ist sowohl von den Menschen als auch von den Jinn.“</p>"
+        }
+    }
+}

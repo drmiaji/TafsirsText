@@ -1,0 +1,117 @@
+{
+    "chapter": 107,
+    "verses": {
+        "1": {
+            "verses": {
+                "107:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِٱلدِّينِ﴾: بالبَعْثِ والجزاءِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "107:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿يَدُعُّ ٱلۡيَتِيمَ﴾: يَدفعُ اليتيمَ بِعُنفٍ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "107:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ﴾: ولا يَحُضُّ غَيرَهُ عَلَى إِطْعامِ المِسْكِينِ.</p>"
+        },
+        "4": {
+            "verses": {
+                "107:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَوَيۡلٞ﴾: فَعَذابٌ شَدِيدٌ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "107:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿عَن صَلَاتِهِمۡ سَاهُونَ﴾: لاهُونَ، لا يُقيمُونَها على وَجْهِهَا، ولا يُؤَدُّونَها في وَقْتِها.</p>"
+        },
+        "6": {
+            "verses": {
+                "107:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿ٱلَّذِينَ هُمۡ يُرَآءُونَ﴾: الَّذِين هُم يَعْمَلُونَ الخيرَ مُراءَاةً للنَّاسِ.</p>"
+        },
+        "7": {
+            "verses": {
+                "107:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَيَمۡنَعُونَ ٱلۡمَاعُونَ﴾: وَيَمْنَعُونَ إعارَةَ ما لا تَضُرُّ إِعارَتُهُ مِنَ الآنِيةِ وَغَيرِها.</p>"
+        }
+    }
+}

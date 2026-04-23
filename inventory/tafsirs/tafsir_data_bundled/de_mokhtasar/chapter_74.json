@@ -1,0 +1,901 @@
+{
+    "chapter": 74,
+    "verses": {
+        "1": {
+            "verses": {
+                "74:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O du, der du dich mit deiner Kleidung bedeckst! (Gemeint ist der Prophet - Allahs Segen und Frieden auf ihm.)</p>"
+        },
+        "2": {
+            "verses": {
+                "74:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Stehe auf und mach Angst vor der Strafe Allahs.</h2>"
+        },
+        "3": {
+            "verses": {
+                "74:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Verehre deinen Herrn.</h2>"
+        },
+        "4": {
+            "verses": {
+                "74:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Reinige deine Seele von Sünden und deine Kleidung von Unreinheiten.</p>"
+        },
+        "5": {
+            "verses": {
+                "74:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Halte dich von der Anbetung der Götzen fern.</h2>"
+        },
+        "6": {
+            "verses": {
+                "74:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und halte (deinen Verdienst) nicht vor deinem Herrn, indem du deine guten Taten für groß hälst.</p>"
+        },
+        "7": {
+            "verses": {
+                "74:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ertrage für deinen Herrn geduldig, was dir an Schaden widerfährt.</p>"
+        },
+        "8": {
+            "verses": {
+                "74:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Wenn dann ins Horn das zweite Mal geblasen wird,</h2>"
+        },
+        "9": {
+            "verses": {
+                "74:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>so wird dieser Tag ein harter Tag sein.</h2>"
+        },
+        "10": {
+            "verses": {
+                "74:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Für diejenigen, die nicht an Allah und Seine Gesandten glaubten, wird es nicht leicht sein.</p>"
+        },
+        "11": {
+            "verses": {
+                "74:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O Gesandter, lasse Mich mit wem Ich allein, im Schoß seiner Mutter, erschaffen habe, ohne Besitz oder Kinder. (Dieser ist Al-Walid Ibn Al-Mughirah.)</p>"
+        },
+        "12": {
+            "verses": {
+                "74:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Derjenige, dem Ich viel Vermögen gegeben habe.</h2>"
+        },
+        "13": {
+            "verses": {
+                "74:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Derjenige, dem ich Söhne gegeben habe, die mit ihm anwesend sind, mit ihm Feierlichkeiten besuchen und sich aufgrund seines großen Vermögens auf keiner Reise von ihm trennen.</p>"
+        },
+        "14": {
+            "verses": {
+                "74:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ich habe ihm das Leben, die Versorgung und die Kinder weit ausgebreitet.</p>"
+        },
+        "15": {
+            "verses": {
+                "74:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Doch er begehrt mit seinem Unglauben Mir gegenüber, dass Ich ihm noch mehr gebe, nachdem Ich ihm all das gegeben habe.</p>"
+        },
+        "16": {
+            "verses": {
+                "74:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es ist nicht so, wie er es sich vorstellt. Er war gegenüber Unseren Zeichen, die zu Unserem Gesandten hinabgesandt wurden, stur und leugnete sie.</p>"
+        },
+        "17": {
+            "verses": {
+                "74:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ich werde ihn mit einer Strafe bedrücken, die er nicht ertragen wird.</p>"
+        },
+        "18": {
+            "verses": {
+                "74:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dieser Ungläubige, dem Ich all diese Wohltaten erwiesen habe, hat über das nachgedacht, was er über den Quran sagte, um es für falsch zu erklären, und hat es in seinem Inneren abgewogen.</p>"
+        },
+        "19": {
+            "verses": {
+                "74:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er wurde verflucht und wird bestraft, wie er abgewogen hat.</h2>"
+        },
+        "20": {
+            "verses": {
+                "74:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Abermals: Er wurde verflucht und wird bestraft, wie er abgewogen hat.</p>"
+        },
+        "21": {
+            "verses": {
+                "74:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Hierauf hat er über das, was er sagte, nachgedacht.</h2>"
+        },
+        "22": {
+            "verses": {
+                "74:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dann runzelte er die Stirn, als er nichts fand, womit er den Quran verunglimpfen kann.</p>"
+        },
+        "23": {
+            "verses": {
+                "74:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dann kehrte er dem Glauben den Rücken zu und war zu hochmütig, als das er dem Propheten - Allahs Segen und Frieden auf ihm - folgen würde.</p>"
+        },
+        "24": {
+            "verses": {
+                "74:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Er sagte: „Das, womit Muhammad kam, sind nicht Allahs Worte. Es ist vielmehr Zauberei, die er von anderen überliefert.</p>"
+        },
+        "25": {
+            "verses": {
+                "74:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es sind nicht Allahs Worte, sondern die Worte der Menschen.“</p>"
+        },
+        "26": {
+            "verses": {
+                "74:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ich werde diesen Ungläubigen in eine Stufe des Höllenfeuers werfen, die Saqar heißt, dessen Hitze er erleiden muss.</p>"
+        },
+        "27": {
+            "verses": {
+                "74:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O Muhammad, was lässt dich wissen, was Saqar ist?</h2>"
+        },
+        "28": {
+            "verses": {
+                "74:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie lässt vom Bestraften nichts aus und lässt ihn nicht los. Dann wird er wieder so, wie er zuvor war, und sie fällt wieder über ihn her. Und dies wird so fortgesetzt.</p>"
+        },
+        "29": {
+            "verses": {
+                "74:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sie verbrennt und verändert die Haut sehr stark.</h2>"
+        },
+        "30": {
+            "verses": {
+                "74:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Über ihr sind neunzehn Engel, die dessen Wächter sind.</h2>"
+        },
+        "31": {
+            "verses": {
+                "74:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir haben als Wächter des Höllenfeuers nur Engel eingesetzt, denn die Menschen würden dazu nicht die Kraft haben. Abu Jahl hat gelogen, als er behauptete, dass er und sein Volk es besiegen und dann aus dem Höllenfeuer fliehen könnten. Und ihre Anzahl haben wir nur als eine Prüfung für die gemacht, die nicht an Allah glaubten, damit sie das sagen, was sie sagten, wodurch die Strafe für sie verdoppelt wird, damit die Juden, denen die Thora gegeben wurde, und die Christen, denen das Evangelium gegeben wurde, die Gewissheit erlangen, als der Quran hinabgesandt wurde und das bestätigte, was in ihren Büchern stand, damit der Glaube der Gläubigen stärker wird, wenn die Schriftbesitzer ihnen zustimmen, damit die Juden, Christen und Gläubigen keine Zweifel haben und damit diejenigen, die sich vom Glauben zurückhielten und die Ungläubigen sagen: „Was will Allah mit dieser merkwürdigen Anzahl?“ - (Allah will mit dieser Anzahl) zum Beispiel die Irreleitung des Leugners dieser Anzahl und die Rechtleitung desjenigen, der sie bestätigt. Allah lässt in die Irre gehen, wen Er in die Irre gehen lassen will, und Er leitet recht, wen Er rechtleiten will. Die Vielzahl der Armee deines Herren kennt nur Er - gepriesen sei Er. So soll Abu Jahl wissen, der sagte: „Hat Muhammad etwa nur 19 Helfer?“ Er sagte dies aus Geringschätzung und Leugnung. Doch das Höllenfeuer ist nur eine Ermahnung für die Menschen, die dadurch die Erhabenheit Allahs - gepriesen sei Er - erkennen.</p>"
+        },
+        "32": {
+            "verses": {
+                "74:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es ist nicht so, wie manche Götzenanbeter behaupten, dass Höllenbewohnern die Wächter ausreichen, damit sie diese vertreiben können. Und Allah schwört bei dem Mond.</p>"
+        },
+        "33": {
+            "verses": {
+                "74:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und Er schwört bei der Nacht, wenn sie vergeht.</h2>"
+        },
+        "34": {
+            "verses": {
+                "74:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Er schwört bei dem Morgen, wenn er erstrahlt.</h2>"
+        },
+        "35": {
+            "verses": {
+                "74:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Das Höllenfeuer ist fürwahr eines der großen Heimsuchungen,</h2>"
+        },
+        "36": {
+            "verses": {
+                "74:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>um den Menschen Angst zu machen.</h2>"
+        },
+        "37": {
+            "verses": {
+                "74:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O ihr Menschen, (es ist) für jemanden von euch, der durch den Glauben an Allah und der guten Tat vorankommen oder durch den Unglauben und die Sünden zurückbleiben will.</p>"
+        },
+        "38": {
+            "verses": {
+                "74:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Jede Seele wird für die Taten, die sie erworben hat, gestraft. Entweder bringen ihre Taten sie ins Verderben, oder sie retten sie vor der Vernichtung.</p>"
+        },
+        "39": {
+            "verses": {
+                "74:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bis auf die Gläubigen, denn diese werden für ihre Sünden nicht gestraft. Vielmehr wird aufgrund ihrer frommen Taten darüber hinweggesehen.</p>"
+        },
+        "40": {
+            "verses": {
+                "74:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie werden am Tag der Auferstehung in Paradiesgärten sein, und sie werden einander fragen</p>"
+        },
+        "41": {
+            "verses": {
+                "74:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>nach den Ungläubigen, die sich durch ihre Sünden selbst vernichtet haben.</p>"
+        },
+        "42": {
+            "verses": {
+                "74:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie werden zu ihnen sagen: „Was hat euch in das Höllenfeuer eintreten lassen?“</p>"
+        },
+        "43": {
+            "verses": {
+                "74:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Ungläubigen werden antworten: „Wir gehörten nicht zu denen, die im diesseitigen Leben das Pflichtgebet verrichtet haben.</p>"
+        },
+        "44": {
+            "verses": {
+                "74:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wir haben den Armen nicht von dem gespeist, was Allah uns gab.</p>"
+        },
+        "45": {
+            "verses": {
+                "74:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wir waren mit den Leuten der Falschheit; wir drehten uns mit ihnen, wohin sie sich auch immer drehten, und unterhielten uns mit den Leuten der Irreleitung.</p>"
+        },
+        "46": {
+            "verses": {
+                "74:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Und wir erklärten stets den Tag der Vergeltung für Lüge</h2>"
+        },
+        "47": {
+            "verses": {
+                "74:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wir haben dies so weit gebracht, bis wir starben, so war uns die Reue unmöglich.“</p>"
+        },
+        "48": {
+            "verses": {
+                "74:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was wird ihnen am Tag der Auferstehung die Vermittlung derjenigen, die Fürsprache einlegen - unter den Engeln, Propheten und Rechtschaffenen -, nützen? Denn zur Bedingung dafür, dass die Fürsprache angenommen wird, gehört die Zufriedenheit über denjenigen, für den Fürsprache eingelegt wird.</p>"
+        },
+        "49": {
+            "verses": {
+                "74:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Was hat diese Götzenanbeter dazu gebracht, sich vom Quran abzuwenden?</p>"
+        },
+        "50": {
+            "verses": {
+                "74:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Als wären sie, in ihrer Abwendung und Flucht, aufgeschreckte Wildesel,</p>"
+        },
+        "51": {
+            "verses": {
+                "74:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>die aus Angst vor einem Löwen fliehen.</h2>"
+        },
+        "52": {
+            "verses": {
+                "74:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Vielmehr will jeder einzelne von diesen Götzenanbetern, dass auf seinem Kopf ein aufgeschlagenes Buch kommt, das ihm berichtet, dass Muhammad ein Gesandter von Allah ist. Der Grund dafür sind nicht die wenigen Beweise oder die schwache Argumentation, sondern die Sturheit und der Hochmut.</p>"
+        },
+        "53": {
+            "verses": {
+                "74:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es ist nicht so! Vielmehr ist der Grund ihrer Maßlosigkeit in ihrer Irrelehre, dass sie nicht an die Strafe im Jenseits glauben. So blieben sie in ihrem Unglauben.</p>"
+        },
+        "54": {
+            "verses": {
+                "74:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Dieser Quran ist ja eine Ermahnung und Erinnerung.</h2>"
+        },
+        "55": {
+            "verses": {
+                "74:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wer nun den Quran lesen und sich davon ermahnen lassen will, der soll ihn lesen und sich davon ermahnen lassen.</p>"
+        },
+        "56": {
+            "verses": {
+                "74:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie werden sich erst ermahnen lassen, wenn Allah will, dass sie sich ermahnen lassen. Ihm - gepriesen sei Er - gebührt, dass man sich vor Ihm fürchtet, indem man Seinen Geboten nachkommt und sich von Seinen Verboten fernhält. Und Ihm gebührt, dass Er die Sünden Seiner Diener vergibt, wenn sie reumütig zu Ihm zurückkehren.</p>"
+        }
+    }
+}

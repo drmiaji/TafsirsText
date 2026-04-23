@@ -1,0 +1,549 @@
+{
+    "chapter": 31,
+    "verses": {
+        "1": {
+            "verses": {
+                "31:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>(„Alif-Lam-Mim“): Über die Bedeutung dieses Verses und ihresgleichen wurde bereits am Anfang der Surah „Al-Baqarah“ (2: Die Kuh) gesprochen.</p>"
+        },
+        "2": {
+            "verses": {
+                "31:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diese Verse, die zu dir - o Gesandter - hinabgesandt wurden, sind Zeichen des Buches, das nur mit der Weisheit spricht.</p>"
+        },
+        "3": {
+            "verses": {
+                "31:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Es ist eine Rechtleitung und Barmherzigkeit für diejenigen, die gute Taten vollbringen, indem sie die Rechten ihres Herrn und die Rechten Seiner Diener erfüllen.</p>"
+        },
+        "4": {
+            "verses": {
+                "31:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die das Gebet auf vollkommenste Art und Weise verrichten, die Pflichtabgabe aus ihrem Vermögen entrichten und von der Auferstehung, Abrechnung, Belohnung und Bestrafung, die es im Jenseits geben wird, überzeugt sind.</p>"
+        },
+        "5": {
+            "verses": {
+                "31:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die mit diesen Eigenschaften beschrieben werden, befinden sich auf einer Rechtleitung von ihrem Herrn, und das sind die Gewinner, indem sie das erlangen, wonach sie streben, und sich von dem fernhalten, wovor sie sich fürchten.</p>"
+        },
+        "6": {
+            "verses": {
+                "31:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nachdem Allah die Eigenschaften der Gutes-Tuenden erwähnte, erwähnt Er die Eigenschaften der Übeltäter. So sagte Er: <br/> Unter den Menschen gibt es manchen, wie An-Nadhr Ibn Al-Harith, der unterhaltsame Rede auswählt, um die Menschen von Allahs Religion ohne Wissen abzuwenden und sich über die Zeichen Allahs lustig macht und über sie spottet. Für diejenigen, die mit diesen Eigenschaften beschrieben werden, wird es im Jenseits eine erniedrigende Strafe geben.</p>"
+        },
+        "7": {
+            "verses": {
+                "31:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn ihm Unsere Zeichen vorgetragen werden, wendet er sich hochmütig davon ab diese zu hören, als hätte er sie nie gehört. Als wären seine Ohren taub und er könnte die Stimmen nicht hören. Verkünde ihm - o Gesandter - eine schmerzhafte Strafe, die ihn erwartet.</p>"
+        },
+        "8": {
+            "verses": {
+                "31:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diejenigen, die an Allah glauben und gute Taten verrichten, für sie wird es die Paradiesgärten der Wonne geben, in denen sie das, was Allah darin für sie vorbereitet hat, genießen werden.</p>"
+        },
+        "9": {
+            "verses": {
+                "31:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sie werden ewig darin weilen. Allah hat es ihnen in Wahrheit versprochen, woran es keinen Zweifel gibt. Er - gepriesen sei Er - ist der Allmächtige, Den niemand besiegen kann, und der Allweise in Seiner Schöpfung, Seiner Bestimmung und Gesetzgebung.</p>"
+        },
+        "10": {
+            "verses": {
+                "31:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah - gepriesen und erhaben ist Er - hat die Himmel erhöht, ohne Stützen, erschaffen und auf der Erde feste Berge aufgerichtet, damit ihr nicht ins Schwanken kommt, und auf ihr hat Er verschiedene Tierarten sich ausbreiten lassen. Und vom Himmel lassen Wir Regen herabkommen und dann auf der Erde aus jeder prachtvoll ansehnlichen Art, von der Mensch und Tier profitieren, Pflanzen wachsen.</p>"
+        },
+        "11": {
+            "verses": {
+                "31:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Das, was erwähnt wurde, ist Allahs Schöpfung. So zeigt mir - o ihr Götzendiener -, was diejenigen, die ihr statt Meiner anbetet, erschaffen haben. Aber nein! Die Ungerechten befinden sich in klarem Irrtum von der Wahrheit, da sie ihrem Herrn Teilhaber beigesellen, die nichts erschaffen, jedoch erschaffen wurden.</p>"
+        },
+        "12": {
+            "verses": {
+                "31:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir gaben Luqman tiefes Verständnis in der Religion und die richtige Ansicht in den Angelegenheiten. Wir sagten zu ihm: „O Luqman, sei deinem Herrn dankbar für die Wohltat dafür, dass du Ihm gehorchen kannst!“ Und wer seinem Herrn gegenüber dankbar ist, so wird der Nutzen seiner Dankbarkeit auf ihn selbst zurückgehen, denn Allah braucht die Dankbarkeit nicht. Und wer die Wohltaten Allahs leugnet und nicht an Ihn - gepriesen sei Er - glaubt, so geht der Schaden seines Unglaubens nur auf ihn zurück, und nichts kann Allah schaden, denn Er braucht seine gesamte Schöpfung nicht und ist in jeder Situation lobenswürdig.</p>"
+        },
+        "13": {
+            "verses": {
+                "31:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Gedenke - o Gesandter -, als Luqman zu seinem Sohn sagte, damit er ihn zum Guten animiert und ihn vor dem Bösen warnt: „O mein Sohn, bete nichts neben Allah an, denn die Anbetung von etwas anderem neben Allah ist ein gewaltiges Unrecht an einen selbst, da man die größte Sünde begeht, durch die man auf ewig im Höllenfeuer bleiben wird.“</p>"
+        },
+        "14": {
+            "verses": {
+                "31:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und Wir haben dem Menschen anbefohlen, seinen Eltern zu gehorchen und sie gut zu behandeln, solange man sich darin Allah nicht widersetzt. Seine Mutter trug ihn in ihrem Bauch und erlitt eine Beschwerlichkeit nach der anderen und entwöhnte ihn nach zwei Jahren. Wir sagten zu ihm: „Sei Mir dankbar für die Wohltaten, die Ich dir gewähre, und danach sei deinen Eltern dankbar für deine Erziehung und Fürsorge, die sie aufbrachten. Zu Mir allein ist die Rückkehr, und Ich werde jedem das vergelten, was ihm zusteht.“</p>"
+        },
+        "15": {
+            "verses": {
+                "31:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wenn sich deine Eltern darum bemühen, dich dazu zu bringen, Allah Teilhaber beizugesellen, aus Willkür, dann gehorche ihnen nicht, denn es gibt keinen Gehorsam dem Geschöpf gegenüber, wenn man sich dadurch dem Schöpfer widersetzt. Begleite sie jedoch im Diesseits mit gutem Umgang und halte den Kontakt zu ihnen, und folge dem Weg dessen, der sich Mir, mit dem Monotheismus und Gehorsam, reuig zuwendet. Zu Mir allein wird hierauf, am Tag der Auferstehung euer aller Rückkehr sein. So werde Ich euch über das berichten, was ihr im Diesseits getan habt und euch dies vergelten.</p>"
+        },
+        "16": {
+            "verses": {
+                "31:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O mein lieber Sohn, gewiss, die gute oder schlechte Tat, egal wie klein sie sein sollte, auch wenn sie wie das Gewicht eines Senfkorns wäre und sich im Inneren eines Felsens befände, und keiner sie sehen könnte, oder in einem Ort im Himmeln oder in der Erde - gewiss, Allah bringt sie am Tag auf Auferstehung und wird dem Diener dafür vergelten. Allah ist ja feinfühlig und keine Kleinigkeit bleibt Ihm verborgen und Er ist allkundig über ihre Wirklichkeit und ihren Standort.</p>"
+        },
+        "17": {
+            "verses": {
+                "31:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O mein Sohn, verrichte das Gebet auf vollkommenste Art und Weise, gebiete das Gute, verbiete das Schlechte und ertrage alles, was darin an Verhasstem geschieht, geduldig. Das, was dir davon befohlen wird, gehört zu dem, was Allah dir entschieden auferlegt hat zu vollziehen, so hast du diesbezüglich keine Wahl.</p>"
+        },
+        "18": {
+            "verses": {
+                "31:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wende dein Gesicht nicht aus Hochmut von den Menschen ab und gehe auf der Erde nicht fröhlich und selbstherrlich einher, denn Allah liebt niemanden, der eingebildet läuft und mit dem prahlt, was ihm an Wohltaten gegeben wurden und damit hochmütig gegenüber den Menschen ist und Allah dafür nicht dankt.</p>"
+        },
+        "19": {
+            "verses": {
+                "31:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Laufe gemäßigt, weder zu schnell noch zu langsam, sodass die innere Ruhe hervorkommt und dämpfe deine Stimme und erhebe sie nicht so, dass es stört, denn zu den übelsten Stimmen gehört die Stimme der Esel, da ihre Stimmen laut sind.</p>"
+        },
+        "20": {
+            "verses": {
+                "31:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O ihr Menschen, seht ihr nicht, dass Allah euch den Nutzen aus dem Himmel, mit der Sonne, dem Mond und den Sternen, leicht gemacht hat. Außerdem hat Er euch was auf der Erde ist, von Tieren, Bäumen und Pflanzen, leicht gemacht, und euch mit Seinen Wohltaten, die für das Auge ersichtlich sind, vollkommen gemacht, wie das schöne Aussehen und die gute Statur, und welche, innerlich verborgen sind, wie der Verstand und das Wissen. Doch trotz der Existenz dieser Wohltaten gibt es Menschen, die über die alleinige Anbetung Allahs streiten, ohne Wissen, das sich auf eine Offenbarung von Allah stützt, einem aufgeklärten Verstand oder einem klaren Buch, das von Allah hinabgesandt wurde.</p>"
+        },
+        "21": {
+            "verses": {
+                "31:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn zu diesen (Leuten), die über die alleinige Anbetung Allahs streiten, gesagt wird: „Folgt dem, was Allah zu Seinem Gesandten an Offenbarung hinabgesandt hat“, sagen sie: „Nein, wir folgen dem nicht! Vielmehr folgen wir dem, worin wir unsere Vorfahren, bei der Anbetung unserer Götter, vorgefunden haben.“ Folgen sie ihren Vorfahren, auch wenn der Satan sie mit dem, was sie in die Irre führt, wie die Anbetung von Götzenbildern, zur Strafe der Feuerglut am Tag der Auferstehung einlädt?</p>"
+        },
+        "22": {
+            "verses": {
+                "31:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wer auf Allah zukommt, aufrichtig in der Anbetung Ihm gegenüber und gute Taten vollzieht, der hält sich an das Festeste, woran sich derjenige hängen kann, der auf Rettung hofft, denn er braucht sich nicht davor zu fürchten, dass sich das, woran er sich festhält, abtrennt. Zu Allah allein nehmen die Angelegenheiten ihren Ausgang, und Er wird jedem mit dem vergelten, was ihm zusteht.</p>"
+        },
+        "23": {
+            "verses": {
+                "31:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wer nicht an Allah glaubt, so soll dich - o Gesandter - sein Unglaube nicht traurig machen. Zu Uns allein wird ihre Rückkehr am Tag der Auferstehung sein, dann werden Wir ihnen von ihren bösen Taten im Diesseits berichten und ihnen diese vergelten. Allah weiß fürwahr über das Bescheid, was in den Brüsten ist, denn nichts darin bleibt Ihm verborgen.</p>"
+        },
+        "24": {
+            "verses": {
+                "31:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wir lassen sie die Freuden im Diesseits, die Wir ihnen geben, eine kurze Zeit genießen, dann zwingen Wir sie am Tag der Auferstehung in eine harte Strafe, welche die Strafe des Höllenfeuers ist.</p>"
+        },
+        "25": {
+            "verses": {
+                "31:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn du - o Gesandter - diese Götzendiener fragst: „Wer hat die Himmel und die Erde erschaffen?“, werden sie sagen: „Allah hat sie erschaffen!“ Sag zu ihnen: „Alles Lob gebührt Allah, Der euch das Argument klar und deutlich machte.“ Doch die meisten von ihnen wissen aufgrund ihrer Unwissenheit nicht, wem die Lobpreisung gebührt.</p>"
+        },
+        "26": {
+            "verses": {
+                "31:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah allein gehört, was in den Himmeln und auf der Erde ist, sowohl in der Schöpfung, Herrschaft als auch in der Verwaltung (der Dinge). Allah braucht fürwahr alle Seine Geschöpfe nicht und ist, sowohl im Dies- als auch im Jenseits, der Lobenswürdige.</p>"
+        },
+        "27": {
+            "verses": {
+                "31:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn die Bäume auf der Erde gefällt und zu Stiften zugeschnitten würden und das Meer zu Tinte gemacht wird, auch wenn es in sieben Meere ausgedehnt wird, würden die Worte Allahs nicht zu Ende gehen, da es für sie kein Ende gibt. Allah ist fürwahr allmächtig, niemand kann Ihn besiegen, und allweise in Seiner Schöpfung und Verwaltung.</p>"
+        },
+        "28": {
+            "verses": {
+                "31:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Die Erschaffung und Auferweckung von euch - o ihr Menschen - am Tag der Auferstehung, für die Abrechnung und Vergeltung, ist, in Bezug auf die Einfachheit, so wie die Erschaffung einer einzigen Seele. Allah ist fürwahr allhörend, denn das Geräusch lenkt Ihn nicht vom anderen ab, und allsehend, denn die eine Sache lenkt Ihn nicht von der anderen ab. Und genauso lenkt Ihn die Erschaffung oder Auferweckung einer Seele nicht von der Erschaffung und Auferweckung einer anderen Seele ab.</p>"
+        },
+        "29": {
+            "verses": {
+                "31:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Siehst du denn nicht, dass Allah von der Nacht etwas vermindert, um den Tag auszuweiten, und vom Tag etwas vermindert, um die Nacht auszuweiten, und Er die Umlaufbahn von Sonne und Mond bestimmt, denn beide fließen entlang einer Laufbahn, bis zu einem festgesetzten Zeitpunkt, und dass Allah über das, was ihr tut, Kundig ist? Nichts von euren Taten bleibt Ihm verborgen und Er wird sie euch vergelten.</p>"
+        },
+        "30": {
+            "verses": {
+                "31:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Diese Gestaltung und Bestimmung bezeugt, dass Allah allein die Wahrheit ist. So ist Er die Wahrheit in Seinem Wesen, Seiner Attribute und Taten. Und das, was die Götzenanbeter statt Seiner anbeten, ist falsch und hat keinerlei Grundlage. Allah ist mit Seinem Wesen, Seiner Macht und Kraft über Seine gesamte Schöpfung erhaben (und über ihr), denn niemand ist über Ihm. Und Er ist Derjenige, Der größer als alles andere ist.</p>"
+        },
+        "31": {
+            "verses": {
+                "31:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Siehst du nicht, dass die Schiffe durch Seine Güte und auf dem Meer fahren, damit Er euch Menschen etwas von Seinen Zeichen, die Seine Macht und Güte - gepriesen sei Er - beweisen, zeigt? Darin sind Beweise über Seine Macht für jeden, der über alles Schlechte, was ihm widerfährt, sehr standhaft ist und für alles, was er an guten Dingen erhält, sehr dankbar ist.</p>"
+        },
+        "32": {
+            "verses": {
+                "31:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn sie von jeder Seite von einer Welle, wie Berge und Wolken, umzingelt sind, rufen sie Allah alleine an, (wobei sie) zu Ihm aufrichtig Bittgebete sprechen und Ihn anbeten. Wenn Allah sie erhört, sie ans Festland rettet und vor dem Ertrinken beschützt, zeigen einige von ihnen gemäßigtes Verhalten, und sind nicht so dankbar, wie sie sein sollen. Darunter sind auch welche, die Allahs Wohltaten leugnen. Unsere Zeichen verleugnen nur Betrüger - wie dieser, der Allah versprochen hat, dass er zu den Dankbaren gehören wird, wenn Er ihn rettet - und welche, die den Wohltaten Allahs gegenüber sehr undankbar sind und ihren Herrn für Seine Wohltaten nicht danken.</p>"
+        },
+        "33": {
+            "verses": {
+                "31:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O ihr Menschen, fürchtet euren Herrn, indem ihr Seine Gebote ausführt und euch von Seinen Verboten fernhält. Und fürchtet die Strafe eines Tages, an dem ein Vater seinem Kind nichts nützen und ein Kind seinem Vater nichts nützen wird. Das Versprechen Allahs über die Vergeltung am Tag der Auferstehung ist fest und wird unumstritten eintreffen. So soll euch das diesseitige Leben, mit all seinen Begierden und Vergnügen, nicht täuschen. Und der Satan soll euch nicht damit täuschen, dass Allah gütig ist und eure Strafe hinaufschiebt.</p>"
+        },
+        "34": {
+            "verses": {
+                "31:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nur Allah hat ja das Wissen über die Stunde und Er weiß, wann sie eintrifft. Er lässt den Regen, wann Er will, herabkommen. Er weiß, was in den Mütterleibern, ob männlich oder weiblich, unglücklich oder glücklich, ist. Keine Seele weiß, was sie morgen erwerben wird, ob Gutes oder Schlechtes. Und keine Seele weiß, auf welcher Erde sie sterben wird. Nur Allah ist es, Der all das weiß. Allah weiß fürwahr über all das Bescheid und ist darüber kundig, denn nichts davon bleibt Ihm verborgen.</p>"
+        }
+    }
+}

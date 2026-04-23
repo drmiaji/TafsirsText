@@ -1,0 +1,69 @@
+{
+    "chapter": 112,
+    "verses": {
+        "1": {
+            "verses": {
+                "112:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Say: `He is God, One (Allhu is the predicate of huwa, `He is', and ahadun is its substitution or a second predicate).</p>"
+        },
+        "2": {
+            "verses": {
+                "112:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>God, the Self-Sufficient, Besought of all (Allhu'l-samad constitute a subject and a predicate) [al-samad means] the One Who is always sought at times of need,</p>"
+        },
+        "3": {
+            "verses": {
+                "112:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>He neither begot, for no likeness of Him can exist, nor was begotten, since createdness is precluded in His case.</p>"
+        },
+        "4": {
+            "verses": {
+                "112:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 125,
+            "resource_name": "Tafsir En Jalalayn",
+            "language_id": 38,
+            "slug": "en_jalalayn",
+            "translated_name": {
+                "name": "Tafsir En Jalalayn",
+                "language_name": "english"
+            },
+            "text": "<p>Nor is there anyone equal to Him', neither match nor comparison (lahu, `to Him', is semantically connected to kufuwan, `equal', but precedes it because it is the object of the intended negation; ahadun, `anyone', which is the subject of yakun, `is there', has been placed after the predicate of the latter [kufuwan, `equal'] in order to retain the harmony of the end-rhyme [of the verses]). Meccan or Medinese, consisting of 5 verses. This sra and the next one were revealed when Labd the Jew placed a spell on the Prophet (s) using a string with eleven knots. God informed him of this and of its place, and so it was brought before the Prophet (s) and he was commanded to `seek refuge [in God]' by means of these two sras; and so each time he recited a verse from them, a knot would become undone and he would sense an alleviation, until in the end all the knots had been undone and he stood up invigorated, as if he had previously been hobbled to the ground.</p>"
+        }
+    }
+}

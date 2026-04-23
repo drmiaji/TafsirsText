@@ -1,0 +1,101 @@
+{
+    "chapter": 109,
+    "verses": {
+        "1": {
+            "verses": {
+                "109:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Hãy nói - hỡi Thiên Sứ -: Này hỡi những kẻ phủ nhận Allah!</h2>"
+        },
+        "2": {
+            "verses": {
+                "109:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ta không thờ các pho tượng và các thần linh ngụy tạo mà các ngươi đang thờ phượng, không hiện tại và cũng không tương lai.</p>"
+        },
+        "3": {
+            "verses": {
+                "109:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và các ngươi cũng không thờ phượng Thượng Đế mà Ta thờ phượng, đó là Allah.</p>"
+        },
+        "4": {
+            "verses": {
+                "109:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và từ nào đến giờ Ta chưa từng thờ phượng các pho tượng cũng như các thần linh ngụy tạo mà các ngươi đã thờ phượng.</p>"
+        },
+        "5": {
+            "verses": {
+                "109:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Và các ngươi cũng không thờ phượng Thượng Đế mà Ta thờ phượng, đó là Allah.</p>"
+        },
+        "6": {
+            "verses": {
+                "109:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 153,
+            "resource_name": "Tafsir Vi Mokhtasar",
+            "language_id": 38,
+            "slug": "vi_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Vi Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Các người có tôn giáo mà các người đã sáng tạo, còn Ta có tôn giáo mà Allah đã thiên khải cho Ta.</p>"
+        }
+    }
+}

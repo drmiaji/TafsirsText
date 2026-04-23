@@ -1,0 +1,133 @@
+{
+    "chapter": 99,
+    "verses": {
+        "1": {
+            "verses": {
+                "99:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الزلزلة مدنية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>قرع القلوب الغافلة لليقين بالحساب والإحصاء الدقيق.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>إذا حُرِّكت الأرض التحريك الشديد الذي يحدث لها يوم القيامة.</h2>"
+        },
+        "2": {
+            "verses": {
+                "99:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأخرجت الأرض ما في بطنها من الموتى وغيرهم.</h2>"
+        },
+        "3": {
+            "verses": {
+                "99:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وقال الإنسان متحيِّرًا: ما شأن الأرض تتحرك وتضطرب؟!</h2>"
+        },
+        "4": {
+            "verses": {
+                "99:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في ذلك اليوم العظيم تخبر الأرض بما عمل عليها من خير وشرّ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "99:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لأن الله أعلمها وأمرها بذلك.</h2>"
+        },
+        "6": {
+            "verses": {
+                "99:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>في ذلك اليوم العظيم الذي تتزلزل فيه الأرض يخرج الناس من موقف الحساب فِرَقًا ليشاهدوا أعمالهم التي عملوها في الدنيا.</p>"
+        },
+        "7": {
+            "verses": {
+                "99:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمن يعمل وزن نملةٍ صغيرة من أعمال الخير والبرّ يره أمامه.</h2>"
+        },
+        "8": {
+            "verses": {
+                "99:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ومن يعمل وزنها من أعمال الشرّ يره كذلك.</h2>"
+        }
+    }
+}

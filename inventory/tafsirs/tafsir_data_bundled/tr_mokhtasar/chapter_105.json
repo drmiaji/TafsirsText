@@ -1,0 +1,85 @@
+{
+    "chapter": 105,
+    "verses": {
+        "1": {
+            "verses": {
+                "105:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Ebrehe ve ashabı olan fil ashabı, Kâbe’yi yok etmek istedikleri zaman, Rabbinin onlara ne yaptığını bilmiyor musun?</p>"
+        },
+        "2": {
+            "verses": {
+                "105:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah, Kâbe’yi yıkmak için yaptıkları kötü planlarını boşa çıkardı. Böylece onlar insanları Kâbe’den uzaklaştırmak adına umdukları şeyleri elde edemediler. Bunun namına hiçbir şey kazanamadılar.</p>"
+        },
+        "3": {
+            "verses": {
+                "105:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Onlara sürüler halinde gelen kuşlar gönderdi.</h2>"
+        },
+        "4": {
+            "verses": {
+                "105:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Onlara sertleşmiş çamurdan taşlar atıyorlardı.</h2>"
+        },
+        "5": {
+            "verses": {
+                "105:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sonunda Allah onları, hayvanların yiyip çiğnediği ekin yaprakları gibi kıldı.</p>"
+        }
+    }
+}

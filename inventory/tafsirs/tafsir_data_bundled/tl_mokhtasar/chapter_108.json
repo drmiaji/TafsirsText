@@ -1,0 +1,53 @@
+{
+    "chapter": 108,
+    "verses": {
+        "1": {
+            "verses": {
+                "108:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na Kami ay nagbigay sa iyo, O Sugo, ng kabutihang marami, at kabilang dito ang ilog ng Kawthar sa Paraiso.</p>"
+        },
+        "2": {
+            "verses": {
+                "108:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya magsagawa ka ng pasasalamat kay Allāh sa biyayang ito, na magdasal ka sa Kanya lamang at magkatay ka [ng alay], na salungat sa ginagawa ng mga tagapagtambal na pagpapakalapit-loob sa mga diyus-diyusan nila sa pamamagitan ng pagkakatay [ng alay].</p>"
+        },
+        "3": {
+            "verses": {
+                "108:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang namumuhi sa iyo ay siya ang naputol sa bawat kabutihan, ang nakalimutan, na kung naalaala man ay naaalaala sa kasagwaan.</p>"
+        }
+    }
+}

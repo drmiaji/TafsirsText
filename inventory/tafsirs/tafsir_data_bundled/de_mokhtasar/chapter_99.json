@@ -1,0 +1,133 @@
+{
+    "chapter": 99,
+    "verses": {
+        "1": {
+            "verses": {
+                "99:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wenn die Erde heftig stark bewegt wird - was am Tag der Auferstehung geschehen wird.</p>"
+        },
+        "2": {
+            "verses": {
+                "99:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und (wenn) die Erde die Toten und alles Andere aus ihrem Inneren hervorbringt.</p>"
+        },
+        "3": {
+            "verses": {
+                "99:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und (wenn) der Mensch verwirrt sagt: „Was ist mit der Erde, dass sie sich bewegt und unruhig ist?“</p>"
+        },
+        "4": {
+            "verses": {
+                "99:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>An diesem gewaltigen Tag wird die Erde erzählen, was auf ihr an Gutem und Bösem begangen wurde,</p>"
+        },
+        "5": {
+            "verses": {
+                "99:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>denn Allah hat es ihr gelehrt und befohlen, dies zu tun.</h2>"
+        },
+        "6": {
+            "verses": {
+                "99:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>An diesem gewaltigen Tag, an dem die Erde beben wird, kommen die Menschen in Gruppen zur Abrechnung heraus, damit sie ihre Taten, die sie im Diesseits begangen haben, sehen.</p>"
+        },
+        "7": {
+            "verses": {
+                "99:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Wer etwas Gutes und Rechtschaffenes tut, das so viel wiegt wie eine kleine Ameise, der wird es vor sich sehen.</p>"
+        },
+        "8": {
+            "verses": {
+                "99:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Und wer etwas Böses tut, das auch so viel wiegt wie eine kleine Ameise, der wird es ebenfalls sehen.</p>"
+        }
+    }
+}

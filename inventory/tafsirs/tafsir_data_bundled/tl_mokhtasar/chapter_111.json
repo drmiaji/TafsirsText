@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nalugi ang dalawang kamay ng tiyuhin ng Propeta – basbasan siya ni Allāh at batiin ng kapayapaan – na si Abū Lahab bin `Abdulmuṭṭalib dahil sa pagkalugi ng gawain niya yayamang siya noon ay nananakit sa Propeta – basbasan siya ni Allāh at batiin ng kapayapaan – at nabigo ang pagpupunyagi niya.</p>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Aling bagay ang naidulot para sa kanya ng yaman niya at anak niya? Hindi magtutulak ang mga ito palayo sa kanya ng isang pagdurusa at hindi maghahatak ang mga ito para sa kanya ng isang awa.</p>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Papasok siya sa Araw ng Pagbangon sa isang apoy na may lagablab, na magdurusa siya sa init niyon,</p>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Papasok [din] doon ang maybahay niyang si Umm Jamīl, na dating nananakit sa Propeta – basbasan siya ni Allāh at batiin ng kapayapaan – sa pamamagitan ng pagtatapon ng mga tinik sa daan niya,</p>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>habang sa leeg nito ay may tali na mahigpit ang pagkalubid, na ipang-aakay rito tungo sa Apoy.</p>"
+        }
+    }
+}

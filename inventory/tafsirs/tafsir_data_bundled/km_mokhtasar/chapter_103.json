@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>អល់ឡោះទ្រង់ស្បថនឹងពេលរសៀល។</p>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ជាការពិតណាស់ មនុស្សទាំងឡាយឋិតនៅក្នុងភាពខាតបង់និងអន្តរាយ។</h2>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>លើកលែងតែបណ្ដាអ្នកដែលមានជំនឿចំពោះអល់ឡោះនិងបណ្តាអ្នកនាំសាររបស់ទ្រង់ ហើយបានសាងទង្វើកុសល និងបានផ្ដែផ្ដាំគ្នាទៅវិញទៅមកឱ្យប្រកាន់ខ្ជាប់នូវការពិត និងបានផ្ដែផ្ដាំគ្នាឱ្យមានការអត់ធ្មត់លើការពិតប៉ុណ្ណោះ។ អ្នកដែលមានលក្ខណៈសម្បត្តិបែបនេះហើយ គឺជាអ្នកដែលទទួលជោគជ័យទាំងក្នុងជិវិតលោកិយ និងនៅថ្ងៃបរលោក។</p>"
+        }
+    }
+}

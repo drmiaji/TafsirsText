@@ -1,0 +1,69 @@
+{
+    "chapter": 112,
+    "verses": {
+        "1": {
+            "verses": {
+                "112:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الإخلاص مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<h2>إثبات تفرد الله بالكمال والألوهية وتنزُّهه عن النقص.</h2>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>قل - أيها الرسول -: هو الله المنفرد بالألوهية، لا إله غيره.</h2>"
+        },
+        "2": {
+            "verses": {
+                "112:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هو السيّد الذي انتهى إليه السُّؤْدَد في صفات الكمال والجمال، الذي تصمد إليه الخلائق.</p>"
+        },
+        "3": {
+            "verses": {
+                "112:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>الذي لم يلد أحدًا، ولم يلده أحد، فلا ولد له - سبحانه - ولا والد.</p>"
+        },
+        "4": {
+            "verses": {
+                "112:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولم يكن له مماثل في خلقه.</h2>"
+        }
+    }
+}

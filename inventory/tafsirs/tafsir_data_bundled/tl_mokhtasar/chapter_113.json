@@ -1,0 +1,85 @@
+{
+    "chapter": 113,
+    "verses": {
+        "1": {
+            "verses": {
+                "113:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sabihin mo, O Sugo: \"Nagpapasanggalang ako sa Panginoon ng madaling-araw at nagpapakalinga ako sa Kanya</p>"
+        },
+        "2": {
+            "verses": {
+                "113:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>laban sa kasamaan ng nakasasakit kabilang sa mga nilikha.</h2>"
+        },
+        "3": {
+            "verses": {
+                "113:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpapasanggalang ako kay Allāh laban sa mga kasamaan na lumilitaw sa gabi gaya ng mga hayop at mga magnanakaw.</p>"
+        },
+        "4": {
+            "verses": {
+                "113:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpapasanggalang ako sa Kanya laban sa kasamaan ng mga babaing manggagaway na umiihip sa mga buhol.</p>"
+        },
+        "5": {
+            "verses": {
+                "113:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpapasanggalang ako sa Kanya laban sa kasamaan ng isang naiinggit kapag gumawa ito ng itinutulak sa kanya ng inggit.\"</p>"
+        }
+    }
+}

@@ -1,0 +1,901 @@
+{
+    "chapter": 74,
+    "verses": {
+        "1": {
+            "verses": {
+                "74:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ឱអ្នកដែលដណ្ដប់ភួយ (ពោលគឺព្យាការីមូហាំម៉ាត់)!</h2>"
+        },
+        "2": {
+            "verses": {
+                "74:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ចូរអ្នកក្រោកឡើង ហើយព្រមានមនុស្សលោកឱ្យខ្លាចទណ្ឌកម្មរបស់អល់ឡោះ។</p>"
+        },
+        "3": {
+            "verses": {
+                "74:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយចូរអ្នកលើកតម្កើងម្ចាស់របស់អ្នកចុះ។</p>"
+        },
+        "4": {
+            "verses": {
+                "74:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយចូរអ្នកសម្អាតខ្លួនរបស់អ្នកពីបាបកម្មទាំងឡាយ និងសម្អាតសម្លៀកបំពាក់របស់អ្នកពីភាពកខ្វក់។</p>"
+        },
+        "5": {
+            "verses": {
+                "74:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយចូរអ្នកចៀសឱ្យឆ្ងាយពីការគោរពសក្ការៈរូបបដិមា។</p>"
+        },
+        "6": {
+            "verses": {
+                "74:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយចូរកុំរំលើកគុណដល់ម្ចាស់របស់អ្នក ដោយសារការធ្វើទង្វើល្អជាច្រើនរបស់អ្នកឲ្យសោះ។</p>"
+        },
+        "7": {
+            "verses": {
+                "74:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយចូរអ្នកអត់ធ្មត់ក្នុងនាមអល់ឡោះចំពោះការធ្វើទុក្ខបុកម្នេញទាំងឡាយដែលអ្នកបានទទួលរង</p>"
+        },
+        "8": {
+            "verses": {
+                "74:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ព្រោះនៅពេលដែលគេផ្លុំត្រែលើកទីពីរ</p>"
+        },
+        "9": {
+            "verses": {
+                "74:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>គឺថ្ងៃនោះហើយជាថ្ងៃដែលលំបាកបំផុត។</p>"
+        },
+        "10": {
+            "verses": {
+                "74:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ចំពោះពួកដែលប្រឆាំងនឹងអល់ឡោះនិងបណ្តាអ្នកនាំសាររបស់ទ្រង់នោះ គឺគ្មានភាពងាយស្រួលឡើយ(នៅថ្ងៃនោះ)។</p>"
+        },
+        "11": {
+            "verses": {
+                "74:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ចូរអ្នក(ឱអ្នកនាំសារមូហាំម៉ាត់)ទុកឱ្យយើងចាត់ការអ្នកដែលយើងបានបង្កើតគេឲ្យនៅតែម្នាក់ឯងក្នុងផ្ទៃម្តាយរបស់គេដោយគ្មានទ្រព្យនិងកូនចៅនោះ (ពោលគឺសំដៅលើ អាល់វ៉ាលីទ កូនប្រុស អាល់ម៉ូហ្គីរ៉ោះ)។</p>"
+        },
+        "12": {
+            "verses": {
+                "74:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយយើងបានធ្វើឱ្យគេក្លាយជាអ្នកមានទ្រព្យសម្បត្តិស្តុកស្តម្ភ។</p>"
+        },
+        "13": {
+            "verses": {
+                "74:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយយើងបានប្រទានឱ្យគេមានកូនច្រើនរស់នៅជុំគ្នា ដោយពួកគេមិនចាំបាច់រស់នៅបែកខ្ញែកគ្នាធ្វើចំណាកស្រុកឡើយ ដោយសារពួកគេជាអ្នកមានទ្រព្យសម្បត្តិស្តុកស្តម្ភទៅហើយ។</p>"
+        },
+        "14": {
+            "verses": {
+                "74:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយយើងបានប្រទានដល់គេនូវជីវិតរស់នៅដែលស្រណុកសុខស្រួល មានលាភសក្ការៈនិងមានកូនចៅជាច្រើន។</p>"
+        },
+        "15": {
+            "verses": {
+                "74:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>បន្ទាប់មក ទោះបីជាគេ(អាល់មូហ្គីរ៉ោះ)ប្រឆាំងនឹងយើងហើយក៏ដោយ ក៏គេមានភាពលោភលន់ចង់ឱ្យយើងបន្ថែមឱ្យគេថែមទៀត។</p>"
+        },
+        "16": {
+            "verses": {
+                "74:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>រឿងនោះមិនដូចអ្វីដែលគេស្រមៃនោះឡើយ! ពិតប្រាកដណាស់ គេគឺជាអ្នកដែលប្រឆាំងរឹងរូសចំពោះបណ្តាវាក្យខណ្ឌរបស់យើងដែលបានបញ្ចុះទៅលើអ្នកនាំសាររបស់យើង។</p>"
+        },
+        "17": {
+            "verses": {
+                "74:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>យើងនឹងដាក់ទណ្ឌកម្មលើគេកាន់តែខ្លាំង និងកាន់តែវេទនាថែមទៀតដែលគេមិនអាចទ្រាំទ្របាន។</p>"
+        },
+        "18": {
+            "verses": {
+                "74:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ជាការពិតណាស់ បុគ្គលគ្មានជំនឿរូបនេះដែលយើង(អល់ឡោះ)បានប្រទានឧបការគុណទាំងនោះដល់គេនោះ បានរិះគិតពាក្យសម្ដីដើម្បីនិយាយបដិសេធនឹងគម្ពីរគួរអាន និងបានរៀបគម្រោងធ្វើអាក្រក់ក្នុងខ្លួនរបស់គេ។</p>"
+        },
+        "19": {
+            "verses": {
+                "74:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ពិតណាស់រូបគេត្រូវបានគេដាក់បណ្ដាសា និងដាក់ទណ្ឌកម្ម។ តើគេអាចរៀបគម្រោងការអាក្រក់បានយ៉ាងដូចមេ្ដច?</p>"
+        },
+        "20": {
+            "verses": {
+                "74:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>បន្ទាប់មក រូបគេត្រូវបានដាក់បណ្ដាសា និងដាក់ទណ្ឌកម្ម។ តើគេអាចរៀបគម្រោងការអាក្រក់បានយ៉ាងដូចមេ្ដច?</p>"
+        },
+        "21": {
+            "verses": {
+                "74:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>បន្ទាប់មកទៀត គេបានគិតពិចារណាសារជាថ្មីចំពោះអ្វីដែលគេបាននិយាយ។</p>"
+        },
+        "22": {
+            "verses": {
+                "74:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ក្រោយមក គេបានប្រែទឹកមុខ និងខឹងមួម៉ៅ នៅពេលដែលគេមិនបានប្រទះឃើញដូចអ្វីដែលគេបានចោទប្រកាន់នៅក្នុងគម្ពីរគួរអាន។</p>"
+        },
+        "23": {
+            "verses": {
+                "74:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ក្រោយមកទៀត គេបានបែរចេញពីការមានជំនឿ និងបានក្រអឺតក្រទមមិនព្រមដើរតាមព្យាការីមូហាំម៉ាត់ថែមទៀត។</p>"
+        },
+        "24": {
+            "verses": {
+                "74:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>រួចគេនិយាយថាៈ អ្វីដែលមូហាំម៉ាត់បាននាំមកនោះ មិនមែនជាបន្ទូលរបស់អល់ឡោះនោះទេ។ ផ្ទុយទៅវិញ វាគឺជាមន្តអាគមដែលគាត់ទទួលបានពីអ្នកដទៃតែប៉ុណ្ណោះ។</p>"
+        },
+        "25": {
+            "verses": {
+                "74:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>វាពុំមែនជាបន្ទូលរបស់អល់ឡោះនោះទេ ផ្ទុយទៅវិញ វាគ្រាន់តែជាពាក្យសម្តីរបស់មនុស្សលោកប៉ុណ្ណោះ។</p>"
+        },
+        "26": {
+            "verses": {
+                "74:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>យើងនឹងបញ្ចូលបុគ្គលប្រឆាំងរូបនេះទៅក្នុងឋាននរកដែលមានឈ្មោះថា នរកសាក័រ ដើម្បីឱ្យគេនូវភ្លក់កម្ដៅរបស់វា។</p>"
+        },
+        "27": {
+            "verses": {
+                "74:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>តើអ្វីដែលធ្វើឱ្យអ្នក(ឱអ្នកនាំសារមូហាំម៉ាត់)ដឹងថា តើនរកសាក័រជាអ្វីនោះ?</p>"
+        },
+        "28": {
+            "verses": {
+                "74:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>វាមិនបន្សល់ទុកអ្វីមួយចំពោះអ្នកដែលទទួលទណ្ឌកម្មនៅក្នុងវានោះឡើយ ហើយក៏មិនចោលគេដែរ។ បន្ទាប់មកគេនឹងត្រឡប់មកដូចដើម ហើយក៏ទទួលទណ្ឌកម្មនោះបែបនេះទៀតជារៀងរហូត។</p>"
+        },
+        "29": {
+            "verses": {
+                "74:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ភ្លើងនរក(សាក័រ)នោះ ឆេះយ៉ាងសន្ធោសន្ធៅ ធ្វើឱ្យស្បែករបស់ពួកគេប្រែ។</p>"
+        },
+        "30": {
+            "verses": {
+                "74:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>នៅលើឋាននរកនោះ មានម៉ាឡាអ៊ីកាត់ចំនួនដប់ប្រាំបួនរូបដែលជាអ្នកឆ្មាំនរក។</p>"
+        },
+        "31": {
+            "verses": {
+                "74:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយយើងមិនបានបង្កើតឆ្មាំឋាននរកនោះក្រៅពីម៉ាឡាអ៊ីកាត់ឡើយ ព្រោះមនុស្សលោកគ្មានសមត្ថភាពអាចធ្វើបានឡើយ។ ពិតណាស់ អាពូហ្ជាហាល់បានភូតកុហក ខណៈដែលរូបគេអះអាងថា រូបគេ និងក្រុមរបស់គេអាចទ្រាំទ្រនឹងទណ្ឌកម្មបាន បន្ទាប់មក ពួកគេនឹងចេញពីឋាននរកវិញ។ ហើយយើងមិនបានបង្កើតចំនួនរបស់ពួកគេ(ម៉ាឡាអ៊ីកាត់)ឡើយ លើកលែងតែដើម្បីជាការសាកល្បងចំពោះពួកដែលគ្មានជំនឿនឹងអល់ឡោះប៉ុណ្ណោះ ដើម្បីឲ្យពួកគេនិយាយផ្តេសផ្តាស់ ពេលនោះ ទណ្ឌកម្មរបស់ពួកគេនឹងកាន់តែកើនទ្វេដង និងដើម្បីឱ្យពួកយូដាដែលបានទទួលគម្ពីរតាវរ៉ត និងពួកណាសរ៉នីដែលបានទទួលគម្ពីរអ៊ីនជីលជឿជាក់ច្បាស់នៅពេលដែលគម្ពីរគួរអានបានបញ្ចុះមកដែលជាការបញ្ជាក់នូវអ្វីដែលមាននៅក្នុងគម្ពីរទាំងពីររបស់ពួកគេ និងដើម្បីឱ្យបណ្ដាអ្នកដែលមានជំនឿកាន់តែបន្ថែមនូវសេចក្តីជំនឿ(របស់ពួកគេ)ថែមទៀតនៅពេលដែលគម្ពីរគួរអាននោះមានភាពស្របគ្នាជាមួយនឹង(គម្ពីរ)ពួកអះលីគីតាប និងដើម្បីកុំឱ្យពួកយូដា និងពួកណាសរ៉នី ព្រមទាំងបណ្ដាអ្នកដែលមានជំនឿមានការសង្ស័យ និងដើម្បីឱ្យពួកដែលជំនឿរបស់ពួកគេមានភាពរារែក ហើយនិងពួកដែលប្រឆាំងនិយាយថាៈ តើអល់ឡោះមានបំណងអ្វីចំពោះចំនួន(ម៉ាឡាអ៊ីកាត់)ដ៏ចម្លែកនេះ។ ដូចដែលអល់ឡោះទ្រង់បានធ្វើឱ្យវងេ្វងចំពោះអ្នកដែលបដិសេធនឹងចំនួន(ម៉ាឡាអ៊ីកាត់)នេះ ហើយចង្អុលបង្ហាញចំពោះអ្នកដែលជឿជាក់ចំពោះវានោះដែរ ទ្រង់ធ្វើឲ្យវង្វេងចំពោះជនណាដែលទ្រង់មានចេតនា និងចង្អុលបង្ហាញចំពោះជនណាដែលទ្រង់មានចេតនា។ ហើយគ្មាននរណាម្នាក់ដឹងពីចំនួនកងទ័ពនៃម្ចាស់របស់អ្នកឡើយ ព្រោះពួកគេមានចំនួនច្រើនលើសលប់ លើកលែងតែទ្រង់មួយអង្គគត់។ ហេតុនេះ ចូរឲ្យអាពូហ្ជាហាល់ដែលនិយាយក្នុងលក្ខណៈមើលស្រាល និងបដិសេធថា “តើមូហាំម៉ាត់មានបក្សពួកតែដប់ប្រាំបួននាក់នេះទេឬ?” ដឹងដូចនេះចុះ។ ហើយឋាននរកនោះ គ្មានអ្វីក្រៅពីជាការរំលឹកដល់មនុស្សលោកឲ្យបានដឹងពីភាពខ្លាំងពូកែរបស់អល់ឡោះជាម្ចាស់ឡើយ។</p>"
+        },
+        "32": {
+            "verses": {
+                "74:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ពាក្យសម្តីនោះ មិនដូចអ្វីដែលពួកមុស្ហរីគីនខ្លះបានអះអាងនោះទេដែលថា ក្រុមរបស់គេអាចយកទប់ទល់នឹងឆ្មាំនរកជើហាន់ណាំបាននោះ។ អល់ឡោះទ្រង់បានស្បថនឹងព្រះចន្ទ។</p>"
+        },
+        "33": {
+            "verses": {
+                "74:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយទ្រង់បានស្បថនឹងពេលយប់ខណៈដែលវាបានរំលងផុតទៅ។</p>"
+        },
+        "34": {
+            "verses": {
+                "74:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយទ្រង់ស្បថនឹងពេលព្រឹកនៅពេលដែលវាបពោ្ចញពន្លឺ។</p>"
+        },
+        "35": {
+            "verses": {
+                "74:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ជាការពិតណាស់ នរកជើហាន់ណាំនោះ ជាសាកល្បងមួយដ៏ធំធេង</h2>"
+        },
+        "36": {
+            "verses": {
+                "74:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ដើម្បីជាការព្រមាន និងបន្លាចដល់មនុស្សលោក។</h2>"
+        },
+        "37": {
+            "verses": {
+                "74:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>សម្រាប់ជនណាក្នុងចំណោមពួកអ្នក(មនុស្សលោក)ដែលចង់ដើរទៅមុខដោយមានជំនឿចំពោះអល់ឡោះនិងសាងនូវទង្វើកុសល ឬចង់ដើរថយក្រោយដោយការប្រឆាំងនិងប្រព្រឹត្តល្មើស។</p>"
+        },
+        "38": {
+            "verses": {
+                "74:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>រាល់បុគ្គលគ្រប់រូប គឺគេ(អល់ឡោះ)យកទោសពៃរ៍តាមទង្វើរបស់គេ(ដែលគេបានសាង)។ ជួនកាលទង្វើរបស់គេអាចបំផ្លាញគេ ហើយជួនកាលទង្វើរបស់គេអាចជួយរំដោះនិងសង្រ្គោះគេពីក្តីអន្តរាយ</p>"
+        },
+        "39": {
+            "verses": {
+                "74:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>លើកលែងតែបណ្តាអ្នកមានជំនឿប៉ុណ្ណោះ។ ពិតប្រាកដណាស់ គេមិនយកទោសពៃរ៍ចំពោះបាបកម្មរបស់ពួកគេនោះឡើយ ផ្ទុយទៅវិញ គេនឹងអភ័យទោសឲ្យពួកគេ ដោយសារតែទង្វើកុសលរបស់ពួកគេ(ដែលពួកគេបានសាង)។</p>"
+        },
+        "40": {
+            "verses": {
+                "74:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ហើយនៅថ្ងៃបរលោក ពួកគេសួរនាំគ្នាទៅវិញទៅមកនៅក្នុងឋានសួគ៌</h2>"
+        },
+        "41": {
+            "verses": {
+                "74:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>អំពីពួកគ្មានជំនឿដែលបានបំផ្លាញខ្លួនឯងដោយការប្រព្រឹត្ដអំពើបាបកម្ម។</p>"
+        },
+        "42": {
+            "verses": {
+                "74:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>បណ្តាអ្នកមានជំនឿបានសួរពួកគ្មានជំនឿថាៈ មូលហេតុអ្វីទើបបានជាគេបញ្ចូលពួកអ្នកទៅក្នុងនរកជើហាន់ណាំដូចនេះ?</p>"
+        },
+        "43": {
+            "verses": {
+                "74:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ពួកគេបានឆ្លើយថាៈ (ដោយសារតែ)ពួកយើងកាលពីមុនមិនបានស្ថិតក្នុងចំណោមអ្នកដែលប្រតិបត្ដិសឡាតដែលគេដាក់កាតព្វកិច្ចឡើយកាលនៅលើលោកិយ។</p>"
+        },
+        "44": {
+            "verses": {
+                "74:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយពួកយើងក៏មិនធ្លាប់បានផ្ដល់អាហារដល់អ្នកក្រីក្រនោះដែរនូវអ្វីដែលអល់ឡោះបានប្រទានឱ្យពួកយើងនោះ។</p>"
+        },
+        "45": {
+            "verses": {
+                "74:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយពួកយើងធ្លាប់បានស្ថិតនៅជាមួយនឹងពួកដែលដើរផ្លូវខុស។ រាល់ពេលដែលពួកគេវង្វេង ពួកយើងក៏វង្វេងតាមពួកគេដែរ។ ហើយពួកយើងនិយាយជាមួយពួកដែលវង្វេង និងពួកដែលនិយាយតាមតែទំនើងចិត្ត។</p>"
+        },
+        "46": {
+            "verses": {
+                "74:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយពួកយើងធ្លាប់បានបដិសេធមិនជឿថ្ងៃតបស្នង(ថ្ងៃបរលោក)។</p>"
+        },
+        "47": {
+            "verses": {
+                "74:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយពួកយើងរឹងរូសស្ថិតនៅក្នុងការបដិសេធបែបនេះ រហូតដល់សេចក្ដីស្លាប់បានមកដល់ពួកយើង។ ពេលនោះ រវាងពួកយើង និងការសារភាពកំហុសត្រូវបានបញ្ចប់។</p>"
+        },
+        "48": {
+            "verses": {
+                "74:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយការធ្វើអន្ដរាគមន៍ពីបណ្ដាម៉ាឡាអ៊ីកាត់ បណ្តាព្យាការី និងពីបណ្តាអ្នកសាងកុសលទាំងឡាយ គឺគ្មានប្រយោជន៍អ្វីដល់ពួកគេឡើយ ព្រោះក្នុងចំណោមលក្ខខណ្ឌនៃការទទួលយកការធ្វើអន្តរាគមន៍នោះ គឺទាល់តែអ្នកដែលត្រូវគេជួយអន្តរាគមន៍នោះ យល់ព្រម។</p>"
+        },
+        "49": {
+            "verses": {
+                "74:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>តើអ្វីទៅដែលធ្វើឱ្យពួកមុស្ហរីគីនទាំងនោះងាកចេញពីគម្ពីរគួរអាន?</p>"
+        },
+        "50": {
+            "verses": {
+                "74:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ការដែលពួកគេងាកចេញអំពីគម្ពីរគួរអានដូចនេះ គឺពួកគេប្រៀបដូចជាសត្វលាដែលផ្អើលខ្លាំង</p>"
+        },
+        "51": {
+            "verses": {
+                "74:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ដែលវា(សត្វលា)រត់គេចពីសត្វតោដោយភាពភ័យខ្លាច។</p>"
+        },
+        "52": {
+            "verses": {
+                "74:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ផ្ទុយទៅវិញ ម្នាក់ៗក្នុងចំណោមពួកមុស្ហរីគីនទាំងនោះចង់ឱ្យអល់ឡោះទ្រង់បញ្ចុះគម្ពីរដែលរីកសុសសាយឱ្យពួកគេម្នាក់មួយដោយមានការបញ្ជាក់នៅក្នុងគម្ពីរនោះថា ព្យាការីមូហាំម៉ាត់ ពិតជាអ្នកនាំសារមកពីអល់ឡោះជាម្ចាស់ពិតមែន។ ហើយមូលហេតុដែលនាំឱ្យពួកគេចង់បានបែបនេះ គឺពុំមែនដោយសារតែអំណះអំណាងមានតិច ឬភស្តុតាងខ្សោយនោះទេ តាមពិត គឺដោយសារភាពចចេសរឹងរូស និងភាពក្រអឹតក្រទមរបស់ពួកគេប៉ុណ្ណោះ។</p>"
+        },
+        "53": {
+            "verses": {
+                "74:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>រឿងនោះមិនដូច្នោះឡើយ។ ផ្ទុយទៅវិញ មូលហេតុដែលនាំឲ្យពួកគេចចេសរឹងរូសក្នុងភាពវង្វេងនោះ គឺដោយសាតែពួកគេមិនមានជំនឿនឹងទណ្ឌកម្មនៅថ្ងៃបរលោកឡើយ។ ដូចនេះ ពួកគេក៏ស្ថិតលើភាពគ្មានជំនឿរបស់ពួកគេនោះដដែល។</p>"
+        },
+        "54": {
+            "verses": {
+                "74:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ពិតប្រាកដណាស់ គម្ពីរគួរអានគឺជាដំបូន្មាន និងជាការដាស់រំលឹក។</h2>"
+        },
+        "55": {
+            "verses": {
+                "74:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ដូចនេះ ជនណាហើយដែលមានបំណងចង់សូត្រគម្ពីរគួរអាន និងយកវាជាមេរៀននោះ គឺគេនឹងសូត្រវា និងយកវាធ្វើជាមេរៀនមិនខាន។</p>"
+        },
+        "56": {
+            "verses": {
+                "74:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 134,
+            "resource_name": "Tafsir Km Mokhtasar",
+            "language_id": 38,
+            "slug": "km_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Km Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ហើយពួកគេមិនទទួលយកវា(គម្ពីរគួរអាន)ធ្វើជាមេរៀននោះឡើយ លើកលែងតែអល់ឡោះមានចេតនាឲ្យពួកគេយកវាជាមេរៀនប៉ុណ្ណោះ។ ទ្រង់គឺជាម្ចាស់ដែលគេត្រូវកោតខ្លាចដោយការគោរពតាមបទបញ្ជារបស់ទ្រង់ និងជៀសវាងពីអ្វីដែលទ្រង់ហាមឃាត់ និងជាម្ចាស់ដែលអភ័យទោសចំពោះបាបកម្មរបស់ខ្ញុំបម្រើរបស់ទ្រង់នៅពេលដែលណាពួកគេសារភាពកំហុសទៅចំពោះទ្រង់។</p>"
+        }
+    }
+}

@@ -1,0 +1,901 @@
+{
+    "chapter": 74,
+    "verses": {
+        "1": {
+            "verses": {
+                "74:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O nagtatakip ng mga kasuutan niya (siya ay ang Propeta – basbasan siya ni Allāh at batiin ng kapayapaan),</p>"
+        },
+        "2": {
+            "verses": {
+                "74:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>tumindig ka at magpangamba ka sa pagdurusang dulot ni Allāh.</p>"
+        },
+        "3": {
+            "verses": {
+                "74:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Dumakila ka sa Panginoon mo.</h2>"
+        },
+        "4": {
+            "verses": {
+                "74:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magdalisay ka sa sarili mo mula sa mga pagkakasala at sa mga kasuutan mo mula sa mga karumihan.</p>"
+        },
+        "5": {
+            "verses": {
+                "74:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Lumayo ka sa pagsamba sa mga diyus-diyusan.</h2>"
+        },
+        "6": {
+            "verses": {
+                "74:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Huwag kang magmagandang-loob sa Panginoon mo sa pamamagitan ng paghiling mo na dumami ng gawa mong maayos.</p>"
+        },
+        "7": {
+            "verses": {
+                "74:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magtiis ka alang-alang kay Allāh sa anumang nakahaharap mo na pasakit.</p>"
+        },
+        "8": {
+            "verses": {
+                "74:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Kaya kapag nagpatunog sa sungay sa ikalawang pag-ihip,</h2>"
+        },
+        "9": {
+            "verses": {
+                "74:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ang Araw na iyon ay isang araw na matindi,</h2>"
+        },
+        "10": {
+            "verses": {
+                "74:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>sa mga tagatangging sumampalataya kay Allāh at sa mga sugo Niya ay hindi magaan.</p>"
+        },
+        "11": {
+            "verses": {
+                "74:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hayaan mo Ako, O Sugo, at ang nilikha Ko nang mag-isa sa tiyan ng ina niya nang walang yaman o anak. (Siya ay si Al-Walīd bin Al-Mughīrah.)</p>"
+        },
+        "12": {
+            "verses": {
+                "74:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Gumawa Ako para sa kanya ng isang yamang marami</h2>"
+        },
+        "13": {
+            "verses": {
+                "74:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Gumawa Ako para sa kanya ng mga anak na nakadalo sa kanya at sumasaksi sa mga pagdiriwang kasama sa kanya, na hindi humihiwalay sa kanya para sa isang paglalakbay dahil sa dami ng yaman niya.</p>"
+        },
+        "14": {
+            "verses": {
+                "74:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpasagana Ako sa kanya sa pamumuhay, panustos, at anak sa isang pagpapasagana.</p>"
+        },
+        "15": {
+            "verses": {
+                "74:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pagkatapos naghahangad siya sa kabila ng kawalang-pananampalataya niya sa Akin na magdagdag Ako sa kanya matapos na magbigay Ako sa kanya niyon sa kabuuan niyon.</p>"
+        },
+        "16": {
+            "verses": {
+                "74:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang usapin ay hindi gaya ng ginuguniguni niya! Tunay na siya dati ay nakikipagmatigasan sa mga tanda Naming ibinaba Namin sa Sugo Namin, na nagpapasinungaling sa mga ito.</p>"
+        },
+        "17": {
+            "verses": {
+                "74:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Mag-aatang Ako sa kanya ng isang pahirap mula sa pagdurusa, na hindi siya makakakaya sa pagbabata niyon.</p>"
+        },
+        "18": {
+            "verses": {
+                "74:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang tagatangging sumampalataya na ito na nagbiyaya Ako sa kanya ng mga biyayang iyon ay nag-isip hinggil sa sasabihin niya hinggil sa Qur'ān para sa pagpapabula rito, at nagtakda niyon sa sarili niya.</p>"
+        },
+        "19": {
+            "verses": {
+                "74:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya sumapain nawa siya at pagdusahin nawa siya kung papaano siyang nagtakda!</p>"
+        },
+        "20": {
+            "verses": {
+                "74:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pagkatapos sumpain nawa siya at pagdusahin nawa siya kung papaano siyang nagtakda!</p>"
+        },
+        "21": {
+            "verses": {
+                "74:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pagkatapos umulit siya ng pagmamasid at paglilimi sa anumang sasabihin niya.</p>"
+        },
+        "22": {
+            "verses": {
+                "74:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pagkatapos umasim ang mukha niya at umismid siya nang hindi siya nakatagpo ng maipaninira niya sa Qur'ān.</p>"
+        },
+        "23": {
+            "verses": {
+                "74:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pagkatapos tumalikod siya sa pananampalataya at nagmalaki siya sa pagtanggi sa pagsunod sa Propeta – basbasan siya ni Allāh at batiin ng kapayapaan.</p>"
+        },
+        "24": {
+            "verses": {
+                "74:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya nagsabi siya: \"Itong inihatid ni Muḥammad ay hindi Pananalita ni Allāh, bagkus ito ay isang panggagaway na isinasaysay niya buhat sa iba sa kanya.</p>"
+        },
+        "25": {
+            "verses": {
+                "74:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ito ay hindi Pananalita ni Allāh; bagkus ito ay pananalita ng tao.\"</p>"
+        },
+        "26": {
+            "verses": {
+                "74:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magpapasok Ako sa tagatangging sumampalataya na ito sa isa sa mga palapag ng Impiyerno. Iyon ay ang Saqar, na magdurusa siya sa init niyon.</p>"
+        },
+        "27": {
+            "verses": {
+                "74:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Ano ang nagpaalam sa iyo, o Muḥammad, kung ano ang Saqar?</h2>"
+        },
+        "28": {
+            "verses": {
+                "74:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi ito nagtitira ng anuman mula sa pinagdurusa roon malibang pupunta ito roon at hindi ito mag-iiwan doon. Pagkatapos manunumbalik iyon gaya ng dati. Pagkatapos pupunta ito roon. Ganoon ng ganoon.</p>"
+        },
+        "29": {
+            "verses": {
+                "74:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Matindi ang pagsusunog at ang pagpapalit sa mga balat,</h2>"
+        },
+        "30": {
+            "verses": {
+                "74:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>sa ibabaw nito ay may labingsiyam na anghel. Sila ay ang mga tanod nito.</p>"
+        },
+        "31": {
+            "verses": {
+                "74:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi Kami naglagay ng mga tagatanod ng Apoy maliban ng mga anghel sapagkat walang kakayahan para sa mga tao sa kanila. Nagsinungaling nga si Abū Jahl nang nag-angkin siya na siya at ang mga tao niya ay makakakaya sa pagdaluhong sa mga anghel, pagkatapos makalalabas sa Apoy. Hindi gumawa sa bilang nilang ito malibang bilang pagsusulit para sa mga tumangging sumampalataya kay Allāh upang magsabi sila ng sasabihin nila para pag-ibayuhin sa kanila ang pagdurusa, upang makatiyak ang mga Hudyo na binigyan ng Torah at ang mga Kristiyano na binigyan ng Ebanghelyo kapag bumaba ang Qur'ān bilang tagapagpatotoo sa nasa mga Kasulatan nila, upang madagdagan ang mga mananampalataya ng pananampalataya kapag sumang-ayon sa kanila ang mga May Kasulatan at hindi mag-alinlangan ang mga Hudyo, ang mga Kristiyano, at ang mga mananampalataya, at upang magsabi ang mga nag-aatubili sa pananampalataya at ang mga tagatangging sumampalataya: \"Aling bagay ang ninais ni Allāh sa kataka-takang bilang na ito?\" Tulad ng pagpapaligaw sa tagapagkaila sa bilang na ito at kapatnubayan sa tagapagpatotoo nito. Nagliligaw si Allāh sa sinumang niloob Niya na iligaw at nagpapatnubay Siya sa sinumang niloob Niya na patnubayan. Walang nakaaalam sa mga kawal ng Panginoon mo sa dami ng mga ito kundi Siya – kaluwalhatian sa Kanya – kaya alamin iyon ni Abū Jahl na nagsasabi: \"Si Muḥammad ba ay walang mga katulong maliban sa labingsiyam?\" bilang pang-uuyam at bilang pagpapasinungaling. Walang iba ang Apoy kundi isang pagpapaalaala para sa mga tao, na malalaman nila dahil doon ang kadakilaan ni Allāh – kaluwalhatian sa Kanya.</p>"
+        },
+        "32": {
+            "verses": {
+                "74:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang masasabi ay hindi gaya ng inaakala ng isa sa mga tagapagtambal na makakasapat ang mga kasamahan niya laban sa mga tagatanod ng Impiyerno para maitaboy nila ang mga ito palayo roon! Sumumpa si Allāh sa buwan.</p>"
+        },
+        "33": {
+            "verses": {
+                "74:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sumumpa si Allāh sa gabi kapag lumisan ito.</h2>"
+        },
+        "34": {
+            "verses": {
+                "74:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sumumpa Siya sa madaling-araw kapag tumanglaw ito.</h2>"
+        },
+        "35": {
+            "verses": {
+                "74:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Tunay na ang Apoy ng Impiyerno ay isa sa mga kasawiang mabigat.</p>"
+        },
+        "36": {
+            "verses": {
+                "74:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>bilang pagpapasindak at pagpapangamba para sa mga tao,</h2>"
+        },
+        "37": {
+            "verses": {
+                "74:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>para sa sinumang lumuob kabilang sa inyo, O mga tao, na magpakauna sa pamamagitan ng pananampalataya kay Allāh at gawang maayos o magpakahuli sa pamamagitan ng kawalang-pananampalataya at mga pagsuway.</p>"
+        },
+        "38": {
+            "verses": {
+                "74:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bawat kaluluwa sa nakamit nito na mga gawa ay kukunin, kaya alin sa dalawa: magsasawi sa kanya ang mga gawa niya o magliligtas sa kanya ang mga ito at sasagip sa kanya ang mga ito mula sa kapahamakan.</p>"
+        },
+        "39": {
+            "verses": {
+                "74:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Maliban sa mga mananampalataya sapagkat tunay na sila ay hindi kukunin dahil sa mga pagkakasala nila; bagkus lalampas sa mga ito dahil sa taglay nila na gawang maayos.</p>"
+        },
+        "40": {
+            "verses": {
+                "74:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sila sa Araw ng Pagbangon ay nasa mga Hardin, na magtatanong ang isa't isa sa kanila</p>"
+        },
+        "41": {
+            "verses": {
+                "74:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>tungkol sa mga tagatangging sumampalataya na nagpahamak sa mga sarili nila dahil sa ginawa nila na mga pagsuway:</h2>"
+        },
+        "42": {
+            "verses": {
+                "74:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Magsasabi sila sa mga ito: \"Ano ang nagpapasok sa inyo sa Impiyerno?\"</p>"
+        },
+        "43": {
+            "verses": {
+                "74:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya sasagot sa kanila ang mga tagatangging sumampalataya, habang mga nagsasabi: \"Hindi kami dati kabilang sa mga nagsasagawa ng pagdarasal na isinatungkulin sa buhay na pangmundo.</p>"
+        },
+        "44": {
+            "verses": {
+                "74:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi kami dati nagpapakain sa maralita mula sa ibinigay sa amin ni Allāh.</p>"
+        },
+        "45": {
+            "verses": {
+                "74:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kami dati ay kasama sa mga kampon ng kabulaanan, na umiikot kami kasama sa kanila saan man umikot sila. Nagsasalita kami kasama sa mga kampon ng pagkaligaw at kalisyaan.</p>"
+        },
+        "46": {
+            "verses": {
+                "74:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Kami dati ay nagpapabula sa Araw ng Pagganti.</h2>"
+        },
+        "47": {
+            "verses": {
+                "74:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Nagpakalabis kami sa pagpapasinungaling sa kanya hanggang sa dumating sa amin ang kamatayan, kaya nakahadlang ito sa pagitan namin at ng pagbabalik-loob.\"</p>"
+        },
+        "48": {
+            "verses": {
+                "74:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya hindi magpapakinabang sa kanila sa Araw ng Pagbangon ang pagpapagitna ng mga tagapamagitan kabilang sa mga anghel, mga propeta, at mga maayos dahil kabilang sa kundisyon ng pagtanggap ng pamamagitan ay ang pagkalugod ng pinamamagitanan.</p>"
+        },
+        "49": {
+            "verses": {
+                "74:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Aling bagay ang gumawa sa mga tagapagtambal na ito bilang mga tagaayaw sa Qur'ān?</p>"
+        },
+        "50": {
+            "verses": {
+                "74:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Para bang sila sa pag-ayaw nila at pagkailang nila roon ay mga asnong ligaw na matindi ang pagkailang,</p>"
+        },
+        "51": {
+            "verses": {
+                "74:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>na nailang mula sa isang leyon dala ng pangamba dito.</h2>"
+        },
+        "52": {
+            "verses": {
+                "74:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bagkus nagnais ang bawat isa kabilang sa mga tagapagtambal na ito na umagahin na sa tabi ng ulo niya ay may isang kasulatan na nakaladlad na nagpapabatid sa kanya na si Muḥammad ay isang Sugo mula kay Allāh. Ang kadahilanan niyon ay hindi ang kakauntian ng mga patotoo o ang kahinaan ng mga katwiran; iyon lamang ay ang pagmamatigas at ang pagmamalaki.</p>"
+        },
+        "53": {
+            "verses": {
+                "74:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ang usapin ay hindi ganoon! Bagkus ang kadahilanan sa pagmamalabis nila sa pagkaligaw nila ay na sila ay hindi sumasampalataya sa pagkakaroon ng pagdurusa sa Kabilang-buhay kaya nanatili sila sa kawalang-pananampalataya nila.</p>"
+        },
+        "54": {
+            "verses": {
+                "74:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Pansinin! Tunay na ang Qur’ān na ito ay isang pangaral at isang pagpapaalaala.</p>"
+        },
+        "55": {
+            "verses": {
+                "74:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya ang sinumang lumuob na bumigkas ng Qur'ān at mapangaralan dahil dito ay mag-aalaala siya nito at mapangangaralan siya rito.</p>"
+        },
+        "56": {
+            "verses": {
+                "74:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hindi sila napangangaralan maliban na loobin ni Allāh na mapangaralan sila. Siya – kaluwalhatian sa Kanya – ay ang karapat-dapat para pangilagan sa pagkakasala sa pamamagitan ng pagsunod sa mga ipinag-uutos Niya at pag-iwas sa mga sinasaway Niya, at ang karapat-dapat para sa pagpapatawad ng mga pagkakasala ng mga lingkod Niya kapag nagbalik-loob sila sa Kanya.</p>"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "chapter": 97,
+    "verses": {
+        "1": {
+            "verses": {
+                "97:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<h2>سُورَةُ الْقَدْرِ</h2>\n<h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</h2>\n<p>قَوْلُهُ عَزَّ وَجَلَّ : ﴿إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ (١) وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ (٢) لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ (٣)﴾ [سُورَةُ الْقَدْرِ : ١-٣].</p>\n<p>أَخْبَرَنَا أَبُو بَكْرٍ التَّمِيمِيُّ، قَالَ : أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ حَيَّانَ، قَالَ : حَدَّثَنَا أَبُو يَحْيَى الرَّازِيُّ، قَالَ : حَدَّثَنَا سَهْلٌ الْعَسْكَرِيُّ، قَالَ : حَدَّثَنَا يَحْيَى بْنُ أَبِي زَائِدَةَ، عَنْ مُسْلِمٍ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ قَالَ :  ذَكَرَ النَّبِيُّ ﷺ رَجُلًا مِنْ بَنِي إِسْرَائِيلَ لَبِسَ السِّلَاحَ فِي سَبِيلِ اللَّهِ أَلْفَ شَهْرٍ، فَتَعَجَّبَ الْمُسْلِمُونَ مِنْ ذَلِكَ، فَأَنْزَلَ اللَّهُ تَعَالَى : ﴿إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ (١) وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ (٢) لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ (٣)﴾ [سُورَةُ الْقَدْرِ : ١-٣]، قَالَ : \" خَيْرٌ مِنَ الَّتِي لَبِسَ فِيهَا السِّلَاحَ ذَلِكَ الرَّجُلُ \".</p>"
+        },
+        "2": {
+            "verses": {
+                "97:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>6126</p>"
+        },
+        "3": {
+            "verses": {
+                "97:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>6126</p>"
+        },
+        "4": {
+            "verses": {
+                "97:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "5": {
+            "verses": {
+                "97:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 103,
+            "resource_name": "Tafsir Ar Asbabnuzul",
+            "language_id": 38,
+            "slug": "ar_asbabnuzul",
+            "translated_name": {
+                "name": "Tafsir Ar Asbabnuzul",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        }
+    }
+}

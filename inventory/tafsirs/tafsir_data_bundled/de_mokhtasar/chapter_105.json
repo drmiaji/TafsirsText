@@ -1,0 +1,85 @@
+{
+    "chapter": 105,
+    "verses": {
+        "1": {
+            "verses": {
+                "105:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Hast du - o Gesandter - nicht gewusst, was dein Herr mit Abrahah und seinen Gefährten, den Leuten des Elefanten, gemacht hat, als sie die Ka'bah zerstören wollten?</p>"
+        },
+        "2": {
+            "verses": {
+                "105:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah hat ihren üblen Plan, sie zu zerstören, ins Nichts geführt. So haben sie ihren Wunsch, die Menschen von der Ka'bah fernzuhalten, nicht in die Tat umsetzen können. Und so haben sie nichts von dem erreicht.</p>"
+        },
+        "3": {
+            "verses": {
+                "105:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Allah sandte gegen sie mehrere Gruppen von Vögeln.</h2>"
+        },
+        "4": {
+            "verses": {
+                "105:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sie bewarfen sie mit Steinen aus versteinertem Ton.</h2>"
+        },
+        "5": {
+            "verses": {
+                "105:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 123,
+            "resource_name": "Tafsir De Mokhtasar",
+            "language_id": 38,
+            "slug": "de_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir De Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah machte sie dann wie Blätter des Saatguts, die von Weidetieren gefressen und zertrampelt worden sind.</p>"
+        }
+    }
+}

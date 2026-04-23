@@ -1,0 +1,85 @@
+{
+    "chapter": 105,
+    "verses": {
+        "1": {
+            "verses": {
+                "105:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَلَمۡ تَرَ﴾: أَلَمْ تَعْلَمْ.</h2>\n<p>﴿بِأَصۡحَٰبِ ٱلۡفِيلِ﴾: أَبْرَهَة الحَبَشِيِّ وَجَيشِهِ الَّذِين أرادُوا تَدمِيرَ الكعْبةِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "105:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَيۡدَهُمۡ﴾: ما دبَّرُوهُ مِن شَرٍّ.</h2>\n<h2>﴿فِي تَضۡلِيلٖ﴾: في إبطالٍ وتَضْيِيعٍ؟</h2>"
+        },
+        "3": {
+            "verses": {
+                "105:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَبَابِيلَ﴾: في جماعاتٍ مُتَتابِعةٍ.</h2>"
+        },
+        "4": {
+            "verses": {
+                "105:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿تَرۡمِيهِم﴾: تَقْذِفُهُم.</h2>\n<h2>﴿سِجِّيلٖ﴾: طِينٍ مُتَحَجِّرٍ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "105:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَعَصۡفٖ مَّأۡكُولِۭ﴾: كَأَوْرَاقِ الزَّرعِ اليابِسةِ الَّتِي أَكَلَتْها البهائِمُ ثُمَّ رَمَتْ بِها.</p>"
+        }
+    }
+}

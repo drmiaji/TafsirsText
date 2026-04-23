@@ -1,0 +1,133 @@
+{
+    "chapter": 99,
+    "verses": {
+        "1": {
+            "verses": {
+                "99:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yeryüzü, kıyamet günü meydana gelecek şiddetli bir sarsıntıyla hareket ettiğinde.</p>"
+        },
+        "2": {
+            "verses": {
+                "99:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve yeryüzü, içinde bulunan ölüleri ve bunun dışındaki şeyleri tekrar çıkardığı zaman.</p>"
+        },
+        "3": {
+            "verses": {
+                "99:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanoğlu şaşkınlık içinde şöyle der: “Yeryüzünün bu hali de nedir, sarsılıp çalkalanıyor?</p>"
+        },
+        "4": {
+            "verses": {
+                "99:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O büyük gün, yeryüzü üzerinde hayır ve şer olarak neler yapıldığını haber verecektir.</p>"
+        },
+        "5": {
+            "verses": {
+                "99:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Çünkü Allah Teâlâ ona bildirmiş ve ona bunu yapmayı emretmiştir.</p>"
+        },
+        "6": {
+            "verses": {
+                "99:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanlar, yeryüzünün sarsılacağı o büyük gün dünyada yapmış oldukları amellerini görmek için hesaba çekildikleri yerden bölük bölük çıkacaklar.</p>"
+        },
+        "7": {
+            "verses": {
+                "99:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kim, küçük bir karınca ağırlığınca hayırlı ve iyi bir amel yapmışsa, onu önünde görecektir.</p>"
+        },
+        "8": {
+            "verses": {
+                "99:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kim de küçük bir karınca ağırlığınca kötü bir amel işlemişse, aynı şekilde onu görecektir.</p>"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "chapter": 99,
+    "verses": {
+        "1": {
+            "verses": {
+                "99:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kapag pinagalaw ang lupa sa pagpapagalaw na matindi na mangyayari rito sa Araw ng Pagbangon,</p>"
+        },
+        "2": {
+            "verses": {
+                "99:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at nagpalabas ang lupa ng nasa loob nito na mga patay at iba pa sa kanila,</p>"
+        },
+        "3": {
+            "verses": {
+                "99:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at nagsabi ang tao habang nalilito: \"Ano ang pumapatungkol sa lupa na gumagalaw-galaw at nauuga?\" –</p>"
+        },
+        "4": {
+            "verses": {
+                "99:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>sa dakilang Araw na iyon ay mag-uulat ang lupa ng ginawa sa ibabaw nito na kabutihan at kasamaan</p>"
+        },
+        "5": {
+            "verses": {
+                "99:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>dahil si Allāh ay nagpaalam dito at nag-utos dito niyon.</h2>"
+        },
+        "6": {
+            "verses": {
+                "99:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Sa dakilang Araw na iyon na mayayanig roon ang lupa, lalabas ang mga tao mula sa tigilan ng pagtutuos nang pangkat-pangkat upang makasaksi sila sa mga gawa nila na ginawa nila sa Mundo.</p>"
+        },
+        "7": {
+            "verses": {
+                "99:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kaya ang sinumang gumawa ng isang katimbang ng isang munting langgam na mga gawain ng kabutihan at pagpapakabuti ay makikita niya iyon sa harapan niya,</p>"
+        },
+        "8": {
+            "verses": {
+                "99:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at ang sinumang gumawa ng isang katimbang niyon na mga gawain ng kasamaan ay makikita niya iyon gayon din.</p>"
+        }
+    }
+}

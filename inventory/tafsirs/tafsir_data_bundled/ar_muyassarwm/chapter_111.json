@@ -1,0 +1,85 @@
+{
+    "chapter": 111,
+    "verses": {
+        "1": {
+            "verses": {
+                "111:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿تَبَّتۡ يَدَآ أَبِي لَهَبٖ﴾: خَسِرتْ يدا أبي لَهَبٍ وَشَقِيَ بِإيذائِهِ رَسُولَ اللهِ مُحَمَّداً ﷺ.</p>\n<h2>﴿وَتَبَّ﴾: وَقَد تَحقَّقَ خُسْرانُ أبي لَهَبٍ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "111:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ﴾: ما دَفعَ عنه مالُه، ولَن يَرُدَّ عنْهُ شَيئاً مِنْ عَذابِ اللهِ إذا نَزَلَ بِهِ.</p>\n<h2>﴿وَمَا كَسَبَ﴾: وَكَسْبُه الَّذِي جَمَعَ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "111:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿سَيَصۡلَىٰ﴾: سَيَدْخُلُ.</h2>\n<h2>﴿ذَاتَ لَهَبٖ﴾: مُتَأَجِّجَةً.</h2>"
+        },
+        "4": {
+            "verses": {
+                "111:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ﴾: هُوَ وامْرأتُه الَّتِي كانتْ تَحْمِلُ الشَّوكَ، فَتَطْرَحُهُ في طَرِيقِ النَّبِيِّ ﷺ لِأذِيَّتِهِ.</p>"
+        },
+        "5": {
+            "verses": {
+                "111:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فِي جِيدِهَا﴾: في عُنُقِها.</h2>\n<p>﴿حَبۡلٞ مِّن مَّسَدِۭ﴾: حَبْلٌ مُحْكَمُ الفَتْلِ مِن لِيفٍ شَدِيدٍ خَشِنٍ، تُرْفَعُ بِهِ في نارِ جَهَنَّمَ، ثُمَّ تُرْمَى إلى أسْفَلِها.</p>"
+        }
+    }
+}

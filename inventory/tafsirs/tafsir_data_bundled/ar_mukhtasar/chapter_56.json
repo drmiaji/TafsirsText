@@ -1,0 +1,1541 @@
+{
+    "chapter": 56,
+    "verses": {
+        "1": {
+            "verses": {
+                "56:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة الواقعة مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>التخويف بيوم القيامة، وتحقق وقوعه وأصناف الناس فيه وبيان جزاء كل منهم.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<h2>إذا قامت القيامة لا محالة.</h2>"
+        },
+        "2": {
+            "verses": {
+                "56:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لن توجد نفس تكذّب بها كما كانت تكذّب في الدنيا.</h2>"
+        },
+        "3": {
+            "verses": {
+                "56:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>خافضة للكفار الفجار بإدخالهم في النار، رافعة للمؤمنين المتقين بإدخالهم في الجنة.</p>"
+        },
+        "4": {
+            "verses": {
+                "56:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إذا حُرِّكت الأرض تحريكًا عظيمًا.</h2>"
+        },
+        "5": {
+            "verses": {
+                "56:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفُتِّتت الجبال تفتيتًا.</h2>"
+        },
+        "6": {
+            "verses": {
+                "56:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فكانت من التفتيت غبارًا منتشرًا لا ثبات لها.</h2>"
+        },
+        "7": {
+            "verses": {
+                "56:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وكنتم أصنافًا ثلاثة في ذلك اليوم:</h2>"
+        },
+        "8": {
+            "verses": {
+                "56:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأصحاب اليمين الذين يأخذون كتبهم بأيمانهم، ما أعلى وأعظم منزلتهم!</p>"
+        },
+        "9": {
+            "verses": {
+                "56:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأصحاب الشمال الذين يأخذون كتبهم بشمائلهم، ما أخسّ وأسوأ منزلتهم!</p>"
+        },
+        "10": {
+            "verses": {
+                "56:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>والسابقون بفعل الخيرات في الدنيا هم السابقون في الآخرة لدخول الجنة.</p>"
+        },
+        "11": {
+            "verses": {
+                "56:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أولئك هم المقربون عند الله.</h2>"
+        },
+        "12": {
+            "verses": {
+                "56:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في جنات النعيم، يتنعمون بأصناف النعيم.</h2>"
+        },
+        "13": {
+            "verses": {
+                "56:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>جماعة من هذه الأمة ومن الأمم السابقة.</h2>"
+        },
+        "14": {
+            "verses": {
+                "56:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وقليل من الناس في آخر الزمان هم السابقون المقربون.</h2>"
+        },
+        "15": {
+            "verses": {
+                "56:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>على أسِرّة منسوجة بالذهب.</h2>"
+        },
+        "16": {
+            "verses": {
+                "56:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>متكئين على هذه الأسرّة متقابلين بوجوههم، لا ينظر أحدهم قفا غيره.</p>\n<h2>* من فوائد الآيات:</h2>\n<p>• دوام تذكر نعم الله وآياته سبحانه موجب لتعظيم الله وحسن طاعته.</p>\n<h2>• انقطاع تكذيب الكفار بمعاينة مشاهد القيامة.</h2>\n<h2>• تفاوت درجات أهل الجنة بتفاوت أعمالهم.</h2>"
+        },
+        "17": {
+            "verses": {
+                "56:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>يدور عليهم لخدمتهم وِلْدان لا ينالهم هَرَم ولا فناء.</h2>"
+        },
+        "18": {
+            "verses": {
+                "56:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>يدورون عليهم بأقداح لا عُرا لها، وأباريق لها عُرًا، وكأس من خمر جارية في الجنة لا تنقطع.</p>"
+        },
+        "19": {
+            "verses": {
+                "56:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ليست كخمر الدنيا، فلا يلحق شاربها صداع، ولا ذهاب عقل.</h2>"
+        },
+        "20": {
+            "verses": {
+                "56:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويدور عليهم هؤلاء الوِلْدان بفاكهة مما يختارون.</h2>"
+        },
+        "21": {
+            "verses": {
+                "56:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ويدورون بلحم طير مما تشتهيه أنفسهم.</h2>"
+        },
+        "22": {
+            "verses": {
+                "56:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>ولهم في الجنة نساء واسعات العيون في جمال.</h2>"
+        },
+        "23": {
+            "verses": {
+                "56:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>كأمثال اللؤلؤ المَصُون في صَدَفه.</h2>"
+        },
+        "24": {
+            "verses": {
+                "56:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثوابًا لهم على ما كانوا يعملونه من الأعمال الصالحات في الدنيا.</p>"
+        },
+        "25": {
+            "verses": {
+                "56:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لا يسمعون في الجنة فاحش كلام، ولا ما يلحق صاحبه إثم.</h2>"
+        },
+        "26": {
+            "verses": {
+                "56:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لا يسمعون إلا سلام الملائكة عليهم، وسلام بعضهم على بعض.</h2>"
+        },
+        "27": {
+            "verses": {
+                "56:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأصحاب اليمين، ما أصحاب اليمين؟ يالعظمة مكانتهم وشأنهم عند الله.</p>"
+        },
+        "28": {
+            "verses": {
+                "56:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في سِدْر مقطوع الشوك، لا أذى فيه.</h2>"
+        },
+        "29": {
+            "verses": {
+                "56:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفي موز متراكم مصفوف بعضه إلى بعض.</h2>"
+        },
+        "30": {
+            "verses": {
+                "56:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وظل ممدود مستمرّ لا يزول.</h2>"
+        },
+        "31": {
+            "verses": {
+                "56:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وماء جار لا يتوقف.</h2>"
+        },
+        "32": {
+            "verses": {
+                "56:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفاكهة كثيرة لا تنحصر.</h2>"
+        },
+        "33": {
+            "verses": {
+                "56:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لا تنقطع عنهم أبدًا، فليس لها موسم، ولا يحول دونها مانع في أي وقت أرادوها.</p>"
+        },
+        "34": {
+            "verses": {
+                "56:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفرش مرفوعة عالية توضع على الأسرّة.</h2>"
+        },
+        "35": {
+            "verses": {
+                "56:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>إنا أنشأنا الحور المذكورات إنشاءً غير مألوف.</h2>"
+        },
+        "36": {
+            "verses": {
+                "56:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فصيّرناهنّ أبكارًا لم يُلْمَسن من قبل.</h2>"
+        },
+        "37": {
+            "verses": {
+                "56:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>مُتَحَبِّبات إلى أزواجهنّ، مستويات في السنّ.</h2>"
+        },
+        "38": {
+            "verses": {
+                "56:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أنشأناهنّ لأصحاب اليمين الذين يؤخذ بهم ذات اليمين علامة على سعادتهم.</p>"
+        },
+        "39": {
+            "verses": {
+                "56:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>هم جماعة من أمم الأنبياء السابقين.</h2>"
+        },
+        "40": {
+            "verses": {
+                "56:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وجماعة من أمة محمد ﷺ وهي آخر الأمم.</h2>"
+        },
+        "41": {
+            "verses": {
+                "56:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأصحاب الشمال، ما أصحاب الشمال؟ يا لسوء حالهم ومصيرهم.</h2>"
+        },
+        "42": {
+            "verses": {
+                "56:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في رياح شديدة الحرارة، وفي ماء شديد الحرارة.</h2>"
+        },
+        "43": {
+            "verses": {
+                "56:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وفي ظل دخان مُسْودّ.</h2>"
+        },
+        "44": {
+            "verses": {
+                "56:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لا طيّب الهبوب، ولا حسن المنظر.</h2>"
+        },
+        "45": {
+            "verses": {
+                "56:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إنهم كانوا قبل ما صاروا إليه من العذاب مُتَنَعِّمين في الدنيا، لا هَمَّ لهم إلا شهواتهم.</p>"
+        },
+        "46": {
+            "verses": {
+                "56:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وكانوا يصممون على الكفر بالله وعبادة الأصنام من دونه.</h2>"
+        },
+        "47": {
+            "verses": {
+                "56:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وكانوا ينكرون البعث فيقولون استهزاءً واستبعادًا له: أإذا متنا وصرنا ترابًا وعظامًا نَخِرة أنبعث بعد ذلك؟!</p>"
+        },
+        "48": {
+            "verses": {
+                "56:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أوَ يبعث آباؤنا الأولون الذين ماتوا قبلنا؟!</h2>"
+        },
+        "49": {
+            "verses": {
+                "56:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>قل - أيها الرسول - لهؤلاء المنكرين للبعث: إن الأولين من الناس والمتأخرين منهم.</p>"
+        },
+        "50": {
+            "verses": {
+                "56:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>سيُجْمعون يوم القيامة لا محالة للحساب والجزاء.</h2>\n<h2>* من فوائد الآيات:</h2>\n<h2>• العمل الصالح سبب لنيل النعيم في الآخرة.</h2>\n<h2>• الترف والتنعم من أسباب الوقوع في المعاصي.</h2>\n<h2>• خطر الإصرار على الذنب.</h2>"
+        },
+        "51": {
+            "verses": {
+                "56:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم إنكم - أيها المكذبون بالبعث، الضالون عن الصراط المستقيم -.</p>"
+        },
+        "52": {
+            "verses": {
+                "56:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لآكلون يوم القيامة من ثمرِ شجرِ الزَّقُّوم، وهو شرّ ثمر وأخبثه.</p>"
+        },
+        "53": {
+            "verses": {
+                "56:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمالئون من ذلك الشجر المُرِّ بطونكم الخاوية.</h2>"
+        },
+        "54": {
+            "verses": {
+                "56:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فشاربون عليه من الماء الحار الشديد الحرارة.</h2>"
+        },
+        "55": {
+            "verses": {
+                "56:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فمكثرون من شربه كما تكثر الإبل من الشرب بسبب داء الهُيام.</h2>"
+        },
+        "56": {
+            "verses": {
+                "56:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>هذا المذكور من الطعام المرّ والماء الحارّ هو ضيافتهم التي يُسْتَقبلون بها يوم الجزاء.</p>"
+        },
+        "57": {
+            "verses": {
+                "56:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>نحن خلقناكم - أيها المكذبون - بعد أن كنتم عدمًا، فهلَّا صدَّقتم بأنا سنبعثكم أحياء بعد موتكم؟!</p>"
+        },
+        "58": {
+            "verses": {
+                "56:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أفرأيتم - أيها الناس - ما تقذفونه من المني في أرحام نسائكم؟!</p>"
+        },
+        "59": {
+            "verses": {
+                "56:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أأنتم تخلقون ذلك المني، أم نحن الذين نخلقه؟!</h2>"
+        },
+        "60": {
+            "verses": {
+                "56:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>نحن قدرنا بينكم الموت، فلكل واحد منكم أجل لا يتقدم عليه ولا يتأخر، وما نحن بعاجزين.</p>"
+        },
+        "61": {
+            "verses": {
+                "56:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>على أن نبدل ما أنتم عليه من الخلق والتصوير مما علمتموه، وننشئكم فيما لا تعلمونه من الخلق والتصوير.</p>"
+        },
+        "62": {
+            "verses": {
+                "56:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ولقد علمتم كيف خلقناكم الخلق الأول، أفلا تعتبرون وتعلمون أن الذي خلقكم أول مرة قادر على بعثكم بعد موتكم؟!</p>"
+        },
+        "63": {
+            "verses": {
+                "56:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفرأيتم ما تلقونه من البذر في الأرض؟!</h2>"
+        },
+        "64": {
+            "verses": {
+                "56:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أأنتم الذين تنبتون ذلك البذر، أم نحن الذين ننبته؟!</h2>"
+        },
+        "65": {
+            "verses": {
+                "56:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لو نشاء جعْل ذلك الزرع حطامًا لجعلناه حطامًا بعد أن أوشك على النضج والإدراك، فظللتم بعد ذلك تتعجبون مما أصابه.</p>"
+        },
+        "66": {
+            "verses": {
+                "56:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>تقولون:إنا لمعذبون بخسارة ما أنفقناه.</h2>"
+        },
+        "67": {
+            "verses": {
+                "56:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>بل نحن محرومون من الرزق.</h2>"
+        },
+        "68": {
+            "verses": {
+                "56:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفرأيتم الماء الذي تشربون منه إذا عطشتم؟!</h2>"
+        },
+        "69": {
+            "verses": {
+                "56:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أأنتم أنزلتموه من السحاب في السماء، أم نحن الذين أنزلناه؟!</h2>"
+        },
+        "70": {
+            "verses": {
+                "56:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>لو نشاء جعْل ذلك الماء شديد الملوحة لا يُنْتَفع به شربًا ولا سقيًا لجعلناه شديد الملوحة، فلولا تشكرون الله على إنزاله عَذْبًا رحمة بكم.</p>"
+        },
+        "71": {
+            "verses": {
+                "56:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفرأيتم النار التي توقدونها لمنافعكم؟!</h2>"
+        },
+        "72": {
+            "verses": {
+                "56:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أأنتم الذين أنشأتم الشجرة التي توقَد منها، أم نحن الذين أنشأناها رفقًا بكم؟!</p>"
+        },
+        "73": {
+            "verses": {
+                "56:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>نحن صيّرنا هذه النار تذكرة لكم تذكركم بنار الآخرة، وصيّرناها منفعة للمسافرين منكم.</p>"
+        },
+        "74": {
+            "verses": {
+                "56:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فنزِّه - أيها الرسول - ربك العظيم عما لا يليق به.</h2>"
+        },
+        "75": {
+            "verses": {
+                "56:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أقسم الله بأماكن النجوم ومواقعها.</h2>"
+        },
+        "76": {
+            "verses": {
+                "56:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وإن القَسَم بهذه المواقع - لو تعلمون عظمه - لعظيم، لما فيه من الآيات والعبر التي لا تنحصر</p>\n<h2>* من فوائد الآيات:</h2>\n<h2>• دلالة الخلق الأول على سهولة البعث ظاهرة.</h2>\n<p>• إنزال الماء وإنبات الأرض والنار التي ينتفع بها الناس نعم تقتضي من الناس شكرها لله، فالله قادر على سلبها متى شاء.</p>\n<p>• الاعتقاد بأن للكواكب أثرًا في نزول المطر كفر وهو من عادات الجاهلية.</p>"
+        },
+        "77": {
+            "verses": {
+                "56:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن القرآن المقروء عليكم - أيها الناس - قرآن كريم، لما فيه من المنافع العظيمة.</p>"
+        },
+        "78": {
+            "verses": {
+                "56:78": {
+                    "id": 78
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>في كتاب مَصُون عن أعين الناس، وهو اللوح المحفوظ.</h2>"
+        },
+        "79": {
+            "verses": {
+                "56:79": {
+                    "id": 79
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لا يمسّه إلا الملائكة المطهَّرون من الذنوب والعيوب.</h2>"
+        },
+        "80": {
+            "verses": {
+                "56:80": {
+                    "id": 80
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>مُنَزَّل من رب الخلائق على نبيه محمد ﷺ.</h2>"
+        },
+        "81": {
+            "verses": {
+                "56:81": {
+                    "id": 81
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>أفبهذا الحديث أنتم - أيها المشركون - مكذبون غير مصدقين؟!</h2>"
+        },
+        "82": {
+            "verses": {
+                "56:82": {
+                    "id": 82
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وتجعلون شكركم لله على ما رزقكم به من النعم أنكم تكذبون به، فتنسبون المطر إلى النَّوْء، فتقولون: مُطِرنا بنَوْء كذا ونَوْء كذا؟!</p>\n<p>لما ذكر بعض أدلة البعث أراد أن ينبه على قدرته على الإعادة بالإشارة إلى عجزهم عن دفع الموت، فالذي أمات قادر على أن يحيي.</p>"
+        },
+        "83": {
+            "verses": {
+                "56:83": {
+                    "id": 83
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فهلَّا إذا وصلت الروح الحلقوم.</h2>"
+        },
+        "84": {
+            "verses": {
+                "56:84": {
+                    "id": 84
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأنتم في ذلك الوقت تنظرون المُحْتَضِر بين أيديكم.</h2>"
+        },
+        "85": {
+            "verses": {
+                "56:85": {
+                    "id": 85
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ونحن بعلمنا وقدرتنا وملائكتنا أقرب إلى ميتكم منكم، ولكن لا تشاهدون هؤلاء الملائكة.</p>"
+        },
+        "86": {
+            "verses": {
+                "56:86": {
+                    "id": 86
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فهلَّا - إن كنتم، كما تزعمون، غير مبعوثين لمجازاتكم على أعمالكم -</p>"
+        },
+        "87": {
+            "verses": {
+                "56:87": {
+                    "id": 87
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ترجعون هذه الروح التي تخرج من ميتكم إن كنتم صادقين؟! ولا تستطيعون ذلك.</p>"
+        },
+        "88": {
+            "verses": {
+                "56:88": {
+                    "id": 88
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فأما إن كان الميت من السابقين إلى الخيرات.</h2>"
+        },
+        "89": {
+            "verses": {
+                "56:89": {
+                    "id": 89
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فله راحة لا تعب بعدها، ورزق طيب، ورحمة، وله جنة يتنعم فيها بما تشتهيه نفسه.</p>"
+        },
+        "90": {
+            "verses": {
+                "56:90": {
+                    "id": 90
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأما إن كان الميت من أصحاب اليمين فلا تهتمّ لشأنهم، فلهم السلامة والأمن.</p>"
+        },
+        "91": {
+            "verses": {
+                "56:91": {
+                    "id": 91
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>انظر الآية 90</h2>"
+        },
+        "92": {
+            "verses": {
+                "56:92": {
+                    "id": 92
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأما إن كان الميت من المكذبين بما جاء به الرسول ﷺ الضالين عن الصراط المستقيم.</p>"
+        },
+        "93": {
+            "verses": {
+                "56:93": {
+                    "id": 93
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فضيافته التي يستقبل بها ماء حارٌّ شديد الحرارة.</h2>"
+        },
+        "94": {
+            "verses": {
+                "56:94": {
+                    "id": 94
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وله احتراق بنار الجحيم.</h2>"
+        },
+        "95": {
+            "verses": {
+                "56:95": {
+                    "id": 95
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إن هذا الذي قصصناه عليك - أيها الرسول - لهو حق اليقين الذي لا مِرْية فيه.</p>"
+        },
+        "96": {
+            "verses": {
+                "56:96": {
+                    "id": 96
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>فنزِّه اسم ربك العظيم، وقدِّسْه عن النقائص.</h2>"
+        }
+    }
+}

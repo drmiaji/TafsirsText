@@ -1,0 +1,53 @@
+{
+    "chapter": 110,
+    "verses": {
+        "1": {
+            "verses": {
+                "110:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kapag dumating ang pag-aadya ni Allāh sa Relihiyon mo, O Sugo, ang pagpapalakas Niya rito, at ang pagkaganap ng pagsakop sa Makkah</p>"
+        },
+        "2": {
+            "verses": {
+                "110:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>at nakakita ka sa mga tao na pumapasok sa Islām sa isang delegasyon matapos ng isang delegasyon</p>"
+        },
+        "3": {
+            "verses": {
+                "110:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 142,
+            "resource_name": "Tafsir Tl Mokhtasar",
+            "language_id": 38,
+            "slug": "tl_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tl Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ay alamin mo na iyon ay isang palatandaan sa pagkalapit ng pagwawakas ng misyon na ipinadala ka dahil doon kaya magluwalhati ka kalakip ng papuri sa Panginoon mo bilang pasasalamat sa Kanya sa biyaya ng pag-aadya at pagsakop [sa Makkah], at humiling ka mula sa Kanya ng kapatawaran. Tunay na Siya ay laging Palatanggap ng pagbabalik-loob, na tumatanggap ng pagbabalik-loob ng mga lingkod Niya at nagpapatawad sa kanila.</p>"
+        }
+    }
+}

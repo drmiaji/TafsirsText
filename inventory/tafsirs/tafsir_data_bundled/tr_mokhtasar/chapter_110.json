@@ -1,0 +1,53 @@
+{
+    "chapter": 110,
+    "verses": {
+        "1": {
+            "verses": {
+                "110:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Dinin için Allah’ın yardımı geldiği ve onu galip kılarak Mekke'nin fethi gerçekleştiği zaman.</p>"
+        },
+        "2": {
+            "verses": {
+                "110:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanların bölük bölük İslam dinine girdiklerini gördüğün zaman.</p>"
+        },
+        "3": {
+            "verses": {
+                "110:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bilmelisin ki bu haber verilen husus, yerine getirmek ile sorumlu tutulup gönderilmiş olduğun görevinin bitiş vaktinin yakınlığını gösteren bir alamettir. Öyleyse sana olan yardımına ve fetih nimetine şükretmek için hamdederek Rabbini tesbih et. O'ndan bağışlanma dile. Şüphesiz O, kendisine tevbe eden kullarının tevbesini çokça kabul eder ve onları bağışlar.</p>"
+        }
+    }
+}

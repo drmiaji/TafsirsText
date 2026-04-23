@@ -1,0 +1,133 @@
+{
+    "chapter": 95,
+    "verses": {
+        "1": {
+            "verses": {
+                "95:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>* سورة التين مكية</h2>\n<h2>* مِن مَّقاصِدِ السُّورَةِ:</h2>\n<p>ذكر قيمة الإنسان وشرفه بدينه، وسفوله وهوانه بتخليه عنه، لذا أقسم بأماكن نزول الوحي.</p>\n<h2>* التَّفْسِيرُ:</h2>\n<p>أقسم الله بالتين ومكان نباته، وبالزيتون ومكان نباته في أرض فلسطين التي بعث فيها عيسى عليه السلام.</p>"
+        },
+        "2": {
+            "verses": {
+                "95:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>وأقسم بجبل سيناء الذي ناجى عنده نبيه موسى عليه السلام.</h2>"
+        },
+        "3": {
+            "verses": {
+                "95:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>وأقسم بمكة البلد الحرام الذي يأمن من دخل فيه الذي بعث فيه محمد ﷺ.</p>"
+        },
+        "4": {
+            "verses": {
+                "95:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>لقد أوجدنا الإنسان في أعدل خلق وأفضل صورة.</h2>"
+        },
+        "5": {
+            "verses": {
+                "95:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>ثم أرجعناه إلى الهرم والخرف في الدنيا فلا ينتفع بجسده كما لا ينتفع به إذا أفسد فطرته وصار إلى النار.</p>"
+        },
+        "6": {
+            "verses": {
+                "95:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>إلا الذين آمنوا بالله وعملوا الأعمال الصالحات فإنهم وإن هرموا فلهم ثواب دائم غير مقطوع، وهو الجنة، لأنهم زكوا فطرهم.</p>"
+        },
+        "7": {
+            "verses": {
+                "95:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>فأي شيء يحملك - أيها الإنسان - على التكذيب بيوم الجزاء بعدما عاينت من علامات قدرته الكثيرة؟!</p>"
+        },
+        "8": {
+            "verses": {
+                "95:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 107,
+            "resource_name": "Tafsir Ar Mukhtasar",
+            "language_id": 38,
+            "slug": "ar_mukhtasar",
+            "translated_name": {
+                "name": "Tafsir Ar Mukhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>أليس الله - بجعل يوم القيامة يومًا للجزاء - بأحكم الحاكمين وأعدلهم؟! أيعقل أن يترك الله عباده سدى دون أن يحكم بينهم، فيجازي المحسن بإحسانه، والمسيء بإساءته؟!</p>"
+        }
+    }
+}

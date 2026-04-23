@@ -1,0 +1,645 @@
+{
+    "chapter": 75,
+    "verses": {
+        "1": {
+            "verses": {
+                "75:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah Teâlâ, insanların alemlerin Rabbinin huzurunda duracakları kıyamet gününe yemin etmiştir.</p>"
+        },
+        "2": {
+            "verses": {
+                "75:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yüce Allah kendisini salih amellerdeki kusurlarından ve yaptığı kötülüklerden ötürü kınayan iyi nefse yemin etmiştir. İnsanları, hesap vermek ve karşılık görmek için dirilteceği bu iki durum adına yemin etmiştir.</p>"
+        },
+        "3": {
+            "verses": {
+                "75:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanoğlu, ölümünden sonra yeniden diriliş için kemiklerini bir araya getiremeyeceğimizi mi sanıyor?</p>"
+        },
+        "4": {
+            "verses": {
+                "75:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kesinlikle evet! Dosdoğru bir yaratılışla parmaklarının çevresini/uçlarını eskisinde olduğu gibi bir araya getirmeye bile gücümüz yeter.</p>"
+        },
+        "5": {
+            "verses": {
+                "75:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bilâkis insan, yeniden dirilişi inkâr ederek içinde bulunduğu hatalara hiç ara vermeden gelecekte de devam etmek ister.</p>"
+        },
+        "6": {
+            "verses": {
+                "75:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bunu imkânsız görerek kıyamet gününün ne zaman kopacağını soruyorlar.</p>"
+        },
+        "7": {
+            "verses": {
+                "75:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yalanladığı şeyi gören göz, şaşırıp dehşete kapıldığı zaman.</p>"
+        },
+        "8": {
+            "verses": {
+                "75:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Ayın ışığı kaybolduğu zaman.</h2>"
+        },
+        "9": {
+            "verses": {
+                "75:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Güneş ve Ay'ın kütlesi birleştiği zaman.</h2>"
+        },
+        "10": {
+            "verses": {
+                "75:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O gün günahkâr insanlar şöyle diyecek: \"Kaçış nereye?\"</h2>"
+        },
+        "11": {
+            "verses": {
+                "75:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gün hiçbir yere kaçamazlar. Günahkâr kimselerin ne barınabileceği bir barınak, ne de sığınabileceği bir sığınak vardır.</p>"
+        },
+        "12": {
+            "verses": {
+                "75:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- O gün hesap görmek ve karşılığını almak üzere, dönüş ve varış yeri yalnız Rabbinin huzurudur.</p>"
+        },
+        "13": {
+            "verses": {
+                "75:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O gün insana, yaptığı ve yapmadığı ameller haber verilir.</h2>"
+        },
+        "14": {
+            "verses": {
+                "75:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Doğrusu insan, azalarının işlemiş olduğu günahlara şahitlik etmesi sebebiyle kendi aleyhine şahitlik edecektir.</p>"
+        },
+        "15": {
+            "verses": {
+                "75:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kendisini savunduğu mazeretleri getirse bile, şüphesiz yaptığı kötülüklerin ona bir faydası olmaz.</p>"
+        },
+        "16": {
+            "verses": {
+                "75:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Senden hiçbir şey kaçmasın diye, Kur'an okurken dilini aceleyle hareket ettirme.</p>"
+        },
+        "17": {
+            "verses": {
+                "75:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şüphesiz onu, senin kalbinde toplamamız ve okunuşunu dilinde sabit kılmamız bizim sorumluluğumuzdur.</p>"
+        },
+        "18": {
+            "verses": {
+                "75:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Cebrail onu sana okuduğunda susup, onun kıraatini dinlemen gerekir.</p>"
+        },
+        "19": {
+            "verses": {
+                "75:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sonra, onun sana tefsir edilmesi de yine bize aittir.</h2>"
+        },
+        "20": {
+            "verses": {
+                "75:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kesinlikle hayır! Durum, sizin yeniden dirilişin imkânsız olduğunu iddia ettiğiniz gibi değildir. Siz, çok iyi biliyorsunuz ki sizleri yoktan yaratmaya kadir olan, ölümünüzün ardından size tekrar hayat vermekten de aciz değildir. Oysa sizin yeniden dirilişi inkâr etmenizin gerçek sebebi, çabucak geçiveren dünya hayatına olan sevginizdir.</p>"
+        },
+        "21": {
+            "verses": {
+                "75:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah’ın size emrettiği ibadetleri yerine getirmek ve size yasakladığı haramları terk etmekle ulaşılan ahiret hayatını ise terk ediyorsunuz.</p>"
+        },
+        "22": {
+            "verses": {
+                "75:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gün, iman ve saadet ehli kimselerin yüzleri nur içinde parlar.</p>"
+        },
+        "23": {
+            "verses": {
+                "75:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Bundan zevk duyarak Rablerine bakarlar.</h2>"
+        },
+        "24": {
+            "verses": {
+                "75:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O gün, kâfir ve bedbaht kimselerin yüzleri ise asıktır.</h2>"
+        },
+        "25": {
+            "verses": {
+                "75:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Başlarına çok büyük bir cezanın ve elem verici bir azabın geleceğini kesin olarak bilirler.</p>"
+        },
+        "26": {
+            "verses": {
+                "75:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Durum, öldükleri zaman azap görmeyeceklerini zanneden müşriklerin düşündükleri gibi değildir. Onlardan birinin canı, göğsünün en üstüne ulaştığında.</p>"
+        },
+        "27": {
+            "verses": {
+                "75:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanlar birbirine şöyle dediğinde: \"Şifa bulması için bunu kim okur?\"</p>"
+        },
+        "28": {
+            "verses": {
+                "75:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Can çekişmekte olan kimse o zaman, ölümüyle birlikte dünyadan kesin olarak ayrılmakta olduğunu kesin olarak anladığında.</p>"
+        },
+        "29": {
+            "verses": {
+                "75:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Dünyanın sonunda ve ahiretin başlangıcında sıkıntılar bir araya toplandığında.</p>"
+        },
+        "30": {
+            "verses": {
+                "75:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İşte bunlar meydana gelince, ölen kimse Rabbinin huzuruna getirilir.</p>"
+        },
+        "31": {
+            "verses": {
+                "75:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O kâfir, Peygamberin getirdiklerini tasdik etmemiş ve Allah Teâlâ için namaz kılmamıştı.</p>"
+        },
+        "32": {
+            "verses": {
+                "75:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Fakat Peygamberin getirdiklerini yalanlamış ve ondan yüz çevirmişti.</p>"
+        },
+        "33": {
+            "verses": {
+                "75:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu kâfir, sonra da kibrinden yürüyüşünde böbürlenerek ailesine gitmişti.</p>"
+        },
+        "34": {
+            "verses": {
+                "75:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah Teâlâ, azabının peşine düşmesi ve çok yaklaşmasıyla kâfire gözdağı vermiştir.</p>"
+        },
+        "35": {
+            "verses": {
+                "75:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ardından cümleyi tekit etmek için tekrarlamış ve; \"Sonra yine layıksın, sana layıktır.\" diye buyurmuştur.</p>"
+        },
+        "36": {
+            "verses": {
+                "75:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yoksa insan, Yüce Allah’ın onu bir din ile sorumlu kılmadan başıboş bıraktığını mı zannediyor?</p>"
+        },
+        "37": {
+            "verses": {
+                "75:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bu insan, bir zamanlar rahme akıtılan bir meni damlası değil miydi?</p>"
+        },
+        "38": {
+            "verses": {
+                "75:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Bunun ardından donmuş bir kan pıhtısı oldu. Sonra da Allah, onu yarattı ve onun şeklini düzenledi.</p>"
+        },
+        "39": {
+            "verses": {
+                "75:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sonra da onun türünden, erkek ve kadın iki cins yarattı.</h2>"
+        },
+        "40": {
+            "verses": {
+                "75:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>İnsanları bir meni damlası ve kan pıhtısından yaratan, hesap görmek ve karşılıklarını vermek üzere ölüleri yeni baştan diriltmeye kâdir değil midir? Tabi ki evet! Muhakkak O'nun bunu yapmaya gücü yeter.</p>"
+        }
+    }
+}

@@ -1,0 +1,741 @@
+{
+    "chapter": 79,
+    "verses": {
+        "1": {
+            "verses": {
+                "79:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah, kâfirlerin ruhlarını güç ve şiddetle çekip alan melekler adına yemin etmiştir.</p>"
+        },
+        "2": {
+            "verses": {
+                "79:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve Mü'minlerin ruhlarını kolaylıkla ve hafifçe çekip alan melekler adına yemin etmiştir.</p>"
+        },
+        "3": {
+            "verses": {
+                "79:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve Allah’ın emriyle gökyüzünden yeryüzüne gelen melekler adına yemin etmiştir.</p>"
+        },
+        "4": {
+            "verses": {
+                "79:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve Allah Teâlâ’nın emrini yerine getirmek için birbiriyle yarışan melekler adına yemin etmiştir.</p>"
+        },
+        "5": {
+            "verses": {
+                "79:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve Yüce Allah kulların amellerinden sorumlu olan melekler gibi, kendisinin takdir ettiği emirleri yerine getiren bütün melekler adına yemin etmiştir. Hesaba çekmek ve karşılıklarını vermek için onları yeniden dirilteceğine yemin etmiştir.</p>"
+        },
+        "6": {
+            "verses": {
+                "79:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O gün birinci üflemeyle yeryüzü sarsılır.</h2>"
+        },
+        "7": {
+            "verses": {
+                "79:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Bu üflemenin ardından ikinci üfleme gelir.</h2>"
+        },
+        "8": {
+            "verses": {
+                "79:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>O gün bazı insanların kalpleri korku içindedir.</h2>"
+        },
+        "9": {
+            "verses": {
+                "79:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Onların gözlerinde zilletin izi görülür.</h2>"
+        },
+        "10": {
+            "verses": {
+                "79:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şöyle diyorlardı: “Öldükten sonra tekrar hayata mı döneceğiz?\"</p>"
+        },
+        "11": {
+            "verses": {
+                "79:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>“Çürümüş boş kemik yığını olmamızın ardından geri mi döneceğiz?\"</p>"
+        },
+        "12": {
+            "verses": {
+                "79:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şöyle dediler: “Eğer bir daha geri dönersek, bu dönüş sahibi için bir hüsran, bir aldanış olur.”</p>"
+        },
+        "13": {
+            "verses": {
+                "79:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yeniden diriliş işi çok kolaydır. O sadece Sûr'a üflemekle sorumlu melekten gelen bir haykırıştır.</p>"
+        },
+        "14": {
+            "verses": {
+                "79:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Yerin altında ölü oldukları halde, bir anda bütün hepsi yeryüzünün üzerinde canlanıverirler.</p>"
+        },
+        "15": {
+            "verses": {
+                "79:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Musa’nın, Rabbiyle ve düşmanı olan Firavun'la ilgili haberi sana geldi mi?</p>"
+        },
+        "16": {
+            "verses": {
+                "79:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Rabbi ona, arındırılmış Tuva Vadisi'nde seslenmişti.</h2>"
+        },
+        "17": {
+            "verses": {
+                "79:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Söyledikleri arasında şunu dedi: “Firavun'a git! Şüphesiz o zulüm ve kibirlenmekte haddini aştı.''</p>"
+        },
+        "18": {
+            "verses": {
+                "79:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve ona de ki: \"Ey Firavun! Küfür ve günahlardan arınmak ister misin?''</p>"
+        },
+        "19": {
+            "verses": {
+                "79:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Seni yaratan ve gözeten Rabbine yönlendireyim ki, böylece O'ndan korkarak razı olduğu işleri yapar ve onu öfkelendiren işlerden kaçınırsın.</p>"
+        },
+        "20": {
+            "verses": {
+                "79:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Musa -aleyhisselam- ona, kendisinin Rabbinden gelen bir elçi olduğuna delalet eden büyük mucizeleri gösterdi. Bunlar el ve âsa mucizeleridir.</p>"
+        },
+        "21": {
+            "verses": {
+                "79:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Firavun ise bu mucizeleri yalanlayıp, Musa -aleyhisselam-'ın ona emrettiğine karşı gelmekten başka bir şey yapmadı.</p>"
+        },
+        "22": {
+            "verses": {
+                "79:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sonra da Musa’nın getirdiklerine iman etmekten yüz çevirdi.</h2>"
+        },
+        "23": {
+            "verses": {
+                "79:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Sonra da Musa’ya galip gelmek için askerlerini toplamaya koyuldu ve kavmine şöyle seslendi:</h2>"
+        },
+        "24": {
+            "verses": {
+                "79:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>\"Sizin en üstün rabbiniz benim! Siz, benden başkasına itaat edemezsiniz.\"</p>"
+        },
+        "25": {
+            "verses": {
+                "79:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Allah da onu dünyada denizde boğarak, ahirette de onu daha şiddetli bir azaba sokarak cezalandırdı.</p>"
+        },
+        "26": {
+            "verses": {
+                "79:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Muhakkak dünya ve ahirette Firavun’u cezalandırdığımız bu azapta Allah’tan korkan kimseler için bir öğüt vardır. Zira nasihatlerden faydalanan kimseler onlardır.</p>"
+        },
+        "27": {
+            "verses": {
+                "79:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey yeniden dirilişi yalanlayanlar!- Sizi yoktan var etmesi mi Allah'a daha zordur, yoksa var ettiği gökyüzünü yaratması mı?</p>"
+        },
+        "28": {
+            "verses": {
+                "79:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Üst kısmını yükseltti; kusur, yarık ve hatalar olmayacak şekilde onu düzgün kıldı.</p>"
+        },
+        "29": {
+            "verses": {
+                "79:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Güneş'i battığı zaman gecesini kararttı ve doğduğu zamanda ışığını gösterdi.</p>"
+        },
+        "30": {
+            "verses": {
+                "79:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Gökyüzünü yaratmasının ardından yeryüzünü yaydı ve oraya bütün faydalı şeyleri yerleştirdi.</p>"
+        },
+        "31": {
+            "verses": {
+                "79:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Orada akan kaynaklarla suyunu çıkardı ve hayvanların otladığı bitkiler yetiştirdi.</p>"
+        },
+        "32": {
+            "verses": {
+                "79:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Ve dağları da toprağa sabit kıldı.</h2>"
+        },
+        "33": {
+            "verses": {
+                "79:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey insanlar!- Bütün bu nimetler sizin ve hayvanlarınız içindir. Bütün bunları yaratan, bunları yeni baştan yaratmaktan da aciz değildir.</p>"
+        },
+        "34": {
+            "verses": {
+                "79:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Her şeyin dehşetine kapılacağı ikinci üfleme gerçekleşince kıyamet kopacak.</p>"
+        },
+        "35": {
+            "verses": {
+                "79:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>O gün geldiğinde insan hayır veya şer olarak yaptığı bütün amellerini hatırlayacaktır.</p>"
+        },
+        "36": {
+            "verses": {
+                "79:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Ve Cehennem getirilerek onu görenlere açıkça gösterilir.</h2>"
+        },
+        "37": {
+            "verses": {
+                "79:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Fakat kim sapıklıkta haddini aşmışsa.</h2>"
+        },
+        "38": {
+            "verses": {
+                "79:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Ve geçici dünya hayatını kalıcı ahiret hayatına tercih ettiyse.</p>"
+        },
+        "39": {
+            "verses": {
+                "79:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Muhakkak Cehennem ateşi onun barınacağı yerleşim yeri olacaktır.</p>"
+        },
+        "40": {
+            "verses": {
+                "79:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>41 Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak Cennet onun barınacağı yerleşim yeridir.</p>"
+        },
+        "41": {
+            "verses": {
+                "79:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>41 Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak Cennet onun barınacağı yerleşim yeridir.</p>"
+        },
+        "42": {
+            "verses": {
+                "79:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>-Ey Peygamber!- Yeniden dirilişi yalanlayan o kimseler sana soruyorlar: \"Kıyamet ne zaman kopacak?\"</p>"
+        },
+        "43": {
+            "verses": {
+                "79:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Senin buna dair bir bilgin yok ki, onlara söyleyesin ve zaten bu senin işin de değildir. Aslında senin görevin sadece insanları ona hazırlamaktır.</p>"
+        },
+        "44": {
+            "verses": {
+                "79:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<h2>Kıyametin nihai bilgisi sadece Rabbinde vardır.</h2>"
+        },
+        "45": {
+            "verses": {
+                "79:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Şüphesiz sen, ancak kıyametten korkan kimseler için bir uyarıcısın. Çünkü senin uyarından istifade edecek yalnızca onlardır.</p>"
+        },
+        "46": {
+            "verses": {
+                "79:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 144,
+            "resource_name": "Tafsir Tr Mokhtasar",
+            "language_id": 38,
+            "slug": "tr_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Tr Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>Kıyamete şahit oldukları o gün, sanki dünya hayatlarında sadece bir günün arifesi veyahut sabahının ilk vakitleri kadar kalmış gibidiler.</p>"
+        }
+    }
+}

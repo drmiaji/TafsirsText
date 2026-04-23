@@ -1,0 +1,565 @@
+{
+    "chapter": 46,
+    "verses": {
+        "1": {
+            "verses": {
+                "46:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حمٓ﴾: سَبقَ الكلامُ على الحُرُوفِ المقطَّعةِ أَوَّلَ سُورةِ الْبَقَرَةِ.</p>"
+        },
+        "2": {
+            "verses": {
+                "46:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "3": {
+            "verses": {
+                "46:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَجَلٖ مُّسَمّٗى﴾: وتَعْيِينِ ساعَةٍ مُحَدَّدَةٍ لِبَقائِهِما.</p>"
+        },
+        "4": {
+            "verses": {
+                "46:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿شِرۡكٞ﴾: شِرْكَةٌ ونَصِيبٌ.</h2>\n<h2>﴿مِن قَبۡلِ هَٰذَآ﴾: مِن قَبْل هذا القرآنِ.</h2>\n<h2>﴿أَثَٰرَةٖ﴾: بَقِيَّةٍ تُؤْثَرُ عَنِ الأوَّلِينَ.</h2>"
+        },
+        "5": {
+            "verses": {
+                "46:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "6": {
+            "verses": {
+                "46:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كَانُواْ لَهُمۡ﴾: كانَتِ الأصْنامُ للعابِدِينَ.</h2>"
+        },
+        "7": {
+            "verses": {
+                "46:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "8": {
+            "verses": {
+                "46:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلَا تَمۡلِكُونَ لِي﴾: فَلَا تَقْدِرُونَ على أَن تَرُدُّوا عَنِّي.</p>\n<p>﴿تُفِيضُونَ﴾: تُكْثِرُونَ القَوْلَ فِيهِ، وتَخُوضُونَ وتتوسَّعُونَ.</p>"
+        },
+        "9": {
+            "verses": {
+                "46:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِدۡعٗا﴾: أوَّلَ مَبْعُوثٍ، فَقَدْ كَانَ قَبْلِي رُسُلٌ.</h2>"
+        },
+        "10": {
+            "verses": {
+                "46:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَرَءَيۡتُمۡ﴾: أَخْبِرُونِي.</h2>\n<h2>﴿شَاهِدٞ﴾: هُوَ عَبْدُ اللهِ بْنُ سَلَامٍ.</h2>\n<p>﴿عَلَىٰ مِثۡلِهِۦ﴾: أي: مِثْلِ القُرآنِ، مِنَ المعانِي الموجُودَةِ في التَّوراةِ.</p>"
+        },
+        "11": {
+            "verses": {
+                "46:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مَا سَبَقُونَآ إِلَيۡهِ﴾: ما سَبَقَنَا فُقَرَاءُ المسلِمِينَ إلى الإيمانِ.</p>\n<h2>﴿إِفۡكٞ﴾: كَذِبٌ.</h2>"
+        },
+        "12": {
+            "verses": {
+                "46:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿إِمَامٗا﴾: يُقْتَدَى بِهِ في الدِّينِ.</h2>\n<h2>﴿مُصَدِّقٞ﴾: لِكِتاب مُوسى وغيرِه من كُتُب اللهِ.</h2>"
+        },
+        "13": {
+            "verses": {
+                "46:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "14": {
+            "verses": {
+                "46:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "15": {
+            "verses": {
+                "46:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿كُرۡهٗا﴾: مَشَقَّةً.</h2>\n<h2>﴿وَفِصَٰلُهُۥ﴾: وفِطامُهُ.</h2>\n<p>﴿أَشُدَّهُۥ﴾: نِهايةَ قُوَّتِهِ البَدَنِيَّةِ والعقْلِيَّةِ.</p>\n<h2>﴿أَوۡزِعۡنِيٓ﴾: أَلْهِمْنِي.</h2>"
+        },
+        "16": {
+            "verses": {
+                "46:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فِيٓ أَصۡحَٰبِ ٱلۡجَنَّةِ﴾: في جُمْلة أصْحابِ الجنَّة.</h2>"
+        },
+        "17": {
+            "verses": {
+                "46:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أُفّٖ﴾: اسْمُ فِعْلٍ مَعْناه: أَتَضَجَّرُ.</h2>\n<h2>﴿أُخۡرَجَ﴾: أُبْعَثَ بَعْدَ الموتِ.</h2>\n<h2>﴿خَلَت﴾: مَضَت.</h2>\n<p>﴿ٱلۡقُرُونُ﴾: جَمْعُ قَرْنٍ، وهو الأُمَّةُ الَّتي تَقَارَبَ زَمانُ حياتِها، أي: فماتُوا ولم يُبْعَثْ مِنْهُم أَحَدٌ؟</p>\n<h2>﴿يَسۡتَغِيثَانِ ٱللَّهَ﴾: يَطْلُبانِ عَوْنَهُ.</h2>\n<h2>﴿وَيۡلَكَ﴾: هَلَاكاً لَكَ.</h2>\n<h2>﴿أَسَٰطِيرُ﴾: القِصَصُ الباطِلةُ.</h2>"
+        },
+        "18": {
+            "verses": {
+                "46:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ﴾: وَجَبَ عَلَيهِمُ القَوْلُ بالعَذَابِ.</p>"
+        },
+        "19": {
+            "verses": {
+                "46:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "20": {
+            "verses": {
+                "46:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿أَذۡهَبۡتُمۡ﴾: أَيْ: يقُولُ اللهُ لَهُم ذَلِكَ.</h2>\n<h2>﴿ٱلۡهُونِ﴾: الهَوَانِ والذُّلِّ.</h2>\n<h2>﴿تَفۡسُقُونَ﴾: تَخْرُجُونَ عَن طَاعَةِ اللهِ بالشِّرْكِ.</h2>"
+        },
+        "21": {
+            "verses": {
+                "46:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿بِٱلۡأَحۡقَافِ﴾: الرِّمالِ الكثِيرَةِ الَّتي لَمْ تَبْلُغْ أَن تَكُونَ جَبَلاً، وَتَقَعُ في جَنُوبِ الجزِيرَةِ العَرَبِيَّةِ، وهي مَنازلُ عادٍ قَومِ هُوْدٍ.</p>\n<h2>﴿ٱلنُّذُرُ﴾: جَمْعُ النَّذِيرِ، وهو الرَّسُولُ.</h2>"
+        },
+        "22": {
+            "verses": {
+                "46:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿لِتَأۡفِكَنَا﴾: لِتَصْرِفَنا.</h2>"
+        },
+        "23": {
+            "verses": {
+                "46:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "24": {
+            "verses": {
+                "46:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿رَأَوۡهُ﴾: أي العذابَ.</h2>\n<h2>﴿عَارِضٗا﴾: كالسَّحابِ الَّذي يَعْتَرِضُ جَوَّ السَّماءِ.</h2>\n<h2>﴿أَوۡدِيَتِهِمۡ﴾: منازِلِهم في السُّهُولِ.</h2>"
+        },
+        "25": {
+            "verses": {
+                "46:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كُلَّ شَيۡءِۭ﴾: أَيْ: ما مِن شَأنِه أَن تُدَمِّرَهُ: مِنَ الإنْسانِ والحيوانِ والدِّيارِ.</p>\n<h2>﴿مَسَٰكِنُهُمۡ﴾: أي: آثارُ المساكِنِ وبقاياها.</h2>"
+        },
+        "26": {
+            "verses": {
+                "46:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِيمَآ إِن مَّكَّنَّٰكُمۡ فِيهِ﴾: في الَّذِي لَم نَجْعَل لَّكُم القُدْرَةَ عَلَيهِ.</p>\n<h2>﴿وَأَفۡـِٔدَةٗ﴾: عُقُولاً.</h2>\n<h2>﴿أَغۡنَىٰ﴾: نَفَعَ.</h2>\n<h2>﴿يَجۡحَدُونَ﴾: يُنْكِرُونَ.</h2>\n<h2>﴿وَحَاقَ بِهِم﴾: نَزَلَ بهم وأحاط.</h2>\n<p>﴿مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ﴾: العَذابُ الَّذِي كانُوا يَسْخَرُونَ مِنْهُ.</p>"
+        },
+        "27": {
+            "verses": {
+                "46:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَصَرَّفۡنَا ٱلۡأٓيَٰتِ﴾: بيَّنَّا لَهُم أَنْواعَ الأَدِلَّةِ.</p>"
+        },
+        "28": {
+            "verses": {
+                "46:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَلَوۡلَا﴾: فَهَلَّا.</h2>\n<p>﴿قُرۡبَانًا﴾: لِأَجْلِ التَّقَرُّبِ بِهِم إلى اللهِ، وهو مُعْتَرِضٌ بَيْنَ: ﴿ٱتَّخَذُواْ﴾ ومَفْعُولِهِ: ﴿ءَالِهَةَۢ﴾.</p>\n<h2>﴿ضَلُّواْ عَنۡهُمۡ﴾: غابُوا عَنْهُم.</h2>\n<p>﴿إِفۡكُهُمۡ﴾: كَذِبُهُم في زَعمِهِم أَنَّ الأصْنامَ شُرَكَاءُ لله.</p>\n<p>﴿يَفۡتَرُونَ﴾: يَخْتَلِقُونَه مِن كَونِ الأصْنامِ تُقَرِّبُهُم إلى اللهِ.</p>"
+        },
+        "29": {
+            "verses": {
+                "46:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿صَرَفۡنَآ إِلَيۡكَ﴾: أَمَلْنَاهُم إلَيكَ، وَأَقْبَلْنا بِهِم نَحْوَك.</p>\n<h2>﴿نَفَرٗا﴾: جَماعَةً.</h2>\n<h2>﴿أَنصِتُواْ﴾: وَجِّهُوا أسْمَاعَكُم إلى الكَلَامِ.</h2>\n<h2>﴿قُضِيَ﴾: فُرِغَ مِن قِراءتِه.</h2>\n<h2>﴿وَلَّوۡاْ﴾: انْصَرفُوا.</h2>\n<h2>﴿مُنذِرِينَ﴾: المُنْذِرُ: المُخْبِرُ بِخَبرٍ مُخِيفٍ.</h2>"
+        },
+        "30": {
+            "verses": {
+                "46:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ﴾: مُصَدِّقاً لما سَبَقَه مِن كُتُبِ اللهِ الَّتِي أَنْزَلَها على رُسُلِه.</p>"
+        },
+        "31": {
+            "verses": {
+                "46:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿دَاعِيَ ٱللَّهِ﴾: رَسُولَ اللهِ محمَّداً ﷺ.</h2>\n<h2>﴿وَيُجِرۡكُم﴾: وَيَمْنَعْكُم.</h2>"
+        },
+        "32": {
+            "verses": {
+                "46:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَلَيۡسَ بِمُعۡجِزٖ فِي ٱلۡأَرۡضِ﴾: فَلَا يَفُوتُ عِقابَ الله.</p>\n<h2>﴿أَوۡلِيَآءُ﴾: نُصَراءُ.</h2>"
+        },
+        "33": {
+            "verses": {
+                "46:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَلَمۡ يَعۡيَ بِخَلۡقِهِنَّ﴾: وَلَمْ يَعْجِزْ عَنْ خَلْقِهِنَّ.</p>"
+        },
+        "34": {
+            "verses": {
+                "46:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>...</p>"
+        },
+        "35": {
+            "verses": {
+                "46:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 109,
+            "resource_name": "Tafsir Ar Muyassarwm",
+            "language_id": 38,
+            "slug": "ar_muyassarwm",
+            "translated_name": {
+                "name": "Tafsir Ar Muyassarwm",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أُوْلُواْ ٱلۡعَزۡمِ مِنَ ٱلرُّسُلِ﴾: هُمْ: نُوحٌ، وإبراهيمُ، وموسَى، وعِيسَى، ومُحَمَّدٌ، عَلَيهِمُ الصَّلاةُ والسَّلامُ.</p>\n<h2>﴿وَلَا تَسۡتَعۡجِل﴾: الهَلَاكَ.</h2>\n<h2>﴿لَمۡ يَلۡبَثُوٓاْ﴾: لم يَمْكُثُوا.</h2>\n<h2>﴿بَلَٰغٞ﴾: هَذا بَلاغٌ للنَّاسِ.</h2>\n<p>﴿ٱلۡفَٰسِقُونَ﴾: الخارِجُونَ عَنِ الإيمانِ بالإشْرَاكِ، وعَدَمِ قَبولِ الحَقِّ الَّذي جَاءتْهُمْ بِهِ الرُّسُل.</p>"
+        }
+    }
+}

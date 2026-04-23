@@ -1,0 +1,85 @@
+{
+    "chapter": 105,
+    "verses": {
+        "1": {
+            "verses": {
+                "105:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>使者啊！难道你不知道，当他们想摧毁克尔白时，真主是怎样对待艾伯拉罕和他的同伙-大象的主人的吗？</p>"
+        },
+        "2": {
+            "verses": {
+                "105:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主使他们阴险的计划付之东流，他们曾期望人们远离克尔白的愿望落空了，他们一无所获。</p>"
+        },
+        "3": {
+            "verses": {
+                "105:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主为他们派去了成群结队的鸟儿，</p>"
+        },
+        "4": {
+            "verses": {
+                "105:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>用黏土石投掷他们，</p>"
+        },
+        "5": {
+            "verses": {
+                "105:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 154,
+            "resource_name": "Tafsir Zh Mokhtasar",
+            "language_id": 38,
+            "slug": "zh_mokhtasar",
+            "translated_name": {
+                "name": "Tafsir Zh Mokhtasar",
+                "language_name": "english"
+            },
+            "text": "<p>真主使他们变成像虫子吃过的树叶一般。</p>"
+        }
+    }
+}

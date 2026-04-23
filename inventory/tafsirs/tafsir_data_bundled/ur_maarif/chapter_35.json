@@ -1,0 +1,725 @@
+{
+    "chapter": 35,
+    "verses": {
+        "1": {
+            "verses": {
+                "35:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>سب خوبی اللہ کو ہے جس نے بنا نکالے آسمان اور زمین جس نے ٹھہرایا فرشتوں کو پیغام لانے والے جن کے پر ہیں دو دو اور تین تین اور چار چار بڑھا دیتا ہے پیدائش میں جو چاہے بیشک اللہ ہر چیز کرسکتا ہے</p>"
+        },
+        "2": {
+            "verses": {
+                "35:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جو کچھ کہ کھول دے اللہ لوگوں پر رحمت میں سے تو کوئی نہیں اس کو روکنے والا اور جو کچھ روک رکھے تو کوئی نہیں اس کو بھیجنے والا اس کے سوائے اور وہی ہے زبردست حکمتوں والا</p>"
+        },
+        "3": {
+            "verses": {
+                "35:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اے لوگو ! یاد کرو احسان اللہ کا اپنے اوپر کیا کوئی ہے بنانے والا اللہ کے سوائے روزی دیتا ہے تم کو آسمان سے اور زمین سے کوئی حاکم نہیں مگر وہ پھر کہاں الٹے جاتے ہو۔</p>"
+        },
+        "4": {
+            "verses": {
+                "35:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اگر تجھ کو جھٹلائیں تو جھٹلائے گئے کتنے رسول تجھ سے پہلے اور اللہ تک پہنچتے ہیں سب کام</p>"
+        },
+        "5": {
+            "verses": {
+                "35:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اے لوگو ! بیشک اللہ کا وعدہ ٹھیک ہے سو نہ بہکائے تم کو دنیا کی زندگانی اور نہ دغا دے تم کو اللہ کے نام سے وہ دغا باز</p>"
+        },
+        "6": {
+            "verses": {
+                "35:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تحقیق شیطان تمہارا دشمن ہے سو تم بھی سمجھ رکھو اس کو دشمن وہ تو بلاتا ہے اپنے گروہ کو اس واسطے کہ ہوں دوزخ والوں میں</p>"
+        },
+        "7": {
+            "verses": {
+                "35:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جو منکر ہوئے ان کو سخت عذاب ہے اور جو یقین لائے اور کئے بھلے کام ان کے لئے ہے معافی اور بڑا ثواب</p>"
+        },
+        "8": {
+            "verses": {
+                "35:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>بھلا ایک شخص کہ بھلی سمجھائی گئی اس کو اس کے کام کی برائی پھر دیکھا اس نے اس کو بھلا کیونکہ اللہ بھٹکاتا ہے جس کو چاہے اور سمجھاتا ہے جس کو چاہے سو تیرا جی نہ جاتا رہے ان پر پچتا پچتا کر اللہ کو معلوم ہے جو کچھ کرتے ہیں۔</p>"
+        },
+        "9": {
+            "verses": {
+                "35:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اللہ ہے جس نے چلائی ہیں ہوائیں پھر وہ اٹھاتی ہیں بادل کو پھر ہانک لے گئے ہم اس کو ایک مردہ دیس کی طرف پھر زندہ کردیا ہم نے اس سے زمین کو اس کے مر جانے کے بعد اسی طرح ہوگا جی اٹھنا</p>"
+        },
+        "10": {
+            "verses": {
+                "35:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جس کو چاہئے عزت تو اللہ کے لئے ہے ساری عزت اس کی طرف چڑھتا ہے کلام ستھرا اور کام نیک اس کو اٹھا لیتا ہے اور جو لوگ داؤ میں ہیں برائیوں کے ان کے لئے سخت عذاب ہے اور ان کا داؤ ہے ٹوٹے کا</p>"
+        },
+        "11": {
+            "verses": {
+                "35:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اللہ نے تم کو بنایا مٹی سے پھر بوند پانی سے پھر بنایا تم کو جوڑے جوڑے اور نہ پیٹ رہتا ہے کسی مادہ کو اور نہ وہ جنتی ہے بن خبر اس کے اور نہ عمر پاتا ہے کوئی بڑی عمر والا اور نہ گھٹتی ہے کسی کی عمر مگر لکھا ہے کتاب میں بیشک یہ اللہ پر آسان ہے</p>"
+        },
+        "12": {
+            "verses": {
+                "35:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور برابر نہیں دو دریا یہ میٹھا ہے پیاس بجھاتا ہے خوشگوار اور یہ کھارا کڑوا اور دونوں میں سے کھاتے ہو گوشت تازہ اور نکالتے ہو گہنا جس کو پہنتے ہو اور تو دیکھے جہازوں کو اس میں کہ چلتے ہیں پانی کو پھاڑتے تاکہ تلاش کرو اس کے فضل سے اور تاکہ تم حق مانو</p>"
+        },
+        "13": {
+            "verses": {
+                "35:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>رات گھساتا ہے دن میں اور دن گھساتا ہے رات میں اور کام میں لگا دیا سورج اور چاند کو ہر ایک چلتا ہے ایک مقررہ وعدہ تک یہ اللہ ہے تمہارا رب اسی کے لئے بادشاہی ہے اور جن کو تم پکارتے ہو اس کے سوائے وہ مالک نہیں کھجور کی گٹھلی کے ایک چھلکے کے</p>"
+        },
+        "14": {
+            "verses": {
+                "35:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اگر تم ان کو پکارو سنیں نہیں تمہاری پکار اور اگر سنیں پہنچیں نہیں تمہارے کام پر اور قیامت کے دن منکر ہوئے تمہارے شریک ٹھہرانے سے اور کوئی نہ بتائے گا تجھ کو جیسا بتلائے گا خبر رکھنے والا۔</p>"
+        },
+        "15": {
+            "verses": {
+                "35:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اے لوگو ! تم ہو محتاج اللہ کی طرف اور اللہ وہی ہے بےپروا سب تعریفوں والا</p>"
+        },
+        "16": {
+            "verses": {
+                "35:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اگر چاہے تم کو لے جائے اور لے آئے ایک نئی خلقت</h2>"
+        },
+        "17": {
+            "verses": {
+                "35:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور یہ بات اللہ پر مشکل نہیں</h2>"
+        },
+        "18": {
+            "verses": {
+                "35:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور نہ اٹھائے گا کوئی اٹھانے والا بوجھ دوسرے کا اور اگر پکارے کوئی بوجھل اپنا بوجھ بٹانے کو کوئی نہ اٹھائے اس میں سے ذرا بھی اگرچہ ہو قرابتی تو تو ڈر سنا دیتا ہے ان کو جو ڈرتے ہیں اپنے رب سے بن دیکھے اور قائم رکھتے ہیں نماز اور جو کوئی سنوارے گا تو یہی ہے کہ سنوارے گا اپنی فائدہ کو اور اللہ کی طرف ہے سب کو پھرجانا</p>"
+        },
+        "19": {
+            "verses": {
+                "35:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور برابر نہیں اندھا اور دیکھتا</h2>"
+        },
+        "20": {
+            "verses": {
+                "35:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ اندھیرا اور نہ اجالا</h2>"
+        },
+        "21": {
+            "verses": {
+                "35:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>اور نہ سایہ اور نہ لو</h2>"
+        },
+        "22": {
+            "verses": {
+                "35:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور برابر نہیں جیتے اور نہ مردے۔ اللہ سناتا ہے جس کو چاہے اور تو نہیں سنانے والا قبر میں پڑے ہوؤں کو</p>"
+        },
+        "23": {
+            "verses": {
+                "35:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>تو تو بس ڈر کی خبر پہنچانے والا ہے</h2>"
+        },
+        "24": {
+            "verses": {
+                "35:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>ہم نے بھیجا ہے تجھ کو سچا دین دے کر خوشی اور ڈر سنانے والا اور کوئی فرقہ نہیں جس میں نہیں ہوچکا کوئی ڈر سنانے والا</p>"
+        },
+        "25": {
+            "verses": {
+                "35:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اگر وہ تجھ کو جھٹلائیں تو آگے جھٹلا چکے ہیں جو لوگ کہ ان سے پہلے تھے پہنچے ان کے پاس رسول ان کے لیکر کھلی باتیں اور صحیفے اور روشن کتاب</p>"
+        },
+        "26": {
+            "verses": {
+                "35:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<h2>پھر پکڑا میں نے منکروں کو سو کیسا ہوا انکار میرا۔</h2>"
+        },
+        "27": {
+            "verses": {
+                "35:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا تو نے نہ دیکھا کہ اللہ نے اتارا آسمان سے پانی پھر ہم نے نکالے اس سے میوے طرح طرح کے ان کے رنگ اور پہاڑوں میں گھاٹیاں ہیں سفید اور سرخ طرح طرح کے ان کے رنگ اور بھجنگے کالے</p>"
+        },
+        "28": {
+            "verses": {
+                "35:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور آدمیوں میں اور کیڑوں میں اور چوپاؤں میں کتنے رنگ ہیں اسی طرح اللہ سے ڈرتے وہی ہیں اس کے بندوں میں جن کو سمجھ ہے تحقیق اللہ زبردست ہے بخشنے والا۔</p>"
+        },
+        "29": {
+            "verses": {
+                "35:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جو لوگ پڑھتے ہیں کتاب اللہ کی اور سیدھی کرتے ہیں نماز اور خرچ کرتے ہیں کچھ ہمارا دیا ہوا چھپے اور کھلے امیدوار ہیں ایک بیوپار کے جس میں ٹوٹا نہ ہو</p>"
+        },
+        "30": {
+            "verses": {
+                "35:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تاکہ پورا دے ان کو ثواب ان کا اور زیادہ دے اپنے فضل سے تحقیق وہ ہے بخشنے والا قدر دان</p>"
+        },
+        "31": {
+            "verses": {
+                "35:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور جو ہم نے تجھ پر اتاری کتاب وہی ٹھیک ہے تصدیق کرنے والی اپنے سے اگلی کتابوں کی بیشک اللہ اپنے بندوں سے خبردار ہے دیکھنے والا</p>"
+        },
+        "32": {
+            "verses": {
+                "35:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>پھر ہم نے وارث کئے کتاب کے وہ لوگ جن کو چن لیا ہم نے اپنے بندوں میں سے پھر کوئی ان میں برا کرتا ہے اپنی جان کا اور کوئی ان میں ہے بیچ کی چال پر اور کوئی ان میں آگے بڑھ گیا ہے لے کر خوبیاں اللہ کے حکم سے یہی ہے بڑی بزرگی</p>"
+        },
+        "33": {
+            "verses": {
+                "35:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>باغ ہیں بسنے کے جن میں وہ جائیں گے وہاں ان کو گہنا پہنایا جائے گا کنگن سونے کے اور موتی کے اور ان کی پوشاک وہاں ریشمی ہے</p>"
+        },
+        "34": {
+            "verses": {
+                "35:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور کہیں گے شکر ہے اللہ کا جس نے دور کیا ہم سے غم بیشک ہمارا رب بخشنے والا قدر دان ہے</p>"
+        },
+        "35": {
+            "verses": {
+                "35:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>جس نے اتارا ہم کو آباد رہنے کے گھر میں اپنے فضل سے نہ پہنچے ہم کو اس میں مشقت</p>"
+        },
+        "36": {
+            "verses": {
+                "35:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور نہ پہنچے ہم کو اس میں تھکنا اور جو لوگ منکر ہیں ان کے لئے ہے آگ دوزخ کی نہ تو ان پر حکم پہنچے کہ مر جائیں اور نہ ان پر ہلکی ہو وہاں کی کچھ کلفت یہ سزا دیتے ہیں ہم ہر ناشکرے کو</p>"
+        },
+        "37": {
+            "verses": {
+                "35:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور وہ چلائیں اس میں اے رب ہم کو نکال کہ ہم کچھ بھلا کام کرلیں وہ نہیں جو کرتے رہے کیا ہم نے عمر نہ دی تھی تم کو اتنی کہ جس میں سوچ لے جس کو سوچنا ہو اور پہنچا تمہارے پاس ڈرانے والا اب چکھو کہ کوئی نہیں گنہگاروں کا مددگار۔</p>"
+        },
+        "38": {
+            "verses": {
+                "35:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اللہ بھید جاننے والا ہے آسمانوں کا اور زمین کا اس کو خوب معلوم ہے جو بات ہے دلوں میں</p>"
+        },
+        "39": {
+            "verses": {
+                "35:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>وہی ہے جس نے کیا تم کو قائم مقام زمین میں پھر کوئی ناشکری کرے تو اس پر پڑے اس کی ناشکری اور منکروں کو نہ بڑھے گی ان کے انکار سے ان کے رب کے سامنے مگر بیزاری اور منکروں کو نہ بڑھے گا ان کے انکار سے مگر نقصان</p>"
+        },
+        "40": {
+            "verses": {
+                "35:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تو کہہ بھلا دیکھو تو اپنے شریکوں کو جن کو پکارتے ہو اللہ کے سوائے دکھلاؤ تو مجھ کو کیا بنایا انہوں نے زمین میں یا کچھ ان کا ساجھا ہے آسمانوں میں یا ہم نے دی ہے ان کو کوئی کتاب سو یہ سند رکھتے ہیں اس کی کوئی نہیں پر جو وعدہ بتلاتے ہیں گنہگار ایک دوسرے کو سب فریب ہے</p>"
+        },
+        "41": {
+            "verses": {
+                "35:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>تحقیق اللہ تھام رہا ہے آسمانوں کو اور زمین کو کہ ٹل نہ جائیں اور اگر ٹل جائیں تو کوئی نہ تھام سکے ان کو اس کے سوائے وہ ہے تحمل والا بخشنے والا۔</p>"
+        },
+        "42": {
+            "verses": {
+                "35:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور قسمیں کھاتے تھے اللہ کی تاکید کی قسمیں اپنی کہ اگر آئے گا ان کے پاس ڈر سنانے والا البتہ بہتر راہ چلیں گے ہر ایک امت سے پھر جب آیا ان کے پاس ڈر سنانے والا اور زیادہ ہوگیا ان کا بدکنا</p>"
+        },
+        "43": {
+            "verses": {
+                "35:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>غرور کرنا ملک میں اور داؤ کرنا برے کام کا اور برائی کا داؤ الٹے گا انہی داؤ والوں پر پھر اب وہی راہ دیکھتے ہیں پہلو کے دستور کی تو تو نہ پائے گا اللہ کا دستور بدلتا اور نہ پائے گا اللہ کا دستور ٹلتا</p>"
+        },
+        "44": {
+            "verses": {
+                "35:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>کیا پھرے نہیں ملک میں کہ دیکھ لیں کیسا ہو انجام ان لوگوں کا جو ان سے پہلے تھے اور تھے ان سے بہت سخت زور میں اور اللہ وہ نہیں جس کو تھکائے کوئی چیز آسمانوں میں اور نہ زمین میں وہی ہے سب کچھ جانتا کرسکتا</p>"
+        },
+        "45": {
+            "verses": {
+                "35:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 148,
+            "resource_name": "Tafsir Ur Maarif",
+            "language_id": 38,
+            "slug": "ur_maarif",
+            "translated_name": {
+                "name": "Tafsir Ur Maarif",
+                "language_name": "english"
+            },
+            "text": "<p>اور اگر پکڑ کرے اللہ لوگوں کی ان کی کمائی پر نہ چھوڑے زمین کی پیٹھ پر ایک بھی ہلنے چلنے والا پر ان کو ڈھیل دیتا ہے ایک مقرر وعدہ تک پھر جب آئے گا ان کا وعدہ تو اللہ کی نگاہ میں ہیں اس کے سب بندے۔</p>"
+        }
+    }
+}

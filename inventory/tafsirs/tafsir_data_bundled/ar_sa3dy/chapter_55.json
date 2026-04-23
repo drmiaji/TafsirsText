@@ -1,0 +1,1253 @@
+{
+    "chapter": 55,
+    "verses": {
+        "1": {
+            "verses": {
+                "55:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>هذه السورة الكريمة الجليلة، افتتحها باسمه \"الرَّحْمَنُ\" الدال على سعة رحمته، وعموم إحسانه، وجزيل بره، وواسع فضله، ثم ذكر ما يدل على رحمته وأثرها الذي أوصله الله إلى عباده من النعم الدينية والدنيوية [والآخروية وبعد كل جنس ونوع من نعمه، ينبه الثقلين لشكره، ويقول: ﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾ ].</p>"
+        },
+        "2": {
+            "verses": {
+                "55:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>فذكر أنه ﴿عَلَّمَ الْقُرْآنَ﴾ أي: علم عباده ألفاظه ومعانيه، ويسرها على عباده، وهذا أعظم منة ورحمة رحم بها عباده، حيث أنزل عليهم قرآنا عربيا بأحسن ألفاظ، وأحسن تفسير، مشتمل على كل خير، زاجر عن كل شر.</p>"
+        },
+        "3": {
+            "verses": {
+                "55:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿خَلَقَ الْإِنْسَانَ﴾ في أحسن تقويم، كامل الأعضاء، مستوفي الأجزاء، محكم البناء، قد أتقن البديع تعالى البديع خلقه أي إتقان،.</p>"
+        },
+        "4": {
+            "verses": {
+                "55:4": {
+                    "id": 4
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>وميزه على سائر الحيوانات بأن ﴿عَلَّمَهُ الْبَيَانَ﴾ أي: التبيين عما في ضميره، وهذا شامل للتعليم النطقي والتعليم الخطي، فالبيان الذي ميز الله به الآدمي على غيره من أجل نعمه، وأكبرها عليه.</p>"
+        },
+        "5": {
+            "verses": {
+                "55:5": {
+                    "id": 5
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ﴾ أي: خلق الله الشمس والقمر، وسخرهما يجريان بحساب مقنن، وتقدير مقدر، رحمة بالعباد، وعناية بهم، وليقوم بذلك من مصالحهم ما يقوم، وليعرف العباد عدد السنين والحساب.</p>"
+        },
+        "6": {
+            "verses": {
+                "55:6": {
+                    "id": 6
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ﴾ أي: نجوم السماء، وأشجار الأرض، تعرف ربها وتسجد له، وتطيع وتخشع وتنقاد لما سخرها له من مصالح عباده ومنافعهم.</p>"
+        },
+        "7": {
+            "verses": {
+                "55:7": {
+                    "id": 7
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَالسَّمَاءَ رَفَعَهَا﴾ سقفها للمخلوقات الأرضية، ووضع الله الميزان أي: العدل بين العباد، في الأقوال والأفعال، وليس المراد به الميزان المعروف وحده، بل هو كما ذكرنا، يدخل فيه الميزان المعروف، والمكيال الذي تكال به الأشياء والمقادير، والمساحات التي تضبط بها المجهولات، والحقائق التي يفصل بها بين المخلوقات، ويقام بها العدل بينهم.</p>"
+        },
+        "8": {
+            "verses": {
+                "55:8": {
+                    "id": 8
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿أَلَّا تَطْغَوْا فِي الْمِيزَانِ﴾ أي: أنزل الله الميزان، لئلا تتجاوزوا الحد في الميزان، فإن الأمر لو كان يرجع إلى عقولكم وآرائكم، لحصل من الخلل ما الله به عليم، ولفسدت السماوات والأرض.</p>"
+        },
+        "9": {
+            "verses": {
+                "55:9": {
+                    "id": 9
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ﴾ أي: اجعلوه قائما بالعدل، الذي تصل إليه مقدرتكم وإمكانكم، ﴿وَلَا تُخْسِرُوا الْمِيزَانَ﴾ أي: لا تنقصوه وتعملوا بضده، وهو الجور والظلم والطغيان.</p>"
+        },
+        "10": {
+            "verses": {
+                "55:10": {
+                    "id": 10
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَالْأَرْضَ وَضَعَهَا﴾ الله على ما كانت عليه من الكثافة والاستقرار واختلاف [أوصافها و] أحوالها ﴿لِلْأَنَامِ﴾ أي: للخلق، لكي يستقروا عليها، وتكون لهم مهادا وفراشا يبنون بها، ويحرثون ويغرسون ويحفرون ويسلكون سبلها فجاجا، وينتفعون بمعادنها وجميع ما فيها، مما تدعو إليه حاجتهم، بل ضرورتهم.</p>"
+        },
+        "11": {
+            "verses": {
+                "55:11": {
+                    "id": 11
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ثم ذكر ما فيها من الأقوات الضرورية، فقال: ﴿فِيهَا فَاكِهَةٌ﴾ وهي جميع الأشجار التي تثمر الثمرات التي يتفكه بها العباد، من العنب والتين والرمان والتفاح، وغير ذلك، ﴿وَالنَّخْلُ ذَاتُ الْأَكْمَامِ﴾ أي: ذات الوعاء الذي ينفلق عن القنوان التي تخرج شيئا فشيئا حتى تتم، فتكون قوتا يؤكل ويدخر، يتزود منه المقيم والمسافر، وفاكهة لذيذة من أحسن الفواكه.</p>"
+        },
+        "12": {
+            "verses": {
+                "55:12": {
+                    "id": 12
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَالْحَبُّ ذُو الْعَصْفِ﴾ أي: ذو الساق الذي يداس، فينتفع بتبنه للأنعام وغيرها، ويدخل في ذلك حب البر والشعير والذرة [والأرز] والدخن، وغير ذلك، ﴿وَالرَّيْحَانُ﴾ يحتمل أن المراد بذلك جميع الأرزاق التي يأكلها الآدميون، فيكون هذا من باب عطف العام على الخاص، ويكون الله قد امتن على عباده بالقوت والرزق، عموما وخصوصا، ويحتمل أن المراد بالريحان، الريحان المعروف، وأن الله امتن على عباده بما يسره في الأرض من أنواع الروائح الطيبة، والمشام الفاخرة، التي تسر الأرواح، وتنشرح لها النفوس.</p>"
+        },
+        "13": {
+            "verses": {
+                "55:13": {
+                    "id": 13
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ولما ذكر جملة كثيرة من نعمه التي تشاهد بالأبصار والبصائر، وكان الخطاب للثقلين، الإنس والجن، قررهم تعالى بنعمه، فقال: ﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾ أي: فبأي نعم الله الدينية والدنيوية تكذبان؟</p>\n<p>وما أحسن جواب الجن حين تلا عليهم النبي صلى الله عليه وسلم هذه السورة، فما مر بقوله: ﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾ إلا قالوا ولا بشيء من آلائك ربنا نكذب، فلك الحمد، فهذا الذي ينبغي للعبد إذا تليت عليه نعم الله وآلاؤه، أن يقر بها ويشكر، ويحمد الله عليها.</p>"
+        },
+        "14": {
+            "verses": {
+                "55:14": {
+                    "id": 14
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>وهذا من نعمه تعالى على عباده، حيث أراهم [من] آثار قدرته وبديع صنعته، أن ﴿خَلَقَ﴾ أبا الإنس وهو آدم عليه السلام ﴿مِنْ صَلْصَالٍ كَالْفَخَّارِ﴾ أي: من طين مبلول، قد أحكم بله وأتقن، حتى جف، فصار له صلصلة وصوت يشبه صوت الفخار الذي طبخ على النار .</p>"
+        },
+        "15": {
+            "verses": {
+                "55:15": {
+                    "id": 15
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَخَلَقَ الْجَانَّ﴾ أي: أبا الجن، وهو إبليس اللعين ﴿مِنْ مَارِجٍ مِنْ نَارٍ﴾ أي: من لهب النار الصافي، أو الذي قد خالطه الدخان، وهذا يدل على شرف عنصر الآدمي المخلوق من الطين والتراب، الذي هو محل الرزانة والثقل والمنافع، بخلاف عنصر الجان وهو النار، التي هي محل الخفة والطيش والشر والفساد.</p>"
+        },
+        "16": {
+            "verses": {
+                "55:16": {
+                    "id": 16
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ولما بين خلق الثقلين ومادة ذلك وكان ذلك منة منه [تعالى] على عباده قال: ﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾</p>"
+        },
+        "17": {
+            "verses": {
+                "55:17": {
+                    "id": 17
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: هو تعالى رب كل ما أشرقت عليه الشمس والقمر، والكواكب النيرة، وكل ما غربت عليه، [وكل ما كانا فيه] فهي تحت تدبيره وربوبيته، وثناهما هنا لإرادة العموم مشرقي الشمس شتاء وصيفا، ومغربها كذلك</p>"
+        },
+        "18": {
+            "verses": {
+                "55:18": {
+                    "id": 18
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "19": {
+            "verses": {
+                "55:19": {
+                    "id": 19
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>المراد بالبحرين: البحر العذب، والبحر المالح، فهما يلتقيان كلاهما، فيصب العذب في البحر المالح، ويختلطان ويمتزجان،</p>"
+        },
+        "20": {
+            "verses": {
+                "55:20": {
+                    "id": 20
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ولكن الله تعالى جعل بينهما برزخا من الأرض، حتى لا يبغي أحدهما على الآخر، ويحصل النفع بكل منهما، فالعذب منه يشربون وتشرب أشجارهم وزروعهم، والملح به يطيب الهواء ويتولد الحوت والسمك، واللؤلؤ والمرجان، ويكون مستقرا مسخرا للسفن والمراكب.</p>"
+        },
+        "21": {
+            "verses": {
+                "55:21": {
+                    "id": 21
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "22": {
+            "verses": {
+                "55:22": {
+                    "id": 22
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>4924</p>"
+        },
+        "23": {
+            "verses": {
+                "55:23": {
+                    "id": 23
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "24": {
+            "verses": {
+                "55:24": {
+                    "id": 24
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: وسخر تعالى لعباده السفن الجواري، التي تمخر البحر وتشقه بإذن الله، التي ينشئها الآدميون، فتكون من كبرها وعظمها كالأعلام، وهي الجبال العظيمة، فيركبها الناس، ويحملون عليها أمتعتهم وأنواع تجاراتهم، وغير ذلك مما تدعو إليه حاجتهم وضرورتهم، وقد حفظها حافظ السماوات والأرض، وهذه من نعم الله الجليلة.</p>"
+        },
+        "25": {
+            "verses": {
+                "55:25": {
+                    "id": 25
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "26": {
+            "verses": {
+                "55:26": {
+                    "id": 26
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: كل من على الأرض، من إنس وجن، ودواب، وسائر المخلوقات، يفنى ويموت ويبيد</p>"
+        },
+        "27": {
+            "verses": {
+                "55:27": {
+                    "id": 27
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ويبقى الحي الذي لا يموت ﴿ذُو الْجَلَالِ وَالْإِكْرَامِ﴾ أي: ذو العظمة والكبرياء والمجد، الذي يعظم ويبجل ويجل لأجله، والإكرام الذي هو سعة الفضل والجود، والداعي لأن يكرم أولياءه وخواص خلقه بأنواع الإكرام، الذي يكرمه أولياؤه ويجلونه، [ويعظمونه] ويحبونه، وينيبون إليه ويعبدونه،</p>"
+        },
+        "28": {
+            "verses": {
+                "55:28": {
+                    "id": 28
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾تقدم تفسيرها</h2>"
+        },
+        "29": {
+            "verses": {
+                "55:29": {
+                    "id": 29
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: هو الغني بذاته عن جميع مخلوقاته، وهو واسع الجود والكرم، فكل الخلق مفتقرون إليه، يسألونه جميع حوائجهم، بحالهم ومقالهم، ولا يستغنون عنه طرفة عين ولا أقل من ذلك، وهو تعالى ﴿كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ﴾ يغني فقيرا، ويجبر كسيرا، ويعطي قوما، ويمنع آخرين، ويميت ويحيي، ويرفع ويخفض، لا يشغله شأن عن شأن، ولا تغلطه المسائل، ولا يبرمه إلحاح الملحين، ولا طول مسألة السائلين، فسبحان الكريم الوهاب، الذي عمت مواهبه أهل الأرض والسماوات، وعم لطفه جميع الخلق في كل الآنات واللحظات، وتعالى الذي لا يمنعه من الإعطاء معصية العاصين، ولا استغناء الفقراء الجاهلين به وبكرمه، وهذه الشئون التي أخبر أنه تعالى كل يوم هو في شأن، هي تقاديره وتدابيره التي قدرها في الأزل وقضاها، لا يزال تعالى يمضيها وينفذها في أوقاتها التي اقتضته حكمته، وهي أحكامه الدينية التي هي الأمر والنهي، والقدرية التي يجريها على عباده مدة مقامهم في هذه الدار، حتى إذا تمت [هذه] الخليقة وأفناهم الله تعالى وأراد تعالى أن ينفذ فيهم أحكام الجزاء، ويريهم من عدله وفضله وكثرة إحسانه، ما به يعرفونه ويوحدونه، نقل المكلفين من دار الابتلاء والامتحان إلى دار الحيوان.</p>"
+        },
+        "30": {
+            "verses": {
+                "55:30": {
+                    "id": 30
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "31": {
+            "verses": {
+                "55:31": {
+                    "id": 31
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿سَنَفْرُغُ لكم أيها الثقلان فبأي آلاء ربكما تكذبان﴾ أي: سنفرغ لحسابكم ومجازاتكم بأعمالكم التي عملتموها في دار الدنيا.</p>"
+        },
+        "32": {
+            "verses": {
+                "55:32": {
+                    "id": 32
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "33": {
+            "verses": {
+                "55:33": {
+                    "id": 33
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: إذا جمعهم الله في موقف القيامة، أخبرهم بعجزهم وضعفهم، وكمال سلطانه، ونفوذ مشيئته وقدرته، فقال معجزا لهم: ﴿يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ﴾ أي: تجدون منفذا مسلكا تخرجون به عن ملك الله وسلطانه، ﴿فَانْفُذُوا لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ﴾ أي: لا تخرجون عنه إلا بقوة وتسلط منكم، وكمال قدرة، وأنى لهم ذلك، وهم لا يملكون لأنفسهم نفعا ولا ضرا، ولا موتا ولا حياة ولا نشورا؟! ففي ذلك الموقف لا يتكلم أحد إلا بإذنه، ولا تسمع إلا همسا، وفي ذلك الموقف يستوي الملوك والمماليك، والرؤساء والمرءوسون، والأغنياء والفقراء.</p>"
+        },
+        "34": {
+            "verses": {
+                "55:34": {
+                    "id": 34
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "35": {
+            "verses": {
+                "55:35": {
+                    "id": 35
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ثم ذكر ما أعد لهم في ذلك الموقف العظيم فقال: ﴿يُرسَلُ عَلَيكُما شواظ من نار ونحاس فلا تنتصران فبأي آلاء ربكما تكذبان﴾ أي: يرسل عليكما لهب صاف من النار.</p>\n<p>﴿ونحاس﴾ وهو اللهب، الذي قد خالطه الدخان، والمعنى أن هذين الأمرين الفظيعين يرسلان عليكما يا معشر الجن والإنس، ويحيطان بكما فلا تنتصران، لا بناصر من أنفسكم، ولا بأحد ينصركم من دون الله.</p>"
+        },
+        "36": {
+            "verses": {
+                "55:36": {
+                    "id": 36
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ولما كان تخويفه لعباده نعمة منه عليهم، وسوطا يسوقهم به إلى أعلى المطالب وأشرف المواهب، امتن عليهم فقال: ﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾</p>"
+        },
+        "37": {
+            "verses": {
+                "55:37": {
+                    "id": 37
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَإِذَا انْشَقَّتِ السَّمَاءُ﴾ [أي] يوم القيامة من شدة الأهوال، وكثرة البلبال، وترادف الأوجال، فانخسفت شمسها وقمرها، وانتثرت نجومها، ﴿فَكَانَتْ﴾ من شدة الخوف والانزعاج ﴿وَرْدَةً كَالدِّهَانِ﴾ أي: كانت كالمهل والرصاص المذاب ونحوه</p>"
+        },
+        "38": {
+            "verses": {
+                "55:38": {
+                    "id": 38
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "39": {
+            "verses": {
+                "55:39": {
+                    "id": 39
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ﴾ أي: سؤال استعلام بما وقع، لأنه تعالى عالم الغيب والشهادة والماضي والمستقبل، ويريد أن يجازي العباد بما علمه من أحوالهم، وقد جعل لأهل الخير والشر يوم القيامة علامات يعرفون بها، كما قال تعالى: ﴿يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ﴾</p>"
+        },
+        "40": {
+            "verses": {
+                "55:40": {
+                    "id": 40
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "41": {
+            "verses": {
+                "55:41": {
+                    "id": 41
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>وقال هنا: ﴿يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ﴾ أي: فيؤخذ بنواصي المجرمين وأقدامهم، فيلقون في النار ويسحبون فيها، وإنما يسألهم تعالى سؤال توبيخ وتقرير بما وقع منهم، وهو أعلم به منهم، ولكنه تعالى يريد أن تظهر للخلق حجته البالغة، وحكمته الجليلة.</p>"
+        },
+        "42": {
+            "verses": {
+                "55:42": {
+                    "id": 42
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "43": {
+            "verses": {
+                "55:43": {
+                    "id": 43
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: يقال للمكذبين بالوعد والوعيد حين تسعر الجحيم: ﴿هَذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ﴾ فليهنهم تكذيبهم بها، وليذوقوا من عذابها ونكالها وسعيرها وأغلالها، ما هو جزاء لتكذيبهم</p>"
+        },
+        "44": {
+            "verses": {
+                "55:44": {
+                    "id": 44
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿يَطُوفُونَ بَيْنَهَا﴾ أي: بين أطباق الجحيم ولهبها ﴿وَبَيْنَ حَمِيمٍ آنٍ﴾ أي: ماء حار جدا قد انتهى حره، وزمهرير قد اشتد برده وقره،</p>"
+        },
+        "45": {
+            "verses": {
+                "55:45": {
+                    "id": 45
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ﴾تقدم تفسيرها</h2>"
+        },
+        "46": {
+            "verses": {
+                "55:46": {
+                    "id": 46
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>أي: وللذي خاف ربه وقيامه عليه، فترك ما نهى عنه، وفعل ما أمره به، له جنتان من ذهب آنيتهما وحليتهما وبنيانهما وما فيهما، إحدى الجنتين جزاء على ترك المنهيات، والأخرى على فعل الطاعات.</p>"
+        },
+        "47": {
+            "verses": {
+                "55:47": {
+                    "id": 47
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "48": {
+            "verses": {
+                "55:48": {
+                    "id": 48
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ومن أوصاف تلك الجنتين أنهما ﴿ذَوَاتَا أَفْنَانٍ﴾ [أي: فيهما من ألوان النعيم المتنوعة نعيم الظاهر والباطن ما لا عين رأت ولا أذن سمعت، ولا خطر على قلب بشر] أن فيهما الأشجار الكثيرة الزاهرة ذوات الغصون الناعمة، التي فيها الثمار اليانعة الكثيرة اللذيذة، أو ذواتا أنواع وأصناف من جميع أصناف النعيم وأنواعه جمع فن، أي: صنف.</p>"
+        },
+        "49": {
+            "verses": {
+                "55:49": {
+                    "id": 49
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "50": {
+            "verses": {
+                "55:50": {
+                    "id": 50
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>وفي تلك الجنتين ﴿عَيْنَانِ تَجْرِيَانِ﴾ يفجرونها على ما يريدون ويشتهون.</p>"
+        },
+        "51": {
+            "verses": {
+                "55:51": {
+                    "id": 51
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "52": {
+            "verses": {
+                "55:52": {
+                    "id": 52
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ﴾ من جميع أصناف الفواكه ﴿زَوْجَانِ﴾ أي: صنفان، كل صنف له لذة ولون، ليس للنوع الآخر.</p>"
+        },
+        "53": {
+            "verses": {
+                "55:53": {
+                    "id": 53
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "54": {
+            "verses": {
+                "55:54": {
+                    "id": 54
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿مُتَّكِئِينَ عَلَى فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ﴾ هذه صفة فرش أهل الجنة وجلوسهم عليها، وأنهم متكئون عليها، [أي:] جلوس تمكن واستقرار [وراحة]، كجلوس من الملوك على الأسرة، وتلك الفرش، لا يعلم وصفها وحسنها إلا الله عز وجل، حتى إن بطائنها التي تلي الأرض منها، من إستبرق، وهو أحسن الحرير وأفخره، فكيف بظواهرها التي تلي بشرتهم؟! ﴿وَجَنَى الْجَنَّتَيْنِ دَانٍ﴾ الجنى هو الثمر المستوي أي: وثمر هاتين الجنتين قريب التناول، يناله القائم والقاعد والمضطجع.</p>"
+        },
+        "55": {
+            "verses": {
+                "55:55": {
+                    "id": 55
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "56": {
+            "verses": {
+                "55:56": {
+                    "id": 56
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِيهِنَّ قَاصِرَاتُ الطَّرْفِ﴾ أي: قد قصرن طرفهن على أزواجهن، من حسنهم وجمالهم، وكمال محبتهن لهم، وقصرن أيضا طرف أزواجهن عليهن، من حسنهن وجمالهن ولذة وصالهن، ﴿لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ﴾ أي: لم ينلهن قبلهم أحد من الإنس والجن، بل هن أبكار عرب، متحببات إلى أزواجهن، بحسن التبعل والتغنج والملاحة والدلال</p>"
+        },
+        "57": {
+            "verses": {
+                "55:57": {
+                    "id": 57
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "58": {
+            "verses": {
+                "55:58": {
+                    "id": 58
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ﴾ وذلك لصفائهن وجمال منظرهن وبهائهن.</p>"
+        },
+        "59": {
+            "verses": {
+                "55:59": {
+                    "id": 59
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "60": {
+            "verses": {
+                "55:60": {
+                    "id": 60
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ﴾ أي: هل جزاء من أحسن في عبادة الخالق ونفع عبيده، إلا أن يحسن إليه بالثواب الجزيل، والفوز الكبير، والنعيم المقيم، والعيش السليم، فهاتان الجنتان العاليتان للمقربين.</p>"
+        },
+        "61": {
+            "verses": {
+                "55:61": {
+                    "id": 61
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "62": {
+            "verses": {
+                "55:62": {
+                    "id": 62
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿وَمِنْ دُونِهِمَا جَنَّتَانِ﴾ من فضة بنيانهما وآنيتهما وحليتهما وما فيهما لأصحاب اليمين.</p>"
+        },
+        "63": {
+            "verses": {
+                "55:63": {
+                    "id": 63
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "64": {
+            "verses": {
+                "55:64": {
+                    "id": 64
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>وتلك الجنتان ﴿مُدْهَامَّتَانِ﴾ أي: سوداوان من شدة الخضرة التي هي أثر الري.</p>"
+        },
+        "65": {
+            "verses": {
+                "55:65": {
+                    "id": 65
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "66": {
+            "verses": {
+                "55:66": {
+                    "id": 66
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ﴾</h2>\n<h2>أي: فوارتان.</h2>"
+        },
+        "67": {
+            "verses": {
+                "55:67": {
+                    "id": 67
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "68": {
+            "verses": {
+                "55:68": {
+                    "id": 68
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِيهِمَا فَاكِهَةٌ﴾ من جميع أصناف الفواكه، وأخصها النخل والرمان، اللذان فيهما من المنافع ما فيهما.</p>"
+        },
+        "69": {
+            "verses": {
+                "55:69": {
+                    "id": 69
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "70": {
+            "verses": {
+                "55:70": {
+                    "id": 70
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿فِيهِنَّ﴾ أي: في الجنات كلها ﴿خَيْرَاتٌ حِسَانٌ﴾ أي: خيرات الأخلاق حسان الأوجه، فجمعن بين جمال الظاهر والباطن، وحسن الخلق والخلق.</p>"
+        },
+        "71": {
+            "verses": {
+                "55:71": {
+                    "id": 71
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "72": {
+            "verses": {
+                "55:72": {
+                    "id": 72
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ﴾ أي: محبوسات في خيام اللؤلؤ، قد تهيأن وأعددن أنفسهن لأزواجهن، ولا ينفي ذلك خروجهن في البساتين ورياض الجنة، كما جرت العادة لبنات الملوك ونحوهن [المخدرات] الخفرات.</p>"
+        },
+        "73": {
+            "verses": {
+                "55:73": {
+                    "id": 73
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "74": {
+            "verses": {
+                "55:74": {
+                    "id": 74
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>﴿لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ مُتَّكِئِينَ عَلَى رَفْرَفٍ خُضْرٍ﴾ أي: أصحاب هاتين الجنتين، متكأهم على الرفرف الأخضر، وهي الفرش التي فوق المجالس العالية، التي قد زادت على مجالسهم، فصار لها رفرفة من وراء مجالسهم، لزيادة البهاء وحسن المنظر، ﴿وَعَبْقَرِيٍّ حِسَانٍ﴾ العبقري: نسبة لكل منسوج نسجا حسنا فاخرا، ولهذا وصفها بالحسن الشامل، لحسن الصنعة وحسن المنظر، ونعومة الملمس، وهاتان الجنتان دون الجنتين الأوليين، كما نص الله على ذلك بقوله: ﴿وَمِنْ دُونِهِمَا جَنَّتَانِ﴾ وكما وصف الأوليين بعدة أوصاف لم يصف بها الأخريين، فقال في الأوليين: ﴿فِيهِمَا عَيْنَانِ تَجْرِيَانِ﴾ وفي الأخريين: ﴿عَيْنَانِ نَضَّاخَتَانِ﴾ ومن المعلوم الفرق بين الجارية والنضاخة.</p>\n<p>وقال في الأوليين: ﴿ذَوَاتَا أَفْنَانٍ﴾ ولم يقل ذلك في الأخريين. وقال في الأوليين: ﴿فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ﴾ وفي الأخريين ﴿فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ﴾ وقد علم ما بين الوصفين من التفاوت.</p>"
+        },
+        "75": {
+            "verses": {
+                "55:75": {
+                    "id": 75
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "76": {
+            "verses": {
+                "55:76": {
+                    "id": 76
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>قال في الأوليين: ﴿مُتَّكِئِينَ عَلَى فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَى الْجَنَّتَيْنِ دَانٍ﴾ ولم يقل ذلك في الأخيرتين، بل قال: ﴿مُتَّكِئِينَ عَلَى رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ﴾</p>\n<p>وقال في الأوليين، في وصف نسائهم وأزواجهم: ﴿فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لم يطمثهن إنس قبلهم ولا جان﴾ وقال في الأخريين: ﴿حور مَقْصُورَاتٌ فِي الْخِيَامِ﴾ وقد علم التفاوت بين ذلك.</p>\n<p>وقال في الأوليين ﴿هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ﴾ فدل ذلك أن الأوليين جزاء المحسنين، ولم يقل ذلك في الأخريين.</p>\n<h2>ومجرد تقديم الأوليين على الأخريين، يدل على فضلهما.</h2>\n<p>فبهذه الأوجه يعرف فضل الأوليين على الأخريين، وأنهما معدتان للمقربين من الأنبياء، والصديقين، وخواص عباد الله الصالحين، وأن الأخريين معدتان لعموم المؤمنين، وفي كل من الجنات [المذكورات] ما لا عين رأت، ولا أذن سمعت، ولا خطر على قلب بشر، وفيهن ما تشتهيه الأنفس وتلذ الأعين، وأهلها في غاية الراحة والرضا والطمأنينة وحسن المأوى، حتى إن كلا منهم لا يرى أحدا أحسن حالا منه، ولا أعلى من نعيمه [الذي هو فيه].</p>"
+        },
+        "77": {
+            "verses": {
+                "55:77": {
+                    "id": 77
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<h2>تقدم تفسيرها</h2>"
+        },
+        "78": {
+            "verses": {
+                "55:78": {
+                    "id": 78
+                }
+            },
+            "resource_id": 110,
+            "resource_name": "Tafsir Ar Sa3Dy",
+            "language_id": 38,
+            "slug": "ar_sa3dy",
+            "translated_name": {
+                "name": "Tafsir Ar Sa3Dy",
+                "language_name": "english"
+            },
+            "text": "<p>ولما ذكر سعة فضله وإحسانه، قال: ﴿تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ﴾ أي: تعاظم وكثر خيره، الذي له الجلال الباهر، والمجد الكامل، والإكرام لأوليائه.</p>\n<h2>تم تفسير سورة الرحمن، ولله الحمد والشكر والثناء الحسن.</h2>"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "chapter": 103,
+    "verses": {
+        "1": {
+            "verses": {
+                "103:1": {
+                    "id": 1
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿وَالْعَصْرِ﴾ وَالدَّهْرِ.</h2>"
+        },
+        "2": {
+            "verses": {
+                "103:2": {
+                    "id": 2
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿الإنْسَانَ﴾ كُلَّ بَنِي آدَمَ.</h2>\n<h2>﴿خُسْرٍ﴾ خُسْرَانٍ، وَهَلَكَةٍ، وَنُقْصَانٍ.</h2>"
+        },
+        "3": {
+            "verses": {
+                "103:3": {
+                    "id": 3
+                }
+            },
+            "resource_id": 116,
+            "resource_name": "Tafsir Ar Wordmeanings",
+            "language_id": 38,
+            "slug": "ar_wordmeanings",
+            "translated_name": {
+                "name": "Tafsir Ar Wordmeanings",
+                "language_name": "english"
+            },
+            "text": "<h2>﴿بِالْحَقِّ﴾ بِالخَيْرِ كُلِّهِ: اعْتِقَادًا، وَعَمَلاً.</h2>\n<p>﴿بِالصَّبْرِ﴾ عَلَى الطَّاعَةِ، وَعَنِ المَعْصِيَةِ، وَعَلَى أَقْدَارِ اللهِ المُؤْلِمَةِ.</p>"
+        }
+    }
+}
