@@ -1,10 +1,18 @@
 {
   "tafsirs": {
     "ar": [
+	  {
+        "key": "ar_al-durr-al-manthur",
+        "name": "الدر المنثور في التفسير بالمأثور",
+        "author": "جلال الدين السيوطي",
+        "langCode": "ar",
+        "langName": "العربية",
+        "slug": "ar_al-durr-al-manthur"
+      },
       {
         "key": "ar-tafseer-al-qurtubi",
         "name": "تفسير القرطبي",
-       "author": "القرطبي",
+        "author": "القرطبي",
         "langCode": "ar",
         "langName": "العربية",
         "slug": "ar-tafseer-al-qurtubi"
@@ -24,15 +32,7 @@
         "langCode": "ar",
         "langName": "العربية",
         "slug": "ar-tafsir-al-tabari"
-      },
-      {
-        "key": "ar_al-durr-al-manthur",
-          "name": "الدر المنثور في التفسير بالمأثور",
-        "author": "جلال الدين السيوطي",
-        "langCode": "ar",
-        "langName": "العربية",
-        "slug": "ar_al-durr-al-manthur"
-      },
+      },      
       {
         "key": "ar_asbabnuzul",
         "name": "أسباب النزول",
@@ -40,14 +40,6 @@
         "langCode": "ar",
         "langName": "العربية",
         "slug": "ar_asbabnuzul"
-      },
-      {
-        "key": "ar_baghawy",
-      "name": "تفسير البغوي",
-        "author": "البغوي",
-        "langCode": "ar",
-        "langName": "العربية",
-        "slug": "ar_baghawy"
       },
       {
         "key": "ar_fath-al-qadir-al-shawkani",
@@ -64,14 +56,6 @@
         "langCode": "ar",
         "langName": "العربية",
         "slug": "ar_hidayatqurankarim"
-      },
-      {
-        "key": "ar_jalalayn",
-        "name": "تفسير الجلالين",
-        "author": "جلال الدين المحلي وجلال الدين السيوطي",
-        "langCode": "ar",
-        "langName": "العربية",
-        "slug": "ar_jalalayn"
       },
       {
         "key": "ar_mukhtasar",
@@ -96,14 +80,6 @@
         "langCode": "ar",
         "langName": "العربية",
         "slug": "ar_sa3dy"
-      },
-      {
-        "key": "ar_tabari",
-        "name": "تفسير الطبري",
-        "author": "الطبري",
-        "langCode": "ar",
-        "langName": "العربية",
-        "slug": "ar_tabari"
       },
       {
         "key": "ar_tafsir-al-razi",
@@ -164,15 +140,7 @@
         "slug": "as_mokhtasar"
       }
     ],
-    "bn": [
-      {
-        "key": "bn-mokhtasar",
-        "name": "আল-মুখতাছার",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn-mokhtasar"
-      },
+    "bn": [      
       {
         "key": "bn-tafsir-ahsanul-bayaan",
         "name": "তাফসিরে আহসানুল বয়ান",
@@ -190,28 +158,12 @@
         "slug": "bn_mokhtasar"
       },
       {
-        "key": "bn_tafsirbayaan",
-        "name": "তাফসিরে বয়ান",
-        "author": "",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn_tafsirbayaan"
-      },
-      {
         "key": "bn_tafsir-ibn-kathir",
         "name": "তাফসির ইবনে কাসীর",
         "author": "হাফিজ ইবনে কাসীর",
         "langCode": "bn",
         "langName": "বাংলা",
         "slug": "bn-tafseer-ibn-e-kaseer"
-      },
-      {
-        "key": "bn_tafsir_kathir",
-        "name": "তাফসির ইবনে কাসীর",
-        "author": "হাফিজ ইবনে কাসীর",
-        "langCode": "bn",
-        "langName": "বাংলা",
-        "slug": "bn_tafsir_kathir"
       }
     ],
     "de": [
@@ -298,14 +250,6 @@
         "langCode": "ku",
         "langName": "کوردی",
         "slug": "kurd-tafsir-rebar"
-      },
-      {
-        "key": "ku_rebar",
-        "name": "Tafsir Rebar",
-        "author": "",
-        "langCode": "ku",
-        "langName": "کوردی",
-        "slug": "ku_rebar"
       }
     ],
     "ml": [
@@ -446,14 +390,6 @@
         "langCode": "ur",
         "langName": "اردو",
         "slug": "tafseer-ibn-e-kaseer-urdu"
-      },
-      {
-        "key": "ur_tafsiribnkathir",
-        "name": "تفسیر ابن کثیر",
-        "author": "حافظ ابن کثیر",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_tafsiribnkathir"
       },
       {
         "key": "ur_taiseerurrahman",
