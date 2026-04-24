@@ -201,7 +201,7 @@
         "author": "",
         "langCode": "fa",
         "langName": "فارسی",
-        "slug": "fa_saadi"
+        "slug": "fa_saadi-persian"
       }
     ],
     "fr": [
@@ -341,7 +341,7 @@
         "author": "",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_ahsanulbayan"
+        "slug": "ur_ahsanulbayan-urdu"
       },
       {
         "key": "ur_junagarhi",
@@ -349,7 +349,7 @@
         "author": "",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_junagarhi"
+        "slug": "ur_junagarhi-urdu"
       },
       {
         "key": "ur_maarif",
@@ -357,7 +357,7 @@
         "author": "Mufti Muhammad Shafi",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_maarif"
+        "slug": "ur_maarif-urdu"
       },
       {
         "key": "ur_maududi",
@@ -365,7 +365,7 @@
         "author": "Syed Abul A'la Maududi",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_maududi"
+        "slug": "ur_maududi-urdu"
       },
       {
         "key": "ur_tafseer assadi",
@@ -373,7 +373,7 @@
         "author": "",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_tafseer assadi"
+        "slug": "ur_tafseer assadi-urdu"
       },
       {
         "key": "ur_tafsir-bayan-ul-quran",
@@ -381,7 +381,7 @@
         "author": "اسرار احمد",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "tafsir-bayan-ul-quran"
+        "slug": "tafsir-bayan-ul-quran-urdu"
       },
       {
         "key": "ur_tafsir-ibn-kathir",
@@ -397,7 +397,7 @@
         "author": "Dr. Mohammad Luqman Salafi",
         "langCode": "ur",
         "langName": "اردو",
-        "slug": "ur_taiseerurrahman"
+        "slug": "ur_taiseerurrahman-urdu"
       }
     ],
     "vi": [
