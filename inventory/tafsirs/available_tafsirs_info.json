@@ -335,71 +335,71 @@
       }
     ],
     "ur": [
-      {
-        "key": "ur_ahsanulbayan",
-        "name": "Tafsir Ahsanul Bayan",
-        "author": "",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_ahsanulbayan-urdu"
-      },
-      {
-        "key": "ur_junagarhi",
-        "name": "Tafsir Junagarhi",
-        "author": "",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_junagarhi-urdu"
-      },
-      {
-        "key": "ur_maarif",
-        "name": "Tafsir Maarif",
-        "author": "Mufti Muhammad Shafi",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_maarif-urdu"
-      },
-      {
-        "key": "ur_maududi",
-        "name": "Tafheem-ul-Quran",
-        "author": "Syed Abul A'la Maududi",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_maududi-urdu"
-      },
-      {
-        "key": "ur_tafseer assadi",
-        "name": "Tafsir as-Saadi",
-        "author": "",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_tafseer assadi-urdu"
-      },
-      {
-        "key": "ur_tafsir-bayan-ul-quran",
-        "name": "تفسیر بیان القرآن",
-        "author": "اسرار احمد",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "tafsir-bayan-ul-quran-urdu"
-      },
-      {
-        "key": "ur_tafsir-ibn-kathir",
-        "name": "تفسیر ابن کثیر",
-        "author": "حافظ ابن کثیر",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "tafseer-ibn-e-kaseer-urdu"
-      },
-      {
-        "key": "ur_taiseerurrahman",
-        "name": "Tafsir Taiseer-ur-Rahman",
-        "author": "Dr. Mohammad Luqman Salafi",
-        "langCode": "ur",
-        "langName": "اردو",
-        "slug": "ur_taiseerurrahman-urdu"
-      }
-    ],
+  {
+    "key": "ur_ahsanulbayan",
+    "name": "تفسیر احسن البیان",
+    "author": "حافظ صلاح الدین یوسف",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_ahsanulbayan-urdu"
+  },
+  {
+    "key": "ur_junagarhi",
+    "name": "تفسیر جوناگڑھی",
+    "author": "مولانا محمد جوناگڑھی",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_junagarhi-urdu"
+  },
+  {
+    "key": "ur_maarif",
+    "name": "تفسیر معارف القرآن",
+    "author": "مفتی محمد شفیع",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_maarif-urdu"
+  },
+  {
+    "key": "ur_maududi",
+    "name": "تفہیم القرآن",
+    "author": "سید ابو الاعلیٰ مودودی",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_maududi-urdu"
+  },
+  {
+    "key": "ur_tafseer assadi",
+    "name": "تفسیر السعدی",
+    "author": "عبدالرحمٰن بن ناصر السعدی",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_tafseer assadi-urdu"
+  },
+  {
+    "key": "ur_tafsir-bayan-ul-quran",
+    "name": "تفسیر بیان القرآن",
+    "author": "اسرار احمد",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "tafsir-bayan-ul-quran-urdu"
+  },
+  {
+    "key": "ur_tafsir-ibn-kathir",
+    "name": "تفسیر ابن کثیر",
+    "author": "حافظ ابن کثیر",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "tafseer-ibn-e-kaseer-urdu"
+  },
+  {
+    "key": "ur_taiseerurrahman",
+    "name": "تفسیر تیسیر الرحمن",
+    "author": "ڈاکٹر محمد لقمان سلفی",
+    "langCode": "ur",
+    "langName": "اردو",
+    "slug": "ur_taiseerurrahman-urdu"
+  }
+],
     "vi": [
       {
         "key": "vi_mokhtasar",
