@@ -142,12 +142,20 @@
     ],
     "bn": [      
       {
-        "key": "bn-tafsir-ahsanul-bayaan",
+        "key": "bn_tafsir_mazhari",
+        "name": "তাফসিরে মাজহারী",
+        "author": "আল্লামা কাজী মুহাম্মদ সানাউল্লাহ পানিপথী",
+        "langCode": "bn",
+        "langName": "বাংলা",
+        "slug": "bn_tafsir_mazhari"
+      },
+	  {
+        "key": "bn_tafsir_ahsanul_bayaan",
         "name": "তাফসিরে আহসানুল বয়ান",
         "author": "আল্লামা হাফিয সালাহুদ্দীন ইউসুফ",
         "langCode": "bn",
         "langName": "বাংলা",
-        "slug": "bn-tafsir-ahsanul-bayaan"
+        "slug": "bn_tafsir_ahsanul_bayaan"
       },
       {
         "key": "bn_mokhtasar",
@@ -158,12 +166,12 @@
         "slug": "bn_mokhtasar"
       },
       {
-        "key": "bn_tafsir-ibn-kathir",
+        "key": "bn_tafsir_ibn_kathir",
         "name": "তাফসির ইবনে কাসীর",
         "author": "হাফিজ ইবনে কাসীর",
         "langCode": "bn",
         "langName": "বাংলা",
-        "slug": "bn-tafseer-ibn-e-kaseer"
+        "slug": "bn_tafsir_ibn_kathir"
       }
     ],
     "de": [
